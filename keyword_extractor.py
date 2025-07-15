@@ -172,7 +172,8 @@ class KeywordExtractor:
             "this", "that", "these", "those", "i", "you", "he", "she", "it", "we", "they"
         }
         
-        words = re.findall(r'\b\w+\b', query.lower())
+        # Preserve hyphens in the middle of words (for catalog numbers like ABC-123)
+        words = re.findall(r'\b\w+(?:-\w+)*\b', query.lower())
         context_words = [word for word in words if word not in stop_words and len(word) > 2]
         
         return context_words[:10]  # LIMIT TO TOP 10 CONTEXT WORDS

@@ -156,8 +156,8 @@ class FarmKneeTester:
             'hundred', 'thousand', 'million', 'billion', 'trillion'
         }
         
-        # TOKENIZE AND NORMALIZE
-        words = re.findall(r'\b[a-zA-Z]+\b', text.lower())
+        # TOKENIZE AND NORMALIZE - Preserve hyphens in the middle of words (for catalog numbers like ABC-123)
+        words = re.findall(r'\b[a-zA-Z]+(?:-[a-zA-Z]+)*\b', text.lower())
         
         # FILTER OUT STOP WORDS AND SHORT WORDS
         keywords = [word for word in words if word not in stop_words and len(word) > 2]
@@ -208,8 +208,8 @@ class FarmKneeTester:
         try:
             print("🚜 INITIALIZING FARMER...")
             
-            # CREATE FARMER INSTANCE WITH MAX 5 AGENTIC ITERATIONS
-            self.farmer = Farmer(max_agentic_iterations=5)
+            # CREATE FARMER INSTANCE
+            self.farmer = Farmer()
             
             # LOAD ALL KNEE DOCUMENTS
             print("📚 LOADING KNEE DOCUMENTS...")
