@@ -1,0 +1,1932 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-07-02T14:18:22.754736",
+    "total_pages": 23,
+    "total_tables": 18,
+    "portfolio": null,
+    "review_status": {
+      "approved_pages": 17,
+      "flagged_pages": 0,
+      "missing_pages": [
+        15,
+        17,
+        19
+      ],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        2,
+        23
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.754862"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Useless - Page 2",
+      "summary": "Page 2 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.754880"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Indications, Contraindications, and Precautions",
+      "summary": "Page 3 content",
+      "keywords": [
+        "Insignia Hip Stems",
+        "indications",
+        "contraindications",
+        "precautions",
+        "orthopaedic medical devices"
+      ],
+      "tables": [],
+      "raw_content": "\n\n# Indications and contraindications and precautions\n\n## Indications\n\n1. Painful, disabling joint disease of the hip resulting from: noninflammatory degenerative joint disease (including osteoarthritis or avascular necrosis), rheumatoid arthritis or post-traumatic arthritis.\n\n2. Revision of previous unsuccessful femoral head replacement, hip arthroplasty or other procedure.\n\n3. Correction of functional deformity\n\n4. Treatment of nonunion, femoral neck and trochanteric fractures of the proximal femur with head involvement that are unmanageable using other techniques.\n\nAdditional indication specific to use of Insignia Hip Stems with compatible Howmedica Osteonics Constrained Liners:\n• When the stem is to be used with compatible Howmedica Osteonics Constrained Liners, the device is intended for use in primary or revision patients at high risk of hip dislocation due to a history of prior dislocation, bone loss, soft tissue laxity, neuromuscular disease, or intra-operative instability.\n\nAdditional indication specific to use of Insignia Hip Stems with compatible ADM and MDM Acetabular Components:\n• When the stem is to be used with compatible Howmedica Osteonics ADM and MDM Acetabular Components, the device is indicated for Dislocation risks.\n\nInsignia Hip Stems are intended for cementless use only and are intended for total and hemiarthroplasty procedures.\n\n## Warnings and precautions\n\nSee package insert for warnings, precautions, adverse effects and other essential product information.\n\nBefore using Insignia instrumentation, verify:\n\n• Instruments have been properly disassembled prior to cleaning and sterilization;\n• Instruments have been properly assembled post-sterilization;\n• Instruments have maintained design integrity; and,\n• Proper size configurations are available.\n\nFor Instructions for Cleaning, Sterilization, Inspection and Maintenance of Orthopaedic Medical Devices, refer to LSTPI-B, QIN 4310, 4330, 4333, 4350, 4383, 4441, 0090-9-621, 0095-3-200, and SLI001.\n\n## Contraindications\n\n1. Any active or suspected latent infection in or about the hip joint.\n\n2. Any mental or neuromuscular disorder which would create an unacceptable risk of prosthesis instability, prosthesis fixation failure, or complications in post-operative care.\n\n3. Bone stock compromised by disease, infection or prior implantation which cannot provide adequate support and/or fixation to the prosthesis\n\n4. Skeletal immaturity",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.754910"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "Insignia Hip Stem Surgical Protocol",
+      "summary": "Page 4 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "Stryker V40 femoral heads",
+        "acetabular components",
+        "Hydroxyapatite coated stem"
+      ],
+      "tables": [],
+      "raw_content": "# Introduction\n\nThis surgical protocol is a guide to preparing the femur for an Insignia Hip Stem. The total system includes 12 body sizes ranging from size 0 to size 11.\n\nInsignia is a broach only, fully HA coated stem designed for muscle-sparing surgical approaches in addition to traditional approaches. Designed using Stryker's proprietary SOMA database, it features a size specific collar and size specific medial curvature.\n\nThe stem is designed for use with Stryker V40 femoral heads, sleeves and their compatible acetabular components.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.754922"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "Insignia Hip Stem | Surgical Protocol",
+      "summary": "Page 5 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "preoperative planning",
+        "leg length",
+        "acetabular cup",
+        "femoral stem",
+        "templating"
+      ],
+      "tables": [],
+      "raw_content": "## Preoperative planning\n\n### Step 1\n\nPre-operative planning aids in the determination of probable implant style and size. The pre-operative planning process should take qualitative and quantitative factors (including patient bone quality, density, and morphology) into consideration in order to evaluate and select the appropriate implant system for the patient. Digital templates are available for use.\n\n### Determining leg length\n\nWith the templates provided, determine the desired postoperative leg length, taking into consideration radiographic leg length inequality and patient clinical assessment.\n\nFor example, if 8mm of leg lengthening is required to equalize the leg lengths, make a new mark 8mm superior to the center of rotation marked during templating of the acetabular shell. This new mark will be your target when templating the femoral stem (described below).\n\nIn this example, if this plan is properly executed at the time of surgery, there will be 8mm of leg lengthening.\n\nSimilarly, the predicted change in offset is also considered by comparing the relative medial/ lateral position of the center of rotation marking of the acetabular component and new mark used to plan the femoral component. The digital templates should be used to estimate the final components that most closely restore the normal offset of the patient's hip.\n\n### Tips:\n\n- Templating is an important aspect of pre-operative planning, but it should only serve as a guide. Final decision making concerning fit, size, and soft tissue tensioning should take place intra-operatively at the surgeon's discretion.\n- The templated stem size and neck resection level may have to be adjusted if leg length cannot be managed solely by changing the head offset.\n- Patient positioning is key to obtaining adequate hip stability and acetabular placement.\n- Standing pre-operative x-rays are recommended. Both an A/P and lateral x-ray are preferred to assess stem size.\n- To help facilitate correct placement of final implants, take into account any pelvic tilt observed.\n\n### Acetabular cup position and sizing\n\nUtilize the acetabular templates to determine the optimal position and size for the acetabular component. Be sure the cup is well centered in the acetabulum and the size fills between the tear drop and the superior rim (Figure 1). After templating, mark the center of rotation.\n\n### Femoral stem selection\n\nInsignia has two offset options for each size: Standard and High Offset. Refer to page 15 for more information on sizing options. High Offset is designed to provide 5mm of direct lateralization, increasing offset without changing leg length.\n\nChoose the template for which the stem size achieves medio-lateral cortical engagement at the proximal two-thirds of the stem and recreates the desired leg length and offset. For both Standard and High Offset options, the template has markings that indicate the center of the femoral head for a range of head offset options.\n\nThrough templating and trialing, determine which option restores proper offset and center of rotation by matching the cup's center of rotation with the desired head center of rotation of either the Standard or High Offset stem.\n\nOnce the final estimated stem size and position is determined, the neck resection level should be noted. This will be used as a reference during intra-operative neck resection.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.754937"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "Insignia Hip Stem | Surgical protocol",
+      "summary": "Page 6 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "Surgical protocol",
+        "Femoral Neck Resection",
+        "Neck Resection Guide",
+        "1020-1100"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instruments Used in Femoral Neck Resection",
+          "description": "Table from page 6",
+          "rows": [
+            {
+              "Instrument Name": "Neck Resection Guide",
+              "Reference Number": "1020-1100"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Reference Number"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Reference Number"
+          ]
+        }
+      ],
+      "raw_content": "## Femoral neck resection\n\n### Step 2\n\nA proper neck resection level directly affects the final placement and fit of the femoral stem. A neck resection is made with an oscillating saw and with the aid of the Neck Resection Guide (1020-1100).\n\nThe guide helps the surgeon to determine the correct stem placement. The guide is placed on the anterior/posterior aspect of the exposed proximal femur and the planned femoral neck cut is marked using a marking instrument of choice (Figure 2). Care should be taken to align the body of the guide with the axis of the femoral canal.\n\n**Tip:** The neck resection should be about 1-2mm above the planned broach seating height. This will allow for calcar planing prior to final implant placement enhancing collar contact with medial bone.\n\n**Note:** To achieve collar contact with the calcar, the calcar should be reamed to the level of the final broach.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.754951"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Insignia Hip Stem | Surgical protocol",
+      "summary": "Page 7 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "femoral canal",
+        "instrument code",
+        "surgical instruments"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instruments Used in the Procedure",
+          "description": "Table from page 7",
+          "rows": [
+            {
+              "Instrument Name": "Modular Box Osteotome",
+              "Instrument Code": "1601-1210"
+            },
+            {
+              "Instrument Name": "Orthonomic Modular Handle",
+              "Instrument Code": "1020-2900"
+            },
+            {
+              "Instrument Name": "Mallet",
+              "Instrument Code": "1120-1000"
+            },
+            {
+              "Instrument Name": "Axial Starter Reamer",
+              "Instrument Code": "1020-1200"
+            },
+            {
+              "Instrument Name": "Orthonomic T-Handle",
+              "Instrument Code": "1101-2200"
+            },
+            {
+              "Instrument Name": "Reverse Cutting Rasp",
+              "Instrument Code": "1440-2003"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Instrument Code"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Instrument Code"
+          ]
+        }
+      ],
+      "raw_content": "## Preparing the femoral canal\n\n### Step 3\n\nTo help facilitate desired final stem orientation, accessing the canal laterally and posteriorly is ideal. Make sure to retract/protect abductors.\n\nOften, removal of the cortical bone of the inner table of the greater trochanter at the piriformis insertion is required. The Reverse Cutting Rasp (1440-2003), Modular Box Osteotome (1601-1210) or a rongeur can be used to remove bone from this area and establish version (Figure 3). The Rasp operates in one direction and cuts as it is pulled out of the femur.\n\n#### Tips:\n\n- Remove the lateral cortical bone at the piriformis fossa to help obtain ideal proximal fit and to minimize the risk of undersizing and/or varus placement of the femoral component.\n- The Axial Starter Reamer (1020-1200) may be used with the T-Handle (1101-2200) or power to open the femoral canal and to aid in determining the orientation of the femoral axis.\n\n**Note:** Care should be taken not to sink the Axial Starter Reamer below the first graduation mark to allow for proper press fit of the implant.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.754974"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "Insignia Hip Stem | Surgical Protocol",
+      "summary": "Page 8 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "broaching",
+        "broach handle",
+        "implant placement"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Broach Handle Styles Compatible with Insignia Hip Stem",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "Handle Type": "Extra Offset Broach Handle – Lever",
+              "Part Number": "(7000-5529)"
+            },
+            {
+              "Handle Type": "Straight Broach Handle – Lever",
+              "Part Number": "(7000-5525)"
+            },
+            {
+              "Handle Type": "Offset Broach Handle – Lever",
+              "Part Number": "(7000-5526)"
+            },
+            {
+              "Handle Type": "Straight Broach Handle",
+              "Part Number": "(1440-1460)"
+            },
+            {
+              "Handle Type": "Offset Broach Handle",
+              "Part Number": "(1020-1460)"
+            },
+            {
+              "Handle Type": "Dual Offset Broach Handle",
+              "Part Number": "(Left: 1440-2000; Right: 1440-2001)"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Handle Type",
+              "Part Number"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Handle Type",
+            "Part Number"
+          ]
+        }
+      ],
+      "raw_content": "## Broaching\n### Step 4\n\nInsignia is designed to be compatible with several broach handle designs to ease insertion in various surgical approaches.\n\nBroaching is performed beginning with the size 0 broach. The broach should be inserted via canal access by positioning the broach laterally and posteriorly. Insignia was designed to be inserted parallel to the posterior cortical bone of the femoral neck although adjustments can be made by the surgeon during insertion based on patient need.\n\nSequentially broach upward in size until the proper fit is achieved. The surgeon's clues to a firm fit and final size include 1.) increased resistance to forward advancement; 2.) changing pitch of sound that results from mallet blows to the broach handle; 3.) lack of further motion, and 4.) rotational stability as assessed with broach handle in place.\n\nUpon reaching the final size and depth of the broach, detach the broach handle from the broach, leaving the broach fully seated in the femoral canal (Figure 4, Figure 5).\n\n### Tips:\n- The neck resection should be about 1-2 mm above the final broach height. This will allow for calcar planing prior to final implant placement enhancing collar contact with medial bone.\n- Relying only on the neck resection height alone for final seating height may lead to improper sizing and inadequate component fixation.\n- For good fixation of the implant, it is important to maintain rotational alignment throughout the broaching process.\n- For broach handles featuring a lever design, close the lever arm until the broach is secured onto the Broach Handle.\n- For broach handles featuring a lever design, to open the lever with one hand place your thumb on the top edge of the impaction pad and your index finger in the notch under the end of the lever. Use your index finger to pull up on the lever.\n\n### Broach handle styles Insignia is compatible with:\n1. Extra Offset Broach Handle – Lever\n(7000-5529)\n2. Straight Broach Handle – Lever\n(7000-5525)\n3. Offset Broach Handle – Lever\n(7000-5526)\n4. Straight Broach Handle\n(1440-1460)\n5. Offset Broach Handle\n(1020-1460)\n6. Dual Offset Broach Handle\n(Left: 1440-2000; Right: 1440-2001)\n\n### Note: \nInsignia broaches can be properly identified through the following:\n\n1) The size is marked on the top of the broach post.\n2) The size is marked in the tab slot.\n3) 8000-77xx part number.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.754992"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Insignia Hip Stem | Surgical protocol",
+      "summary": "Page 9 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "trial reduction",
+        "neck trial",
+        "femoral head",
+        "broach size",
+        "offset",
+        "color code"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Stem Size and Corresponding Color Code",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Stem Size (Implant Size)": "0, 1",
+              "Corresponding Color Code": "Yellow"
+            },
+            {
+              "Stem Size (Implant Size)": "2, 3, 4",
+              "Corresponding Color Code": "Blue"
+            },
+            {
+              "Stem Size (Implant Size)": "5, 6",
+              "Corresponding Color Code": "Green"
+            },
+            {
+              "Stem Size (Implant Size)": "7, 8, 9",
+              "Corresponding Color Code": "Black"
+            },
+            {
+              "Stem Size (Implant Size)": "10, 11",
+              "Corresponding Color Code": "Red"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Stem Size (Implant Size)",
+              "Corresponding Color Code"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Stem Size (Implant Size)",
+            "dimensions",
+            "sizing",
+            "Corresponding Color Code"
+          ]
+        }
+      ],
+      "raw_content": "## Trial reduction\n\n### Step 5\n\nSelect a Neck Trial that corresponds to the color shown on top of the final broach and matches the planned Standard or High Offset implant size (Figure 6). The High Offset option is designed to provide 5mm of direct offset without changing leg length.\n\nThe table below indicates the correct neck trial color code for each stem size. The High Offset neck trials feature a gold TiN coating (Figure 7).\n\nAssemble the Neck Trial onto the broach. Next, assemble a V40 Head Trial onto the Neck Trial. Femoral heads come in multiple options and are different for each femoral head implant material (see table below). For this reason, final head material should be chosen prior to trial reduction. Offsets add or subtract from the base neck length of the implant and help to achieve the desired leg length and offset.\n\nPerform a trial reduction of the hip. The final broach size facilitates determination of the correct implant size. Upon confirmation of the selected components, note selected neck offset, femoral head, and broach size.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755004"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "Insignia Hip Stem | Surgical protocol",
+      "summary": "Page 10 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "Surgical protocol",
+        "femoral head families",
+        "catalog numbers",
+        "sizes",
+        "offsets"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Femoral Head Families, Sizes & Offsets",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "family": "BIOLOX delta V40",
+              "catalog_no": "6570-0-XXX",
+              "sizes": [
+                {
+                  "size_mm": 28,
+                  "offsets_mm": [
+                    -4,
+                    -2.7,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "size_mm": 32,
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "size_mm": 36,
+                  "offsets_mm": [
+                    -5,
+                    -2.5,
+                    0,
+                    2.5,
+                    5,
+                    7.5
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "BIOLOX delta Universal Taper",
+              "note": "Must be used with Universal Taper Sleeve #6519-T-XX",
+              "catalog_no": "6519-1-XXX",
+              "sizes": [
+                {
+                  "size_mm": 28,
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "size_mm": 32,
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "size_mm": 36,
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "size_mm": 40,
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "size_mm": 44,
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "BIOLOX delta C-Taper",
+              "note": "Must be used with a C-Taper Sleeve #17-0000E",
+              "sizes": [
+                {
+                  "size_mm": 28,
+                  "catalog_no": "18-28XX",
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    2.5,
+                    5
+                  ]
+                },
+                {
+                  "size_mm": 32,
+                  "catalog_no": "18-32XX",
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    2.5,
+                    5
+                  ]
+                },
+                {
+                  "size_mm": 36,
+                  "catalog_no": "18-36XX",
+                  "offsets_mm": [
+                    -5,
+                    -2.5,
+                    0,
+                    2.5,
+                    5,
+                    7.5
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "Alumina V40",
+              "catalog_no": "6565-0-XXX",
+              "sizes": [
+                {
+                  "size_mm": 28,
+                  "offsets_mm": [
+                    -2.7,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "size_mm": 32,
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "size_mm": 36,
+                  "offsets_mm": [
+                    -5,
+                    0,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "Alumina C-Taper",
+              "note": "Must be used with a C-Taper Sleeve #17-0000E",
+              "sizes": [
+                {
+                  "size_mm": 28,
+                  "catalog_no": "17-28XXX",
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    5
+                  ]
+                },
+                {
+                  "size_mm": 32,
+                  "catalog_no": "17-32XXX",
+                  "offsets_mm": [
+                    -2.5,
+                    0,
+                    5
+                  ]
+                },
+                {
+                  "size_mm": 36,
+                  "catalog_no": "17-36XXX",
+                  "offsets_mm": [
+                    -5,
+                    0,
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "LFIT CoCr V40",
+              "catalog_no": "6260-9-XXX",
+              "sizes": [
+                {
+                  "size_mm": 22,
+                  "offsets_mm": [
+                    0,
+                    3,
+                    8
+                  ]
+                },
+                {
+                  "size_mm": 26,
+                  "offsets_mm": [
+                    -3,
+                    0,
+                    4,
+                    8,
+                    12
+                  ]
+                },
+                {
+                  "size_mm": 28,
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4,
+                    6,
+                    8,
+                    12
+                  ]
+                },
+                {
+                  "size_mm": 32,
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4,
+                    8,
+                    12
+                  ]
+                },
+                {
+                  "size_mm": 36,
+                  "offsets_mm": [
+                    -5,
+                    0,
+                    5,
+                    10
+                  ]
+                },
+                {
+                  "size_mm": 40,
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4,
+                    8,
+                    12
+                  ]
+                },
+                {
+                  "size_mm": 44,
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4,
+                    8,
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "CoCr V40",
+              "sizes": [
+                {
+                  "size_mm": 22,
+                  "catalog_no": "6260-4-XXX",
+                  "offsets_mm": [
+                    0,
+                    3,
+                    8
+                  ]
+                },
+                {
+                  "size_mm": 26,
+                  "catalog_no": "6260-4-XXX",
+                  "offsets_mm": [
+                    -3,
+                    0,
+                    4,
+                    8,
+                    12
+                  ]
+                },
+                {
+                  "size_mm": 28,
+                  "catalog_no": "6260-5-XXX",
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4,
+                    6,
+                    8,
+                    12
+                  ]
+                },
+                {
+                  "size_mm": 32,
+                  "catalog_no": "6260-5-XXX",
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4,
+                    8,
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "Unitrax Modular Endo Head",
+              "note": "Must be used with a Unitrax V40 Sleeve #6942-6-XXX",
+              "catalog_no": "6942-5-XXX",
+              "sizes": [
+                {
+                  "size_mm": [
+                    38,
+                    40,
+                    56,
+                    58,
+                    61
+                  ],
+                  "offsets_mm": [
+                    -4,
+                    0,
+                    4,
+                    8,
+                    12
+                  ]
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "row_count": 8,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "family",
+              "catalog_no",
+              "sizes"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "family",
+            "catalog_no",
+            "catalog no",
+            "catalog number",
+            "part number",
+            "catalog",
+            "part",
+            "sizes",
+            "dimensions",
+            "sizing"
+          ]
+        }
+      ],
+      "raw_content": "## Tips:\n\n* Neck trials are collarless, designed to allow trialing of the construct prior to calcar planning. Trialing should be done prior to planing the calcar to allow for stem size adjustments.\n* During the trial reduction, an x-ray may be used to verify proper broach size and position, leg length and offset.\n* After trialing, check broach rotational stability again.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755017"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "Insignia Hip Stem | Surgical protocol",
+      "summary": "Page 11 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "calcar preparation",
+        "Calcar Planer",
+        "product code"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instruments",
+          "description": "Table from page 11",
+          "rows": [
+            {
+              "Instrument Name": "Calcar Planer – Standard",
+              "Product Code": "1020-1111"
+            },
+            {
+              "Instrument Name": "Calcar Planer – Large",
+              "Product Code": "1020-1112"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Product Code"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Product Code"
+          ]
+        }
+      ],
+      "raw_content": "## Calcar preparation\n\n### Step 6\n\nAssemble the Calcar Planer to the reamer power adaptor.\n\nWith the final broach in place, guide the Calcar Planer over the broach post ensuring the Calcar Planer is axially aligned with the post and is stable. Initiate power prior to contacting the femur and slowly advance the Calcar Planer toward the broach using continuous power until the positive stop on the Calcar Planer contacts the broach face and the bone is removed (Figure 8). Failure to operate the Calcar Planer in accordance with these instructions may result in damage to the femur.\n\nIn the event that the Calcar Planer cannot fully engage the broach post, remove the broach and perform a new neck resection at a lower level. Alternatively, a larger broach size could also be considered.\n\nUpon confirmation of the selected components, reassemble the broach handle to the broach. Remove the broach from the femoral canal.\n\n**Note:** Two sizes of Calcar Planers are available, Calcar Planer – Standard (1020-1111) and Calcar Planer – Large (1020-1112).\n\n**Note:** Calcar planing is required to facilitate preparation of stem collar.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755032"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "Insignia Hip Stem | Surgical protocol",
+      "summary": "Page 12 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "stem implantation",
+        "Modular Offset Quick Connect Stem Inserter",
+        "Modular Stem Impactor",
+        "Modular Threaded Stem Inserter"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instruments for Insignia Hip Stem Implantation",
+          "description": "Table from page 12",
+          "rows": [
+            {
+              "Instrument Name": "Modular Offset Quick Connect Stem Inserter",
+              "Product Code": "1020-1860"
+            },
+            {
+              "Instrument Name": "Modular Stem Impactor",
+              "Product Code": "1020-1870"
+            },
+            {
+              "Instrument Name": "Modular Threaded Stem Inserter",
+              "Product Code": "1020-1800"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Product Code"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Product Code"
+          ]
+        }
+      ],
+      "raw_content": "## Implanting the stem\n\n### Step 7\n\nPrior to any impaction using a mallet, the implant should be inserted into the femoral canal by hand until it meets resistance. This aids in positioning the implant in the same orientation that was broached, preventing the stem from being forced into a different position.\n\nSeveral stem inserters are available to help facilitate various surgical approaches.\n\n#### Option 1 – Modular Offset Quick Connect Stem Inserter (1020-1860)\n\nInsignia can be inserted using the Modular Offset Quick Connect Stem Inserter. Place tip of the inserter into the drive hole of the stem taking care to align the version tab on the inserter with the slot in the stem (Figure 9). The quick connect design provides the inserter with a stable spring connection, providing rotational control during stem implantation, but it does not provide a mechanical lock. Therefore, this assembly should be handled with care, as excessive shaking or motion may result in the stem disassociating from the inserter.\n\n**Note:** For Size 0 and Size 1 Insignia stems, use the Modular Stem Impactor or Modular Threaded Stem Inserter. The Modular Offset Quick Connect Stem Inserter cannot be used. Misuse could lead to instrument failure.\n\n#### Option 2 – Modular Stem Impactor (1020-1870)\n\nThe Modular Stem Impactor has a spherical tip, which is placed onto the drive hole of the stem. This instrument allows for off-axis impaction of the stem, if needed. The Modular Stem Impactor does not connect to the stem, and, therefore, can only be used for final impaction of the stem.\n\n#### Option 3 – Modular Threaded Stem Inserter (1020-1800)\n\nIf using the Modular Threaded Stem Inserter, thread the Modular Threaded Stem Inserter into the drive hole on the proximal face of the stem. The inserter should be fully threaded and secured to the stem prior to impaction to help prevent damage to the threads on the implant or the instrument. This inserter is designed to provide rotational control during stem implantation. The inserter is designed to provide rotational control during stem implantation.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755046"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "Insignia Hip Stem | Surgical Protocol",
+      "summary": "Page 13 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "Orthonomic Modular Handle",
+        "Mallet",
+        "Modular Threaded Stem Inserter"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instruments",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Instrument Name": "Orthonomic Modular Handle",
+              "Product Code": "1020-2900"
+            },
+            {
+              "Instrument Name": "Mallet",
+              "Product Code": "1120-1000"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Product Code"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Product Code"
+          ]
+        }
+      ],
+      "raw_content": "## Step 7 (Continued)\nA mallet is then used to gently seat the stem into the canal, following the central axis of the femur, ideally when the collar is just above or rests on the calcar (Figure 10). If the collar is sitting proud, do not attempt to continue impacting the stem if visual and auditory clues indicate that it is firmly seated in the canal. These clues, rather than the collar seating level, should be used to determine the final seating height of the implant. Continued aggressive impaction could lead to femoral fracture.\n\nIn the event that dense bone is encountered intra-operatively and compounding anatomical factors are present, the seating of the implant may not be consistent with the level of the broach due to the viscoelastic nature of the femoral bone.* If the final seating height is undesirable, the implant can be removed and additional broaching can be performed.\n\n**Tip:** Use moderate mallet strikes/blows to seat the stem until it is stable.\n\nIf the stem hangs up due to impingement of the Modular Threaded Stem Inserter against the overhanging tip of the greater trochanter, remove the threaded stem inserter leaving the stem in place and use the Modular Stem Impactor to fully seat the stem.\n\n**Warning:**\n- If any intra-operative stem extraction is required, utilize the Modular Threaded Stem Inserter (1020-1800).\n- If the stem inserter is contacting the greater trochanter during insertion, continued impaction could lead to a fracture.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755061"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "Insignia Hip Stem | Surgical Protocol",
+      "summary": "Page 14 content",
+      "keywords": [
+        "Insignia Hip Stem",
+        "surgical protocol",
+        "final reduction",
+        "BIOLOX delta Universal Taper Ceramic Femoral Head",
+        "V40 Head Trial"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "BIOLOX delta Universal Taper Ceramic Femoral Head Specifications",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "Catalog Number": "6519-T-025",
+              "Offset (mm)": "-2.5",
+              "Taper Type": "V40"
+            },
+            {
+              "Catalog Number": "6519-T-100",
+              "Offset (mm)": "+0",
+              "Taper Type": "V40"
+            },
+            {
+              "Catalog Number": "6519-T-204",
+              "Offset (mm)": "+4",
+              "Taper Type": "V40"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Offset (mm)",
+              "Taper Type"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Offset (mm)",
+            "Taper Type"
+          ]
+        }
+      ],
+      "raw_content": "## Final reduction\n\n### Step 8\n\nPrior to final head assembly, femoral head selection may be re-evaluated using a V40 Head Trial. Place the Head Trial onto the stem neck taper and reduce the hip.\n\nLeg length equality and proper soft tissue tension are evaluated. Remove the Head Trial and dry the implant trunnion with a sponge or sterile towel.\n\nSelect the appropriate corresponding V40 Femoral Head (BIOLOX delta Ceramic, CoCr, Alumina Ceramic) or sleeve and place it onto the dry trunnion of the femoral stem with a slight twist. Impact the head with two moderate impactions using the Modular Head Impactor (1601-1700) (Figure 11).\n\nVerify the head is secure on the trunnion after head impaction by applying traction to the head and confirming stability on the trunnion. If necessary, the head can be removed utilizing a head disassembly instrument (6059-9-505).*\n\nRelocate the femoral head into the acetabular cup and re-check the hip biomechanics. The surgical site is then closed according to surgeon preference.\n\n*If a ceramic head is placed on the trunnion and then removed, it must be replaced with a V40 cobalt chrome head or a V40 Titanium Adapter Sleeve (17-0000E) and a C-Taper ceramic head.\n\nIf the stem must be removed, utilize the Modular Threaded Stem Inserter (1020-1800).\n\n### Warning:\n\n- Following trial reduction and prior to final head assembly, clean and dry the implant to ensure the taper is free of debris. Finally, clean the bearing surfaces and reduce the hip.\n- Any debris that is potentially generated must be fully lavaged prior to wound closure.\n\nAfter completing the trialing process, intra-operatively assemble the adaptor sleeve to the femoral stem manually. The Universal Adaptor Sleeve must be fully seated on the stem taper before the head is assembled.\n\n**Note:** In no instance should any attempt be made to pre-assemble the adaptor sleeve inside the BIOLOX delta Universal Ceramic Head.\nIntra-operatively assemble the BIOLOX delta Universal Taper Ceramic Head onto the sleeved femoral stem and set with two moderate strikes using the Stem Head Impactor (1104-1000). Care must be taken to avoid excessive impact forces when assembling the Ceramic Head to the sleeved femoral component.\n\n\n### Optional:\n\nWhen selecting a BIOLOX delta Universal Taper Ceramic Femoral Head (6519-1-0XX) for implantation, use of a Universal Adaptor Sleeve (below) is necessary.\n\nCatalog no: 6519-T-025, offset(mm): -2.5, Taper: V40\nCatalog no:  6519-T-100, offset(mm): +0, Taper: V40\nCatalog no: 6519-T-204 , offset (mm) +4, Taper: V40\n\n## Instruments\n\n- Orthonomic Modular Handle 1020-2900\n- Modular Head Impactor 1601-1700\n- V40 Head Trial 6264-x-xxxR",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755078"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "❌ Missing Data - Page 15",
+      "summary": "Page 15 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 15\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755090"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "Implants",
+      "summary": "Page 16 content",
+      "keywords": [
+        "implants",
+        "standard offset",
+        "high offset",
+        "catalog number",
+        "size",
+        "description"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Standard and High Offset Implants",
+          "description": "Table from page 16",
+          "rows": [
+            {
+              "Standard Offset Implants Catalog Number": "7000-5500",
+              "Size (Numeric Scale)": "Size 0",
+              "Description": "Insignia Collared High Size 0",
+              "High Offset Implants Catalog Number": "7000-6600"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5501",
+              "Size (Numeric Scale)": "Size 1",
+              "Description": "Insignia Collared High Size 1",
+              "High Offset Implants Catalog Number": "7000-6601"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5502",
+              "Size (Numeric Scale)": "Size 2",
+              "Description": "Insignia Collared High Size 2",
+              "High Offset Implants Catalog Number": "7000-6602"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5503",
+              "Size (Numeric Scale)": "Size 3",
+              "Description": "Insignia Collared High Size 3",
+              "High Offset Implants Catalog Number": "7000-6603"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5504",
+              "Size (Numeric Scale)": "Size 4",
+              "Description": "Insignia Collared High Size 4",
+              "High Offset Implants Catalog Number": "7000-6604"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5505",
+              "Size (Numeric Scale)": "Size 5",
+              "Description": "Insignia Collared High Size 5",
+              "High Offset Implants Catalog Number": "7000-6605"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5506",
+              "Size (Numeric Scale)": "Size 6",
+              "Description": "Insignia Collared High Size 6",
+              "High Offset Implants Catalog Number": "7000-6606"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5507",
+              "Size (Numeric Scale)": "Size 7",
+              "Description": "Insignia Collared High Size 7",
+              "High Offset Implants Catalog Number": "7000-6607"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5508",
+              "Size (Numeric Scale)": "Size 8",
+              "Description": "Insignia Collared High Size 8",
+              "High Offset Implants Catalog Number": "7000-6608"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5509",
+              "Size (Numeric Scale)": "Size 9",
+              "Description": "Insignia Collared High Size 9",
+              "High Offset Implants Catalog Number": "7000-6609"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5510",
+              "Size (Numeric Scale)": "Size 10",
+              "Description": "Insignia Collared High Size 10",
+              "High Offset Implants Catalog Number": "7000-6610"
+            },
+            {
+              "Standard Offset Implants Catalog Number": "7000-5511",
+              "Size (Numeric Scale)": "Size 11",
+              "Description": "Insignia Collared High Size 11",
+              "High Offset Implants Catalog Number": "7000-6611"
+            }
+          ],
+          "metadata": {
+            "row_count": 12,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Standard Offset Implants Catalog Number",
+              "Size (Numeric Scale)",
+              "Description",
+              "High Offset Implants Catalog Number"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Standard Offset Implants Catalog Number",
+            "catalog number",
+            "part number",
+            "Size (Numeric Scale)",
+            "dimensions",
+            "sizing",
+            "Description",
+            "name",
+            "title",
+            "product name",
+            "High Offset Implants Catalog Number"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755100"
+      }
+    },
+    {
+      "page_id": "page_17",
+      "title": "❌ Missing Data - Page 17",
+      "summary": "Page 17 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 17\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755116"
+      }
+    },
+    {
+      "page_id": "page_18",
+      "title": "Catalog Information - Femoral Head Implants & Trials: Alumina Ceramic",
+      "summary": "Page 18 content",
+      "keywords": [
+        "Femoral Head Implants",
+        "Alumina Ceramic Heads",
+        "V40 Taper",
+        "C-Taper",
+        "Catalog Numbers",
+        "Diameters",
+        "Offsets",
+        "Trial Catalog Numbers"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "V40 Taper Alumina Ceramic Heads",
+          "description": "Table from page 18",
+          "rows": [
+            {
+              "Catalog Number": "6565-0-028",
+              "Diameter (in mm)": 28,
+              "Offset (in mm)": -2.7,
+              "Trial Catalog Number": "6264-8-928R"
+            },
+            {
+              "Catalog Number": "6565-0-128",
+              "Diameter (in mm)": 28,
+              "Offset (in mm)": 0,
+              "Trial Catalog Number": "6264-8-128R"
+            },
+            {
+              "Catalog Number": "6565-0-228",
+              "Diameter (in mm)": 28,
+              "Offset (in mm)": 4,
+              "Trial Catalog Number": "6264-8-228R"
+            },
+            {
+              "Catalog Number": "6565-0-032",
+              "Diameter (in mm)": 32,
+              "Offset (in mm)": -4,
+              "Trial Catalog Number": "6264-8-032R"
+            },
+            {
+              "Catalog Number": "6565-0-132",
+              "Diameter (in mm)": 32,
+              "Offset (in mm)": 0,
+              "Trial Catalog Number": "6264-8-132R"
+            },
+            {
+              "Catalog Number": "6565-0-232",
+              "Diameter (in mm)": 32,
+              "Offset (in mm)": 4,
+              "Trial Catalog Number": "6264-8-232R"
+            },
+            {
+              "Catalog Number": "6565-0-036",
+              "Diameter (in mm)": 36,
+              "Offset (in mm)": -5,
+              "Trial Catalog Number": "6264-8-036R"
+            },
+            {
+              "Catalog Number": "6565-0-136",
+              "Diameter (in mm)": 36,
+              "Offset (in mm)": 0,
+              "Trial Catalog Number": "6264-8-136R"
+            },
+            {
+              "Catalog Number": "6565-0-236",
+              "Diameter (in mm)": 36,
+              "Offset (in mm)": 5,
+              "Trial Catalog Number": "6264-8-236R"
+            }
+          ],
+          "metadata": {
+            "row_count": 9,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Diameter (in mm)",
+              "Offset (in mm)",
+              "Trial Catalog Number"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Diameter (in mm)",
+            "size",
+            "dimensions",
+            "Offset (in mm)",
+            "Trial Catalog Number"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "C-Taper Alumina Ceramic Heads",
+          "description": "Table from page 18",
+          "rows": [
+            {
+              "Catalog Number": "17-28-3E",
+              "Diameter (in mm)": 28,
+              "Offset (in mm)": -2.5
+            },
+            {
+              "Catalog Number": "17-2800E",
+              "Diameter (in mm)": 28,
+              "Offset (in mm)": 0
+            },
+            {
+              "Catalog Number": "17-2805E",
+              "Diameter (in mm)": 28,
+              "Offset (in mm)": 5
+            },
+            {
+              "Catalog Number": "17-32-3E",
+              "Diameter (in mm)": 32,
+              "Offset (in mm)": -2.5
+            },
+            {
+              "Catalog Number": "17-3200E",
+              "Diameter (in mm)": 32,
+              "Offset (in mm)": 0
+            },
+            {
+              "Catalog Number": "17-3205E",
+              "Diameter (in mm)": 32,
+              "Offset (in mm)": 5
+            },
+            {
+              "Catalog Number": "17-36-5E",
+              "Diameter (in mm)": 36,
+              "Offset (in mm)": -5
+            },
+            {
+              "Catalog Number": "17-3600E",
+              "Diameter (in mm)": 36,
+              "Offset (in mm)": 0
+            },
+            {
+              "Catalog Number": "17-3605E",
+              "Diameter (in mm)": 36,
+              "Offset (in mm)": 5
+            }
+          ],
+          "metadata": {
+            "row_count": 9,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Diameter (in mm)",
+              "Offset (in mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Diameter (in mm)",
+            "size",
+            "dimensions",
+            "Offset (in mm)"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755126"
+      }
+    },
+    {
+      "page_id": "page_19",
+      "title": "❌ Missing Data - Page 19",
+      "summary": "Page 19 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 19\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755141"
+      }
+    },
+    {
+      "page_id": "page_20",
+      "title": "Catalog Information: Femoral Head Implants & Trials: Modular Endo Head",
+      "summary": "Page 20 content",
+      "keywords": [
+        "Unitrax Unipolar Femoral Heads",
+        "Unitrax V40 Sleeve",
+        "catalog numbers",
+        "diameters",
+        "offsets"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Unitrax Unipolar Femoral Heads and Unitrax V40 Sleeve Specifications",
+          "description": "Table from page 20",
+          "rows": [
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-049",
+              "Diameter (in mm)": 49,
+              "Unitrax V40 Sleeve Catalog Number": "6942-6-060",
+              "Offset (in mm)": -4
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-050",
+              "Diameter (in mm)": 50,
+              "Unitrax V40 Sleeve Catalog Number": "6942-6-065",
+              "Offset (in mm)": 0
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-051",
+              "Diameter (in mm)": 51,
+              "Unitrax V40 Sleeve Catalog Number": "6942-6-070",
+              "Offset (in mm)": 4
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-052",
+              "Diameter (in mm)": 52,
+              "Unitrax V40 Sleeve Catalog Number": "6942-6-075",
+              "Offset (in mm)": 8
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-053",
+              "Diameter (in mm)": 53,
+              "Unitrax V40 Sleeve Catalog Number": "6942-6-080",
+              "Offset (in mm)": 12
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-054",
+              "Diameter (in mm)": 54,
+              "Unitrax V40 Sleeve Catalog Number": null,
+              "Offset (in mm)": null
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-055",
+              "Diameter (in mm)": 55,
+              "Unitrax V40 Sleeve Catalog Number": null,
+              "Offset (in mm)": null
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-056",
+              "Diameter (in mm)": 56,
+              "Unitrax V40 Sleeve Catalog Number": null,
+              "Offset (in mm)": null
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-058",
+              "Diameter (in mm)": 58,
+              "Unitrax V40 Sleeve Catalog Number": null,
+              "Offset (in mm)": null
+            },
+            {
+              "Unitrax Unipolar Femoral Heads Catalog Number": "6942-5-061",
+              "Diameter (in mm)": 61,
+              "Unitrax V40 Sleeve Catalog Number": null,
+              "Offset (in mm)": null
+            }
+          ],
+          "metadata": {
+            "row_count": 10,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Unitrax Unipolar Femoral Heads Catalog Number",
+              "Diameter (in mm)",
+              "Unitrax V40 Sleeve Catalog Number",
+              "Offset (in mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Unitrax Unipolar Femoral Heads Catalog Number",
+            "catalog number",
+            "part number",
+            "Diameter (in mm)",
+            "size",
+            "dimensions",
+            "Unitrax V40 Sleeve Catalog Number",
+            "Offset (in mm)"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755151"
+      }
+    },
+    {
+      "page_id": "page_21",
+      "title": "Catalog Information",
+      "summary": "Page 21 content",
+      "keywords": [
+        "Instruments",
+        "Trays",
+        "Femoral Head Trials",
+        "Broach Handles",
+        "Catalog Number"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "List of Instruments/Trays",
+          "description": "Table from page 21",
+          "rows": [
+            {
+              "Catalog Number": "7000-5520",
+              "Description of Instrument/Tray": "Femoral Instrument Tray - General"
+            },
+            {
+              "Catalog Number": "1020-1111",
+              "Description of Instrument/Tray": "Calcar Planer – Standard"
+            },
+            {
+              "Catalog Number": "1020-1112",
+              "Description of Instrument/Tray": "Calcar Planer - Large"
+            },
+            {
+              "Catalog Number": "1101-2200",
+              "Description of Instrument/Tray": "Orthonomic T-Handle"
+            },
+            {
+              "Catalog Number": "1601-1700",
+              "Description of Instrument/Tray": "Modular Head Impactor"
+            },
+            {
+              "Catalog Number": "6264-X-XXXR",
+              "Description of Instrument/Tray": "Femoral heads (select 10 from list)"
+            },
+            {
+              "Catalog Number": "1XXX-1460",
+              "Description of Instrument/Tray": "Broach handles x2 (select from below list of handle options)"
+            },
+            {
+              "Catalog Number": "1601-1210",
+              "Description of Instrument/Tray": "Modular Box Osteotome"
+            },
+            {
+              "Catalog Number": "1020-1200",
+              "Description of Instrument/Tray": "Axial Starter Reamer"
+            },
+            {
+              "Catalog Number": "1020-2900",
+              "Description of Instrument/Tray": "Orthonomic Modular Handle"
+            },
+            {
+              "Catalog Number": "1440-2003",
+              "Description of Instrument/Tray": "Reverse Cutting Rasp"
+            }
+          ],
+          "metadata": {
+            "row_count": 11,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Description of Instrument/Tray"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Description of Instrument/Tray",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Selection of Femoral Head Trials",
+          "description": "Table from page 21",
+          "rows": [
+            {
+              "Catalog Number": "6264-8-028R",
+              "Description of Femoral Head Trial": "28mm -4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-728R",
+              "Description of Femoral Head Trial": "28mm -2.5mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-928R",
+              "Description of Femoral Head Trial": "28mm -2.7mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-128R",
+              "Description of Femoral Head Trial": "28mm +0(STD) V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-228R",
+              "Description of Femoral Head Trial": "28mm +4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-828R",
+              "Description of Femoral Head Trial": "28mm +5mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-628R",
+              "Description of Femoral Head Trial": "V40 Trial Femoral Head 28+6mm"
+            },
+            {
+              "Catalog Number": "6264-8-328R",
+              "Description of Femoral Head Trial": "28mm +8mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-428R",
+              "Description of Femoral Head Trial": "28mm +12mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-032R",
+              "Description of Femoral Head Trial": "32mm -4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-632R",
+              "Description of Femoral Head Trial": "32mm -2.5mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-132R",
+              "Description of Femoral Head Trial": "32mm +0(STD) V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-232R",
+              "Description of Femoral Head Trial": "32mm +4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-732R",
+              "Description of Femoral Head Trial": "32mm +5mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-332R",
+              "Description of Femoral Head Trial": "32mm +8mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-432R",
+              "Description of Femoral Head Trial": "32mm +12mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-036R",
+              "Description of Femoral Head Trial": "36mm -5mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-436R",
+              "Description of Femoral Head Trial": "36mm/-2.5mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-136R",
+              "Description of Femoral Head Trial": "36mm +0(STD) V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-536R",
+              "Description of Femoral Head Trial": "36mm/+2.5mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-3-236R",
+              "Description of Femoral Head Trial": "36mm +4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-236R",
+              "Description of Femoral Head Trial": "36mm +5mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-736R",
+              "Description of Femoral Head Trial": "36mm/+7.5mm Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-336R",
+              "Description of Femoral Head Trial": "36mm +10mm Trial Head"
+            }
+          ],
+          "metadata": {
+            "row_count": 24,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Description of Femoral Head Trial"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Description of Femoral Head Trial",
+            "name",
+            "title",
+            "product name"
+          ]
+        },
+        {
+          "table_id": "table_3",
+          "title": "Broach Handles",
+          "description": "Table from page 21",
+          "rows": [
+            {
+              "Catalog Number": "7000-5529",
+              "Description of Broach Handle": "Extra Offset Broach Handle – Lever"
+            },
+            {
+              "Catalog Number": "7000-5525",
+              "Description of Broach Handle": "Straight Broach Handle – Lever"
+            },
+            {
+              "Catalog Number": "7000-5526",
+              "Description of Broach Handle": "Offset Broach Handle – Lever"
+            },
+            {
+              "Catalog Number": "1440-1460",
+              "Description of Broach Handle": "Straight Broach Handle"
+            },
+            {
+              "Catalog Number": "1020-1460",
+              "Description of Broach Handle": "Offset Broach Handle"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Description of Broach Handle"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Description of Broach Handle",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755165"
+      }
+    },
+    {
+      "page_id": "page_22",
+      "title": "Catalog Information",
+      "summary": "Page 22 content",
+      "keywords": [
+        "Catalog Number",
+        "Instrument",
+        "Tray",
+        "Auxiliary Instrument",
+        "Insignia Broach",
+        "Insignia Standard Neck Trial",
+        "Insignia High Neck Trial",
+        "Modular Threaded Stem Inserter",
+        "Neck Resection Guide",
+        "Navigation Compatible Accolade Broach Handle",
+        "Femoral Head Remover",
+        "Stem Head Impactor",
+        "Neck Trial Forceps",
+        "Dual Offset Broach Handle"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instruments/Trays",
+          "description": "Table from page 22",
+          "rows": [
+            {
+              "Catalog Number": "7000-5521",
+              "Description of Instrument/Tray": "Insignia Broach Tray"
+            },
+            {
+              "Catalog Number": "8000-7700",
+              "Description of Instrument/Tray": "Insignia Broach Size 0"
+            },
+            {
+              "Catalog Number": "8000-7701",
+              "Description of Instrument/Tray": "Insignia Broach Size 1"
+            },
+            {
+              "Catalog Number": "8000-7702",
+              "Description of Instrument/Tray": "Insignia Broach Size 2"
+            },
+            {
+              "Catalog Number": "8000-7703",
+              "Description of Instrument/Tray": "Insignia Broach Size 3"
+            },
+            {
+              "Catalog Number": "8000-7704",
+              "Description of Instrument/Tray": "Insignia Broach Size 4"
+            },
+            {
+              "Catalog Number": "8000-7705",
+              "Description of Instrument/Tray": "Insignia Broach Size 5"
+            },
+            {
+              "Catalog Number": "8000-7706",
+              "Description of Instrument/Tray": "Insignia Broach Size 6"
+            },
+            {
+              "Catalog Number": "8000-7707",
+              "Description of Instrument/Tray": "Insignia Broach Size 7"
+            },
+            {
+              "Catalog Number": "8000-7708",
+              "Description of Instrument/Tray": "Insignia Broach Size 8"
+            },
+            {
+              "Catalog Number": "8000-7709",
+              "Description of Instrument/Tray": "Insignia Broach Size 9"
+            },
+            {
+              "Catalog Number": "8000-7710",
+              "Description of Instrument/Tray": "Insignia Broach Size 10"
+            },
+            {
+              "Catalog Number": "8000-7711",
+              "Description of Instrument/Tray": "Insignia Broach Size 11"
+            },
+            {
+              "Catalog Number": "7555-0001",
+              "Description of Instrument/Tray": "Insignia Standard Neck Trial 0/1"
+            },
+            {
+              "Catalog Number": "7555-0002",
+              "Description of Instrument/Tray": "Insignia Standard Neck Trial 2/3/4"
+            },
+            {
+              "Catalog Number": "7555-0003",
+              "Description of Instrument/Tray": "Insignia Standard Neck Trial 5/6"
+            },
+            {
+              "Catalog Number": "7555-0004",
+              "Description of Instrument/Tray": "Insignia Standard Neck Trial 7/8/9"
+            },
+            {
+              "Catalog Number": "7555-0005",
+              "Description of Instrument/Tray": "Insignia Standard Neck Trial 10/11"
+            },
+            {
+              "Catalog Number": "7555-0006",
+              "Description of Instrument/Tray": "Insignia High Neck Trial 0/1"
+            },
+            {
+              "Catalog Number": "7555-0007",
+              "Description of Instrument/Tray": "Insignia High Neck Trial 2/3/4"
+            },
+            {
+              "Catalog Number": "7555-0008",
+              "Description of Instrument/Tray": "Insignia High Neck Trial 5/6"
+            },
+            {
+              "Catalog Number": "7555-0009",
+              "Description of Instrument/Tray": "Insignia High Neck Trial 7/8/9"
+            },
+            {
+              "Catalog Number": "7555-0010",
+              "Description of Instrument/Tray": "Insignia High Neck Trial 10/11"
+            },
+            {
+              "Catalog Number": "1020-1800",
+              "Description of Instrument/Tray": "Modular Threaded Stem Inserter"
+            },
+            {
+              "Catalog Number": "1020-1860",
+              "Description of Instrument/Tray": "Modular Offset Quick Connect Inserter"
+            },
+            {
+              "Catalog Number": "1020-1870",
+              "Description of Instrument/Tray": "Modular Stem Impactor"
+            },
+            {
+              "Catalog Number": "1020-1100",
+              "Description of Instrument/Tray": "Neck Resection Guide"
+            }
+          ],
+          "metadata": {
+            "row_count": 27,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Description of Instrument/Tray"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Description of Instrument/Tray",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Auxiliary Instruments",
+          "description": "Table from page 22",
+          "rows": [
+            {
+              "Catalog Number": "2124-1400",
+              "Description of Auxiliary Instrument": "Navigation Compatible Accolade Broach Handle"
+            },
+            {
+              "Catalog Number": "2124-1700",
+              "Description of Auxiliary Instrument": "Right - Navigation Compatible Dual-Offset Accolade Rasp Handle"
+            },
+            {
+              "Catalog Number": "2124-1750",
+              "Description of Auxiliary Instrument": "Left - Navigation Compatible Dual-Offset Accolade Rasp Handle"
+            },
+            {
+              "Catalog Number": "6059-9-505",
+              "Description of Auxiliary Instrument": "Femoral Head Remover"
+            },
+            {
+              "Catalog Number": "1104-1000",
+              "Description of Auxiliary Instrument": "Stem Head Impactor"
+            },
+            {
+              "Catalog Number": "1440-1700",
+              "Description of Auxiliary Instrument": "Neck Trial Forceps"
+            },
+            {
+              "Catalog Number": "1440-2000",
+              "Description of Auxiliary Instrument": "Dual Offset Broach Handle, Left"
+            },
+            {
+              "Catalog Number": "1440-2001",
+              "Description of Auxiliary Instrument": "Dual Offset Broach Handle, Right"
+            }
+          ],
+          "metadata": {
+            "row_count": 8,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Description of Auxiliary Instrument"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Description of Auxiliary Instrument",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755181"
+      }
+    },
+    {
+      "page_id": "page_23",
+      "title": "Useless - Page 23",
+      "summary": "Page 23 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T14:18:22.755196"
+      }
+    }
+  ]
+}

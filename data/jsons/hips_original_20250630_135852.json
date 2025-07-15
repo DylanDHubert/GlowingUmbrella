@@ -1,0 +1,1901 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-06-30T13:58:52.806321",
+    "total_pages": 32,
+    "total_tables": 28,
+    "portfolio": "hips",
+    "review_status": {
+      "approved_pages": 30,
+      "flagged_pages": 0,
+      "missing_pages": [
+        28,
+        30
+      ],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        3,
+        30,
+        31,
+        32
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806447"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Accolade Femoral Hip System",
+      "summary": "Page 2 content",
+      "keywords": [
+        "Accolade Femoral Hip System",
+        "Accolade C",
+        "Accolade HFx",
+        "Accolade TMZF",
+        "indications",
+        "contraindications",
+        "warnings",
+        "precautions"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 2",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 2",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "Accolade System\n# Femoral Hip System\n\n# Accolade C & Accolade HFx\n\n# Indications:\n\n- Noninflammatory degenerative joint disease including osteoarthritis and avascular necrosis;\n- Rheumatoid arthritis;\n- Correction of functional deformity;\n- Revision procedures where other treatments or devices have failed; and,\n- Treatment of nonunions, femoral neck and trochanteric fractures of the proximal femur with head involvement that are unmanageable using other techniques.\n\n# Contraindications:\n\n# Absolute contraindications include:\n\n- overt infection;\n- distant foci of infections (which may cause hematogenous spread to the implant site);\n- rapid disease progression as manifested by joint destruction or bone absorption apparent on roentgenogram;\n- skeletally immature patients; and,\n- cases where there is a loss of abductor musculature, poor bone stock, or poor skin coverage around the hip joint which would make the procedure unjustifiable.\n\n# Conditions presenting increased risk of failure include:\n\n- uncooperative patient or patient with neurologic disorders, incapable of following instructions;\n- osteoporosis;\n- metabolic disorders which may impair bone formation; and,\n- osteomalacia.\n\n# Accolade TMZF\n\n# Indications:\n\n- Noninflammatory degenerative joint disease including osteoarthritis and avascular necrosis;\n- Rheumatoid arthritis;\n- Correction of functional deformity;\n- Revision procedures where other treatments or devices have failed; and,\n- Nonunions, femoral neck and trochanteric fractures of the proximal femur with head involvement that are unmanageable using other techniques.\n\n# Contraindications:\n\n- Active infection or suspected latent infection in or about the hip joint;\n- Bone stock that is inadequate for support or fixation of the prosthesis;\n- Skeletal immaturity;\n- Any mental or neuromuscular disorder that would create an unacceptable risk of prosthesis instability, prosthesis fixation failure, or complications in postoperative care; and\n- Obesity. An overweight or obese patient can produce loads on the device that can lead to failure of the fixation of the device or to failure of the device itself.\n\n# Warnings and Precautions:\n\nSee package insert for warnings, precautions, adverse effects and other essential product information.\n\nBefore using Accolade System instrumentation, verify:\n\n- Instruments have been properly disassembled prior to cleaning and sterilization;\n- Instruments have been properly assembled post-sterilization;\n- Instruments have maintained design integrity; and,\n- Proper size configurations are available.\n\nFor cleaning and sterilization instructions of surgical instruments, refer to the instrument package insert.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806463"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Useless - Page 3",
+      "summary": "Page 3 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 3",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "useless",
+          "description": "Table from page 3",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806483"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "Accolade C Cemented Surgical Technique",
+      "summary": "Page 4 content",
+      "keywords": [
+        "Accolade C Cemented",
+        "surgical technique",
+        "pre-operative planning",
+        "X-Ray evaluation",
+        "medullary canal",
+        "cement mantle",
+        "offset",
+        "limb length",
+        "center of rotation"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Hip Measurements",
+          "description": "Table from page 4",
+          "rows": [
+            {
+              "Hip Side": "Right",
+              "Offset (mm)": 26,
+              "Lesser Trochanter Center (LTC) (mm)": 55,
+              "Leg Length Discrepancy (LLD) (mm)": 44
+            },
+            {
+              "Hip Side": "Left",
+              "Offset (mm)": 36,
+              "Lesser Trochanter Center (LTC) (mm)": 55,
+              "Leg Length Discrepancy (LLD) (mm)": 47
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Hip Side",
+              "Offset (mm)",
+              "Lesser Trochanter Center (LTC) (mm)",
+              "Leg Length Discrepancy (LLD) (mm)"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Hip Side",
+            "Offset (mm)",
+            "Lesser Trochanter Center (LTC) (mm)",
+            "Leg Length Discrepancy (LLD) (mm)",
+            "dimensions",
+            "size"
+          ]
+        }
+      ],
+      "raw_content": "Accolade C Cemented Surgical Technique\n\n# Objectives\n\n1. To place the stem in neutral position in the medullary canal with an adequate cement mantle.\n2. To restore the offset, limb length and center of rotation.\n\n# Step 1\n\n# Pre-operative Planning and X-Ray Evaluation\n\nPre-operative planning allows:\n\n1. Appropriate implant size selection.\n2. Restoration of leg length, offset and center of rotation.\n3. Appreciation of anatomic anomalies of the femur.\n\nMethod: A standing A/P pelvis radiograph is utilized. The center of the femoral heads and the axis of the medullary canals are located as shown in Figure 1A. A 45° line is drawn 1cm lateral to the teardrop from the inter-teardrop line (A-A). The socket is located inside the true acetabulum at this angle. The offset and the distance between the center of the femoral head and the top of the lesser trochanter center (LTC) are measured and compared with the contralateral hip. The leg length discrepancy (LLD) is estimated as the difference in the distance between the inter-teardrop line and the center of the lesser trochanter. X-Ray templates (120% magnification) are superimposed on the radiograph and aligned with the axis of the medullary canal and the center of the neck of the femur (Figure 1B). The offset of the patient’s diseased (right) hip and the contralateral hip are measured. The goal is to reproduce correct leg length, offset and center of rotation.\n\nNote: The assessment should be performed on both hips as external rotation contracture of the contralateral hip can reduce the neck angle and offset.\n\nThe implant with the appropriate neck angle (127° or 132°) that matches the hip anatomy (center of rotation and offset) is selected. The level of neck resection can be determined from the X-Ray template in relation to the top of the lesser trochanter. The leg length is re-evaluated on the post-operative X-Ray (Figure 1C).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806500"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "Surgical Approach and Limb Length Measurement",
+      "summary": "Page 5 content",
+      "keywords": [
+        "surgical approach",
+        "posterolateral exposure",
+        "limb length measurement",
+        "Steinman Pin",
+        "locator mark"
+      ],
+      "tables": [],
+      "raw_content": "# Step 2\n\n# Surgical Approach and Exposure Patient Position: Lateral\n\nPosterolateral Exposure: Skin incision is a gentle curve centered over the greater trochanter (Figure 2A). The ilio-tibial band is incised in line with the incision and the gluteus maximus muscle is split proximally. The tendon of the gluteus maximus is detached from its insertion on the femur at the distal portion of the wound partially or completely depending on the presence of external rotation contracture. A trapezoidal posterior myocapsular flap, consisting of the piriformis and part of the gluteus minimus, the short external rotators and quadratus (Figure 2B), is developed and detached from the femur to expose the proximal posterior portion of the femur.\n\n\n# Step 3\n\n# Limb Length Measurement\n\nA Steinman Pin is inserted into the infra-cotyloid groove of the acetabulum and held vertically against the femur ( Figure 3). A locator mark is made on the posterior portion of the greater trochanter. The position of the limbs in slight adduction, flexion and external rotation is identified and recorded on the drapes.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806520"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "Accolade C Cemented Surgical Technique",
+      "summary": "Page 6 content",
+      "keywords": [
+        "Accolade C Cemented",
+        "surgical technique",
+        "neck length",
+        "offset measurement",
+        "lesser trochanter-center"
+      ],
+      "tables": [],
+      "raw_content": "Accolade C Cemented Surgical Technique\n# Step 4\n\n# Neck Length and Offset Measurement\n\nThe hip is dislocated and the center of the femoral head is located. The offset and the lesser trochanter-center (LTC) of femoral head distance are measured (Figures 4A through 4D).\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806532"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Step 5: Neck Resection and Alternate Neck Resection Method",
+      "summary": "Page 7 content",
+      "keywords": [
+        "Neck Resection",
+        "Alternate Neck Resection Method",
+        "Neck Resection Guide",
+        "pre-operative templating",
+        "femoral head center"
+      ],
+      "tables": [],
+      "raw_content": "# Step 5\n\n# Neck Resection\n\nThe Neck Resection Guide is utilized for proper head-neck resection based on the pre-operative templating (Figures 5A and 5B). An appropriate neck resection allows restoration of the offset and leg length.\n\n# Alternate Neck Resection Method\n\n1. The neck resection level can also be determined by measuring 30mm from the femoral head center as shown in Figure 5B",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806543"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "Accolade C Cemented Surgical Technique",
+      "summary": "Page 8 content",
+      "keywords": [
+        "Accolade C Cemented Surgical Technique",
+        "Small Box Chisel",
+        "Starter Reamer",
+        "femoral medullary canal",
+        "metaphyseal cancellous bone"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Step 6\n\n# Box Chisel\n\nThe Small Box Chisel removes bone from the proximal lateral portion of the resected neck of the femur to permit location of the femoral medullary canal (Figures 6A and 6B).\n\n# Step 7\n\n# Starter Reamer\n\nThe Starter Reamer is used to enter the femoral medullary canal through the postero-lateral portion of the resected neck (Figures 7A and 7B). Introduce the Starter Reamer until the first marking groove proximal to the cutting edge is even with the medial neck resection level.\n\nNote: In order to preserve metaphyseal cancellous bone, axial reaming is not routinely recommended. When faced with a tight medullary canal or when preparing for a Universal Distal Spacer, reaming may be needed though care should be taken to avoid over-reaming.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806555"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Technical Procedure Steps",
+      "summary": "Page 9 content",
+      "keywords": [
+        "Distal Sizer",
+        "Propeller Sizer",
+        "Trochanteric Reamer",
+        "Alignment Rod",
+        "Accolade C"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Step 8\n\n# Alignment Rod\n\nThe ring style Distal Sizer (1020-2100) or Propeller Sizer (1020-2104) is inserted beyond the isthmus to gauge the center of the intramedullary canal (neutral axis) of the femur (Figures 8A and 8B). An 8mm bullet tip assembled to the Distal Sizer can be used as an alignment rod (Figure 8A).\n\n# Step 9\n\n# Trochanteric Reamer\n\nThe Trochanteric Reamer (available in 2 sizes) is used to remove the lateral portion of the resected neck and overhanging bone of the greater trochanter, thus facilitating broaching along the neutral axis of the femur (Figures 9A through 9C). The Small Trochanteric Reamer is recommended for sizes 2 through 5 and the Large Trochanteric Reamer for sizes 6 and 7. The reamer is introduced until the top of the cutting edge is in line with the tip of the greater trochanter.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806571"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "Accolade C Cemented Surgical Technique",
+      "summary": "Page 10 content",
+      "keywords": [
+        "Accolade C Cemented Surgical Technique",
+        "broaching",
+        "calcar planing",
+        "femoral broach",
+        "Calcar Planer"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Step 10\n\n# Broaching\n\nThe Broach Handle is assembled with the femoral broach corresponding to one size smaller than the templated stem size (Figures 10A and 10B).\n\nProgress broaching with increasing sized broaches until a stable, snug fit is attained.\n\n\n# Step 11\n\n# Calcar Planing\n\nThe Calcar Planer creates a final neck resection level to optimize collar contact on the resected neck (Figures 11A and 11B).\n\nLeaving the final broach seated in the femoral canal, gently guide the Calcar Planer over the broach post (see note below) and initiate power prior to contacting the femur. Slowly advance the Calcar Planer toward the broach to plane the femur. Planing will continue until the positive stop on the Planer contacts the broach face.\n\nNote: In the event that the broach post is seated completely below the resection plane (thus preventing engagement with the Calcar Planer), the broach should be removed and the resection re-cut at a slightly lower level. The surgeon should then re-insert the final broach ensuring a stable and snug fit.\n\nCaution: Failure to operate the Calcar Planer in accordance with the instructions above may result in damage to the femur.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806587"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "Step 12: Trial Reduction",
+      "summary": "Page 11 content",
+      "keywords": [
+        "trial assembly",
+        "broach",
+        "trial neck",
+        "trial head",
+        "LTC distance",
+        "X-Ray",
+        "head and neck resection"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 11",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Step 12\n\n# Trial Reduction\n\nThe trial assembly, consisting of the broach, trial neck and trial head, allows evaluation of offset and leg length (lesser trochanter to center of the trial femoral head distance). This should match the LTC distance measured from the X-Ray prior to head and neck resection (Figures 12A through 12D).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806609"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "Accolade C Cemented Surgical Technique",
+      "summary": "Page 12 content",
+      "keywords": [
+        "Accolade C Cemented Surgical Technique",
+        "hip reduction",
+        "leg length discrepancy",
+        "soft tissue tension",
+        "Ober's Test",
+        "Test for Combined Anteversion",
+        "Tests for Impingement and Hip Stability"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Assessment of Trial Reduction",
+          "description": "Table from page 12",
+          "rows": [
+            {
+              "Test Name": "Soft Tissue Tension",
+              "Status": "TRUE",
+              "Description": "Full passive extension of the hip should be achieved. With the hip in full extension and passive external rotation, the posterior edge of the greater trochanter should lie within one finger’s breadth of the ischial tuberosity. If the trochanter hits the ischial tuberosity, the anterior soft tissues are too lax. If the distance is greater than one finger’s breadth, the anterior soft tissues are excessively tight. Either condition may require alteration of the offset, leg length or anteversion or an anterior capsular release."
+            },
+            {
+              "Test Name": "Ober’s Test",
+              "Status": "TRUE",
+              "Description": "With the hip in extension and neutral abduction/adduction, passive knee flexion to 90° without undue tension on the ilio-tibial band should be achieved."
+            },
+            {
+              "Test Name": "Test for Combined Anteversion",
+              "Status": "TRUE",
+              "Description": "With the hip in neutral abduction/adduction and 15° of flexion, the femoral head should be co-planar with the face of the acetabular component at 40-45° of internal rotation. The 40-45° thus represents the combined anteversion of the acetabular and femoral components."
+            },
+            {
+              "Test Name": "Tests for Impingement and Hip Stability",
+              "Status": "TRUE",
+              "Description": "The hip should be stable at 90° of flexion with neutral internal/external rotation. There should be no soft tissue or bony impingement at this position."
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Test Name",
+              "Status",
+              "Description"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Test Name",
+            "Status",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "# Step 12 (continued)\n\nThe hip is reduced and a Steinmann Pin is re-inserted into the infra-cotyloid groove and held vertically against the femur (Figure 12E). The alteration in leg length is determined with reference to the previous locator mark on the posterior greater trochanter. Leg length discrepancy and soft tissue tensions can be adjusted using the V40 Trial Heads available in -4mm, 0mm, +4mm, +8mm, and +12mm neck lengths to create the desired neck length of the prosthesis. \n\nIncreasing the offset by 2 to 5mm, without altering leg length, significantly improves the hip stability. In addition, a 127° neck angle implant can be employed to achieve the desired offset. \n\nNote: 36mm V40 Trial Heads are available in -5, +0, +5 and +10mm offsets.\n\n# Assessment of Trial Reduction\n\n1. Soft Tissue Tension\n- Full passive extension of the hip should be achieved.\n- With the hip in full extension and passive external rotation, the posterior edge of the greater trochanter should lie within one finger’s breadth of the ischial tuberosity. If the trochanter hits the ischial tuberosity, the anterior soft tissues are too lax. If the distance is greater than one finger’s breadth, the anterior soft tissues are excessively tight. Either condition may require alteration of the offset, leg length or anteversion or an anterior capsular release.\n2. Ober’s Test\n- With the hip in extension and neutral abduction/adduction, passive knee flexion to 90° without undue tension on the ilio-tibial band should be achieved.\n3. Test for Combined Anteversion\n- With the hip in neutral abduction/adduction and 15° of flexion, the femoral head should be co-planar with the face of the acetabular component at 40-45° of internal rotation. The 40-45° thus represents the combined anteversion of the acetabular and femoral components (Figure 12F).\n4. Tests for Impingement and Hip Stability\n- The hip should be stable at 90° of flexion with neutral internal/external rotation. There should be no soft tissue or bony impingement at this position.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806623"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "Sizing of the Distal Canal and Cleaning the Canal and Cement-Plug Insertion",
+      "summary": "Page 13 content",
+      "keywords": [
+        "Distal Canal Sizing",
+        "Cement-Plug Insertion",
+        "Canal Cleaning",
+        "Accolade Distal Spacer",
+        "Universal Distal Spacer"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n\n# Step 13\n\n# Sizing of the Distal Canal\n\nTrial distal tips are used to size the inner diameter of the prepared femoral canal and determine the size of the centralizer.\n\nIf Using an Accolade Distal Spacer (1059-XXXX):\n\nUse the silver ring style Distal Sizer (1020-2100) and the selected trial distal tip to measure distal canal diameter. A ring style spacer that is the same size or 1mm larger than the chosen trial distal tip may be used and will encounter significant resistance at stem introduction depending on the consistency of the cement. Sink the Distal Sizer to align the appropriate groove to the medical resection (Figures 13A and 13B).\n\nIf Using a Universal Distal Spacer (1067-00XX):\n\nUse the gold Propeller Sizer (1020-2104) and the selected trial distal tip to measure distal canal diameter. The Universal Distal Spacer (propeller style) is designed to be inserted into the hole at the distal end of the stem. Sink the Distal Sizer to align the appropriate groove to the medial resection (Figure 13C).\n\n\n\n# Step 14\n\n# Cleaning the Canal and Cement-Plug Insertion\n\nMeticulous preparation of the intramedullary canal is essential for optimal cement pressurization and interlock into host bone interstices.\n\nA Sized Cement-Plug™ or the Universal Cement-Plug™ (Stryker B00X-XXXX) is employed to seal the femoral canal at the desired depth at least 1.5cm – 2cm below the tip of the femoral component.\n\nNote: If using a Universal Distal Spacer (1067-00XX), place the cement plug at least 2cm below the tip of the femoral component (Figure 14A).\n\nFree-hand broaching with the size 2 broach will remove soft, loose cancellous bone (Figure 14B). Pulsatile lavage provides an effective method for cleansing the canal of loose cancellous bone and marrow debris (Figure 14C).\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806639"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "Accolade C Cemented Surgical Technique",
+      "summary": "Page 14 content",
+      "keywords": [
+        "Accolade C Cemented Surgical Technique",
+        "canal preparation",
+        "cement delivery",
+        "procedure completion",
+        "figure reference"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Step 15\n\n# Final Canal Preparation and Cement Delivery\n\nThe medullary canal is thoroughly lavaged and dried with a lap pad prior to cement delivery (Figure 15A). A cement gun is employed to introduce doughy cement in a retrograde manner (Figures 15B and 15C). The distal portion of the nozzle is broken away below the conical pressurizer and the cement is pressurized with the cement gun and pressurizer over the nozzle (Figures 15D and 15E).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806661"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "Stem Preparation and Head Selection",
+      "summary": "Page 15 content",
+      "keywords": [
+        "stem preparation",
+        "head selection",
+        "Universal Adaptor Sleeve",
+        "BIOLOX delta Universal Taper Ceramic Femoral Head",
+        "femoral stem insertion"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Universal Adaptor Sleeve Compatibility",
+          "description": "Table from page 15",
+          "rows": [
+            {
+              "Universal Adaptor Sleeve Part Number": "6519-T-XXX",
+              "Taper Type": "V40",
+              "Compatible Stem Materials": "TMZF, Ti64, CoCr, SS"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Universal Adaptor Sleeve Part Number",
+              "Taper Type",
+              "Compatible Stem Materials"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Universal Adaptor Sleeve Part Number",
+            "Taper Type",
+            "Compatible Stem Materials"
+          ]
+        }
+      ],
+      "raw_content": "# Step 16\n\n# Stem Preparation and Head Selection\n\nThe appropriate stem, femoral head and distal spacer (ring style or propeller type) are assembled based on the final broach, trial neck, trial femoral head and distal canal bullet tip.\n\nThe head is placed on the dry trunnion, twisted and impacted with the head impactor and a light mallet tap. When utilizing an alumina ceramic head, a Titanium V40 Adapter Sleeve (17-0000E) must be placed on the trunnion prior to C-Taper head assembly. Verify the head is secure on the trunnion after head impaction.\n\nNOTE: When selecting a BIOLOX delta Universal Taper Ceramic Femoral Head for implantation, use of a Universal Adaptor Sleeve is necessary.\n\nUniversal Adaptor Sleeve Part Number: 6519-T-XXX\nTaper: V40\nStem Material Compatibility: TMZF, Ti64, CoCr, SS\n\nAfter completing the trialing process, intraoperatively assemble the Adaptor Sleeve to the femoral stem manually. The Universal Adaptor Sleeve must be fully seated on the stem taper before the head is assembled.\n\nNOTE: In no instance should any attempt be made to pre-assemble the Adaptor Sleeve inside the BIOLOX delta Universal Ceramic head.\n\nIntraoperatively assemble the BIOLOX delta Universal Taper Ceramic head onto the sleeved femoral stem and set with two moderate blows using the Stem Head Impactor (6266-0-140). Care must be taken to avoid excessive impact forces when assembling the Ceramic Head to the sleeved femoral component.\n\nThe distal spacer is then assembled onto the femoral component (Figure 16A). Twisting of the spacer during assembly may cause it to score and should be avoided.\n\nWhen using the Accolade Distal Spacer (ring style) or no centralizer at all, it is recommended that the distal hole be plugged with a small amount of unpolymerized bone cement or a Universal style Distal Plug (1067-0002) prior to insertion.\n\n# Step 17\n\n# Femoral Stem Insertion\n\nTo keep blood and fat from coming into contact with the stem, coat the proximal portion with doughy cement (Figure 17A).\n\nTo assist in aligning and seating the stem, the Accolade C stem inserter/pusher should be used.\n\nThe assembled stem is introduced into the femoral canal with an axial force, while the surgeon provides a laterally directed force (Figure 17B). The goal is to introduce the stem in neutral position with an adequate cement mantle. Excess cement is removed.\n\nAt final seating, the collar of the prosthesis should rest in intimate contact with the resected neck.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806677"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "Step 18: Closure",
+      "summary": "Page 16 content",
+      "keywords": [
+        "sutures",
+        "greater trochanter",
+        "lavage",
+        "hip reduction",
+        "gluteus maximus tendon",
+        "quadratus",
+        "vastus lateralis muscle",
+        "fascia lata",
+        "suction drain",
+        "subcutaneous tissues",
+        "skin approximation"
+      ],
+      "tables": [],
+      "raw_content": "\n# Step 18\n\n# Closure\n\nLoop sutures are placed through 2 drill holes in the greater trochanter (Figures 18A and 18B). After the cement has cured, a thorough lavage is performed to ensure that the acetabulum is devoid of debris. The hip is reduced (Figure 18C) and No. 1 Ethibond sutures are placed at the corners of the posterior myocapsular flap (Figure 18D). The gluteus maximus tendon and the quadratus are reattached to the posterior edge of the vastus lateralis muscle. The Ethibond sutures at the corners of the posterior myocapsular flap are passed through the drill holes in the greater trochanter and tied. A previously placed No. 1 Ethibond suture is utilized to approximate the gluteus medius tendon and superior edge of the posterior myocapsular flap to enhance capsular closure (Figure 18E).\n\nThe fascia lata is closed over a suction drain with interrupted and continuous vicryl sutures. The subcutaneous tissues and skin are approximated in a standard fashion.\n\nSuture used to approximate the gluteus medius tendon and superior edge of the posterior myocapsular flap.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806691"
+      }
+    },
+    {
+      "page_id": "page_17",
+      "title": "Accolade Cementless Surgical Technique",
+      "summary": "Page 17 content",
+      "keywords": [
+        "Accolade Cementless Surgical Technique",
+        "Accolade TMZF",
+        "Accolade HFx Hip System",
+        "pre-operative planning",
+        "X-Ray evaluation"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 17",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Accolade Cementless Surgical Technique - Accolade TMZF and Accolade HFx\n\n# The Accolade TMZF and Accolade HFx Hip System\n\nThe Accolade Cementless Instrument System is extremely versatile, offering surgeons great flexibility and ease of use in approaching the implantation of the Accolade Cementless Femoral Component. Each surgeon should use the surgical approach for total hip arthroplasty with which he/she is most familiar. Patient positioning, preparation and draping, skin incision, soft tissue dissection and hip dislocation should be performed according to the surgeon’s preferred technique, making certain to adequately expose the acetabulum and the proximal femur.\n\n# Step 1\n\n# Pre-Operative Considerations\n\nPre-operative planning aids in the determination of probable implant style and size and can facilitate operating room preparation. The pre-operative planning process should take qualitative and quantitative factors (including patient bone quality, density and morphology) into consideration in order to evaluate and select the appropriate instrument/implant system for the patient. Although qualitative methods such as radiographic analysis have been well documented, the use of supplemental methods, such as bone density (DEXA) scanning 1, may be considered when evaluating the use of a broach only femoral system.\n\n\n# Pre-Operative Planning and X-Ray Evaluation\n\nPre-operative planning aids in the selection of the appropriate implant style and size for the patient’s hip pathology. Optimal femoral stem fit, prosthetic neck length, and neck offset can be more closely evaluated with the use of pre-operative X-Ray analysis. The appropriate proximal body and stem length should be assessed in the A/P view. Determination of probable implant style and size can facilitate operating room preparation in order to have available the appropriate size selection. Anatomic anomalies that could prevent the intra-operative achievement of the established pre-operative goals may also be detected through such planning.\n\nMethod: A standard A/P pelvis radiograph is utilized (Figure 1A). Superimpose the X-Ray templates (120% magnification) on the radiograph, aligning the:\n\n1. Template to indicate the neck resection at a 45° angle to the piriformis fossa (Figure 1B)\n2. Medial aspect of the template with the medial cortex (Figure 1B)\n3. Lateral aspect of the template with the lateral cortex until an optimal fit is defined and the appropriate implant size selected (Figure 1B)\n4. Center of the femoral head to determine the appropriate neck angle (127° / 132°) that matches the hip anatomy (Figure 1B)\n\nNote: The Accolade HFx is only available in a 127˚ neck angle.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806702"
+      }
+    },
+    {
+      "page_id": "page_18",
+      "title": "Accolade TMZF and Accolade HFx Cementless Surgical Techniques",
+      "summary": "Page 18 content",
+      "keywords": [
+        "Accolade TMZF",
+        "Accolade HFx",
+        "Cementless Surgical Techniques",
+        "Neck Resection",
+        "Surgical Guide"
+      ],
+      "tables": [],
+      "raw_content": "# Accolade Cementless Surgical Technique - Accolade TMZF and Accolade HFx\n\n# Step 2\n\n# Neck Resection\n\nA proper neck resection level directly affects stem fit and placement. By using anatomic landmarks identified during templating, the Neck Resection Guide should be utilized for proper resection determination. The Neck Resection Guide is identical in size to a size 2 implant body, thus providing a means of simulating stem orientation and placement. After careful pre-operative templating, the guide is placed on the anterior/posterior aspect of the exposed proximal femur (by aligning the tip of the guide with the piriformis fossa) and the planned femoral neck cut is marked using the coagulation current. Care should be taken to align the body of the guide with the axis of the femoral canal (Figures 2A and 2B).\n\n# Surgeon’s Note:\n\nPoor exposure can often result in an anteverted neck resection. Don’t hesitate to re-cut an incorrect cut. Careful orientation of the flexed knee perpendicular to the floor helps to reduce the likelihood of this error. Caution should also be used so as not to extend laterally into the greater trochanter. The axial resection is made at the medial border of the greater trochanter to connect it with the neck resection.\n\nAn initial neck resection level can be planned by making a measurement from the greater trochanter to the Neck Resection Guide based on the pre-operative analysis. After this mark is inscribed, two blunt tipped Hohmann® Retractors are placed about the femoral neck to protect the soft tissues. The head and neck are then resected using a power saw. Ideally, the cut is made in neutral version.\n\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806716"
+      }
+    },
+    {
+      "page_id": "page_19",
+      "title": "Step 3: Opening the Femoral Canal Using the Axial Starter Reamer",
+      "summary": "Page 19 content",
+      "keywords": [
+        "Axial Starter Reamer",
+        "femoral canal",
+        "implant",
+        "Accolade TMZF",
+        "Accolade HFx"
+      ],
+      "tables": [],
+      "raw_content": "\n# Step 3\n\n# Opening the Femoral Canal: Axial Starter Reamer\n\nThe Axial Starter Reamer is circumferentially graduated along the flutes indicating both the depth (length) and the width of the implant body. The fitting allows use with either power equipment or with the use of the T-handle. The Axial Starter Reamer is used to enter the femoral canal.\n\nThe Starter Reamer has a sharpened point to facilitate entry and should be inserted to the depth of the final rasp (Figures 3A and 3B). The proper depth of the Starter Reamer can be determined by aligning the designated engraved grooves on the reamer shaft (for the size templated) with the medial calcar (Figure 3C). Lateral pressure on the reamer will help to provide for a neutral orientation of the implant (Figure 3D).\n\nNote: The proximal-most groove on the Starter Reamer represents the depth for the size 8 implant. The distal-most groove represents the depth for the size 1 implant (and should also be used to prepare for a size 0 implant). When utilizing a half size implant ream to the whole size below what you intend to use.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806728"
+      }
+    },
+    {
+      "page_id": "page_20",
+      "title": "Accolade Cementless Surgical Technique",
+      "summary": "Page 20 content",
+      "keywords": [
+        "Accolade TMZF",
+        "Accolade HFx",
+        "surgical technique",
+        "rasping",
+        "seating levels"
+      ],
+      "tables": [],
+      "raw_content": "# Accolade Cementless Surgical Technique - Accolade TMZF and Accolade HFx\n\n# Step 4\n\nRasping the Femur\n\nThere are 13 rasp bodies that correspond to the 13 proximal body geometries of the Accolade TMZF System.*\n\nThere are 8 rasp bodies that correspond to the 8 proximal body geometries of the Accolade HFx System.\n\n*The size 0 implant and rasp are available upon request only for the Accolade TMZF System.\n\n# Step 5\n\nSeating Levels\n\nProper insertion depth of the rasp in the canal is achieved when it seats tightly within the canal based on visual and auditory clues. The surgeon’s clues to firm implant fixation include increased pitch of sound with blows on rasp handle and increased resistance to forward advancement.\n\nReliance only on the neck cut may lead to improper sizing and inadequate component fixation.\n\nStarting with the smallest rasp, advance sequentially upward in size until the rasp matches that of the planned stem size and application (Figures 5A through 5D). The final rasp should seat firmly against medial and lateral cortical bone (Figures 5E and 5F). For proper alignment of the implant, it is imperative that axial alignment of the rasp be maintained at all times in the canal. If torsional stability is not achieved during rasping, while preparing for an Accolade HFx Stem, it may be necessary to use a cemented fracture femoral stem. The decision to use a cemented fracture stem, and the stem chosen, should be made at the surgeon’s discretion.\n\nGenerally, if a rasp sinks below the level of the neck cut, advance to the next larger rasp. If, on the other hand, the surgeon feels that the neck cut may have been slightly high, remove the rasp and re-cut the neck at a slightly lower level. Once the rasp sinks below the level of the neck cut, the surgeon typically loses the visual and auditory clues that tell him that the rasp is properly seated.\n\nNote: The rasps incorporate two grooves on the A/P surface (Figure 5G). These grooves serve only to assist in visually evaluating the progression of the rasp within the canal.\n\nUpon reaching the proper size and depth of the rasp, leave the final rasp fully seated in the canal and detach the rasp handle to allow for trial reduction. The rasp handle can be disengaged by simply compressing the trigger located on the rasp handle body (Figure 5H).\n\nOptional Calcar Planing Step. Leaving the final rasp seated in the femoral canal, gently guide the Calcar Planer over the rasp post (see note below) and initiate power prior to contacting the femur. Slowly advance the Calcar Planer toward the rasp to plane the femur. Planing will continue until the positive stop on the Planer contacts the rasp face.\n\nNote: In the event that the rasp post is seated completely below the resection plane (thus preventing engagement with the Calcar Planer), the rasp should be removed and the resection re-cut at a slightly lower level. The surgeon should then re-insert the final rasp ensuring a stable and snug fit.\n\nCaution: Failure to operate the Calcar Planer in accordance with the instructions above may result in damage to the femur.\n\n5A 5B 5C",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806739"
+      }
+    },
+    {
+      "page_id": "page_21",
+      "title": "Step 5 (Continued)",
+      "summary": "Page 21 content",
+      "keywords": [
+        "Step 5D",
+        "Step 5E",
+        "Step 5F",
+        "Step 5G",
+        "Step 5H",
+        "templated size",
+        "femoral canal",
+        "rasp",
+        "Accolade TMZF",
+        "Accolade HFx"
+      ],
+      "tables": [],
+      "raw_content": "\n# Step 5 (continued)\n\nSurgeon’s Note:\n\nRemember that the templated size may not exactly match the rasp that fits properly within the femoral canal. Again, tactile, auditory, and visual clues in this regard are more important than the templated size. It is the authors’ personal preference that the rasp seats at a level slightly above the neck level. Only then can one be certain that the femoral canal has been properly sized.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806750"
+      }
+    },
+    {
+      "page_id": "page_22",
+      "title": "Accolade Cementless Surgical Technique",
+      "summary": "Page 22 content",
+      "keywords": [
+        "Accolade Cementless Surgical Technique",
+        "Trial Reduction",
+        "hip mechanics",
+        "implantation",
+        "final component"
+      ],
+      "tables": [],
+      "raw_content": "# Step 6\n\n# Trial Reduction\n\nThe trial assembly, which consists of the rasp, trial neck and trial head, is used to provide a thorough evaluation of the hip mechanics during trial reduction. Before the selection and implantation of the final component, modifications to the pre-operative plan in terms of neck length and/or head diameter can be made.\n\nSelect an Accolade Trial Neck which has the same base neck length as the planned implant size. This can easily be confirmed by matching the color indicator located on top of the neck trial taper to the color indicator on top of the rasp (Figure 6A). Firmly place the Accolade Trial Neck over the post of the rasp by positioning it into the slot located in the rasp and pressing. Next, select a V40 Trial Head and place it onto the Accolade Trial Neck (Figures 6B and 6C). The V40 Trial Heads are available in -4mm, 0mm, +4mm, +8mm, and +12mm neck lengths to create the desired neck length of the prosthesis.*\n\n*36mm V40 Trial Heads are available in -5, +0, +5 and +10mm offsets.\n\nPerform a trial reduction of the hip. Upon confirmation of the selected components, remove the trial head and trial neck, and reassemble the rasp handle. Remove the rasp with the help of the slotted mallet to preserve the integrity of the handle and locking mechanism.\n\nSurgeon’s Note: Neck length is adjusted until leg lengths are equal and stability can be checked by telescoping the leg and performing a full range of motion. If the hip is unstable, (i.e., excessive telescoping >2mm) or dislocates, then the extended offset design 127° neck angle should be considered as an option (Figures 6D and 6E).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806762"
+      }
+    },
+    {
+      "page_id": "page_23",
+      "title": "Step 7: Femoral Stem Insertion",
+      "summary": "Page 23 content",
+      "keywords": [
+        "Femoral Stem Insertion",
+        "Accolade Femoral Stem Impactor/Extractor",
+        "femoral component",
+        "bone density",
+        "implant seating"
+      ],
+      "tables": [],
+      "raw_content": "# Step 7\n\n# Femoral Stem Insertion\n\nThread the Accolade Femoral Stem Impactor/Extractor (1020-1600) into the recess on the proximal face of the stem (Figures 7A and 7B). To help prevent damaging the threads on the implant or the instrument, be certain that the Accolade Femoral Stem Impactor/Extractor is fully seated against the proximal face of the stem. A mallet is then used to seat the stem into the canal (Figures 7C and 7D).\n\nThe surgeon should NOT attempt to continue impacting the femoral component if visual and auditory clues indicate that the resting position of the femoral component has been reached (Figure 7E). This is true even if the femoral component is not yet down to the level of the rasp.\n\nCaution: Continued aggressive impaction may lead to femoral fracture.\n\nIn the event that dense bone is encountered intra-operatively and compounding anatomical factors (such as a “champagne flute” intramedullary canal) are present, the seating of the implant may not be consistent with the level of the rasp due to the viscoelastic nature of the femoral bone2; although the rasp may seat flush with the resection plane or the desired height as determined through pre-operative planning. The impact of bone density on implant seating has been confirmed through in-vitro analysis, yielding a direct correlation between increased bone density and increased seating height relative to the level of the rasp.3 If seating of the implant is difficult, continued aggressive impaction may lead to femoral fracture. To achieve implant seating that is more consistent with the level of the final rasp, the surgeon can consider removing the prosthesis and performing additional rasping (with the rasp that matches the final implant size). Repetitive and controlled mallet strikes can be used to advance and extract the rasp to adequately prepare the distal femur to accept the final implant.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806775"
+      }
+    },
+    {
+      "page_id": "page_24",
+      "title": "Accolade Cementless Surgical Technique",
+      "summary": "Page 24 content",
+      "keywords": [
+        "Accolade TMZF",
+        "Accolade HFx",
+        "Femoral Stem Insertion",
+        "Head Assembly",
+        "Universal Adaptor Sleeve"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Universal Adaptor Sleeve Compatibility",
+          "description": "Table from page 24",
+          "rows": [
+            {
+              "Universal Adaptor Sleeve Part Number": "6519-T-XXX",
+              "Taper": "V40",
+              "Stem Material Compatibility": "TMZF, Ti64, CoCr, SS"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Universal Adaptor Sleeve Part Number",
+              "Taper",
+              "Stem Material Compatibility"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Universal Adaptor Sleeve Part Number",
+            "Taper",
+            "Stem Material Compatibility"
+          ]
+        }
+      ],
+      "raw_content": "# Step 8\n\n# Femoral Stem Insertion Option\n\nAn alternative method for inserting the Accolade TMZF Femoral Stem is with the Accolade Stem Inserter (Quick Connect) (1020-1500).* Place the bullet tipped end of the Stem Inserter into the drive hole of the stem and press the two components together, taking care to align the version tab on the inserter with the slot on the stem (Figure 8). The split collet design provides the inserter with a stable spring connection, but it does not provide a mechanical lock. Therefore, this assembly should be handled with care, as excessive shaking or motion may disassociate the stem from the inserter. Accolade TMZF Size 0, 1 and 2 stems have not been designed with the version tab and thus cannot be implanted using the Accolade Stem Inserter (Quick Connect). The surgeon must use the Threaded Impactor/Extractor for size 0, 1 and 2 stems.\n\n*The Quick Connect Inserter (1020-1500) is not for use with the Accolade HFx stem.\n\n# Step 9\n\n# Head Assembly\n\nPrior to head assembly, neck length selection may be re-evaluated using a Stryker V40 Trial Head. Place the Trial Head onto the stem neck taper and reduce the hip to verify that the mechanics have not been altered due to implant seating. Remove the Trial Head and dry the implant trunnion with a laparatomy sponge or sterile towel. Select the appropriate corresponding V40 Femoral Head size and place it onto the dry trunnion of the femoral stem with a slight twist. When using an alumina ceramic head with the Accolade HFx stem, a titanium V40 adaptor sleeve (17-0000E) must be placed on the trunnion prior to C-taper head assembly. Care must be taken to avoid excessive impaction forces when assembling the ceramic head to the sleeve component. Verify the head is secure on the trunnion after head impaction. If necessary, the head can be removed utilizing the head disassembly instrument.** Impact the head with two moderate blows using the Stem Head Impactor (6266-0-140).\n\n**If a ceramic head is placed on the trunnion and then removed, it must be replaced with a V40 cobalt chrome head or a V40 Titanium Adapter Sleeve (17-0000E) and a C-Taper ceramic head.\n\n# Optional Step\n\nNOTE: When selecting a BIOLOX delta Universal Taper Ceramic Femoral Head for implantation, use of a Universal Adaptor Sleeve is necessary.\nUniversal Adaptor Sleeve Part Number: 6519-T-XXX\nTaper: V40\nStem Material Compatibility: TMZF, Ti64, CoCr, SS\n\n\nAfter completing the trialing process, intraoperatively assemble the Adaptor Sleeve to the femoral stem manually. The Universal Adaptor Sleeve must be fully seated on the stem taper before the head is assembled.\n\nNOTE: In no instance should any attempt be made to pre-assemble the Adaptor Sleeve inside the BIOLOX delta Universal Ceramic head. Intraoperatively assemble the BIOLOX delta Universal Taper Ceramic head onto the sleeved femoral stem and set with two moderate blows using the Stem Head Impactor (6266-0-140). Care must be taken to avoid excessive impact forces when assembling the Ceramic Head to the sleeved femoral component.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806787"
+      }
+    },
+    {
+      "page_id": "page_25",
+      "title": "Step 10: Closure Procedure",
+      "summary": "Page 25 content",
+      "keywords": [
+        "Closure Procedure",
+        "surgical operation",
+        "femoral head",
+        "acetabular cup",
+        "Accolade TMZF",
+        "Accolade HFx"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Accolade TMZF and Accolade HFx Details",
+          "description": "Table from page 25",
+          "rows": [
+            {
+              "Accolade Type": "Accolade TMZF",
+              "Description": "[Data Here]"
+            },
+            {
+              "Accolade Type": "Accolade HFx",
+              "Description": "[Data Here]"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Accolade Type",
+              "Description"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Accolade Type",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "# Step 10\n\n# Closure\n\nRelocate the femoral head into the acetabular cup and re-check the laxity and range of motion. The surgical site is then closed according to surgeon preference.\n\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806800"
+      }
+    },
+    {
+      "page_id": "page_26",
+      "title": "Accolade System Instrument Ordering Information",
+      "summary": "Page 26 content",
+      "keywords": [
+        "Accolade System",
+        "Instrument",
+        "Catalog Number",
+        "Basic Procedure Tray",
+        "Cemented Procedure Tray"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Basic Procedure Tray Instruments",
+          "description": "Table from page 26",
+          "rows": [
+            {
+              "Catalog Number": "1020-1100",
+              "Instrument Description": "Neck Resection Guide"
+            },
+            {
+              "Catalog Number": "1101-2100",
+              "Instrument Description": "T-Handle"
+            },
+            {
+              "Catalog Number": "1120-1000",
+              "Instrument Description": "Mallet"
+            },
+            {
+              "Catalog Number": "1020-1400",
+              "Instrument Description": "2 x Offset Rasp Handles"
+            },
+            {
+              "Catalog Number": "1020-2730",
+              "Instrument Description": "127 deg, 30mm Neck Trial"
+            },
+            {
+              "Catalog Number": "1020-2735",
+              "Instrument Description": "127 deg, 35mm Neck Trial"
+            },
+            {
+              "Catalog Number": "1020-2737",
+              "Instrument Description": "127 deg, 37mm Neck Trial"
+            },
+            {
+              "Catalog Number": "1020-2740",
+              "Instrument Description": "127 deg, 40mm Neck Trial"
+            },
+            {
+              "Catalog Number": "1020-3230",
+              "Instrument Description": "132 deg, 30mm Neck Trial"
+            },
+            {
+              "Catalog Number": "1020-3235",
+              "Instrument Description": "132 deg, 35mm Neck Trial"
+            },
+            {
+              "Catalog Number": "1020-3237",
+              "Instrument Description": "132 deg, 37mm Neck Trial"
+            },
+            {
+              "Catalog Number": "1020-3240",
+              "Instrument Description": "132 deg, 40mm Neck Trial"
+            },
+            {
+              "Catalog Number": "6264-8-026R",
+              "Instrument Description": "26mm -3mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-126R",
+              "Instrument Description": "26mm STND V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-7-226R",
+              "Instrument Description": "26mm +4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-326R",
+              "Instrument Description": "26mm +8mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-426R",
+              "Instrument Description": "26mm +12mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-028R",
+              "Instrument Description": "28mm -4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-128R",
+              "Instrument Description": "28mm STND V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-228R",
+              "Instrument Description": "28mm +4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-328R",
+              "Instrument Description": "28mm +8mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-428R",
+              "Instrument Description": "28mm +12mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-928R",
+              "Instrument Description": "28mm -2.7mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-032R",
+              "Instrument Description": "32mm -4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-132R",
+              "Instrument Description": "32mm STND V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-232R",
+              "Instrument Description": "32mm +4mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-332R",
+              "Instrument Description": "32mm +8mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "6264-8-432R",
+              "Instrument Description": "32mm +12mm V40 Trial Head"
+            },
+            {
+              "Catalog Number": "1020-2700",
+              "Instrument Description": "Calcar Planar"
+            },
+            {
+              "Catalog Number": "6266-0-140",
+              "Instrument Description": "Head Impactor"
+            },
+            {
+              "Catalog Number": "1113-1001 or 6266-5-005",
+              "Instrument Description": "Box Chisel"
+            },
+            {
+              "Catalog Number": "1020-6000",
+              "Instrument Description": "Basic Procedure Tray"
+            },
+            {
+              "Catalog Number": "8000-0100",
+              "Instrument Description": "Outer Case"
+            }
+          ],
+          "metadata": {
+            "row_count": 33,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Cemented Procedure Tray Instruments",
+          "description": "Table from page 26",
+          "rows": [
+            {
+              "Catalog Number": "1101-0304",
+              "Instrument Description": "Starter Reamer"
+            },
+            {
+              "Catalog Number": "1020-2200",
+              "Instrument Description": "Trochanteric Reamer - Small"
+            },
+            {
+              "Catalog Number": "1020-2201",
+              "Instrument Description": "Trochanteric Reamer - Large"
+            },
+            {
+              "Catalog Number": "1020-2100",
+              "Instrument Description": "Distal Sizer"
+            },
+            {
+              "Catalog Number": "1020-2104",
+              "Instrument Description": "Propeller Sizer"
+            },
+            {
+              "Catalog Number": "1212-0008",
+              "Instrument Description": "Trial Distal Tip - 8mm"
+            },
+            {
+              "Catalog Number": "1212-0009",
+              "Instrument Description": "Trial Distal Tip - 9mm"
+            },
+            {
+              "Catalog Number": "1212-0010",
+              "Instrument Description": "Trial Distal Tip - 10mm"
+            },
+            {
+              "Catalog Number": "1212-0011",
+              "Instrument Description": "Trial Distal Tip - 11mm"
+            },
+            {
+              "Catalog Number": "1212-0012",
+              "Instrument Description": "Trial Distal Tip - 12mm"
+            },
+            {
+              "Catalog Number": "1212-0013",
+              "Instrument Description": "Trial Distal Tip - 13mm"
+            },
+            {
+              "Catalog Number": "1212-0014",
+              "Instrument Description": "Trial Distal Tip - 14mm"
+            },
+            {
+              "Catalog Number": "1212-0015",
+              "Instrument Description": "Trial Distal Tip - 15mm"
+            },
+            {
+              "Catalog Number": "1212-0016",
+              "Instrument Description": "Trial Distal Tip - 16mm"
+            },
+            {
+              "Catalog Number": "1212-0017",
+              "Instrument Description": "Trial Distal Tip - 17mm"
+            },
+            {
+              "Catalog Number": "1212-0018",
+              "Instrument Description": "Trial Distal Tip - 18mm"
+            },
+            {
+              "Catalog Number": "1020-2002",
+              "Instrument Description": "Size 2 Broach"
+            },
+            {
+              "Catalog Number": "1020-2003",
+              "Instrument Description": "Size 3 Broach"
+            },
+            {
+              "Catalog Number": "1020-2004",
+              "Instrument Description": "Size 4 Broach"
+            },
+            {
+              "Catalog Number": "1020-2005",
+              "Instrument Description": "Size 5 Broach"
+            },
+            {
+              "Catalog Number": "1020-2006",
+              "Instrument Description": "Size 6 Broach"
+            },
+            {
+              "Catalog Number": "1020-2007",
+              "Instrument Description": "Size 7 Broach"
+            },
+            {
+              "Catalog Number": "1020-2500",
+              "Instrument Description": "Stem Inserter"
+            },
+            {
+              "Catalog Number": "1020-7000",
+              "Instrument Description": "Cemented Procedure Tray"
+            }
+          ],
+          "metadata": {
+            "row_count": 24,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806815"
+      }
+    },
+    {
+      "page_id": "page_27",
+      "title": "Cementless Procedure Tray and Optional Instrumentation",
+      "summary": "Page 27 content",
+      "keywords": [
+        "Cementless Procedure Tray",
+        "Accolade HFx Broach Tray",
+        "Minimally Invasive Instrumentation",
+        "Instrument Description",
+        "Catalog Number"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Cementless Procedure Tray",
+          "description": "Table from page 27",
+          "rows": [
+            {
+              "Catalog Number": "1020-5100, 1020-0000L",
+              "Instrument Description": "Size 0 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5101, 1020-1001L",
+              "Instrument Description": "Size 1 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5102, 1020-1002L",
+              "Instrument Description": "Size 2 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5125, 1020-1025L",
+              "Instrument Description": "Size 2.5 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5103, 1020-1003L",
+              "Instrument Description": "Size 3 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5135, 1020-1035L",
+              "Instrument Description": "Size 3.5 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5104, 1020-1004L",
+              "Instrument Description": "Size 4 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5145, 1020-1045L",
+              "Instrument Description": "Size 4.5 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5105, 1020-1005L",
+              "Instrument Description": "Size 5 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5155, 1020-1055L",
+              "Instrument Description": "Size 5.5 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5106, 1020-1006L",
+              "Instrument Description": "Size 6 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5107, 1020-1007L",
+              "Instrument Description": "Size 7 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5108, 1020-1008L",
+              "Instrument Description": "Size 8 Rasp"
+            },
+            {
+              "Catalog Number": "1020-1200",
+              "Instrument Description": "Axial Starter Reamer"
+            },
+            {
+              "Catalog Number": "1020-1500*",
+              "Instrument Description": "Stem Inserter"
+            },
+            {
+              "Catalog Number": "1020-1600",
+              "Instrument Description": "Accolade Stem Inserter/Extractor"
+            },
+            {
+              "Catalog Number": "1020-8500",
+              "Instrument Description": "Cementless Procedure Tray"
+            }
+          ],
+          "metadata": {
+            "row_count": 17,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Accolade HFx Broach Tray  (Optional)",
+          "description": "Table from page 27",
+          "rows": [
+            {
+              "Catalog Number": "1020-5101",
+              "Instrument Description": "Size 1 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5102",
+              "Instrument Description": "Size 2 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5103",
+              "Instrument Description": "Size 3 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5104",
+              "Instrument Description": "Size 4 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5105",
+              "Instrument Description": "Size 5 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5106",
+              "Instrument Description": "Size 6 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5107",
+              "Instrument Description": "Size 7 Rasp"
+            },
+            {
+              "Catalog Number": "1020-5108",
+              "Instrument Description": "Size 8 Rasp"
+            },
+            {
+              "Catalog Number": "1020-9003",
+              "Instrument Description": "Accolade HFx Broach Tray"
+            }
+          ],
+          "metadata": {
+            "row_count": 9,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        },
+        {
+          "table_id": "table_3",
+          "title": "Minimally Invasive Instrumentation (Optional)",
+          "description": "Table from page 27",
+          "rows": [
+            {
+              "Catalog Number": "5900-0050",
+              "Instrument Description": "T-Handle"
+            },
+            {
+              "Catalog Number": "1440-1040",
+              "Instrument Description": "Quick Connect Handle"
+            },
+            {
+              "Catalog Number": "1440-1050",
+              "Instrument Description": "Alignment Rod"
+            },
+            {
+              "Catalog Number": "1440-1700",
+              "Instrument Description": "Neck Trial Forceps"
+            },
+            {
+              "Catalog Number": "1440-1010",
+              "Instrument Description": "Femoral Head Extractor"
+            },
+            {
+              "Catalog Number": "1440-1400",
+              "Instrument Description": "Straight Accolade Rasp Handle"
+            },
+            {
+              "Catalog Number": "1440-1000",
+              "Instrument Description": "Neck Resection Guide"
+            },
+            {
+              "Catalog Number": "1440-1070",
+              "Instrument Description": "Femoral Head Impactor"
+            },
+            {
+              "Catalog Number": "1440-0040",
+              "Instrument Description": "Tray"
+            }
+          ],
+          "metadata": {
+            "row_count": 9,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806830"
+      }
+    },
+    {
+      "page_id": "page_28",
+      "title": "❌ Missing Data - Page 28",
+      "summary": "Page 28 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 28\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806848"
+      }
+    },
+    {
+      "page_id": "page_29",
+      "title": "Accolade TMZF and HFx Femoral Stems Specifications",
+      "summary": "Page 29 content",
+      "keywords": [
+        "Accolade TMZF",
+        "Accolade HFx",
+        "Femoral Stems",
+        "Stem Size",
+        "Stem Length",
+        "Neck Length",
+        "Offset"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Accolade TMZF Cementless Femoral Stem (127° Neck Angle) Specifications",
+          "description": "Table from page 29",
+          "rows": [
+            {
+              "Catalog Number": "6021-0030*",
+              "Stem Size (Unitless)": "0",
+              "Stem Length from Medial Calcar (mm)": "86",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "37"
+            },
+            {
+              "Catalog Number": "6021-0130",
+              "Stem Size (Unitless)": "1",
+              "Stem Length from Medial Calcar (mm)": "110",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "38"
+            },
+            {
+              "Catalog Number": "6021-0230",
+              "Stem Size (Unitless)": "2",
+              "Stem Length from Medial Calcar (mm)": "115",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "39"
+            },
+            {
+              "Catalog Number": "6021-2530",
+              "Stem Size (Unitless)": "2.5",
+              "Stem Length from Medial Calcar (mm)": "118",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "40"
+            },
+            {
+              "Catalog Number": "6021-0335",
+              "Stem Size (Unitless)": "3",
+              "Stem Length from Medial Calcar (mm)": "120",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "43"
+            },
+            {
+              "Catalog Number": "6021-3535",
+              "Stem Size (Unitless)": "3.5",
+              "Stem Length from Medial Calcar (mm)": "124",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "43"
+            },
+            {
+              "Catalog Number": "6021-0435",
+              "Stem Size (Unitless)": "4",
+              "Stem Length from Medial Calcar (mm)": "125",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "44"
+            },
+            {
+              "Catalog Number": "6021-4535",
+              "Stem Size (Unitless)": "4.5",
+              "Stem Length from Medial Calcar (mm)": "129",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "45"
+            },
+            {
+              "Catalog Number": "6021-0537",
+              "Stem Size (Unitless)": "5",
+              "Stem Length from Medial Calcar (mm)": "130",
+              "Neck Length (mm)": "37",
+              "Offset (+0mm) (mm)": "48"
+            },
+            {
+              "Catalog Number": "6021-5537",
+              "Stem Size (Unitless)": "5.5",
+              "Stem Length from Medial Calcar (mm)": "133",
+              "Neck Length (mm)": "37",
+              "Offset (+0mm) (mm)": "49"
+            },
+            {
+              "Catalog Number": "6021-0637",
+              "Stem Size (Unitless)": "6",
+              "Stem Length from Medial Calcar (mm)": "135",
+              "Neck Length (mm)": "37",
+              "Offset (+0mm) (mm)": "49"
+            },
+            {
+              "Catalog Number": "6021-0740",
+              "Stem Size (Unitless)": "7",
+              "Stem Length from Medial Calcar (mm)": "140",
+              "Neck Length (mm)": "40",
+              "Offset (+0mm) (mm)": "53"
+            },
+            {
+              "Catalog Number": "6021-0840",
+              "Stem Size (Unitless)": "8",
+              "Stem Length from Medial Calcar (mm)": "145",
+              "Neck Length (mm)": "40",
+              "Offset (+0mm) (mm)": "54"
+            }
+          ],
+          "metadata": {
+            "row_count": 13,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Stem Size (Unitless)",
+              "Stem Length from Medial Calcar (mm)",
+              "Neck Length (mm)",
+              "Offset (+0mm) (mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Stem Size (Unitless)",
+            "dimensions",
+            "sizing",
+            "Stem Length from Medial Calcar (mm)",
+            "size",
+            "Neck Length (mm)",
+            "Offset (+0mm) (mm)"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Accolade TMZF Cementless Femoral Stem (132° Neck Angle) Specifications",
+          "description": "Table from page 29",
+          "rows": [
+            {
+              "Catalog Number": "6020-0030*",
+              "Stem Size (Unitless)": "0",
+              "Stem Length from Medial Calcar (mm)": "86",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "33"
+            },
+            {
+              "Catalog Number": "6020-0130",
+              "Stem Size (Unitless)": "1",
+              "Stem Length from Medial Calcar (mm)": "110",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "34"
+            },
+            {
+              "Catalog Number": "6020-0230",
+              "Stem Size (Unitless)": "2",
+              "Stem Length from Medial Calcar (mm)": "115",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "35"
+            },
+            {
+              "Catalog Number": "6020-2530",
+              "Stem Size (Unitless)": "2.5",
+              "Stem Length from Medial Calcar (mm)": "118",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "36"
+            },
+            {
+              "Catalog Number": "6020-0335",
+              "Stem Size (Unitless)": "3",
+              "Stem Length from Medial Calcar (mm)": "120",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "39"
+            },
+            {
+              "Catalog Number": "6020-3535",
+              "Stem Size (Unitless)": "3.5",
+              "Stem Length from Medial Calcar (mm)": "124",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "39"
+            },
+            {
+              "Catalog Number": "6020-0435",
+              "Stem Size (Unitless)": "4",
+              "Stem Length from Medial Calcar (mm)": "125",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "40"
+            },
+            {
+              "Catalog Number": "6020-4535",
+              "Stem Size (Unitless)": "4.5",
+              "Stem Length from Medial Calcar (mm)": "129",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "41"
+            },
+            {
+              "Catalog Number": "6020-0537",
+              "Stem Size (Unitless)": "5",
+              "Stem Length from Medial Calcar (mm)": "130",
+              "Neck Length (mm)": "37",
+              "Offset (+0mm) (mm)": "44"
+            },
+            {
+              "Catalog Number": "6020-5537",
+              "Stem Size (Unitless)": "5.5",
+              "Stem Length from Medial Calcar (mm)": "133",
+              "Neck Length (mm)": "37",
+              "Offset (+0mm) (mm)": "45"
+            },
+            {
+              "Catalog Number": "6020-0637",
+              "Stem Size (Unitless)": "6",
+              "Stem Length from Medial Calcar (mm)": "135",
+              "Neck Length (mm)": "37",
+              "Offset (+0mm) (mm)": "45"
+            },
+            {
+              "Catalog Number": "6020-0740",
+              "Stem Size (Unitless)": "7",
+              "Stem Length from Medial Calcar (mm)": "140",
+              "Neck Length (mm)": "40",
+              "Offset (+0mm) (mm)": "48"
+            },
+            {
+              "Catalog Number": "6020-0840",
+              "Stem Size (Unitless)": "8",
+              "Stem Length from Medial Calcar (mm)": "145",
+              "Neck Length (mm)": "40",
+              "Offset (+0mm) (mm)": "49"
+            }
+          ],
+          "metadata": {
+            "row_count": 13,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Stem Size (Unitless)",
+              "Stem Length from Medial Calcar (mm)",
+              "Neck Length (mm)",
+              "Offset (+0mm) (mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Stem Size (Unitless)",
+            "dimensions",
+            "sizing",
+            "Stem Length from Medial Calcar (mm)",
+            "size",
+            "Neck Length (mm)",
+            "Offset (+0mm) (mm)"
+          ]
+        },
+        {
+          "table_id": "table_3",
+          "title": "Accolade HFx Cementless Femoral Stems (127º Neck Angle) Specifications",
+          "description": "Table from page 29",
+          "rows": [
+            {
+              "Catalog Number": "6077-0130",
+              "Stem Size (Unitless)": "1",
+              "Stem Length from Medial Calcar (mm)": "110",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "38"
+            },
+            {
+              "Catalog Number": "6077-0230",
+              "Stem Size (Unitless)": "2",
+              "Stem Length from Medial Calcar (mm)": "115",
+              "Neck Length (mm)": "30",
+              "Offset (+0mm) (mm)": "39"
+            },
+            {
+              "Catalog Number": "6077-0335",
+              "Stem Size (Unitless)": "3",
+              "Stem Length from Medial Calcar (mm)": "120",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "43"
+            },
+            {
+              "Catalog Number": "6077-0435",
+              "Stem Size (Unitless)": "4",
+              "Stem Length from Medial Calcar (mm)": "125",
+              "Neck Length (mm)": "35",
+              "Offset (+0mm) (mm)": "44"
+            },
+            {
+              "Catalog Number": "6077-0537",
+              "Stem Size (Unitless)": "5",
+              "Stem Length from Medial Calcar (mm)": "130",
+              "Neck Length (mm)": "37",
+              "Offset (+0mm) (mm)": "48"
+            },
+            {
+              "Catalog Number": "6077-0637",
+              "Stem Size (Unitless)": "6",
+              "Stem Length from Medial Calcar (mm)": "135",
+              "Neck Length (mm)": "37",
+              "Offset (+0mm) (mm)": "49"
+            },
+            {
+              "Catalog Number": "6077-0740",
+              "Stem Size (Unitless)": "7",
+              "Stem Length from Medial Calcar (mm)": "140",
+              "Neck Length (mm)": "40",
+              "Offset (+0mm) (mm)": "53"
+            },
+            {
+              "Catalog Number": "6077-0840",
+              "Stem Size (Unitless)": "8",
+              "Stem Length from Medial Calcar (mm)": "145",
+              "Neck Length (mm)": "40",
+              "Offset (+0mm) (mm)": "54"
+            }
+          ],
+          "metadata": {
+            "row_count": 8,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Stem Size (Unitless)",
+              "Stem Length from Medial Calcar (mm)",
+              "Neck Length (mm)",
+              "Offset (+0mm) (mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Stem Size (Unitless)",
+            "dimensions",
+            "sizing",
+            "Stem Length from Medial Calcar (mm)",
+            "size",
+            "Neck Length (mm)",
+            "Offset (+0mm) (mm)"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806859"
+      }
+    },
+    {
+      "page_id": "page_30",
+      "title": "Useless - Page 30",
+      "summary": "Page 30 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806881"
+      }
+    },
+    {
+      "page_id": "page_31",
+      "title": "Useless - Page 31",
+      "summary": "Page 31 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806895"
+      }
+    },
+    {
+      "page_id": "page_32",
+      "title": "Useless - Page 32",
+      "summary": "Page 32 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:58:52.806906"
+      }
+    }
+  ]
+}

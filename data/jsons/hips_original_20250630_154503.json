@@ -1,0 +1,1050 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-06-30T15:45:03.662432",
+    "total_pages": 16,
+    "total_tables": 22,
+    "portfolio": "hips",
+    "review_status": {
+      "approved_pages": 15,
+      "flagged_pages": 0,
+      "missing_pages": [],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        2,
+        3,
+        9,
+        12,
+        15,
+        16,
+        22,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 1",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662548"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Data Driven Design - Stryker Orthopaedics Modeling and Analytics",
+      "summary": "Page 2 content",
+      "keywords": [
+        "Stryker",
+        "Insignia",
+        "SOMA",
+        "implant design",
+        "muscle-sparing approaches"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 2",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n# Data driven design\n\naligned to your approach\n\nFounded on Stryker’s signature principles of implant fit, function and flexibility, Insignia is your collared, metaphyseal-filling hip stem designed specifically for muscle-sparing approaches. Combined with Trident II and MDM, you’re poised to elevate the standard of care for hips.\n\n# Stryker Orthopaedics Modeling and Analytics\n\nInsignia continues Stryker’s heritage of 3D CT-based implant design through SOMA (Stryker Orthopaedics Modeling and Analytics) technology, the world’s largest collection of high-resolution CT-based scans of upper and lower extremities. SOMA’s unparalleled bone database is leveraged through an intelligent, 3D modeling software system that allows Stryker to instantaneously test how an implant fits different types of anatomies, from bones with tight distal canals to bones with thin cortices.\n\nFirst used in Accolade II with its size-specific medial curvature, SOMA allowed Stryker to design and test unique implant features to allow for an enhanced implant fit across various femoral morphologies.\n\nInsignia is your collared, metaphyseal-filling stem, designed using SOMA* to provide one simple option for all bone types.\n\n# Addressing today’s needs for tomorrow’s patients\n\nToday’s THA landscape has shifted dramatically over the past decade with muscle-sparing approaches, like Direct Anterior, now accounting for approximately 45% of performed procedures.¹ Simultaneously, healthcare has shifted to combined payment models and new sites of care, like ambulatory surgical centers, which have experienced an increasing demand for patients to be discharged in less than 24 hours.\n\nMany current femoral stem designs predate the emergence of this novel demand. Short, fully HA coated stems have achieved popularity due to their simplicity and ease of insertion. Incidences of proximal-distal mismatch, distal potting, collar overhang, subsidence, and periprosthetic fracture suggest a need for a data-driven implant to enhance implant fit across today’s patient population.3,4,5\n\n\nWith this goal in mind, Stryker set out to create an implant which capitalizes on the clinically successful designs of Accolade II and Secur-Fit to meet the unique needs of today’s patient population and muscle-sparing approaches.2,6,7 The result: the Insignia Hip Stem.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662569"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Design Principles, Function, and Flexibility",
+      "summary": "Page 3 content",
+      "keywords": [
+        "SOMA-designed geometries",
+        "Tri-Stageᵀᴹ Broach",
+        "Slim-distal profile",
+        "Dorr A bone friendly",
+        "Size-specific collar",
+        "Purefix Hydroxyapetite (HA) coating",
+        "Additional 5mm size",
+        "Direct lateral offset",
+        "SOMA-verified femoral offset",
+        "Proportional neck lengths",
+        "Aligned to your approach",
+        "Designed for ease of insertion",
+        "Broaching efficiency",
+        "Mako SmartRoboticsᵀᴹ",
+        "Market-leading implant portfolio"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 3",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 3",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_3",
+          "title": "Useless",
+          "description": "Table from page 3",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Design principles\n\nFit\n• SOMA-designed geometries\n• Tri-StageTM Broach\n• Slim-distal profile\n• Dorr A bone friendly\n\nFunction\n• Size-specific collar\n• Purefix Hydroxyapetite (HA) coating\n• Direct lateral offset\n• SOMA-verified femoral offset\n• Proportional neck lengths\n\nFlexibility\n• Aligned to your approach\n• Designed for ease of insertion\n• Broaching efficiency\n• Mako SmartRoboticsTM\n• Market-leading implant portfolio",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662586"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "SOMA-designed body geometries and Stryker's legacy",
+      "summary": "Page 4 content",
+      "keywords": [
+        "SOMA design",
+        "Insignia",
+        "Accolade II",
+        "Secur-Fit",
+        "Stryker's legacy",
+        "medial curvature",
+        "bone mineral density",
+        "survivorship rate"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 4",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Fit\n\n# SOMA-designed body geometries\n\nFounded on Stryker’s legacy of clinically successful and market leading stem designs, Insignia’s body geometry incorporates the SOMA design of Accolade II and the trapezoidal design of Secur-Fit to optimize cortical engagement and proximal fill.6,7\n\n# Size-specific medial curvature\n\nInsignia leverages Accolade II’s clinically successful Medial / Lateral (M/L) body geometry, including the size-specific medial curvature.6,8,9 This SOMA-designed* feature has demonstrated a more conforming proximal cortical fit for improved stability10,11 and maintained 100% bone mineral density of the medial calcar at 5 years.¹²\n\nAccolade II’s features have driven it to become the market-leading tapered wedge stem¹³ in the U.S. with over 1 million stems implanted worldwide.¹⁴",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662607"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "Metaphyseal-filling design",
+      "summary": "Page 5 content",
+      "keywords": [
+        "Insignia",
+        "Secur-Fit",
+        "Accolade II",
+        "metaphyseal-filling design",
+        "optimized A/P fill"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 5",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "Metaphyseal-filling design\n\nInsignia builds upon the heritage of Omnifit and Secur-Fit that has defined Stryker’s fit and fill stems for decades. Since its first implantation in 1995, Secur-Fit has the lowest revision rates and the longest follow-up in the Australian Joint Registry at 20 years.⁶\n\nOptimized A/P fill†\n\nThe Anterior / Posterior (A/P) body geometry of Insignia capitalizes on the trapezoidal design of Secur-Fit to enhance rotational and axial stability.⁷\n\nThe optimized A/P fill of Insignia prioritizes M/L fit prior to A/P filling of the femur. Insignia’s geometry is designed to be more bone preserving while enhancing initial stability compared to a clinically successful fit and fill stem.6,7,15\n\nInsignia’s metaphyseal-filling geometry significantly reduced broaching effort compared to a traditional fit and fill stem.¹⁶\n\n†Optimization subject to particular design constraints.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662622"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "Tri-Stageᵀᴹ Broach Specifications",
+      "summary": "Page 6 content",
+      "keywords": [
+        "Tri-Stageᵀᴹ Broach",
+        "Stryker",
+        "SOMA technology",
+        "broach design",
+        "femoral canals"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 6",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n\n# Fit\n\nBroach with confidence\n\n# Tri-Stageᵀᴹ Broach\n\nThe Tri-Stage Broach is Stryker’s first instrument designed with SOMA technology. The unique broach features three tooth geometries to prepare a tapered press fit region to provide an accurate and reproducible stem seating height relative to the final broach.\n\n# Broach-only design\n\nCoupled with its market differentiating broach design, Insignia accommodates varying sized femoral canals which may reduce the need for femoral clear out reaming, especially in Dorr Type A femurs.\n\nExtraction: M/L: Extraction teeth facilitate cancellous bone removal for enhanced cortical fit\n\nCompaction: A/P: Compaction teeth enable bone preservation and initial stability\n\nDistally Cutting: Distal: Distal diamond cutting teeth help remove diaphyseal bone and are oversized by 0.5mm to promote proximal fit\n\n\n\n\n\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662638"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Insignia Measurements and Comparisons",
+      "summary": "Page 7 content",
+      "keywords": [
+        "Insignia",
+        "measurements",
+        "distal profile",
+        "universal fit",
+        "comparison"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 7",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n# Universal fit\n\n\n# Slim distal profile\n\nInsignia’s distal lateral geometry has been reduced up to 1mm throughout the size range compared to Accolade II.\nReduced up to 1 mm\n\n# A/P view\nInsignia (gold) Standard Size 2 shown next to comparable triple-taper stem.\n\n\n# M/L view\nInsignia (gold) Standard Size 10 shown next to comparable triple-taper stem.\n\n---\nDorr A bone friendly\nDifferentiating from other\ntriple taper stem designs,\nInsignia accommodates\nDorr A bone in the A/P\n\nview through its size-\nspecific medial curvature\n\nand collar sizes in the\nsmaller stem sizes.\nAdditionally, Insignia’s\nlarge stem sizes are\nslimmer in the M/L view\nthan currently marketed\ntriple taper stem designs\nto account for varying\nfemoral morphology\nand assist in broaching\nefficiency.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662653"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "Adjunct Stability and Size-Specific Collar of Insignia",
+      "summary": "Page 8 content",
+      "keywords": [
+        "Insignia",
+        "rotational stability",
+        "periprosthetic fracture",
+        "size-specific collar",
+        "Hydroxyapatite (HA) coating"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Collar sizing (mm)",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "Implant Brand": "Stryker (Insignia)",
+              "Size (mm)": "5-7",
+              "Coating Type": "0.05 Hydroxyapatite (HA)"
+            },
+            {
+              "Implant Brand": "DePuy Synthes (Actis)",
+              "Size (mm)": "8",
+              "Coating Type": "0.375 Duofix"
+            },
+            {
+              "Implant Brand": "DePuy Synthes (Corail)",
+              "Size (mm)": "6 – 8",
+              "Coating Type": "0.115 Hydroxyapatite (HA)"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Implant Brand",
+              "Size (mm)",
+              "Coating Type"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Implant Brand",
+            "Size (mm)",
+            "dimensions",
+            "sizing",
+            "Coating Type"
+          ]
+        }
+      ],
+      "raw_content": "\n# Function\n\n# Adjunct stability\n\nPeriprosthetic fractures continue to be a major complication and concern during the early postoperative period due to costly hospital readmission requirements and a high one-year mortality rate.\n\nWith this in mind, enhancing rotational stability was a crucial objective in Insignia’s collared design. Studies have shown that a collar enables initial rotational implant stability and a reduced potential for periprosthetic fracture and subsidence when flush with the calcar.\n\n# Size-specific collar\n\nInsignia features a SOMA-designed, size-specific collar (5-7mm) to maximize calcar coverage, while minimizing overhang across various femoral morphologies.\n\nInsignia’s collar sizes increase\nproportionally to the implant body to\nhelp minimize the likelihood of psoas\nimpingement from implant overhang. \n\nThe underside of Insignia’s collar has 50 microns of HA coating over a grit-blasted surface to ensure flush collar contact to the calcar and a reproducible stem to final broach seating height.\n\n# Purefix Hydroxyapetite (HA) coating\n\nInsignia is fully HA coated with a 50-micron plasma sprayed of PureFix HA over plasma-sprayed commercially pure titanium proximally for fixation. Designed to balance fixation, the underside of the collar and distal stem tip feature an HA coating over a grit-blasted surface. Purefix HA has over 20 years of clinical experience and has demonstrated 95.3% survivorship in stems with 40-70 microns of coating.⁶\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662669"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Function and Offset Specifications",
+      "summary": "Page 9 content",
+      "keywords": [
+        "Insignia",
+        "offset functionality",
+        "direct lateral offset",
+        "SOMA-verified femoral offset",
+        "femoral anatomy"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "SOMA-verified Femoral Offset Range Comparison",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Femoral Offset Range Comparison (mm)": "Insignia",
+              "Offset Value (mm)": "27.5"
+            },
+            {
+              "Femoral Offset Range Comparison (mm)": "ML Taper",
+              "Offset Value (mm)": "21"
+            },
+            {
+              "Femoral Offset Range Comparison (mm)": "Taperloc",
+              "Offset Value (mm)": "20"
+            },
+            {
+              "Femoral Offset Range Comparison (mm)": "Actis",
+              "Offset Value (mm)": "17"
+            },
+            {
+              "Femoral Offset Range Comparison (mm)": "Corail",
+              "Offset Value (mm)": "14.6"
+            },
+            {
+              "Femoral Offset Range Comparison (mm)": "Polarstem",
+              "Offset Value (mm)": "12.1"
+            },
+            {
+              "Femoral Offset Range Comparison (mm)": "Avenir",
+              "Offset Value (mm)": "11.8"
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Femoral Offset Range Comparison (mm)",
+              "Offset Value (mm)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Femoral Offset Range Comparison (mm)",
+            "Offset Value (mm)"
+          ]
+        }
+      ],
+      "raw_content": "\n# Function\n\nDifferentiated by data\n\nAdvanced offset functionality is significant for patient-specific and case-specific needs. Insignia is designed to provide the case-to-case confidence you need to restore a patient’s hip biomechanics while meeting your operative goals.\n\n# High offset - 5mm\n\n\n# Direct lateral offset\nInsignia features a direct lateral offset and a 132° neck angle, which provides the ability to lateralize +5mm across the size range and enable independent adjustment of offset while maintaining leg length.\n\n# SOMA-verified femoral offset\n\nInsignia utilized SOMA to establish a market-leading femoral offset coverage to effectively recreate patient biomechanics across the widest range of femoral anatomy.\n\nFemoral offset range comparison (mm) :\n\nInsignia:  27.5\nML Taper: 21\nTaperloc: 20\nActis: 17\nCorail: 14.6\nPolarstem: 12.1\nAvenir: 11.8",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662913"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "Advanced Biomechanics and Proportional Neck Lengths",
+      "summary": "Page 10 content",
+      "keywords": [
+        "biomechanics",
+        "direct lateral offset",
+        "proportional neck lengths",
+        "manufacturer comparison",
+        "measurements"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "36mm Biolox Delta Ceramic Head Offering and Direct Lateral Offset",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Manufacturer": "Stryker Insignia",
+              "Direct Lateral Offset (mm)": "+5mm"
+            },
+            {
+              "Manufacturer": "DePuy Synthes Actis",
+              "Direct Lateral Offset (mm)": "+6mm, +8mm"
+            },
+            {
+              "Manufacturer": "DePuy Synthes Corail",
+              "Direct Lateral Offset (mm)": "+7mm"
+            },
+            {
+              "Manufacturer": "Zimmer Biomet Avenir Complete",
+              "Direct Lateral Offset (mm)": "+6mm"
+            },
+            {
+              "Manufacturer": "Smith and Nephew Polarstem",
+              "Direct Lateral Offset (mm)": "+3.5mm"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Manufacturer",
+              "Direct Lateral Offset (mm)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Manufacturer",
+            "Direct Lateral Offset (mm)"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Proportional Neck Lengths",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Proportional Neck Lengths (mm)": "40.5"
+            },
+            {
+              "Proportional Neck Lengths (mm)": "38"
+            },
+            {
+              "Proportional Neck Lengths (mm)": "35"
+            },
+            {
+              "Proportional Neck Lengths (mm)": "32.5"
+            },
+            {
+              "Proportional Neck Lengths (mm)": "30.5"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 1,
+            "data_types": [],
+            "searchable_columns": [
+              "Proportional Neck Lengths (mm)"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Proportional Neck Lengths (mm)",
+            "dimensions",
+            "size"
+          ]
+        }
+      ],
+      "raw_content": "\n# Flexibility\n\n# Advanced biomechanics\n\nBalanced lateralization\n\nThe +5mm of direct lateral offset was designed to provide freedom of choice to use a standard or high offset stem without being limited on head offset size due to lateralization.\n\nProportional neck lengths and a robust head offset size range allow diverse options to further achieve your patient’s biomechanic goals.\n\n36mm Biolox Delta Ceramic head offering: +7.5, +5, +2.5, 0, -2.5, -5\n\nDirect lateral offset:\n\nStryker Insignia: +5mm\nDePuy Synthes Actis: +6mm, +8mm\nDePuy Synthes Corail: +7mm\nZimmer Biomet Avenir Complete: +6mm\nSmith and Nephew Polarstem: +3.5mm\n\n\n\n# Proportional neck lengths\n\nInsignia incorporates neck lengths that grow incrementally relative to body size.\n\nA constant neck length relies heavily on a large selection of femoral head lengths to recreate normal joint space, which could possibly lead to smaller stems using minus heads and the opposite on larger stems.\n\nInsignia was designed with incremental neck lengths to achieve proper joint stability most often with a standard +0mm femoral head.\n\nProportional neck lengths (mm): 40.5, 38, 35, 32.5, 30.5\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662932"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "Flexibility and Efficiency of Insignia Implants",
+      "summary": "Page 11 content",
+      "keywords": [
+        "Insignia",
+        "Accolade II",
+        "SFA",
+        "stem length",
+        "broaching efficiency"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 11",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Average Broaching Effort",
+          "description": "Table from page 11",
+          "rows": [
+            {
+              "Insignia (%)": "20",
+              "Accolade II (%)": "21",
+              "SFA (%)": "100"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Insignia (%)",
+              "Accolade II (%)",
+              "SFA (%)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Insignia (%)",
+            "Accolade II (%)",
+            "SFA (%)"
+          ]
+        }
+      ],
+      "raw_content": "\n# Flexibility Aligned to your approach \n\nWhether your choice of implant is based upon surgical approach, operative efficiencies, or total hip construct- Insignia is focused on providing flexibility where it matters. Stryker’s comprehensive hip portfolio coupled with Insignia is designed specifically for modern muscle sparing approach like Direct Anterior. No matter your surgical approach, have confidence in Insignia’s capability to meet your demand of implant fit and function.\n\n\n\n# Ease of insertion\nInsignia’s low-profile shoulder,\nshort stem lengths, and distal\nrelief are designed for ease of\nlateralization and insertion\nduring muscle-sparing\napproaches.\n\nAn evolutionary step in operative efficiency starts with data-driven implant and broach design.\n\n\nBroaching efficiency\n\nInsignia’s metaphyseal-filling geometry combined with the Tri-Stageᵀᴹ Broach significantly reduces broaching effort compared to a clinically successful fit and fill stem design in lab testing.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662950"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "Insignia Broach Tray and Femoral Instrument Tray Specifications",
+      "summary": "Page 12 content",
+      "keywords": [
+        "Insignia Broach Tray",
+        "Femoral Instrument Tray",
+        "Stryker",
+        "femoral stems",
+        "product codes"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 12",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 12",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n# One platform\n\n# Streamlined trays\n\nStryker’s femoral tray system is built for efficiency. One general hip instrument tray is compatible across three femoral stems (Insignia, Accolade II, and Exeter), allowing for minimal tray usage and cross-compatibility.\n\nStreamlined instrumentation and fewer trays can help lower sterilization costs and create a system more suitable for today’s healthcare environment.\n\n# Instrument features\n\nInsignia is designed to meet the needs of muscle-sparing approaches; your instrumentation should be as well. Stryker broach handles are available in straight, offset, extra offset, and dual offset designs. Newly designed broach handles feature a lever to actively secure the broach. This design is meant to minimize potential toggle and ensure reproducibility of bone preparation. Each handle is fully compatible with Accolade II, Exeter, and Insignia femoral systems.\n\n\nLever broach handles:\n\nStraight - lever\nOffset - lever\nExtra offset - lever\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662975"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "Flexibility and Mako SmartRobotics™ with Insignia†",
+      "summary": "Page 13 content",
+      "keywords": [
+        "Mako SmartRobotics",
+        "Insignia†",
+        "3D CT-based planning",
+        "stem size",
+        "implant planning"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n# Flexibility\n\nKnow more, because fit matters\n\nMako SmartRoboticsᵀᴹ enabled\n\nMako SmartRobotics™ with Insignia† empowers you to know more through CT based planning, unlocking patient specific planning and robotic-arm assisted execution allowing you to preserve bone and achieve precise implant placement.\n\n†Mako Total Hip 4.1 software, US only\n\n# Mako\n\n# Plan stem size and position using 3D CT-based planning\n\n- Assess collar positioning and stem seating height\n- Plan and measure neck resection using the digital ruler\n- Track broach version (enhanced workflow only)\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.662992"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "Technical Specifications of Trident II and MDM",
+      "summary": "Page 14 content",
+      "keywords": [
+        "Trident II",
+        "MDM",
+        "Insignia",
+        "implant",
+        "modular dual mobility"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n# Flexibility\n\nStrength in numbers\n\n# Trident II\n\nAddress instability through Insignia’s metaphyseal filling design combined with Trident II’s market leading femoral head-shell size offerings.\n\nTrident II Tritanium is the latest Stryker implant to incorporate our additive manufactured Tritanium and X3 highly cross-linked polyethylene inserts. Since its launch in 2018, over 350,000 Trident II Tritanium shells have been implanted.\n\n# MDM\n\nMDM, the market’s first modular dual mobility device, is compatible with Insignia. With over 10 years of clinical history, MDM has been implanted in over 250,000 THA cases across 47 countries and is the most studied modular dual mobility implant in literature with over 50+ peer-reviewed publications.\n\nMDM is designed to help prevent dislocation and assist your operative goals of stability, longevity and advanced fixation.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.663009"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "Ordering Information",
+      "summary": "Page 15 content",
+      "keywords": [
+        "Part Number",
+        "Size",
+        "Stem Length",
+        "Neck Length",
+        "Leg Length",
+        "Femoral Offset",
+        "Distal Diameter"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Part Number Specifications",
+          "description": "Table from page 15",
+          "rows": [
+            {
+              "Part Number": "7000-5500",
+              "Size (Standard/High)": "0 Standard",
+              "Stem Length (mm)": 93,
+              "Neck Length (mm)": 30.5,
+              "Leg Length (mm)": 30,
+              "Femoral Offset (mm)": 30,
+              "Distal Diameter (mm)": 7
+            },
+            {
+              "Part Number": "7000-5501",
+              "Size (Standard/High)": "1 Standard",
+              "Stem Length (mm)": 96,
+              "Neck Length (mm)": 30.5,
+              "Leg Length (mm)": 30,
+              "Femoral Offset (mm)": 31.5,
+              "Distal Diameter (mm)": 7
+            },
+            {
+              "Part Number": "7000-5502",
+              "Size (Standard/High)": "2 Standard",
+              "Stem Length (mm)": 99,
+              "Neck Length (mm)": 32.5,
+              "Leg Length (mm)": 32,
+              "Femoral Offset (mm)": 34,
+              "Distal Diameter (mm)": 8
+            },
+            {
+              "Part Number": "7000-5503",
+              "Size (Standard/High)": "3 Standard",
+              "Stem Length (mm)": 101,
+              "Neck Length (mm)": 32.5,
+              "Leg Length (mm)": 32,
+              "Femoral Offset (mm)": 35.5,
+              "Distal Diameter (mm)": 9
+            },
+            {
+              "Part Number": "7000-5504",
+              "Size (Standard/High)": "4 Standard",
+              "Stem Length (mm)": 103,
+              "Neck Length (mm)": 32.5,
+              "Leg Length (mm)": 32,
+              "Femoral Offset (mm)": 37,
+              "Distal Diameter (mm)": 10
+            },
+            {
+              "Part Number": "7000-5505",
+              "Size (Standard/High)": "5 Standard",
+              "Stem Length (mm)": 105,
+              "Neck Length (mm)": 35,
+              "Leg Length (mm)": 34,
+              "Femoral Offset (mm)": 40,
+              "Distal Diameter (mm)": 11
+            },
+            {
+              "Part Number": "7000-5506",
+              "Size (Standard/High)": "6 Standard",
+              "Stem Length (mm)": 107,
+              "Neck Length (mm)": 35,
+              "Leg Length (mm)": 34,
+              "Femoral Offset (mm)": 41.5,
+              "Distal Diameter (mm)": 13
+            },
+            {
+              "Part Number": "7000-5507",
+              "Size (Standard/High)": "7 Standard",
+              "Stem Length (mm)": 109,
+              "Neck Length (mm)": 38,
+              "Leg Length (mm)": 36,
+              "Femoral Offset (mm)": 45,
+              "Distal Diameter (mm)": 14
+            },
+            {
+              "Part Number": "7000-5508",
+              "Size (Standard/High)": "8 Standard",
+              "Stem Length (mm)": 111,
+              "Neck Length (mm)": 38,
+              "Leg Length (mm)": 36,
+              "Femoral Offset (mm)": 46.5,
+              "Distal Diameter (mm)": 15
+            },
+            {
+              "Part Number": "7000-5509",
+              "Size (Standard/High)": "9 Standard",
+              "Stem Length (mm)": 113,
+              "Neck Length (mm)": 38,
+              "Leg Length (mm)": 36,
+              "Femoral Offset (mm)": 48,
+              "Distal Diameter (mm)": 16
+            },
+            {
+              "Part Number": "7000-5510",
+              "Size (Standard/High)": "10 Standard",
+              "Stem Length (mm)": 115,
+              "Neck Length (mm)": 40.5,
+              "Leg Length (mm)": 38,
+              "Femoral Offset (mm)": 51,
+              "Distal Diameter (mm)": 17
+            },
+            {
+              "Part Number": "7000-5511",
+              "Size (Standard/High)": "11 Standard",
+              "Stem Length (mm)": 117,
+              "Neck Length (mm)": 40.5,
+              "Leg Length (mm)": 38,
+              "Femoral Offset (mm)": 52.5,
+              "Distal Diameter (mm)": 18
+            },
+            {
+              "Part Number": "7000-6600",
+              "Size (Standard/High)": "0 High",
+              "Stem Length (mm)": 93,
+              "Neck Length (mm)": 33.5,
+              "Leg Length (mm)": 30,
+              "Femoral Offset (mm)": 35,
+              "Distal Diameter (mm)": 7
+            },
+            {
+              "Part Number": "7000-6601",
+              "Size (Standard/High)": "1 High",
+              "Stem Length (mm)": 96,
+              "Neck Length (mm)": 33.5,
+              "Leg Length (mm)": 30,
+              "Femoral Offset (mm)": 36.5,
+              "Distal Diameter (mm)": 7
+            },
+            {
+              "Part Number": "7000-6602",
+              "Size (Standard/High)": "2 High",
+              "Stem Length (mm)": 99,
+              "Neck Length (mm)": 36,
+              "Leg Length (mm)": 32,
+              "Femoral Offset (mm)": 39,
+              "Distal Diameter (mm)": 8
+            },
+            {
+              "Part Number": "7000-6603",
+              "Size (Standard/High)": "3 High",
+              "Stem Length (mm)": 101,
+              "Neck Length (mm)": 36,
+              "Leg Length (mm)": 32,
+              "Femoral Offset (mm)": 40.5,
+              "Distal Diameter (mm)": 9
+            },
+            {
+              "Part Number": "7000-6604",
+              "Size (Standard/High)": "4 High",
+              "Stem Length (mm)": 103,
+              "Neck Length (mm)": 36,
+              "Leg Length (mm)": 32,
+              "Femoral Offset (mm)": 42,
+              "Distal Diameter (mm)": 10
+            },
+            {
+              "Part Number": "7000-6605",
+              "Size (Standard/High)": "5 High",
+              "Stem Length (mm)": 105,
+              "Neck Length (mm)": 38.5,
+              "Leg Length (mm)": 34,
+              "Femoral Offset (mm)": 45,
+              "Distal Diameter (mm)": 11
+            },
+            {
+              "Part Number": "7000-6606",
+              "Size (Standard/High)": "6 High",
+              "Stem Length (mm)": 107,
+              "Neck Length (mm)": 38.5,
+              "Leg Length (mm)": 34,
+              "Femoral Offset (mm)": 46.5,
+              "Distal Diameter (mm)": 13
+            },
+            {
+              "Part Number": "7000-6607",
+              "Size (Standard/High)": "7 High",
+              "Stem Length (mm)": 109,
+              "Neck Length (mm)": 41,
+              "Leg Length (mm)": 36,
+              "Femoral Offset (mm)": 50,
+              "Distal Diameter (mm)": 14
+            },
+            {
+              "Part Number": "7000-6608",
+              "Size (Standard/High)": "8 High",
+              "Stem Length (mm)": 111,
+              "Neck Length (mm)": 41,
+              "Leg Length (mm)": 36,
+              "Femoral Offset (mm)": 51.5,
+              "Distal Diameter (mm)": 15
+            },
+            {
+              "Part Number": "7000-6609",
+              "Size (Standard/High)": "9 High",
+              "Stem Length (mm)": 113,
+              "Neck Length (mm)": 41,
+              "Leg Length (mm)": 36,
+              "Femoral Offset (mm)": 53,
+              "Distal Diameter (mm)": 16
+            },
+            {
+              "Part Number": "7000-6610",
+              "Size (Standard/High)": "10 High",
+              "Stem Length (mm)": 115,
+              "Neck Length (mm)": 43.5,
+              "Leg Length (mm)": 38,
+              "Femoral Offset (mm)": 56,
+              "Distal Diameter (mm)": 17
+            },
+            {
+              "Part Number": "7000-6611",
+              "Size (Standard/High)": "11 High",
+              "Stem Length (mm)": 117,
+              "Neck Length (mm)": 43.5,
+              "Leg Length (mm)": 38,
+              "Femoral Offset (mm)": 57.5,
+              "Distal Diameter (mm)": 18
+            }
+          ],
+          "metadata": {
+            "row_count": 24,
+            "column_count": 7,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Size (Standard/High)",
+              "Stem Length (mm)",
+              "Neck Length (mm)",
+              "Leg Length (mm)",
+              "Femoral Offset (mm)",
+              "Distal Diameter (mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Size (Standard/High)",
+            "dimensions",
+            "sizing",
+            "Stem Length (mm)",
+            "size",
+            "Neck Length (mm)",
+            "Leg Length (mm)",
+            "Femoral Offset (mm)",
+            "Distal Diameter (mm)"
+          ]
+        }
+      ],
+      "raw_content": "Useless\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.663030"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "Useless - Page 16",
+      "summary": "Page 16 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:45:03.663048"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2097 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-07-01T14:47:28.290876",
+    "total_pages": 18,
+    "total_tables": 22,
+    "portfolio": "knee",
+    "review_status": {
+      "approved_pages": 17,
+      "flagged_pages": 0,
+      "missing_pages": [],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        18
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291003"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Triathlon Total Knee System Reference Guide: Component Sizes",
+      "summary": "Page 2 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "component sizes",
+        "symmetric all-poly patella",
+        "asymmetric all-poly patella",
+        "tritanium"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Component and Size Offering",
+          "description": "Table from page 2",
+          "rows": [
+            {
+              "component": "Femur",
+              "details": {
+                "laterality": [
+                  "Left",
+                  "Right"
+                ],
+                "size_count": 8,
+                "sizes": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              }
+            },
+            {
+              "component": "Tibia",
+              "details": {
+                "size_count": 9,
+                "sizes": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              }
+            },
+            {
+              "component": "Insert",
+              "variants": [
+                {
+                  "type": "CR",
+                  "sizes": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    16,
+                    19
+                  ],
+                  "asterisk_sizes (these insert options are not available for size 0)": [
+                    13,
+                    19
+                  ]
+                },
+                {
+                  "type": "CS",
+                  "sizes": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    16,
+                    19,
+                    22
+                  ],
+                  "asterisk_sizes": [
+                    13,
+                    22
+                  ]
+                },
+                {
+                  "type": "PS",
+                  "sizes": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    16,
+                    19,
+                    22
+                  ],
+                  "asterisk_sizes": [
+                    13,
+                    22
+                  ]
+                },
+                {
+                  "type": "TS",
+                  "sizes": [
+                    9,
+                    11,
+                    13,
+                    16,
+                    19,
+                    22,
+                    25,
+                    28,
+                    31
+                  ],
+                  "asterisk_sizes": []
+                }
+              ]
+            },
+            {
+              "component": "All-Polyethylene Tibia",
+              "details": {
+                "size_count": 8,
+                "sizes": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "thickness_mm": [
+                  9,
+                  11,
+                  13,
+                  16
+                ],
+                "thickness_applicable_to": [
+                  "CS",
+                  "PS"
+                ]
+              }
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "component",
+              "details"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "component",
+            "details"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Patella Component Compatibility Matrix",
+          "description": "Table from page 2",
+          "rows": [
+            {
+              "patella_shape": "Symmetric",
+              "material": "All-Poly",
+              "compatibility": {
+                "S27×8": true,
+                "S29×8": true,
+                "S31×9": true,
+                "S33×9": true,
+                "S36×10": true,
+                "S39×11": true
+              }
+            },
+            {
+              "patella_shape": "Symmetric",
+              "material": "Tritanium",
+              "compatibility": {
+                "S27×8": false,
+                "S29×8": false,
+                "S31×9": true,
+                "S33×9": true,
+                "S36×10": true,
+                "S39×11": true
+              }
+            },
+            {
+              "patella_shape": "Symmetric",
+              "material": "Tritanium (coded)",
+              "compatibility": {
+                "S27×8": false,
+                "S29×8": "A29×9",
+                "S31×9": "A32×10",
+                "S33×9": "A35×10",
+                "S36×10": "A38×11",
+                "S39×11": "A40×11"
+              }
+            },
+            {
+              "patella_shape": "Asymmetric",
+              "material": "All-Poly",
+              "compatibility": {
+                "S27×8": false,
+                "S29×8": true,
+                "S31×9": true,
+                "S33×9": true,
+                "S36×10": true,
+                "S39×11": true
+              }
+            },
+            {
+              "patella_shape": "Asymmetric",
+              "material": "Tritanium",
+              "compatibility": {
+                "S27×8": false,
+                "S29×8": true,
+                "S31×9": true,
+                "S33×9": true,
+                "S36×10": true,
+                "S39×11": true
+              }
+            },
+            {
+              "patella_shape": "Asymmetric",
+              "material": "Beaded PA",
+              "compatibility": {
+                "S27×8": false,
+                "S29×8": false,
+                "S31×9": true,
+                "S33×9": true,
+                "S36×10": true,
+                "S39×11": true
+              }
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "patella_shape",
+              "material",
+              "compatibility"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "patella_shape",
+            "patella shape",
+            "material",
+            "compatibility"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291027"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Triathlon Total Knee System Reference Guide: Dimensions",
+      "summary": "Page 3 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "dimensions",
+        "cemented CR and PS femur",
+        "cementless beaded PA CR and PS femur",
+        "millimeters"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Cemented CR and PS Femur | Cementless Beaded PA CR and PS Femur – Dimensional Matrix (mm)",
+          "description": "Table from page 3",
+          "rows": [
+            {
+              "size": 1,
+              "overall_ap": 53,
+              "anterior_cortex_ap": 49,
+              "overall_ml": 59,
+              "condyle_length": 32,
+              "cr_functional_ap": 45
+            },
+            {
+              "size": 2,
+              "overall_ap": 56,
+              "anterior_cortex_ap": 52,
+              "overall_ml": 62,
+              "condyle_length": 33,
+              "cr_functional_ap": 47
+            },
+            {
+              "size": 3,
+              "overall_ap": 59,
+              "anterior_cortex_ap": 54,
+              "overall_ml": 65,
+              "condyle_length": 34,
+              "cr_functional_ap": 49
+            },
+            {
+              "size": 4,
+              "overall_ap": 62,
+              "anterior_cortex_ap": 57,
+              "overall_ml": 68,
+              "condyle_length": 35,
+              "cr_functional_ap": 50
+            },
+            {
+              "size": 5,
+              "overall_ap": 65,
+              "anterior_cortex_ap": 61,
+              "overall_ml": 71,
+              "condyle_length": 36,
+              "cr_functional_ap": 52
+            },
+            {
+              "size": 6,
+              "overall_ap": 68,
+              "anterior_cortex_ap": 64,
+              "overall_ml": 74,
+              "condyle_length": 37,
+              "cr_functional_ap": 55
+            },
+            {
+              "size": 7,
+              "overall_ap": 71,
+              "anterior_cortex_ap": 66,
+              "overall_ml": 77,
+              "condyle_length": 38,
+              "cr_functional_ap": 56
+            },
+            {
+              "size": 8,
+              "overall_ap": 75,
+              "anterior_cortex_ap": 70,
+              "overall_ml": 80,
+              "condyle_length": 39,
+              "cr_functional_ap": 58
+            }
+          ],
+          "metadata": {
+            "row_count": 8,
+            "column_count": 6,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "Triathlon Total Knee System reference guide | dimensions\n\nCemented CR and PS Femur and Cementless Beaded PA, CR, and PS Femur\nNote: The bone-facing side of cemented femoral components allows for a cement mantle, and the bone-facing side of cementless femoral components features beads and PA. The beads have peaks and valleys that can protrude out to a maximum of 0.4 mm on a plane. All dimensions are in millimeters.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291055"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "Triathlon Total Knee System Reference Guide: Dimensions",
+      "summary": "Page 4 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "baseplate dimensions",
+        "mm",
+        "Primary Baseplate",
+        "Tritanium Baseplate",
+        "Beaded PA Baseplate",
+        "Screw-Fixed Baseplate"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Primary | Tritanium | Beaded PA | Screw-Fixed Baseplates – Dimensional Matrix (mm)",
+          "description": "Table from page 4",
+          "rows": [
+            {
+              "size": "0*",
+              "ap": 39,
+              "ml": 59,
+              "keel_depth": 28,
+              "keel_ml_width": 40,
+              "keel_thickness": "2.6-3.6"
+            },
+            {
+              "size": 1,
+              "ap": 40,
+              "ml": 61,
+              "keel_depth": 28,
+              "keel_ml_width": 40,
+              "keel_thickness": "2.6-3.6"
+            },
+            {
+              "size": 2,
+              "ap": 42,
+              "ml": 64,
+              "keel_depth": 28,
+              "keel_ml_width": 40,
+              "keel_thickness": "2.6-3.6"
+            },
+            {
+              "size": 3,
+              "ap": 44,
+              "ml": 67,
+              "keel_depth": 28,
+              "keel_ml_width": 40,
+              "keel_thickness": "2.6-3.6"
+            },
+            {
+              "size": 4,
+              "ap": 46,
+              "ml": 70,
+              "keel_depth": 34,
+              "keel_ml_width": 52,
+              "keel_thickness": "2.6-3.6"
+            },
+            {
+              "size": 5,
+              "ap": 49,
+              "ml": 74,
+              "keel_depth": 34,
+              "keel_ml_width": 52,
+              "keel_thickness": "2.6-3.6"
+            },
+            {
+              "size": 6,
+              "ap": 52,
+              "ml": 77,
+              "keel_depth": 34,
+              "keel_ml_width": 52,
+              "keel_thickness": "2.6-3.6"
+            },
+            {
+              "size": 7,
+              "ap": 56,
+              "ml": 80,
+              "keel_depth": 39,
+              "keel_ml_width": 58,
+              "keel_thickness": "2.6-3.6"
+            },
+            {
+              "size": 8,
+              "ap": 60,
+              "ml": 85,
+              "keel_depth": 39,
+              "keel_ml_width": 58,
+              "keel_thickness": "2.6-3.6"
+            }
+          ],
+          "metadata": {
+            "row_count": 9,
+            "column_count": 6,
+            "data_types": [],
+            "searchable_columns": [
+              "size",
+              "ap",
+              "ml",
+              "keel_depth",
+              "keel_ml_width",
+              "keel_thickness"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "size",
+            "dimensions",
+            "sizing",
+            "ap",
+            "ml",
+            "keel_depth",
+            "keel depth",
+            "keel_ml_width",
+            "keel ml width",
+            "keel_thickness",
+            "keel thickness"
+          ]
+        }
+      ],
+      "raw_content": "Useless\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291073"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "Triathlon Total Knee System Reference Guide | Dimensions",
+      "summary": "Page 5 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "dimensions",
+        "mm",
+        "size",
+        "component"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Universal / Low-Profile / All-Polyethylene Tibial Components – Dimensional Matrix (mm)",
+          "description": "Table from page 5",
+          "rows": [
+            {
+              "size": 1,
+              "ap": 40,
+              "ml": 61,
+              "universal_baseplate": {
+                "keel_ml_width": 40,
+                "keel_si_height": 20,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "low_profile_baseplate": {
+                "keel_ml_width": 40,
+                "keel_si_height": 16,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "all_poly_tibial_component": {
+                "keel_ml_width": 42,
+                "keel_si_height": 20,
+                "boss_length_mm": 39,
+                "boss_diameter_mm": 13
+              }
+            },
+            {
+              "size": 2,
+              "ap": 42,
+              "ml": 64,
+              "universal_baseplate": {
+                "keel_ml_width": 40,
+                "keel_si_height": 20,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "low_profile_baseplate": {
+                "keel_ml_width": 40,
+                "keel_si_height": 16,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "all_poly_tibial_component": {
+                "keel_ml_width": 42,
+                "keel_si_height": 20,
+                "boss_length_mm": 39,
+                "boss_diameter_mm": 13
+              }
+            },
+            {
+              "size": 3,
+              "ap": 44,
+              "ml": 67,
+              "universal_baseplate": {
+                "keel_ml_width": 40,
+                "keel_si_height": 20,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "low_profile_baseplate": {
+                "keel_ml_width": 40,
+                "keel_si_height": 16,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "all_poly_tibial_component": {
+                "keel_ml_width": 42,
+                "keel_si_height": 20,
+                "boss_length_mm": 39,
+                "boss_diameter_mm": 13
+              }
+            },
+            {
+              "size": 4,
+              "ap": 46,
+              "ml": 70,
+              "universal_baseplate": {
+                "keel_ml_width": 52,
+                "keel_si_height": 20,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "low_profile_baseplate": {
+                "keel_ml_width": 52,
+                "keel_si_height": 16,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "all_poly_tibial_component": {
+                "keel_ml_width": 53,
+                "keel_si_height": 28,
+                "boss_length_mm": 39,
+                "boss_diameter_mm": 13
+              }
+            },
+            {
+              "size": 5,
+              "ap": 49,
+              "ml": 74,
+              "universal_baseplate": {
+                "keel_ml_width": 52,
+                "keel_si_height": 20,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "low_profile_baseplate": {
+                "keel_ml_width": 52,
+                "keel_si_height": 16,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "all_poly_tibial_component": {
+                "keel_ml_width": 53,
+                "keel_si_height": 28,
+                "boss_length_mm": 39,
+                "boss_diameter_mm": 13
+              }
+            },
+            {
+              "size": 6,
+              "ap": 52,
+              "ml": 77,
+              "universal_baseplate": {
+                "keel_ml_width": 52,
+                "keel_si_height": 20,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "low_profile_baseplate": {
+                "keel_ml_width": 52,
+                "keel_si_height": 16,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "all_poly_tibial_component": {
+                "keel_ml_width": 53,
+                "keel_si_height": 28,
+                "boss_length_mm": 39,
+                "boss_diameter_mm": 13
+              }
+            },
+            {
+              "size": 7,
+              "ap": 56,
+              "ml": 80,
+              "universal_baseplate": {
+                "keel_ml_width": 58,
+                "keel_si_height": 20,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "low_profile_baseplate": {
+                "keel_ml_width": 58,
+                "keel_si_height": 16,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "all_poly_tibial_component": {
+                "keel_ml_width": 53,
+                "keel_si_height": 28,
+                "boss_length_mm": 39,
+                "boss_diameter_mm": 13
+              }
+            },
+            {
+              "size": 8,
+              "ap": 60,
+              "ml": 85,
+              "universal_baseplate": {
+                "keel_ml_width": 58,
+                "keel_si_height": 20,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "low_profile_baseplate": {
+                "keel_ml_width": 58,
+                "keel_si_height": 16,
+                "boss_length_mm": 40,
+                "boss_diameter_mm": 16
+              },
+              "all_poly_tibial_component": {
+                "keel_ml_width": 53,
+                "keel_si_height": 28,
+                "boss_length_mm": 39,
+                "boss_diameter_mm": 13
+              }
+            }
+          ],
+          "metadata": {
+            "row_count": 8,
+            "column_count": 6,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291091"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "Triathlon Total Knee System Reference Guide: Dimensions",
+      "summary": "Page 6 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "baseplate thickness",
+        "cement mantle",
+        "polyethylene thickness",
+        "dimensions"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Primary, Universal & Low-Profile Baseplates – Thickness & Cement Mantle Specifications",
+          "description": "Table from page 6",
+          "rows": [
+            {
+              "parameter": "overall_baseplate_thickness_mm",
+              "value": 3.2
+            },
+            {
+              "parameter": "inner_baseplate_thickness_mm",
+              "value": 1.9
+            },
+            {
+              "parameter": "cement_mantle_under_baseplate_mm",
+              "value": 1.3
+            },
+            {
+              "parameter": "cement_mantle_keel_mm",
+              "value": {
+                "primary_universal_low_profile_baseplate": 0.5,
+                "all_polyethylene_tibial_component": {
+                  "total": 1.6,
+                  "per_side": 0.8
+                }
+              }
+            },
+            {
+              "parameter": "polyethylene_thickness_in_9mm_insert_mm",
+              "value": 6.2
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "parameter",
+              "value"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "parameter",
+            "value"
+          ]
+        }
+      ],
+      "raw_content": "Insert sulcus point, which is located on the posterior 1/3 on the A/P plane.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291108"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Triathlon Total Knee System Reference Guide: Dimensions",
+      "summary": "Page 7 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "dimensions",
+        "peg diameter",
+        "Tritanium foam thickness",
+        "keel press fit",
+        "peg press fit",
+        "peg length"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Tritanium Baseplate – Key Dimensions (mm)",
+          "description": "Table from page 7",
+          "rows": [
+            {
+              "parameter": "peg_diameter_mm",
+              "value": 7
+            },
+            {
+              "parameter": "tritanium_foam_thickness_mm",
+              "value": 1.14
+            },
+            {
+              "parameter": "keel_press_fit_each_side_mm",
+              "details": {
+                "preparation_method": "cementless_keel_punch",
+                "ap_dimension": 0.36
+              }
+            },
+            {
+              "parameter": "peg_press_fit_mm",
+              "details": {
+                "1/8_inch_peg_drill": 3.7,
+                "7/32_inch_dense_peg_drill": 1.4
+              }
+            },
+            {
+              "parameter": "peg_length_mm",
+              "sizes": [
+                {
+                  "size": 0,
+                  "length_mm": 7
+                },
+                {
+                  "size": 1,
+                  "length_mm": 7
+                },
+                {
+                  "size": 2,
+                  "length_mm": 8
+                },
+                {
+                  "size": 3,
+                  "length_mm": 9
+                },
+                {
+                  "size": 4,
+                  "length_mm": 9
+                },
+                {
+                  "size": 5,
+                  "length_mm": 10
+                },
+                {
+                  "size": 6,
+                  "length_mm": 11
+                },
+                {
+                  "size": 7,
+                  "length_mm": 11
+                },
+                {
+                  "size": 8,
+                  "length_mm": 12
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "parameter",
+              "value"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "parameter",
+            "value"
+          ]
+        }
+      ],
+      "raw_content": "Pegs are cruciform in shape, and the press fit is not circumferential. The press fit is on the flutes.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291125"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "Triathlon Total Knee System Reference Guide: Dimensions",
+      "summary": "Page 8 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "Asymmetric Patella",
+        "Symmetric Patella",
+        "Patella Thickness",
+        "Peg Diameter"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "All-Poly Patella – Asymmetric Patella Dimensions (mm)",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "size": "A29×9",
+              "superior_inferior_width_mm": 29,
+              "ml_width_mm": 33,
+              "thickness_mm": 9,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "A32×10",
+              "superior_inferior_width_mm": 32,
+              "ml_width_mm": 36,
+              "thickness_mm": 10,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "A35×10",
+              "superior_inferior_width_mm": 35,
+              "ml_width_mm": 39,
+              "thickness_mm": 10,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "A38×11",
+              "superior_inferior_width_mm": 38,
+              "ml_width_mm": 42,
+              "thickness_mm": 11,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "A40×11",
+              "superior_inferior_width_mm": 40,
+              "ml_width_mm": 44,
+              "thickness_mm": 11,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 6,
+            "data_types": [],
+            "searchable_columns": [
+              "size",
+              "superior_inferior_width_mm",
+              "ml_width_mm",
+              "thickness_mm",
+              "peg_diameter_mm",
+              "peg_length_mm"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "size",
+            "dimensions",
+            "sizing",
+            "superior_inferior_width_mm",
+            "superior inferior width mm",
+            "ml_width_mm",
+            "ml width mm",
+            "thickness_mm",
+            "thickness mm",
+            "thickness",
+            "peg_diameter_mm",
+            "peg diameter mm",
+            "peg_length_mm",
+            "peg length mm"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "All-Poly Patella – Symmetric Patella Dimensions (mm)",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "size": "S27×8",
+              "patella_diameter_mm": 27,
+              "thickness_mm": 8,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "S29×8",
+              "patella_diameter_mm": 29,
+              "thickness_mm": 8,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "S31×9",
+              "patella_diameter_mm": 31,
+              "thickness_mm": 9,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "S33×9",
+              "patella_diameter_mm": 33,
+              "thickness_mm": 9,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "S36×10",
+              "patella_diameter_mm": 36,
+              "thickness_mm": 10,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            },
+            {
+              "size": "S39×11",
+              "patella_diameter_mm": 39,
+              "thickness_mm": 11,
+              "peg_diameter_mm": 5.7,
+              "peg_length_mm": 5
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "size",
+              "patella_diameter_mm",
+              "thickness_mm",
+              "peg_diameter_mm",
+              "peg_length_mm"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "size",
+            "dimensions",
+            "sizing",
+            "patella_diameter_mm",
+            "patella diameter mm",
+            "thickness_mm",
+            "thickness mm",
+            "thickness",
+            "peg_diameter_mm",
+            "peg diameter mm",
+            "peg_length_mm",
+            "peg length mm"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291141"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Triathlon Total Knee System Reference Guide: Dimensions",
+      "summary": "Page 9 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "Tritanium Metal-Backed Patella",
+        "Asymmetric Patella",
+        "Symmetric Patella",
+        "All-Poly",
+        "Tritanium",
+        "dimensions",
+        "millimeters"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Tritanium Metal-Backed Patella – Asymmetric Dimensions (mm)",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "size": "A29×9",
+              "superior_inferior_width_mm": 29,
+              "ml_width_mm": 33,
+              "thickness_mm": 9,
+              "peg_diameter_mm": 6.1
+            },
+            {
+              "size": "A32×10",
+              "superior_inferior_width_mm": 32,
+              "ml_width_mm": 36,
+              "thickness_mm": 10,
+              "peg_diameter_mm": 6.1
+            },
+            {
+              "size": "A35×10",
+              "superior_inferior_width_mm": 35,
+              "ml_width_mm": 39,
+              "thickness_mm": 10,
+              "peg_diameter_mm": 6.1
+            },
+            {
+              "size": "A38×11",
+              "superior_inferior_width_mm": 38,
+              "ml_width_mm": 42,
+              "thickness_mm": 11,
+              "peg_diameter_mm": 6.1
+            },
+            {
+              "size": "A40×11",
+              "superior_inferior_width_mm": 40,
+              "ml_width_mm": 44,
+              "thickness_mm": 11,
+              "peg_diameter_mm": 6.1
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "size",
+              "superior_inferior_width_mm",
+              "ml_width_mm",
+              "thickness_mm",
+              "peg_diameter_mm"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "size",
+            "dimensions",
+            "sizing",
+            "superior_inferior_width_mm",
+            "superior inferior width mm",
+            "ml_width_mm",
+            "ml width mm",
+            "thickness_mm",
+            "thickness mm",
+            "thickness",
+            "peg_diameter_mm",
+            "peg diameter mm"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Tritanium Metal-Backed Patella – Symmetric Dimensions (mm)",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "size": "S31×9",
+              "patella_diameter_mm": 31,
+              "thickness_mm": 9
+            },
+            {
+              "size": "S33×9",
+              "patella_diameter_mm": 33,
+              "thickness_mm": 9
+            },
+            {
+              "size": "S36×10",
+              "patella_diameter_mm": 36,
+              "thickness_mm": 10
+            },
+            {
+              "size": "S39×11",
+              "patella_diameter_mm": 39,
+              "thickness_mm": 11
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "size",
+              "patella_diameter_mm",
+              "thickness_mm"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "size",
+            "dimensions",
+            "sizing",
+            "patella_diameter_mm",
+            "patella diameter mm",
+            "thickness_mm",
+            "thickness mm",
+            "thickness"
+          ]
+        },
+        {
+          "table_id": "table_3",
+          "title": "Patella Size Availability by Material & Symmetry",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "material": "All-Poly",
+              "symmetry": "Asymmetric",
+              "available_sizes": [
+                "A29×9",
+                "A32×10",
+                "A35×10",
+                "A38×11",
+                "A40×11"
+              ]
+            },
+            {
+              "material": "All-Poly",
+              "symmetry": "Symmetric",
+              "available_sizes": [
+                "S27×8",
+                "S29×8",
+                "S31×9",
+                "S33×9",
+                "S36×10",
+                "S39×11"
+              ]
+            },
+            {
+              "material": "Tritanium",
+              "symmetry": "Asymmetric",
+              "available_sizes": [
+                "A29×9",
+                "A32×10",
+                "A35×10",
+                "A38×11",
+                "A40×11"
+              ]
+            },
+            {
+              "material": "Tritanium",
+              "symmetry": "Symmetric",
+              "available_sizes": [
+                "S31×9",
+                "S33×9",
+                "S36×10",
+                "S39×11"
+              ]
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "material",
+              "symmetry",
+              "available_sizes"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "material",
+            "symmetry",
+            "available_sizes",
+            "available sizes",
+            "dimensions",
+            "sizing"
+          ]
+        },
+        {
+          "table_id": "table_4",
+          "title": "Peg Press fit for meta-backed patella",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Detail": "When prepared with 5.7mm standard metal-backed patella drill (6541-3-522)",
+              "Value": "0.4"
+            },
+            {
+              "Detail": "When prepared with 6mm dense bone patella drill (6541-3-526)",
+              "Value": "0.15"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Detail",
+              "Value"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Detail",
+            "Value"
+          ]
+        }
+      ],
+      "raw_content": "Peg locations are the same for symmetric and asymmetric Triathlon patellae except for Triathlon symmetric patella size 27 and size 29. The two smallest Triathlon symmetric patellae, S27 X 8 and S29 X 8, have the pegs closer together compared to the rest of the Triathlon patella size options. In the table below, patella sizes with the same colors have the same peg locations.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291161"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "Triathlon Total Knee System Reference Guide",
+      "summary": "Page 10 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "CR Insert",
+        "CS Insert",
+        "Anterior Height",
+        "Anteroposterior dimension"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Slope and size incremental\n\n- There is no slope built into CR, CS, PS and TS inserts.\n- Triathlon CS insert has approximately 2mm more height in the anterior lip of the insert compared to Triathlon CR.\n\nAP dimension increases only anteriorly. For sizes 1-7, size incremental is ≤3mm. For sizes 7-8, size incremental is 4mm.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291184"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "Triathlon Total Knee System Reference Guide",
+      "summary": "Page 11 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "femoral",
+        "tibial insert",
+        "tibial baseplate",
+        "stem type",
+        "diameter",
+        "length",
+        "cemented",
+        "cementless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Stem Type – Diameter vs. Length Availability (mm)",
+          "description": "Table from page 11",
+          "rows": [
+            {
+              "stem_type": "Cemented",
+              "diameter_mm": 9,
+              "length_availability": {
+                "50": false,
+                "100": true,
+                "150": true
+              }
+            },
+            {
+              "stem_type": "Cemented",
+              "diameter_mm": [
+                12,
+                15
+              ],
+              "length_availability": {
+                "50": true,
+                "100": true,
+                "150": true
+              }
+            },
+            {
+              "stem_type": "Cementless",
+              "diameter_mm_range": {
+                "min": 10,
+                "max": 25,
+                "increment": 1
+              },
+              "length_availability": {
+                "50": false,
+                "100": true,
+                "150": true
+              }
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "stem_type",
+              "diameter_mm",
+              "length_availability"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "stem_type",
+            "stem type",
+            "diameter_mm",
+            "diameter mm",
+            "size",
+            "dimensions",
+            "length_availability",
+            "length availability"
+          ]
+        }
+      ],
+      "raw_content": "# Difficult primary\n\n# Femoral\n\n- Triathlon TS augments can be used with Triathlon primary PS femur.\n- Distal augments are for use with both the medial and lateral portions of the side indicated, e.g., side right is used for medial and lateral compartments on a right femur.\n- Posterior augments are universal size-specific, e.g., size 4 posterior augments are for the size 4 femurs.\n\n# Tibial insert\n\n- The PS post height is 24mm. The TS post height is 26mm.\n\n# Tibial baseplate\n\n- Triathlon Universal Baseplate can be used with all Triathlon TS augments and stems.\n- Tibial augments are size-specific and come in left medial/right lateral or right medial/left lateral configurations.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291201"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "Triathlon Total Knee System Reference Guide",
+      "summary": "Page 12 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "Insert Options",
+        "Varus/Valgus Constraint",
+        "Internal/External Rotation",
+        "Maximum Flexion"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Insert Options",
+          "description": "Table from page 12",
+          "rows": [
+            {
+              "Insert Type": "CR",
+              "Varus/Valgus Constraint (Degrees)": "None",
+              "Internal/External Rotation (Degrees)": "+/- 20˚",
+              "Maximum Flexion (Degrees)": "150˚"
+            },
+            {
+              "Insert Type": "CS",
+              "Varus/Valgus Constraint (Degrees)": "None",
+              "Internal/External Rotation (Degrees)": "+/- 20˚",
+              "Maximum Flexion (Degrees)": "150˚"
+            },
+            {
+              "Insert Type": "PS",
+              "Varus/Valgus Constraint (Degrees)": "None",
+              "Internal/External Rotation (Degrees)": "+/- 20˚",
+              "Maximum Flexion (Degrees)": "150˚"
+            },
+            {
+              "Insert Type": "TS",
+              "Varus/Valgus Constraint (Degrees)": "+/- 2˚",
+              "Internal/External Rotation (Degrees)": "+/- 7˚",
+              "Maximum Flexion (Degrees)": "135˚"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Insert Type",
+              "Varus/Valgus Constraint (Degrees)",
+              "Internal/External Rotation (Degrees)",
+              "Maximum Flexion (Degrees)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Insert Type",
+            "Varus/Valgus Constraint (Degrees)",
+            "Internal/External Rotation (Degrees)",
+            "Maximum Flexion (Degrees)"
+          ]
+        }
+      ],
+      "raw_content": "# Insert options\nCruciate Retaining Bearing (CR)\n\nCondylar Stabilized Bearing (CS)\n\nPosterior Stabilized Bearing (PS)\n\nTotal Stabilized Bearing* (TS)\n*Can only be used with Universal Baseplate",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291218"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "Triathlon Total Knee System Reference Guide | Compatibility",
+      "summary": "Page 13 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "compatibility",
+        "femoral components",
+        "insert types",
+        "X3 inserts"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Femoral Component and Insert Compatibility",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Femoral Components": "CR Cemented",
+              "Cruciate Retaining (CR)": "TRUE",
+              "Cruciate Substituting (CS)": "TRUE",
+              "Posterior Stabilized (PS)": "FALSE",
+              "Posterior Stabilized Revision (PSR)": "FALSE",
+              "Triathlon Single Radius (TS)": "FALSE"
+            },
+            {
+              "Femoral Components": "PS Cemented",
+              "Cruciate Retaining (CR)": "FALSE",
+              "Cruciate Substituting (CS)": "TRUE",
+              "Posterior Stabilized (PS)": "TRUE",
+              "Posterior Stabilized Revision (PSR)": "TRUE",
+              "Triathlon Single Radius (TS)": "TRUE"
+            },
+            {
+              "Femoral Components": "TS Cemented",
+              "Cruciate Retaining (CR)": "FALSE",
+              "Cruciate Substituting (CS)": "FALSE",
+              "Posterior Stabilized (PS)": "TRUE",
+              "Posterior Stabilized Revision (PSR)": "TRUE",
+              "Triathlon Single Radius (TS)": "TRUE"
+            },
+            {
+              "Femoral Components": "CR Cementless",
+              "Cruciate Retaining (CR)": "TRUE",
+              "Cruciate Substituting (CS)": "TRUE",
+              "Posterior Stabilized (PS)": "FALSE",
+              "Posterior Stabilized Revision (PSR)": "FALSE",
+              "Triathlon Single Radius (TS)": "FALSE"
+            },
+            {
+              "Femoral Components": "PS Cementless",
+              "Cruciate Retaining (CR)": "FALSE",
+              "Cruciate Substituting (CS)": "TRUE",
+              "Posterior Stabilized (PS)": "TRUE",
+              "Posterior Stabilized Revision (PSR)": "TRUE",
+              "Triathlon Single Radius (TS)": "TRUE"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 6,
+            "data_types": [],
+            "searchable_columns": [
+              "Femoral Components",
+              "Cruciate Retaining (CR)",
+              "Cruciate Substituting (CS)",
+              "Posterior Stabilized (PS)",
+              "Posterior Stabilized Revision (PSR)",
+              "Triathlon Single Radius (TS)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Femoral Components",
+            "Cruciate Retaining (CR)",
+            "Cruciate Substituting (CS)",
+            "Posterior Stabilized (PS)",
+            "Posterior Stabilized Revision (PSR)",
+            "Triathlon Single Radius (TS)"
+          ]
+        }
+      ],
+      "raw_content": "# Femoral component/insert compatibility\n\nThis compatibility chart applies to the X3 inserts with catalog numbers that end with the letter E. Please reach out to your Stryker representative for the compatibility of other Triathlon tibial inserts. Size matching: one up, one down, e.g., size 5 femur with size 4 or 6 insert/baseplate.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291234"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "Triathlon Total Knee System Reference Guide: Material Information",
+      "summary": "Page 14 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "Material Composition",
+        "Vitallium cobalt chrome alloy",
+        "ASTM F75 standard",
+        "Chemical Composition"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Vitallium Cobalt-Chrome Alloy – ASTM F75 Composition",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "components": [
+                "Femoral components",
+                "Tibial components"
+              ],
+              "material": "Vitallium cobalt chrome alloy (conforms to ASTM F75)",
+              "chemical_composition": [
+                {
+                  "element": "Nickel",
+                  "symbol": "Ni",
+                  "weight_percentage": "0.50 (max.)"
+                },
+                {
+                  "element": "Chromium",
+                  "symbol": "Cr",
+                  "weight_percentage": "27.5 – 28.5"
+                },
+                {
+                  "element": "Carbon",
+                  "symbol": "C",
+                  "weight_percentage": "0.20 – 0.27"
+                },
+                {
+                  "element": "Manganese",
+                  "symbol": "Mn",
+                  "weight_percentage": "0.20 – 0.50"
+                },
+                {
+                  "element": "Phosphorous",
+                  "symbol": "P",
+                  "weight_percentage": "0.015 (max.)"
+                },
+                {
+                  "element": "Sulfur",
+                  "symbol": "S",
+                  "weight_percentage": "0.01 (max.)"
+                },
+                {
+                  "element": "Silicon",
+                  "symbol": "Si",
+                  "weight_percentage": "0.65 – 0.90"
+                },
+                {
+                  "element": "Molybdenum",
+                  "symbol": "Mo",
+                  "weight_percentage": "5.5 – 6.3"
+                },
+                {
+                  "element": "Iron",
+                  "symbol": "Fe",
+                  "weight_percentage": "0.65 (max.)"
+                },
+                {
+                  "element": "Tungsten",
+                  "symbol": "W",
+                  "weight_percentage": "0.1 (max.)"
+                },
+                {
+                  "element": "Nitrogen",
+                  "symbol": "N",
+                  "weight_percentage": "0.125 – 0.200"
+                },
+                {
+                  "element": "Oxygen",
+                  "symbol": "O",
+                  "weight_percentage": "100 ppm (max.)"
+                },
+                {
+                  "element": "Aluminum",
+                  "symbol": "Al",
+                  "weight_percentage": "0.02 (max.)"
+                },
+                {
+                  "element": "Boron",
+                  "symbol": "B",
+                  "weight_percentage": "0.01 (max.)"
+                },
+                {
+                  "element": "Cobalt",
+                  "symbol": "Co",
+                  "weight_percentage": "Balance"
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "components",
+              "material",
+              "chemical_composition"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "components",
+            "material",
+            "chemical_composition",
+            "chemical composition"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291250"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "Triathlon Total Knee System Reference Guide: Material Composition",
+      "summary": "Page 15 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "Material Composition",
+        "Chemical Composition",
+        "Weight Percentage",
+        "Component Description"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Material (continued)",
+          "description": "Table from page 15",
+          "rows": [
+            {
+              "components": [
+                "All-Poly Tibia",
+                "All-Poly Patella"
+              ],
+              "material": "UHMWPE"
+            },
+            {
+              "components": [
+                "CR insert",
+                "CS insert",
+                "PS insert",
+                "TS insert"
+              ],
+              "note": "Tibial inserts include locking wire; see insert-locking-wire composition below.",
+              "material": "UHMWPE"
+            },
+            {
+              "component": "Insert locking wire",
+              "material": "CoCrWNi alloy (conforms to ASTM F90)",
+              "chemical_composition": [
+                {
+                  "element": "Nickel",
+                  "symbol": "Ni",
+                  "weight_percentage": "9.0 – 11.0"
+                },
+                {
+                  "element": "Chromium",
+                  "symbol": "Cr",
+                  "weight_percentage": "19.0 – 21.0"
+                },
+                {
+                  "element": "Manganese",
+                  "symbol": "Mn",
+                  "weight_percentage": "1.00 – 2.00"
+                },
+                {
+                  "element": "Phosphorous",
+                  "symbol": "P",
+                  "weight_percentage": "0.04 (max.)"
+                },
+                {
+                  "element": "Sulfur",
+                  "symbol": "S",
+                  "weight_percentage": "0.03 (max.)"
+                },
+                {
+                  "element": "Silicon",
+                  "symbol": "Si",
+                  "weight_percentage": "0.4 (max.)"
+                },
+                {
+                  "element": "Iron",
+                  "symbol": "Fe",
+                  "weight_percentage": "3.0 (max.)"
+                },
+                {
+                  "element": "Tungsten",
+                  "symbol": "W",
+                  "weight_percentage": "14.0 – 16.0"
+                },
+                {
+                  "element": "Cobalt",
+                  "symbol": "Co",
+                  "weight_percentage": "Balance"
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "components",
+              "material"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "components",
+            "material"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291269"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "Triathlon Total Knee System Reference Guide: Material Details",
+      "summary": "Page 16 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "Material Details",
+        "Chemical Composition",
+        "Weight Percentage",
+        "Titanium alloy",
+        "Vitallium cobalt chrome alloy",
+        "Peri-Apatite",
+        "Commercially Pure Titanium"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Material (continued)",
+          "description": "Table from page 16",
+          "rows": [
+            {
+              "component": "Cementless stems",
+              "material": "Titanium alloy (ASTM F136)",
+              "chemical_composition": [
+                {
+                  "element": "Nitrogen",
+                  "symbol": "N",
+                  "weight_percentage": 0.05
+                },
+                {
+                  "element": "Carbon",
+                  "symbol": "C",
+                  "weight_percentage": 0.08
+                },
+                {
+                  "element": "Hydrogen",
+                  "symbol": "H",
+                  "weight_percentage": 0.012
+                },
+                {
+                  "element": "Iron",
+                  "symbol": "Fe",
+                  "weight_percentage": 0.25
+                },
+                {
+                  "element": "Oxygen",
+                  "symbol": "O",
+                  "weight_percentage": 0.13
+                },
+                {
+                  "element": "Aluminum",
+                  "symbol": "Al",
+                  "weight_percentage": "5.5 – 6.5"
+                },
+                {
+                  "element": "Vanadium",
+                  "symbol": "V",
+                  "weight_percentage": "3.5 – 4.5"
+                },
+                {
+                  "element": "Residual (each)",
+                  "symbol": "—",
+                  "weight_percentage": 0.1
+                },
+                {
+                  "element": "Residual (total)",
+                  "symbol": "—",
+                  "weight_percentage": 0.3
+                },
+                {
+                  "element": "Titanium",
+                  "symbol": "Ti",
+                  "weight_percentage": "Balance"
+                }
+              ]
+            },
+            {
+              "component": "Cementless beaded PA femoral, tibial & patellar components",
+              "material": "Vitallium cobalt-chrome alloy with Peri-Apatite (PA)"
+            },
+            {
+              "component": "Cementless Tritanium Baseplate & Metal-Backed Patella",
+              "material": {
+                "baseplate": "Ti-6Al-4V (Ti 6-4) + commercially pure titanium (CP Ti)",
+                "metal_backed_patella": "Commercially pure titanium (CP Ti)"
+              }
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "component",
+              "material",
+              "chemical_composition"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "component",
+            "material",
+            "chemical_composition",
+            "chemical composition"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291285"
+      }
+    },
+    {
+      "page_id": "page_17",
+      "title": "Triathlon Total Knee System Reference Guide",
+      "summary": "Page 17 content",
+      "keywords": [
+        "Triathlon Total Knee System",
+        "Component Weights",
+        "Cemented CR Femur",
+        "Cementless PS Femur",
+        "Tritanium Baseplate"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Component Weights",
+          "description": "Table from page 17",
+          "rows": [
+            {
+              "Component Name": "Cemented CR Femur",
+              "Weight Range (lb)": "0.36 - 0.72"
+            },
+            {
+              "Component Name": "Cemented PS Femur",
+              "Weight Range (lb)": "0.43 - 0.87"
+            },
+            {
+              "Component Name": "Cementless CR Femur",
+              "Weight Range (lb)": "0.41 - 0.81"
+            },
+            {
+              "Component Name": "Cementless PS Femur",
+              "Weight Range (lb)": "0.49 - 0.92"
+            },
+            {
+              "Component Name": "CR Tibial Insert",
+              "Weight Range (lb)": "0.03 - 0.15"
+            },
+            {
+              "Component Name": "CS Tibial Insert",
+              "Weight Range (lb)": "0.03 - 0.18"
+            },
+            {
+              "Component Name": "PS Tibial Insert",
+              "Weight Range (lb)": "0.04 - 0.19"
+            },
+            {
+              "Component Name": "Cruciform Baseplate",
+              "Weight Range (lb)": "0.16 - 0.29"
+            },
+            {
+              "Component Name": "Tritanium Baseplate",
+              "Weight Range (lb)": "0.13 - 0.18"
+            },
+            {
+              "Component Name": "All-Poly Patella",
+              "Weight Range (lb)": "0.01 - 0.02"
+            },
+            {
+              "Component Name": "Tritanium Patella",
+              "Weight Range (lb)": "0.01 - 0.02"
+            }
+          ],
+          "metadata": {
+            "row_count": 11,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Component Name",
+              "Weight Range (lb)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Component Name",
+            "Weight Range (lb)"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291302"
+      }
+    },
+    {
+      "page_id": "page_18",
+      "title": "Useless - Page 18",
+      "summary": "Page 18 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T14:47:28.291318"
+      }
+    }
+  ]
+}

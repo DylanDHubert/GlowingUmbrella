@@ -1,0 +1,1326 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-07-01T17:17:54.665327",
+    "total_pages": 41,
+    "total_tables": 22,
+    "portfolio": "knee",
+    "review_status": {
+      "approved_pages": 24,
+      "flagged_pages": 0,
+      "missing_pages": [
+        5
+      ],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        14,
+        15,
+        16,
+        17,
+        22,
+        27,
+        30,
+        32,
+        38,
+        39,
+        40,
+        41
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665532"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Useless - Page 2",
+      "summary": "Page 2 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665551"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Useless - Page 3",
+      "summary": "Page 3 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665561"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "Useless - Page 4",
+      "summary": "Page 4 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665570"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "Useless - Page 5",
+      "summary": "Page 5 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665585"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "Understanding Mid-Flexion Instability",
+      "summary": "Page 6 content",
+      "keywords": [
+        "mid-flexion instability",
+        "knee",
+        "varus-valgus testing",
+        "flexion"
+      ],
+      "tables": [],
+      "raw_content": "The knee is stable in extension and 90° of flexion but symmetrically unstable during varus-valgus testing at 30° to 45° of flexion\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665594"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Some Common Symptoms of Instability",
+      "summary": "Page 7 content",
+      "keywords": [
+        "instability",
+        "symptoms",
+        "patient expressions",
+        "giving way",
+        "ascending stairs",
+        "descending stairs"
+      ],
+      "tables": [],
+      "raw_content": "# Some common symptoms of instability\n\nCommon expressions used by patients:\n\n- “Giving way” or “Just will not hold them up”\n- “Get their knee in gear” before starting to walk\n- Potential difficulty with ascending / descending stairs (attributed to instability, not to pain)",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665603"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "Useless - Page 8",
+      "summary": "Page 8 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665611"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Potential Factors Contributing to Mid-Flexion Instability Following Total Knee Arthroplasty (TKA)",
+      "summary": "Page 9 content",
+      "keywords": [
+        "Total Knee Arthroplasty",
+        "mid-flexion instability",
+        "contributing factors",
+        "boolean values",
+        "technical error",
+        "gap imbalance",
+        "joint-line malposition",
+        "implant design",
+        "single vs. multi-radius design"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "#Potential factors contributing to mid-flexion instability following TKA\n\nTechnical error:\n• Gap imbalance\n• Joint-line malposition\n\nImplant design:\n• Single vs. multi-radius",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665619"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "Useless - Page 10",
+      "summary": "Page 10 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665640"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "Sagittal Geometry",
+      "summary": "Page 11 content",
+      "keywords": [
+        "Sagittal Geometry",
+        "posterior condyles",
+        "circular",
+        "Magnetic Resonance images",
+        "femoral-epiphyseal axis",
+        "lateral condyle",
+        "medial condyle"
+      ],
+      "tables": [],
+      "raw_content": "# Sagittal geometry\n\nThe posterior condyles are circular\n\nHollister et al. :\n\n- Magnetic resonance (MR) images in planes perpendicular to the FE axis show a circular profile for the femoral condyles\n\nIwaki, Freeman et al. :\n\n- The lateral condyle, like the medial condyle, is circular posteriorly",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665651"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "Motion in the Normal Knee",
+      "summary": "Page 12 content",
+      "keywords": [
+        "knee",
+        "stability",
+        "functional flexion arc",
+        "sagittal geometry",
+        "flexion/extension axis"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 12",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Motion in the normal knee\nStability:\n• Functional flexion arc from 10° to 110°\n• Consistent sagittal geometry\n• Single flexion / extension axis",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665660"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "Single vs. Multi-Radius Comparison",
+      "summary": "Page 13 content",
+      "keywords": [
+        "Single Radius",
+        "Multi-Radius",
+        "Boolean Value",
+        "Comparison",
+        "TRIATH-PRE-19_Rev-2_26805"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Single vs. multi-radius\n\nSingle Radius:\n- Circular sagittal geometry\n- Single axis of rotation\n\n\nMulti-radius:\n- Variable sagittal geometry\n- Multiple axes of rotation",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665670"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "Useless - Page 14",
+      "summary": "Page 14 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665681"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "Single Radius Mid-Flexion Stability",
+      "summary": "Page 15 content",
+      "keywords": [
+        "Single Radius",
+        "Mid-Flexion Stability",
+        "Knee Replacement",
+        "Ligament Balance",
+        "Mako SmartRobotics™",
+        "Triathlon Implants"
+      ],
+      "tables": [],
+      "raw_content": "\n# Single radius mid-flexion stability\n\nThe single radius knee replacement is designed to maintain ligament balance through the active range of motion, including mid-flexion.2,5,14 A study of patients who underwent a Mako SmartRobotics™ knee replacement showed that patients with Triathlon implants achieved mid-flexion stability when the knee was balanced in extension and flexion.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665701"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "Single Radius Quadriceps Efficiency",
+      "summary": "Page 16 content",
+      "keywords": [
+        "Triathlon single radius",
+        "multi-radius",
+        "force required for operation",
+        "Patellofemoral (PF) Offset",
+        "design comparison"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 16",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Single radius quadriceps efficiency\n\nThe single radius knee replacement is designed to maintain ligament balance through the active range of\nmotion, including mid-flexion. A study of patients who underwent a Mako SmartRoboticsTM knee\nreplacement showed that patients with Triathlon implants achieved mid-flexion stability when the knee\nwas balanced in extension and flexion.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665711"
+      }
+    },
+    {
+      "page_id": "page_17",
+      "title": "Useless - Page 17",
+      "summary": "Page 17 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665721"
+      }
+    },
+    {
+      "page_id": "page_18",
+      "title": "Rotary Arc in Triathlon",
+      "summary": "Page 18 content",
+      "keywords": [
+        "Rotary Arc",
+        "Triathlon",
+        "internal/external rotation",
+        "contact stresses",
+        "TRIATH-PRE-19_Rev-2_26805"
+      ],
+      "tables": [],
+      "raw_content": "# Rotary arc\n\nThe Triathlon rotary arc design allows for +/- 20° of internal/external rotation and reduces contact stresses.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665729"
+      }
+    },
+    {
+      "page_id": "page_19",
+      "title": "Flared, Shorter Posterior Condyles",
+      "summary": "Page 19 content",
+      "keywords": [
+        "Triathlon",
+        "posterior condyles",
+        "shortened",
+        "flared",
+        "deep flexion"
+      ],
+      "tables": [],
+      "raw_content": "# Flared, shorter posterior condyles\n\nTriathlon’s shortened, flared posterior condyles are designed to facilitate the relaxation of the soft tissues to enable deep flexion without excessive slope.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665737"
+      }
+    },
+    {
+      "page_id": "page_20",
+      "title": "TRIATH-PRE-19_Rev-2_26805",
+      "summary": "Page 20 content",
+      "keywords": [
+        "Triathlon PS Femur",
+        "Post/Cam Engagement",
+        "PCL loading",
+        "tibial insert",
+        "technical specifications"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 20",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Post/cam engagement (PS)\n\nThe Triathlon PS femur is designed to engage the post of the tibial insert at approximately 45°, where natural PCL loading occurs.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665746"
+      }
+    },
+    {
+      "page_id": "page_21",
+      "title": "Anatomic Patellofemoral Track",
+      "summary": "Page 21 content",
+      "keywords": [
+        "Triathlon",
+        "trochlear groove",
+        "extensor mechanism",
+        "flexion",
+        "contact stresses",
+        "patella",
+        "Duracon",
+        "patellofemoral complication rates"
+      ],
+      "tables": [],
+      "raw_content": "# Anatomic patellofemoral track\n\nTriathlon’s deepened trochlear groove is designed to help relax the extensor mechanism, enable deeper flexion and reduce contact stresses exerted across the patella. Triathlon incorporates the same patellofemoral design as Duracon, which demonstrated <1% patellofemoral complication rates in multiple studies.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665759"
+      }
+    },
+    {
+      "page_id": "page_22",
+      "title": "Useless - Page 22",
+      "summary": "Page 22 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665767"
+      }
+    },
+    {
+      "page_id": "page_23",
+      "title": "Single Radius Clinical Outcomes",
+      "summary": "Page 23 content",
+      "keywords": [
+        "Triathlon Total Knee Arthroplasties",
+        "femoral component",
+        "kinematically stabilized",
+        "mid-flexion ranges",
+        "posterior femoral rollback"
+      ],
+      "tables": [],
+      "raw_content": "# Single radius clinical outcomes\n\nA fluoroscopic study on 20 Triathlon TKAs showed the femoral component was kinematically stabilized in mid-flexion ranges, and posterior femoral rollback occurred in deeper knee flexion with this knee design.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665775"
+      }
+    },
+    {
+      "page_id": "page_24",
+      "title": "Clinical and Functional Outcomes of Single Radius",
+      "summary": "Page 24 content",
+      "keywords": [
+        "Gait Study",
+        "Functional Outcomes Study",
+        "Single Radius",
+        "Multi Radius",
+        "Total Knee Arthroplasty"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 24",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Single radius clinical outcomes\n\n## Gait study\nIn a study that compared three cohorts of 16 patients\nwho received single radius TKAs or multi-radius TKAs to\nhealthy control knees, patients who received single radius\nTKA exhibited gait that more closely mimicked that of a\nhealthy control knee.\n\n\n## Functional outcomes study\n\nIn a study of 559 TKAs, KSS knee and function subscores for the single radius design showed an advantage over the multi-radius design as measured by pain, stability, flexion, ability to completely straighten the knee, stair climbing, walking and the amount of support needed from an assistive device.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665784"
+      }
+    },
+    {
+      "page_id": "page_25",
+      "title": "Triathlon Clinical Outcomes",
+      "summary": "Page 25 content",
+      "keywords": [
+        "Triathlon Total Knee Arthroplasty",
+        "satisfaction rate",
+        "Oxford Knee Score",
+        "patient-reported measure",
+        "follow-up study"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Oxford Knee Score (OKS) Over Time for Patients with Triathlon Total Knee Arthroplasty (TKA)",
+          "description": "Table from page 25",
+          "rows": [
+            {
+              "Time Point (Years)": "Mean OKS",
+              "Preoperative": "18.8",
+              "0.5": "34.3",
+              "1": "36.3",
+              "5": "37.3",
+              "10": "34.7"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 6,
+            "data_types": [],
+            "searchable_columns": [
+              "Time Point (Years)",
+              "Preoperative",
+              "0.5",
+              "1",
+              "5",
+              "10"
+            ],
+            "data_category": "clinical_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Time Point (Years)",
+            "Preoperative",
+            "0.5",
+            "1",
+            "5",
+            "10"
+          ]
+        }
+      ],
+      "raw_content": "\n\n# Triathlon clinical outcomes\n\n# Triathlon patient satisfaction reported in literature\n\n- Hamilton et al. reported 90.5% at eight-year follow-up\n- Scott et al. reported 88% at 10-year follow-up\n- Hamilton et al. reported 99% at three-year follow-up\n\nPatients with Triathlon TKA continue to show favorable results with high implant survivorship and consistently maintained Oxford Knee Score (OKS) in a 10-year follow-up study",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665794"
+      }
+    },
+    {
+      "page_id": "page_26",
+      "title": "Clinical Performance - Triathlon Survivorship",
+      "summary": "Page 26 content",
+      "keywords": [
+        "Triathlon Survivorship",
+        "10 years",
+        "all-cause survivorship",
+        "clinical performance",
+        "Orthopaedic Data Evaluation Panel"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Triathlon All-Cause Survivorship at 10 Years",
+          "description": "Table from page 26",
+          "rows": [
+            {
+              "Source": "Mistry et al. 2016²⁴",
+              "Triathlon All-Cause Survivorship at 10 Years": "99.0%"
+            },
+            {
+              "Source": "Scott et al. 2019²²",
+              "Triathlon All-Cause Survivorship at 10 Years": "97.9%"
+            },
+            {
+              "Source": "2019 National Joint Registry (UK/Wales)²⁵",
+              "Triathlon All-Cause Survivorship at 10 Years": "96.4%"
+            },
+            {
+              "Source": "2019 Australian Orthopaedic Association National Joint Replacement Registry²⁶",
+              "Triathlon All-Cause Survivorship at 10 Years": "96.2%/94.6% (CR/PS)"
+            },
+            {
+              "Source": "Orthopaedic Data Evaluation Panel (ODEP)²⁷",
+              "Triathlon All-Cause Survivorship at 10 Years": "10A*"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Source",
+              "Triathlon All-Cause Survivorship at 10 Years"
+            ],
+            "data_category": "clinical_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Source",
+            "Triathlon All-Cause Survivorship at 10 Years"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665804"
+      }
+    },
+    {
+      "page_id": "page_27",
+      "title": "Useless - Page 27",
+      "summary": "Page 27 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 27",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665815"
+      }
+    },
+    {
+      "page_id": "page_28",
+      "title": "FlexRod: A Tool for Individualized Component Placement in the Sagittal Plane",
+      "summary": "Page 28 content",
+      "keywords": [
+        "FlexRod",
+        "medical device",
+        "component placement",
+        "sagittal plane",
+        "individual patient anatomy"
+      ],
+      "tables": [],
+      "raw_content": "# FlexRod \n\nPotential for better fit\n\n\nFlexRod is designed to aid component placement matched to individual patient anatomy in the sagittal plane.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665847"
+      }
+    },
+    {
+      "page_id": "page_29",
+      "title": "Sizing and Fit with FlexRod",
+      "summary": "Page 29 content",
+      "keywords": [
+        "FlexRod",
+        "femoral component",
+        "sizing",
+        "fit",
+        "oversizing",
+        "CT scan",
+        "rigid rod",
+        "flexible rod"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 29",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Sizing and fit with FlexRod\n\n- Oversizing of the femoral component may lead to ML overhang. ≥3 mm ML overhang of the femoral components has been shown to be associated with increased knee pain.\n- A CT scan–based study showed that the use of the FlexRod allowed Triathlon to fit 99.4% of patients.\n- A retrospective clinical study that analyzed the femoral implant sizes of 277 patients using the rigid IM rod and 364 patients using the FlexRod rod showed that FlexRod reduced the risk of oversizing the femoral component.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665860"
+      }
+    },
+    {
+      "page_id": "page_30",
+      "title": "Useless - Page 30",
+      "summary": "Page 30 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 30",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665870"
+      }
+    },
+    {
+      "page_id": "page_31",
+      "title": "Functional outcomes with FlexRod",
+      "summary": "Page 31 content",
+      "keywords": [
+        "FlexRod",
+        "Total Knee Arthroplasty",
+        "Knee Society Score",
+        "Range of Motion",
+        "KSS Pain"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Range of Motion (ROM) and KSS/Pain motion",
+          "description": "Table from page 31",
+          "rows": [
+            {
+              "Rod Type": "Rigid",
+              "Pre-Operation": 101.1,
+              "6 Weeks": 103.1,
+              "3 Months": 113.6,
+              "1 Year": 119.0,
+              "2 Years": 123.6,
+              "% Change at 2 Years": "22.2%"
+            },
+            {
+              "Rod Type": "Flexible",
+              "Pre-Operation": 99.7,
+              "6 Weeks": 107.0,
+              "3 Months": 118.2,
+              "1 Year": 124.3,
+              "2 Years": 127.9,
+              "% Change at 2 Years": "28.3%"
+            },
+            {
+              "Rod Type": "% Diff",
+              "Pre-Operation": "-1.5%",
+              "6 Weeks": "3.8%",
+              "3 Months": "4.1%",
+              "1 Year": "4.4%",
+              "2 Years": "3.40",
+              "% Change at 2 Years": "6.1%"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 7,
+            "data_types": [],
+            "searchable_columns": [
+              "Rod Type",
+              "Pre-Operation",
+              "6 Weeks",
+              "3 Months",
+              "1 Year",
+              "2 Years",
+              "% Change at 2 Years"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Rod Type",
+            "Pre-Operation",
+            "6 Weeks",
+            "3 Months",
+            "1 Year",
+            "2 Years",
+            "% Change at 2 Years"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "KSS Pain/ Motion",
+          "description": "Table from page 31",
+          "rows": [
+            {
+              "Rod Type": "Rigid",
+              "Pre-Operation": 37.25,
+              "6 Weeks": 73.9,
+              "3 Months": 80.31,
+              "1 Year": 88.52,
+              "2 Years": 90.5,
+              "% Change at 2 Years": "143.0%"
+            },
+            {
+              "Rod Type": "Flexible",
+              "Pre-Operation": 35.74,
+              "6 Weeks": 76.9,
+              "3 Months": 82.75,
+              "1 Year": 90.1,
+              "2 Years": 92.73,
+              "% Change at 2 Years": "159.5%"
+            },
+            {
+              "Rod Type": "% Diff",
+              "Pre-Operation": "-4.1%",
+              "6 Weeks": "4.1%",
+              "3 Months": "3.0%",
+              "1 Year": "1.8%",
+              "2 Years": "2.5%",
+              "% Change at 2 Years": "16.5%"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 7,
+            "data_types": [],
+            "searchable_columns": [
+              "Rod Type",
+              "Pre-Operation",
+              "6 Weeks",
+              "3 Months",
+              "1 Year",
+              "2 Years",
+              "% Change at 2 Years"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Rod Type",
+            "Pre-Operation",
+            "6 Weeks",
+            "3 Months",
+            "1 Year",
+            "2 Years",
+            "% Change at 2 Years"
+          ]
+        }
+      ],
+      "raw_content": "• Prospective study of 100 TKA recipients\n\n• The FlexRod cohort demonstrated improved KSS compared to the rigid rod cohort at two-year follow-up³⁰",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665880"
+      }
+    },
+    {
+      "page_id": "page_32",
+      "title": "Useless - Page 32",
+      "summary": "Page 32 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665895"
+      }
+    },
+    {
+      "page_id": "page_33",
+      "title": "Tibial Constraint Options",
+      "summary": "Page 33 content",
+      "keywords": [
+        "Tibial Constraint",
+        "Insert Type",
+        "Varus/Valgus Constraint",
+        "Internal/External Rotation",
+        "Maximum Flexion"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Comparison of Tibial Constraint Options",
+          "description": "Table from page 33",
+          "rows": [
+            {
+              "Insert Type": "Cruciate Retaining (CR)",
+              "Varus/Valgus Constraint (Degrees)": "None",
+              "Internal/External Rotation (Degrees)": "+/- 20",
+              "Maximum Flexion (Degrees)": "150"
+            },
+            {
+              "Insert Type": "Condylar Stabilized (CS)",
+              "Varus/Valgus Constraint (Degrees)": "None",
+              "Internal/External Rotation (Degrees)": "+/- 20",
+              "Maximum Flexion (Degrees)": "150"
+            },
+            {
+              "Insert Type": "Posterior Stabilized (PS)",
+              "Varus/Valgus Constraint (Degrees)": "None",
+              "Internal/External Rotation (Degrees)": "+/- 20",
+              "Maximum Flexion (Degrees)": "150"
+            },
+            {
+              "Insert Type": "Total Stabilized* (TS)",
+              "Varus/Valgus Constraint (Degrees)": "+/- 2",
+              "Internal/External Rotation (Degrees)": "+/- 7",
+              "Maximum Flexion (Degrees)": "135"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Insert Type",
+              "Varus/Valgus Constraint (Degrees)",
+              "Internal/External Rotation (Degrees)",
+              "Maximum Flexion (Degrees)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Insert Type",
+            "Varus/Valgus Constraint (Degrees)",
+            "Internal/External Rotation (Degrees)",
+            "Maximum Flexion (Degrees)"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665903"
+      }
+    },
+    {
+      "page_id": "page_34",
+      "title": "The Triathlon Condylar Stabilized (CS) Tibial Insert",
+      "summary": "Page 34 content",
+      "keywords": [
+        "Triathlon Condylar Stabilized (CS) Tibial Insert",
+        "Posterior Cruciate Ligament (PCL)",
+        "anterior stability",
+        "clinical outcomes",
+        "kinematic pattern"
+      ],
+      "tables": [],
+      "raw_content": "The Triathlon Condylar Stabilized (CS) Tibial Insert\n\n# CS Tibial Insert\n\n- 2 mm more anterior height compared to CR insert to provide anterior stability\n- Alternative for patients with an incompetent or sacrificed PCL\n\n# CS outcomes\n\n- An in vivo investigation compared the intraoperative kinematics of CR, CS, and PS Triathlon inserts. For patients without intact PCLs, the Triathlon CS Inserts had a stable kinematic pattern that was similar to the Triathlon PS Insert.\n- In a study with five-year follow-up of patients with a sacrificed PCL, patients who received a Triathlon CS Tibial Insert demonstrated excellent clinical outcomes that were comparable to the results obtained with the Triathlon PS Tibial Insert.\n- In a short-term follow-up study of patients with intact PCL, patients who received Triathlon CR and CS Tibial Inserts showed no differences in clinical survivorship and functional outcomes.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665914"
+      }
+    },
+    {
+      "page_id": "page_35",
+      "title": "Triathlon Universal Baseplate",
+      "summary": "Page 35 content",
+      "keywords": [
+        "Triathlon Universal Baseplate",
+        "CR",
+        "CS",
+        "PS",
+        "TS",
+        "valgus-varus constraint",
+        "rotational freedom",
+        "Total Knee Arthroplasties",
+        "Knee Society Scores",
+        "Range of Motion",
+        "stem extension"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 35",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "useless",
+          "description": "Table from page 35",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Triathlon Universal Baseplate\n\n## Universal Baseplate is compatible with the CR, CS, PS and TS insert\n\n- TS Tibial Insert provides +/- 2˚ valgus-varus constraint but permits +/- 7˚ rotational freedom.\n- In a study of 172 difficult primary TKAs with two-year follow-up and 41 difficult primary TKAs with five-year follow-up, all patients had good to excellent Knee Society Scores with good ROM and pain relief. No aseptic loosening or post failure was reported throughout the period of follow-up.\n\n## Universal Baseplate can be used with a stem extension\n\n- A finite element analysis of the Universal Baseplate with a stem extension demonstrated a reduction of cement-implant interface compressive and shear stress when compared to a baseplate without a stem.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665923"
+      }
+    },
+    {
+      "page_id": "page_36",
+      "title": "Triathlon Tritanium Total Knee Arthroplasty (TKA) Survivorship Studies",
+      "summary": "Page 36 content",
+      "keywords": [
+        "Triathlon Tritanium",
+        "Total Knee Arthroplasty",
+        "survivorship",
+        "long-term follow-up",
+        "study results"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Triathlon Tritanium TKA Survivorship with Five-Year Follow-Up",
+          "description": "Table from page 36",
+          "rows": [
+            {
+              "Survivorship Results and Study Details": "99.5% implant survivorship in 228 Triathlon Tritanium Baseplates at five-year follow-up",
+              "Source of Study": "Journal of Knee Surgery"
+            },
+            {
+              "Survivorship Results and Study Details": "100% aseptic survivorship in 28 Triathlon Tritanium Baseplates with Cruciate Retaining (CR) Posterior Articulating (PA) beaded femur at mean five-year follow-up",
+              "Source of Study": "Orthopaedic Research Society"
+            },
+            {
+              "Survivorship Results and Study Details": "98% all-cause survivorship in 261 Triathlon Tritanium Metal-Backed Patellae at mean 4.5-year follow-up",
+              "Source of Study": "Journal of Knee Surgery"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Survivorship Results and Study Details",
+              "Source of Study"
+            ],
+            "data_category": "clinical_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Survivorship Results and Study Details",
+            "Source of Study"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Triathlon Posterior Articulating (PA) Beaded Femur Survivorship with Long-Term Follow-Up",
+          "description": "Table from page 36",
+          "rows": [
+            {
+              "Survivorship Results and Study Details": "96.8% all-cause survivorship for Cruciate Retaining (CR) and 95.3% all-cause survivorship for Posterior Stabilized (PS) at 10-year follow-up",
+              "Source of Study": "Australian Joint Registry"
+            },
+            {
+              "Survivorship Results and Study Details": "98% all-cause survivorship at mean eight-year follow-up for the Triathlon Posterior Stabilized (PS) PA Beaded Femur",
+              "Source of Study": "Journal of Arthroplasty"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Survivorship Results and Study Details",
+              "Source of Study"
+            ],
+            "data_category": "clinical_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Survivorship Results and Study Details",
+            "Source of Study"
+          ]
+        }
+      ],
+      "raw_content": "\n# Triathlon Tritanium cementless TKA has demonstrated excellent clinical outcomes in multiple studies with five-year follow-up\n\n# Triathlon Tritanium TKA survivorship with five-year follow-up",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665935"
+      }
+    },
+    {
+      "page_id": "page_37",
+      "title": "X3 Polyethylene",
+      "summary": "Page 37 content",
+      "keywords": [
+        "X3 Polyethylene",
+        "mechanical strength",
+        "wear resistance",
+        "oxidation resistance",
+        "BMI"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 37",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# X3 polyethylene\n\nX3’s patented40 sequential irradiation and heat process allows for:\n\n• Mechanical strength: Triathlon PS with X3 showed no mechanical\nfailures at minimum five years in two separate clinical studies.\n\n• Wear resistance: The Australian Joint Registry data has\ndemonstrated a lower rate of revision due to loosening for highly\ncross-linked polyethylene compared to conventional polyethylene,\nindicating a potential long-term benefit of cross-linked polyethylene\n\n• Oxidation resistance: X3 has demonstrated similar oxidation\nresistance to virgin polyethylene.\n\n• One study comparing X3 to conventional polyethylene showed that X3\nhad a significantly better survival rate among subsets of patients who\nwere younger than 60 years old and/or had a BMI greater than 35.",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665947"
+      }
+    },
+    {
+      "page_id": "page_38",
+      "title": "Useless - Page 38",
+      "summary": "Page 38 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 38",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665957"
+      }
+    },
+    {
+      "page_id": "page_39",
+      "title": "Useless - Page 39",
+      "summary": "Page 39 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665968"
+      }
+    },
+    {
+      "page_id": "page_40",
+      "title": "Useless - Page 40",
+      "summary": "Page 40 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665976"
+      }
+    },
+    {
+      "page_id": "page_41",
+      "title": "Useless - Page 41",
+      "summary": "Page 41 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T17:17:54.665984"
+      }
+    }
+  ]
+}

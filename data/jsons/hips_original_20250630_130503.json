@@ -1,0 +1,875 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-06-30T13:05:03.952288",
+    "total_pages": 11,
+    "total_tables": 11,
+    "portfolio": "hips",
+    "review_status": {
+      "approved_pages": 8,
+      "flagged_pages": 0,
+      "missing_pages": [
+        8
+      ],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952406"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "ACCOLADE II: Total Hip Replacement Prostheses",
+      "summary": "Page 2 content",
+      "keywords": [
+        "ACCOLADE II",
+        "Femoral Hip System",
+        "cementless",
+        "press-fit",
+        "surgical approaches"
+      ],
+      "tables": [],
+      "raw_content": "ACCOLADE II\nThe indications for use of the total hip replacement prostheses include:\n\n- Noninflammatory degenerative joint disease, including osteoarthritis and avascular necrosis;\n- Rheumatoid arthritis;\n- Correction of functional deformity;\n- Revision procedures where other treatments or devices have failed; and,\n- Nonunions, femoral neck fractures, and trochanteric fractures of the proximal femur with head involvement that are unmanageable using other techniques.\n\nThe ACCOLADE II Femoral Hip System is a femoral stem that is intended for cementless, press-fit application. The proximal region of the stem is coated with PureFix HA over a commercially pure titanium plasma spray substrate. The Morphometric Wedge — an evolution of the tapered wedge — is characterized by its variable, size-specific medial curvature. The ACCOLADE II Femoral Hip System is suitable for various surgical approaches, including direct anterior.\n\nACCOLADE II Femoral Stems are intended for cementless use only and are intended for total and hemiarthroplasty procedures.\n\n# CONTRAINDICATIONS\n\n- Active infection or suspected latent infection in or about the hip joint;\n- Bone stock that is inadequate for support or fixation of the prosthesis;\n- Skeletal immaturity;\n- Any mental or neuromuscular disorder that would create an unacceptable risk of prosthesis instability, prosthesis fixation failure, or complications in post-operative care; and\n- Obesity. An overweight or obese patient can produce loads on the device that can lead to failure of the fixation of the device or to failure of the device itself.\n\n# WARNINGS AND PRECAUTIONS\n\nSee package insert for warnings, precautions, adverse effects and other essential product information.\n\nBefore using ACCOLADE II instrumentation, verify:\n\n- Instruments have been properly disassembled prior to cleaning and sterilization;\n- Instruments have been properly assembled post-sterilization;\n- Instruments have maintained design integrity; and,\n- Proper size configurations are available.\n\nStryker Orthopaedics wishes to thank the following orthopaedic surgeons for their expertise in the development of the ACCOLADE II System Surgical Technique:\n\n- Dr. Richard Rothman\n- Dr. Dermot Collopy\n- Dr. David Jacofsky\n- Dr. Frank Kolisek\n- Dr. Art Malkani\n\nThis publication sets forth detailed recommended procedures for using Stryker Orthopaedics devices and instruments. It offers guidance that you should heed, but, as with any such technical guide, each surgeon must consider the particular needs of each patient and make appropriate adjustments when and as required.\n\n# TABLE OF CONTENTS\n\n- Pre-operative Planning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2\n- Femoral Neck Resection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3\n- Preparing the Femoral Canal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-5\n- Broaching . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-7\n- Trial Reduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8-9\n- Implanting the Stem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10-11\n- Final Reduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12\n- Implant Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13\n- Instrumentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14-17\n\nFor cleaning and sterilization instructions of surgical instruments, refer to the instrument package insert.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952426"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Pre-Operative Planning",
+      "summary": "Page 3 content",
+      "keywords": [
+        "pre-operative planning",
+        "femoral neck resection",
+        "ACCOLADE II",
+        "acetate templates",
+        "templating"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Templates",
+          "description": "Table from page 3",
+          "rows": [
+            {
+              "Instrument/Template": "Instrument",
+              "Description": "ACCOLADE II"
+            },
+            {
+              "Instrument/Template": "Neck Resection Guide",
+              "Description": "Acetate Templates"
+            },
+            {
+              "Instrument/Template": "Literature Number",
+              "Description": "LTEM105"
+            },
+            {
+              "Instrument/Template": "Note",
+              "Description": "Acetate templates include 20% magnification."
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument/Template",
+              "Description"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument/Template",
+            "tool",
+            "device",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "\n\n# STEP 1 - PRE-OPERATIVE PLANNING\n\n\nPre-operative planning aids in the determination of probable implant style and size. The pre-operative planning process should take qualitative and quantitative factors (including patient bone quality, density, and morphology) into consideration in order to evaluate and select the appropriate instrument/implant system for the patient.\nPlace an acetabulum template over the area on the x-ray (Figure 1). Be sure that the cup is well centered within the acetabulum and the size fills between the tear drop and the superior rim. After templating the acetabulum for size, mark the center of rotation (represented by the blue dot). \n\nThe ACCOLADE II has two offset options: the standard offset 132° neck angle and the high offset 127° neck angle. Choose the ACCOLADE II template for which the stem size achieves medio-lateral cortical engagement at the proximal two-thirds of the stem and recreate the desired leg length and offset. The templates should be used to estimate the final components that most closely restore the normal offset of the patient’s hip.\n\n\nThe predicted change in leg length and offset is determined by the relative positioning of the center of rotation markings on the femoral and acetabular components. For example, if a given femoral component center of rotation marking is superior to the center of rotation marking of the acetabular component, leg lengthening is predicted. The desired change in leg length is determined by the radiographic leg length inequality that was previously determined. If 8mm of leg lengthening is required in order to equalize the leg lengths, the center of rotation marking of the femoral component should be positioned 8mm superior to the center of rotation marking of the acetabular component. The stem\nsize and head offset that most\nclosely meets this goal is chosen.\nThe predicted change in offset is\nalso considered by comparing the\nrelative medial/ lateral position of\nthe center of rotation markings\nof the femoral and acetabular\ncomponents. The templates\nshould be used to estimate the\nfinal components that most closely\nrestore the normal offset of the\npatient’s hip.\n\nOnce the final estimated stem size and position is determined, the neck resection level should be noted. This will be used as a reference during intra-operative neck resection.\n\n# Tips\n\nDavid Jacofsky, M.D.: The templated stem size and neck resection level may have to be adjusted if leg length cannot be managed solely by changing the head offset or neck angle.\n\nRichard Rothman, M.D.: Templating is an important aspect of pre-operative planning, but it should only serve as a guide. Final decision making concerning fit, size, and soft-tissue tensioning occurs in the operating room.\n\n# STEP 2 - FEMORAL NECK RESECTION\n\nA proper neck resection level directly affects the final placement and fit of the femoral stem. By using the anatomic landmarks referenced during pre-operative x-ray templating, the pre-planned neck resection is made with an oscillating saw and with the aid of the Neck Resection Guide. The guide helps the surgeon to determine the correct stem orientation and placement. After careful pre-operative templating, the guide is placed on the anterior/posterior aspect of the exposed proximal femur and the planned femoral neck cut is marked using a marking instrument of choice. Care should be taken to align the body of the guide with the axis of the femoral canal (Figure 4).\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952440"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "3 Preparing the Femoral Canal",
+      "summary": "Page 4 content",
+      "keywords": [
+        "Femoral Canal",
+        "ACCOLADE II Hip System",
+        "Modular Box Osteotome",
+        "Orthonomic Modular Handle",
+        "Mallet",
+        "Axial Starter Reamer",
+        "Orthonomic T-Handle"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instruments",
+          "description": "Table from page 4",
+          "rows": [
+            {
+              "Instrument Name": "Modular Box Osteotome",
+              "Instrument Code": "1601-1210"
+            },
+            {
+              "Instrument Name": "Orthonomic Modular Handle",
+              "Instrument Code": "1020-2900"
+            },
+            {
+              "Instrument Name": "Mallet",
+              "Instrument Code": "1120-1000"
+            },
+            {
+              "Instrument Name": "Axial Starter Reamer",
+              "Instrument Code": "1020-1200"
+            },
+            {
+              "Instrument Name": "Orthonomic T-Handle",
+              "Instrument Code": "1101-2200"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Instrument Code"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Instrument Code"
+          ]
+        }
+      ],
+      "raw_content": "\n# STEP 3 - PREPARING THE FEMORAL CANAL\n\nTo help ensure proper final orientation of the stem, lateral bias during implant preparation is preferred. Retraction of the gluteus medius and removal of the lateral cortical bone at the piriformis insertion will permit true axial introduction of the instruments and implant. The Modular Box Osteotome or a rongeur can be used to remove bone from this area (Figure 5).\n\nThe ACCOLADE II Hip System is a broach only system. While use of an axial starter reamer is needed, use of cylindrical reamers is not necessary to prepare the femoral canal. The Axial Starter Reamer is used with the T-Handle to open the femoral canal and to aid in determining the orientation of the femoral axis. The tapered design allows for access to the canal and is graduated along the flutes, which helps provide a reference during insertion into the canal. Advance the Axial Starter Reamer into the femoral canal to a depth at which the first graduation mark is aligned with the medial aspect of the neck resection (Figure 6).\n\nSlight lateral pressure on the reamer during operation will aid in preparing the femoral canal in the neutral orientation of the implant.\n\nNote: Care should be taken not to sink the starter reamer below the first graduation mark to allow for proper press fit of the implant.\n\n# Instruments\n\n<table>\n<tr>\n<td>Modular Box Osteotome</td>\n<td>Orthonomic Modular Handle</td>\n<td>Mallet</td>\n<td>Axial Starter Reamer</td>\n<td>Orthonomic T-Handle</td>\n</tr>\n<tr>\n<td>1601-1210</td>\n<td>1020-2900</td>\n<td>1120-1000</td>\n<td>1020-1200</td>\n<td>1101-2200</td>\n</tr>\n</table>\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952464"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "4 Broaching - ACCOLADE II Broach Instructions and Instrument Details",
+      "summary": "Page 5 content",
+      "keywords": [
+        "broaching",
+        "ACCOLADE II Broach",
+        "Mallet",
+        "Calcar Planer - Standard",
+        "instrument model numbers",
+        "neck resection",
+        "proximal femur",
+        "undersizing the implant"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 5",
+          "rows": [
+            {
+              "Useless": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n# STEP 4 - BROACHING\n\nBroaching is then performed beginning with the size 0 broach. The broach should be oriented to the long axis of the oblong shape created by the neck resection (Figure 7). Sequentially broach upward in size until the proper size is achieved. The surgeon’s clues to a firm fit and final size include:\n1. Changing pitch of sound that results from mallet blows to the broach handle;\n2. Increased resistance to forward advancement;\n3. Lack of further motion.\n\nTwo grooves on the anterior and posterior surfaces of the broach act as a point of reference to help the surgeon visualize the broach advancing into the femur (Figure 8).\n\nRelying only on the neck resection height alone for final seating height may lead to improper sizing and inadequate component fixation. The final broach should seat firmly against medial and lateral cortical bone (Figure 9).\n\nGenerally, if a broach sinks below the level of the neck resection, advance to the next larger broach. If the neck resection is deemed higher than desired, remove the broach and perform a new neck resection at a lower level.\n\nFor good fixation of the implant,\nit is important that axial alignment\nof the broach is maintained at all\ntimes in the canal. Generally, the\nbroach rotation is self-aligning.\n\nUpon reaching the final size and if the Calcar Planer cannot fully engage the broach post (Figure 10B), remove the broach and perform a new neck resection at a lower level. Alternatively, a larger broach size should also be considered.\n\nAssemble the Calcar Planer to the\nreamer power adaptor. Guide the\nCalcar Planer over the broach post\nensuring the Calcar Planer is axially\naligned with the post and is stable.\nInitiate power prior to contacting\nthe femur and slowly advance the\nCalcar Planer toward the broach\nusing continuous power until the\npositive stop on the Calcar Planer\ncontacts the broach face and the\nbone is removed (Figure 10A).\nFailure to operate the Calcar Planer\nin accordance with these\ninstructions may result\nin damage to the femur.\n\n\n\n## Notes and tips\n\nACCOLADE II broaches can be properly identified in several ways:\n\n1. The broach size is engraved into a square pocket on both the anterior and posterior sides of the broach.\n2. The size is marked on the top of the broach post.\n3. The distal lateral tip of the broach is polished.\n\nAccolade and ACCOLADE II broaches\ncannot be used interchangeably.\n\n\nDuring broaching, place lateral bias on the broach to fill the proximal femur and minimize undersizing the implant. \n\n\nPre-operative templating serves as a guide. Don’t keep hitting the broach harder just because you have not reached the size that was templated.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952480"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "Trial Reduction and Head Specifications",
+      "summary": "Page 6 content",
+      "keywords": [
+        "Neck Trial",
+        "Femoral Head",
+        "Implant Size",
+        "Stem Size",
+        "Neck Length",
+        "Color Code",
+        "Offsets",
+        "Material"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Neck Trial Length and Color Code by Stem Size",
+          "description": "Table from page 6",
+          "rows": [
+            {
+              "Stem Size": "0, 1",
+              "Neck Trial Length (mm) / Color": "27mm / Yellow"
+            },
+            {
+              "Stem Size": "2, 3",
+              "Neck Trial Length (mm) / Color": "30mm / Blue"
+            },
+            {
+              "Stem Size": "4, 5, 6",
+              "Neck Trial Length (mm) / Color": "35mm / Green"
+            },
+            {
+              "Stem Size": "7, 8, 9",
+              "Neck Trial Length (mm) / Color": "37mm / Black"
+            },
+            {
+              "Stem Size": "10, 11",
+              "Neck Trial Length (mm) / Color": "40mm / Red"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Stem Size",
+              "Neck Trial Length (mm) / Color"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Stem Size",
+            "dimensions",
+            "sizing",
+            "Neck Trial Length (mm) / Color",
+            "size"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Head Offset by Material and Size",
+          "description": "Table from page 6",
+          "rows": [
+            {
+              "Head Offset": "CoCr V40",
+              "22": "+0, +3, +8",
+              "26": "-3, +0, +4, +8, +12",
+              "28": "-4, +0, +4, +8, +12",
+              "32": "-4, +0, +4, +8, +12",
+              "36": "-5, +0, +5, +10",
+              "40": "-4, +0, +4, +8, +12",
+              "44": "-4, +0, +4, +8, +12"
+            },
+            {
+              "Head Offset": "Alumina V40",
+              "28": "-2.7, +0, +4",
+              "32": "-4, +0, +4",
+              "36": "-5, +0, +5"
+            },
+            {
+              "Head Offset": "Alumina C-Taper (when used with C-Taper Adaptor Sleeve-catalog #17-0000E)",
+              "28": "-2.5, +0, +5",
+              "32": "-2.5, +0, +5",
+              "36": "-5, +0, +5"
+            },
+            {
+              "Head Offset": "delta BIOLOX V40",
+              "28": "-4, -2.7, +0, +4",
+              "32": "-4, +0, +4",
+              "36": "-5, -2.5, +0, +2.5, +5, +7.5"
+            },
+            {
+              "Head Offset": "delta BIOLOX C-Taper  (when used with C-Taper Sleeve-catalog #17-0000E)",
+              "28": "-2.5, +0, +2.5, +5",
+              "32": "-2.5, +0, +2.5, +5",
+              "36": "-5, -2.5, +0, +2.5, +5, +7.5"
+            },
+            {
+              "Head Offset": "delta BIOLOX Universal Taper  (when used with Universal Taper Sleeve-catalog #6519-T-XXX)",
+              "28": "-2.5, +0, +4",
+              "32": "-2.5, +0, +4",
+              "36": "-2.5, +0, +4",
+              "40": "-2.5, +0, +4",
+              "44": "-2.5, +0, +4"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 8,
+            "data_types": [],
+            "searchable_columns": [
+              "Head Offset",
+              "22",
+              "26",
+              "28",
+              "32",
+              "36",
+              "40",
+              "44"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Head Offset",
+            "22",
+            "26",
+            "28",
+            "32",
+            "36",
+            "40",
+            "44"
+          ]
+        }
+      ],
+      "raw_content": "\n# 5 TRIAL REDUCTION\n\nSelect a Neck Trial which has the same base neck length and angle as the planned implant size. This can be determined in two ways.\n\nRichard Rothman, M.D.\n\nStart with a standard offset (132°) neck trial. If the leg lengths are equal, but soft tissues are lax, move to a 127° degree neck trial.\n\n1. Match the color indicator located on top of the broach (Figure 11).\n\n2. The table below indicates the correct neck length for each size stem and the corresponding color code. The size of the broach directly corresponds to the size of the implant.\n\n<table>\n<tr>\n<td>STEM SIZE</td>\n<td>NECK TRIAL LENGTH/COLOR</td>\n</tr>\n<tr>\n<td>0, 1</td>\n<td>27mm/Yellow</td>\n</tr>\n<tr>\n<td>2, 3</td>\n<td>30mm/Blue</td>\n</tr>\n<tr>\n<td>4, 5, 6</td>\n<td>35mm/Green</td>\n</tr>\n<tr>\n<td>7, 8, 9</td>\n<td>37mm/Black</td>\n</tr>\n<tr>\n<td>10, 11</td>\n<td>40mm/Red</td>\n</tr>\n</table>\n\nAssemble the Neck Trial onto the broach. Next, assemble a V40 Head Trial onto the Neck Trial (Figure 12).\n\n# HEAD\n\nFemoral heads come in multiple offsets and are different for each femoral head implant material (see table at right). For this reason, final head material should be chosen prior to trial reduction. Offsets add or subtract from the base neck length of the implant and help to achieve the desired leg length and offset.\n\n<table>\n<tr>\n<td>HEAD OFFSET</td>\n<td>22</td>\n<td>26</td>\n<td>28</td>\n<td>32</td>\n<td>36</td>\n<td>40</td>\n<td>44</td>\n</tr>\n<tr>\n<td>CoCr V40</td>\n<td>+0, +3, +8</td>\n<td>-3, +0, +4, +8, +12</td>\n<td>-4, +0, +4, +8, +12</td>\n<td>-4, +0, +4, +8, +12</td>\n<td>-5, +0, +5, +10</td>\n<td>-4, +0, +4, +8, +12</td>\n<td>-4, +0, +4, +8, +12</td>\n</tr>\n<tr>\n<td>Alumina V40</td>\n<td>-2.7, +0, +4</td>\n<td>-4, +0, +4</td>\n<td>-5, +0, +5</td>\n<td>Alumina C-Taper</td>\n<td>-2.5, +0, +5</td>\n<td>-2.5, +0, +5</td>\n<td>-5, +0, +5</td>\n</tr>\n<tr>\n<td>delta BIOLOX V40</td>\n<td>-4, +0, +4</td>\n<td>-5, -2.5, +0, +2.5, +5, +7.5</td>\n<td>delta BIOLOX C-Taper</td>\n<td>-2.5, +0, +2.5, +5</td>\n<td>-5, -2.5, +0, +2.5, +5, +7.5</td>\n<td>delta BIOLOX Universal Taper</td>\n<td>-2.5, +0, +4</td>\n</tr>\n</table>\n\nPerform a trial reduction of the hip. Upon confirmation of the selected components, remove the trial head and trial neck, and reassemble the broach handle to the broach. Remove the broach from the femoral canal. The final broach size determines the correct implant size.\n\nFigure 11\n\nInstruments\n\n132° Neck Trial 1020-32xx 127° Neck Trial 1020-27xx ACCOLADE II Broach Size 0-11 1020-52xx\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952494"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Implanting the Stem",
+      "summary": "Page 7 content",
+      "keywords": [
+        "ACCOLADE II Femoral Stem",
+        "Modular Threaded Stem Inserter",
+        "Modular Offset Quick Connect Stem Inserter",
+        "Modular Stem Impactor",
+        "Orthonomic Modular Handle",
+        "Mallet"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instruments",
+          "description": "Table from page 7",
+          "rows": [
+            {
+              "Instrument Name": "Modular Threaded Stem Inserter",
+              "Instrument Code": "1020-1800"
+            },
+            {
+              "Instrument Name": "Modular Offset Quick Connect Stem Inserter",
+              "Instrument Code": "1020-1860"
+            },
+            {
+              "Instrument Name": "Modular Stem Impactor",
+              "Instrument Code": "1020-1870"
+            },
+            {
+              "Instrument Name": "Orthonomic Modular Handle",
+              "Instrument Code": "1020-2900"
+            },
+            {
+              "Instrument Name": "Mallet",
+              "Instrument Code": "1120-1000"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Instrument Code"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Instrument Code"
+          ]
+        }
+      ],
+      "raw_content": "\n# STEP 6 - IMPLANTING THE STEM\n\n# OPTION 1\n\nThread the Modular Threaded Stem Inserter into the drive hole on the proximal face of the stem (Figure 13). The inserter should be fully threaded and secured to the stem prior to impaction to prevent damage to the threads on the implant or the instrument. Using the inserter, the stem should be inserted into the femoral canal until it stops.\n\n# OPTION 2\n\nThe ACCOLADE II Femoral Stem can also be inserted using the Modular Offset Quick Connect Stem Inserter. Place tip of the inserter into the drive hole of the stem taking care to align the version tab on the inserter with the slot in the stem (Figure 14). The quick connect design provides the inserter with a stable spring connection, but does not provide a mechanical lock. Therefore, this assembly should be handled with care, as excessive shaking or motion may result in the stem disassociating from the inserter.\nNote: The Modular Offset Quick Connect\nStem Inserter cannot be used with the Size 0\nand Size 1 ACCOLADE II. Misuse could lead to\ninstrument failure.\n\n\n# OPTION 3\n\nThe ACCOLADE II Femoral Stem can also be inserted by hand and then impacted into the bone using the Modular Stem Impactor. The Modular Stem Impactor has a spherical tip, which is placed onto the drive hole of the stem. This instrument allows for off-axis impaction of the stem. The Modular Stem Impactor does not connect to the stem, and, therefore, can only be used for final impaction of the stem.\nA Mallet is then used to seat the\nstem into the canal (Figure 15).\nThe surgeon should NOT attempt\nto continue impacting the femoral\ncomponent if visual and auditory\nclues indicate that the stem is firmly\nseated in the canal.\nContinued aggressive impaction could lead to femoral fracture. In the event that dense bone is encountered intra-operatively and compounding anatomical factors are present, the seating of the implant may not be consistent with the level of the broach due to the viscoelastic nature of the femoral bone.* If the final seating height is undesirable, the implant can be removed and additional broaching can be performed. If the stem inserter is contacting the greater trochanter during insertion, continued impaction could lead to a fracture.\n\n\n# Tip\n\nDermot Collopy, M.D. If the stem hangs up due to impingement of the Modular Threaded Stem Inserter against the overhanging tip of the greater trochanter, remove the threaded stem inserter leaving the stem in place and use the Modular Stem Impactor to fully seat the stem.\n\n# Instruments\n\n<table>\n<tr>\n<td>Modular Threaded Stem Inserter</td>\n<td>1020-1800</td>\n</tr>\n<tr>\n<td>Modular Offset Quick Connect Stem Inserter</td>\n<td>1020-1860</td>\n</tr>\n<tr>\n<td>Modular Stem Impactor</td>\n<td>1020-1870</td>\n</tr>\n<tr>\n<td>Orthonomic Modular Handle</td>\n<td>1020-2900</td>\n</tr>\n<tr>\n<td>Mallet</td>\n<td>1120-1000</td>\n</tr>\n</table>\n\n* Fung, Y.C, (1993). Biomechanics: Mechanical Properties of Living Tissues (2nd ed.). pp.500-519\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952510"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "❌ Missing Data - Page 8",
+      "summary": "Page 8 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 8\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952527"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Accolade II Instrumentation",
+      "summary": "Page 9 content",
+      "keywords": [
+        "Accolade II Instrumentation",
+        "Product Code",
+        "Description",
+        "Neck Trial",
+        "V40 Head Trial",
+        "Orthonomic T-Handle",
+        "Basic Tray",
+        "Single Tray Case"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Basic Tray and Single Tray Case",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Product Code": "1020-9001",
+              "Description": "Basic Tray"
+            },
+            {
+              "Product Code": "1020-9000",
+              "Description": "Single Tray Case"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Product Code",
+              "Description"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Product Code",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Orthonomic T-Handle and Neck Trials",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Product Code": "1101-2200",
+              "Description": "Orthonomic T-Handle",
+              "127°, 27mm Neck Trial": "1020-3227",
+              "127°, 30mm Neck Trial": "1020-3230",
+              "127°, 35mm Neck Trial": "1020-3235",
+              "127°, 37mm Neck Trial": "1020-3237",
+              "127°, 40mm Neck Trial": "1020-3240",
+              "Additional Product Code": "6264-8-028R"
+            },
+            {
+              "Product Code": "",
+              "Description": "",
+              "127°, 27mm Neck Trial": "132°, 27mm Neck Trial",
+              "127°, 30mm Neck Trial": "132°, 30mm Neck Trial",
+              "127°, 35mm Neck Trial": "132°, 35mm Neck Trial",
+              "127°, 37mm Neck Trial": "132°, 37mm Neck Trial",
+              "127°, 40mm Neck Trial": "132°, 40mm Neck Trial",
+              "Additional Product Code": "6264-8-128R"
+            },
+            {
+              "Product Code": "",
+              "Description": "",
+              "127°, 27mm Neck Trial": "28mm +0mm V40 Head Trial",
+              "127°, 30mm Neck Trial": "6264-8-228R",
+              "127°, 35mm Neck Trial": "28mm +4mm V40 Head Trial",
+              "127°, 37mm Neck Trial": "6264-8-328R",
+              "127°, 40mm Neck Trial": "28mm +8mm V40 Head Trial",
+              "Additional Product Code": "6264-8-428R"
+            },
+            {
+              "Product Code": "",
+              "Description": "",
+              "127°, 27mm Neck Trial": "28mm +12mm V40 Head Trial",
+              "127°, 30mm Neck Trial": "6264-8-032R",
+              "127°, 35mm Neck Trial": "32mm -4mm V40 Head Trial",
+              "127°, 37mm Neck Trial": "6264-8-632R",
+              "127°, 40mm Neck Trial": "32mm -2.5mm V40 Head Trial",
+              "Additional Product Code": "6264-8-132R"
+            },
+            {
+              "Product Code": "",
+              "Description": "",
+              "127°, 27mm Neck Trial": "32mm +0mm V40 Head Trial",
+              "127°, 30mm Neck Trial": "6264-8-232R",
+              "127°, 35mm Neck Trial": "32mm +4mm V40 Head Trial",
+              "127°, 37mm Neck Trial": "6264-8-332R",
+              "127°, 40mm Neck Trial": "32mm +8mm V40 Head Trial",
+              "Additional Product Code": "6264-8-432R"
+            },
+            {
+              "Product Code": "",
+              "Description": "",
+              "127°, 27mm Neck Trial": "32mm +12mm V40 Head Trial",
+              "127°, 30mm Neck Trial": "41020-1400 BAOACH HANDLE",
+              "127°, 35mm Neck Trial": "36mm -5mm V40 Head Trial",
+              "127°, 37mm Neck Trial": "6264-8-036R",
+              "127°, 40mm Neck Trial": "36mm -2.5mm V40 Head Trial",
+              "Additional Product Code": "6264-8-436R"
+            },
+            {
+              "Product Code": "1601-1700",
+              "Description": "HEAD Impactor",
+              "127°, 27mm Neck Trial": "1601-1210",
+              "127°, 30mm Neck Trial": "MODULAR Box Chisel",
+              "127°, 35mm Neck Trial": "36mm +0mm V40 Head Trial",
+              "127°, 37mm Neck Trial": "6264-8-136R",
+              "127°, 40mm Neck Trial": "36mm +2.5mm V40 Head Trial",
+              "Additional Product Code": "6264-8-536R"
+            },
+            {
+              "Product Code": "",
+              "Description": "",
+              "127°, 27mm Neck Trial": "36mm +4mm V40 Head Trial",
+              "127°, 30mm Neck Trial": "6264-8-236R",
+              "127°, 35mm Neck Trial": "36mm +5mm V40 Head Trial",
+              "127°, 37mm Neck Trial": "6264-3-236R",
+              "127°, 40mm Neck Trial": "36mm +7.5mm V40 Head Trial",
+              "Additional Product Code": "6264-8-736R"
+            },
+            {
+              "Product Code": "1120-1000",
+              "Description": "Optional",
+              "127°, 27mm Neck Trial": "1020-1111",
+              "127°, 30mm Neck Trial": "1020-1100",
+              "127°, 35mm Neck Trial": "1020-1460",
+              "127°, 37mm Neck Trial": "1601-1700",
+              "127°, 40mm Neck Trial": "1601-1210",
+              "Additional Product Code": "6264-8-336R"
+            },
+            {
+              "Product Code": "",
+              "Description": "Mallet",
+              "127°, 27mm Neck Trial": "1020-1112",
+              "127°, 30mm Neck Trial": "Calcar Planer - Standard Neck Resection Guide",
+              "127°, 35mm Neck Trial": "2 x Offset Broach Handle",
+              "127°, 37mm Neck Trial": "Modular Head Impactor",
+              "127°, 40mm Neck Trial": "Modular Box Osteotome",
+              "Additional Product Code": "36mm +10mm V40 Head Trial"
+            },
+            {
+              "Product Code": "",
+              "Description": "Calcar Planer - Large",
+              "127°, 27mm Neck Trial": "",
+              "127°, 30mm Neck Trial": "Optional",
+              "127°, 35mm Neck Trial": "1440-1460",
+              "127°, 37mm Neck Trial": "2 x Straight Broach Handle",
+              "127°, 40mm Neck Trial": "",
+              "Additional Product Code": ""
+            }
+          ],
+          "metadata": {
+            "row_count": 11,
+            "column_count": 8,
+            "data_types": [],
+            "searchable_columns": [
+              "Product Code",
+              "Description",
+              "127°, 27mm Neck Trial",
+              "127°, 30mm Neck Trial",
+              "127°, 35mm Neck Trial",
+              "127°, 37mm Neck Trial",
+              "127°, 40mm Neck Trial",
+              "Additional Product Code"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Product Code",
+            "Description",
+            "name",
+            "title",
+            "product name",
+            "127°, 27mm Neck Trial",
+            "127°, 30mm Neck Trial",
+            "127°, 35mm Neck Trial",
+            "127°, 37mm Neck Trial",
+            "127°, 40mm Neck Trial",
+            "Additional Product Code"
+          ]
+        }
+      ],
+      "raw_content": "COME BACK TO --- INSTRUMENT TRAY\n\nnullACCOLADE II INSTRUMENTATIONnull\n# ACCOLADE II INSTRUMENTATION\n\n<table>\n<tr>\n<td>1020-9001</td>\n<td>Basic Tray</td>\n</tr>\n<tr>\n<td>1020-9000</td>\n<td>Single Tray Case</td>\n</tr>\n</table>\n<table>\n<tr>\n<td>1101-2200</td>\n<td>Orthonomic T-Handle</td>\n<td>127°, 27mm Neck Trial</td>\n<td>127°, 30mm Neck Trial</td>\n<td>127°, 35mm Neck Trial</td>\n<td>127°, 37mm Neck Trial</td>\n<td>127°, 40mm Neck Trial</td>\n<td>6264-8-028R</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>1020-3227</td>\n<td>1020-3230</td>\n<td>1020-3235</td>\n<td>1020-3237</td>\n<td>1020-3240</td>\n<td>6264-8-928R</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>132°, 27mm Neck Trial</td>\n<td>132°, 30mm Neck Trial</td>\n<td>132°, 35mm Neck Trial</td>\n<td>132°, 37mm Neck Trial</td>\n<td>132°, 40mm Neck Trial</td>\n<td>6264-8-128R</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>28mm +0mm V40 Head Trial</td>\n<td>6264-8-228R</td>\n<td>28mm +4mm V40 Head Trial</td>\n<td>6264-8-328R</td>\n<td>28mm +8mm V40 Head Trial</td>\n<td>6264-8-428R</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>28mm +12mm V40 Head Trial</td>\n<td>6264-8-032R</td>\n<td>32mm -4mm V40 Head Trial</td>\n<td>6264-8-632R</td>\n<td>32mm -2.5mm V40 Head Trial</td>\n<td>6264-8-132R</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>32mm +0mm V40 Head Trial</td>\n<td>6264-8-232R</td>\n<td>32mm +4mm V40 Head Trial</td>\n<td>6264-8-332R</td>\n<td>32mm +8mm V40 Head Trial</td>\n<td>6264-8-432R</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>32mm +12mm V40 Head Trial</td>\n<td>41020-1400 BAOACH HANDLE</td>\n<td>36mm -5mm V40 Head Trial</td>\n<td>6264-8-036R</td>\n<td>36mm -2.5mm V40 Head Trial</td>\n<td>6264-8-436R</td>\n</tr>\n<tr>\n<td>1601-1700</td>\n<td>HEAD Impactor</td>\n<td>1601-1210</td>\n<td>MODULAR Box Chisel</td>\n<td>36mm +0mm V40 Head Trial</td>\n<td>6264-8-136R</td>\n<td>36mm +2.5mm V40 Head Trial</td>\n<td>6264-8-536R</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>36mm +4mm V40 Head Trial</td>\n<td>6264-8-236R</td>\n<td>36mm +5mm V40 Head Trial</td>\n<td>6264-3-236R</td>\n<td>36mm +7.5mm V40 Head Trial</td>\n<td>6264-8-736R</td>\n</tr>\n<tr>\n<td>1120-1000</td>\n<td>Optional</td>\n<td>1020-1111</td>\n<td>1020-1100</td>\n<td>1020-1460</td>\n<td>1601-1700</td>\n<td>1601-1210</td>\n<td>6264-8-336R</td>\n</tr>\n<tr>\n<td></td>\n<td>Mallet</td>\n<td>1020-1112</td>\n<td>Calcar Planer - Standard Neck Resection Guide</td>\n<td>2 x Offset Broach Handle</td>\n<td>Modular Head Impactor</td>\n<td>Modular Box Osteotome</td>\n<td>36mm +10mm V40 Head Trial</td>\n</tr>\n<tr>\n<td></td>\n<td>Calcar Planer - Large</td>\n<td></td>\n<td>Optional</td>\n<td>1440-1460</td>\n<td>2 x Straight Broach Handle</td>\n<td></td>\n<td></td>\n</tr>\n</table>\nnullACCOLADE II SURGICAL TECHNIQUEnull",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952538"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "ACCOLADE II Instrumentation and Surgical Technique",
+      "summary": "Page 10 content",
+      "keywords": [
+        "ACCOLADE II",
+        "instrumentation",
+        "surgical technique",
+        "broach tray",
+        "Stryker Instruments"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "ACCOLADE II Broach Tray and Single Tray Case",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Instrument Code": "1020-9002",
+              "Instrument Description": "ACCOLADE II Broach Tray"
+            },
+            {
+              "Instrument Code": "1020-9000",
+              "Instrument Description": "Single Tray Case"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Code",
+              "Instrument Description"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Code",
+            "tool",
+            "device",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "ACCOLADE II Broach Sizes",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Instrument Code": "1020-5200",
+              "Instrument Description": "Size 0 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5201",
+              "Instrument Description": "Size 1 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5202",
+              "Instrument Description": "Size 2 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5203",
+              "Instrument Description": "Size 3 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5204",
+              "Instrument Description": "Size 4 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5205",
+              "Instrument Description": "Size 5 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5206",
+              "Instrument Description": "Size 6 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5207",
+              "Instrument Description": "Size 7 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5208",
+              "Instrument Description": "Size 8 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5209",
+              "Instrument Description": "Size 9 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5210",
+              "Instrument Description": "Size 10 ACCOLADE II Broach"
+            },
+            {
+              "Instrument Code": "1020-5211",
+              "Instrument Description": "Size 11 ACCOLADE II Broach"
+            }
+          ],
+          "metadata": {
+            "row_count": 12,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Code",
+              "Instrument Description"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Code",
+            "tool",
+            "device",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        },
+        {
+          "table_id": "table_3",
+          "title": "Stryker Instruments",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Instrument Code": "1020-2900",
+              "Instrument Description": "Orthonomic Modular Handle"
+            },
+            {
+              "Instrument Code": "1020-1800",
+              "Instrument Description": "Modular Threaded Stem Inserter"
+            },
+            {
+              "Instrument Code": "1020-1860",
+              "Instrument Description": "Modular Offset Quick Connect"
+            },
+            {
+              "Instrument Code": "1020-1870",
+              "Instrument Description": "Modular Stem Impactor"
+            },
+            {
+              "Instrument Code": "1020-1200",
+              "Instrument Description": "Axial Starter Reamer"
+            },
+            {
+              "Instrument Code": "1020-9101",
+              "Instrument Description": "ACCOLADE II Tray"
+            },
+            {
+              "Instrument Code": "1020-9000",
+              "Instrument Description": "Single Tray Case"
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Code",
+              "Instrument Description"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Code",
+            "tool",
+            "device",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "\nCOME BACK TO --- INSTRUMENT TRAY\n\nnullACCOLADE II INSTRUMENT ATIONnull\n# ACCOLADE II\n\n<table>\n<tr>\n<td>1020-9002</td>\n<td>ACCOLADE II Broach Tray</td>\n</tr>\n<tr>\n<td>1020-9000</td>\n<td>Single Tray Case</td>\n</tr>\n</table>\n<table>\n<tr>\n<td>1020-5200</td>\n<td>Size 0 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5201</td>\n<td>Size 1 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5202</td>\n<td>Size 2 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5203</td>\n<td>Size 3 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5204</td>\n<td>Size 4 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5205</td>\n<td>Size 5 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5206</td>\n<td>Size 6 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5207</td>\n<td>Size 7 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5208</td>\n<td>Size 8 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5209</td>\n<td>Size 9 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5210</td>\n<td>Size 10 ACCOLADE II Broach</td>\n</tr>\n<tr>\n<td>1020-5211</td>\n<td>Size 11 ACCOLADE II Broach</td>\n</tr>\n</table>\n# Stryker\n\n<table>\n<tr>\n<td>1020-2900</td>\n<td>Orthonomic Modular Handle</td>\n</tr>\n<tr>\n<td>1020-1800</td>\n<td>Modular Threaded Stem Inserter</td>\n</tr>\n<tr>\n<td>1020-1860</td>\n<td>Modular Offset Quick Connect</td>\n</tr>\n<tr>\n<td>1020-1870</td>\n<td>Modular Stem Impactor</td>\n</tr>\n<tr>\n<td>1020-1200</td>\n<td>Axial Starter Reamer</td>\n</tr>\n<tr>\n<td>1020-9101</td>\n<td>ACCOLADE II Tray</td>\n</tr>\n<tr>\n<td>1020-9000</td>\n<td>Single Tray Case</td>\n</tr>\n</table>\nRefer to ACCII-B-1 for tray layouts\n\nnull16 ACCOLADE II SURGICAL TECHNIQUE 17null",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952558"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "Stryker Reconstructive Hips Knccs Traunia Extreinilies Foot. Anklo Joint Presenvalmn Orthobiologics Biosurgery MedSurg Power Tools Surgical Accessories Computer Assisted Surgery Endoscopic: Surgical Solutions Integrated Communications Beris, Stretchers, EMS Reprocessing Remanufacturing Neurotechnology Spine Craniomaxillofacial Interventional Spine Neurosurgical, Spine ENT Neurovascular Spinal Implants",
+      "summary": "Page 11 content",
+      "keywords": [
+        "Stryker",
+        "reconstructive hips",
+        "trauma extremities",
+        "foot and ankle joint preservation",
+        "orthobiologics",
+        "biosurgery",
+        "MedSurg power tools",
+        "surgical accessories",
+        "computer-assisted surgery",
+        "endoscopic surgical solutions",
+        "integrated communications",
+        "berths",
+        "stretchers",
+        "EMS reprocessing",
+        "remanufacturing",
+        "neurotechnology",
+        "spine",
+        "craniomaxillofacial",
+        "interventional spine",
+        "neurosurgical",
+        "spine ENT",
+        "neurovascular",
+        "spinal implants"
+      ],
+      "tables": [],
+      "raw_content": "null\nStryker Reconstructive Hips Knccs Traunia Extreinilies Foot. Anklo Joint Presenvalmn Orthobiologcs Biosurgery MedSurg Powver Tools Surgcal Accessories Computer Assisted Surgery Endoscopic: Surgical Solitions Inlegrated Cxxtunications Beris, Strechars. EMS Reprocessing Reraruracturing Neurotechnology Spine Craniomaxillofacal Intervenlonal Spine Ncurosurgcal , Spine ENT Neurrovascar Spnal Implants 325 Corporate Drive Mahwah, New Jersey 07430 t: 201 831 5000 www.stryker.com\nnull\nA surgeon must always rely on his or her own professional clinical judgment when deciding whether to use a particular product when treating a particular patient. Stryker does not dispense medical advice and recommends that surgeons be trained in the use of any particular product before using it in surgery.\n\nThe information presented is intended to demonstrate the breadth of Stryker product offerings. A surgeon must always refer to the package insert, product label and/or instructions for use before using any Stryker product. The products depicted are CE marked according to the Medical Device Directive 93/42/EEC. Products may not be available in all markets because product availability is subject to the regulatory and/or medical practices in individual markets. Please contact your Stryker representative if you have questions about the availability of Stryker products in your area. Stryker Corporation or its divisions or other corporate affiliated entities own, use or have applied for the following trademarks or service marks: Accolade, Howmedica, Osteonics, PureFix, Stryker, V40. All other trademarks are trademarks of their respective owners or holders.\n\nBIOLOX delta is a registered trademark of Ceramtec Ag.\n\nLiterature Number: LSP76 Rev. 3\n\nCopyright © 2012 Stryker\n\nPrinted in USA\n\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T13:05:03.952583"
+      }
+    }
+  ]
+}

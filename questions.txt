@@ -1,0 +1,59 @@
+Test 1: What is the thickness of the 32mm patella?
+
+Result: {'type': 'asymmetric', 'size': 'A32 × 10', 'S/I Width (mm)': 32, 'M/L Width (mm)': 36, 'Thickness (mm)': 10, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}
+--------------------------------------------------------------------------------
+Test 2: How much more M/L space is there in a size 6 femur vs a size 5?
+
+Result: {'comparison': 'Size 6 vs Size 5', 'result': 'Size 6 has 3mm more M/L space than Size 5', 'size1_details': 'Size 6: 74mm M/L', 'size2_details': 'Size 5: 71mm M/L', 'size1_ml': 74, 'size2_ml': 71}
+--------------------------------------------------------------------------------
+Test 3: What are your asymmetric patella options?
+
+Result: {'asymmetric_patella_options': [{'size': 'A29 × 9', 'S/I Width (mm)': 29, 'M/L Width (mm)': 33, 'Thickness (mm)': 9, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'A32 × 10', 'S/I Width (mm)': 32, 'M/L Width (mm)': 36, 'Thickness (mm)': 10, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'A35 × 10', 'S/I Width (mm)': 35, 'M/L Width (mm)': 39, 'Thickness (mm)': 10, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'A38 × 11', 'S/I Width (mm)': 38, 'M/L Width (mm)': 42, 'Thickness (mm)': 11, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'A40 × 11', 'S/I Width (mm)': 40, 'M/L Width (mm)': 44, 'Thickness (mm)': 11, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}]}
+--------------------------------------------------------------------------------
+Test 4: What are your symmetric patella options?
+
+Result: {'symmetric_patella_options': [{'size': 'S27 × 8', 'Patella Diameter (mm)': 27, 'Thickness (mm)': 8, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'S29 × 8', 'Patella Diameter (mm)': 29, 'Thickness (mm)': 8, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'S31 × 9', 'Patella Diameter (mm)': 31, 'Thickness (mm)': 9, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'S33 × 9', 'Patella Diameter (mm)': 33, 'Thickness (mm)': 9, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'S36 × 10', 'Patella Diameter (mm)': 36, 'Thickness (mm)': 10, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}, {'size': 'S39 × 11', 'Patella Diameter (mm)': 39, 'Thickness (mm)': 11, 'Peg Diameter (mm)': 5.7, 'Peg Length (mm)': 5}]}
+--------------------------------------------------------------------------------
+Test 5: What order should I make my cuts with the 4/1 cutting block?
+
+Result: {'cutting_sequence': ['anterior', 'posterior', 'posterior chamfer', 'anterior chamfer']}
+--------------------------------------------------------------------------------
+Test 6: How much valgus can be put in the femoral alignment guide?
+
+Result: {'valgus_options': [5, 6, 7]}
+--------------------------------------------------------------------------------
+Test 7: What is the varus/valgus constraint of the TS poly?
+Result: {'ts_constraint': '± 2 degrees'}
+--------------------------------------------------------------------------------
+
+Test 8: What angle does the cam post engage in our TS construct?
+
+Result: {'cam_engagement': '40 degrees'}
+--------------------------------------------------------------------------------
+Test 9: What are the TS poly thicknesses?
+
+
+Result: {'ts_poly_thicknesses': ['9', '11', '13', '16', '19', '22', '25', '28', '31']}
+--------------------------------------------------------------------------------
+Test 10: What is the box height of your TS femur?
+
+
+Result: {'ts_box_height': '23 mm', 'note': 'All TS femur boxes are 23 mm'}
+--------------------------------------------------------------------------------
+Test 11: What are the keel depths of the triathlon tritanium baseplates?
+
+
+Result: {'tritanium_keel_depths': '28 mm', 'note': 'All Tritanium baseplates have 28mm keel depth'}
+--------------------------------------------------------------------------------
+Test 12: What are the different peg lengths for the triathlon tritanium pegs?
+
+
+Result: {'tritanium_peg_lengths': {'tritanium_peg_lengths_by_size': {'Size 1': '7mm', 'Size 2': '8mm', 'Size 3': '9mm', 'Size 4': '9mm', 'Size 5': '9mm', 'Size 6': '11mm', 'Size 7': '11mm', 'Size 8': '12mm'}, 'note': 'Peg lengths for Triathlon Tritanium Baseplates'}}
+--------------------------------------------------------------------------------
+
+
+Test 13: In which tray would I find a spacer block?
+
+
+Result: {'instrument': 'Adjustable Spacer Block', 'location': 'Found in the miscellaneous instruments tray', 'kit': 'Miscellaneous Instruments Kit Contents', 'catalog_number': '6541-4-610', 'description': 'Adjustable Spacer Block (Optional)', 'note': 'Optional item'}
+--------------------------------------------------------------------------------

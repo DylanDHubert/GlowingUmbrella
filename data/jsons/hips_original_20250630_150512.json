@@ -1,0 +1,1141 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-06-30T15:05:12.881943",
+    "total_pages": 36,
+    "total_tables": 15,
+    "portfolio": "hips",
+    "review_status": {
+      "approved_pages": 28,
+      "flagged_pages": 0,
+      "missing_pages": [
+        15,
+        19,
+        22,
+        27,
+        28,
+        31
+      ],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        2,
+        3,
+        9,
+        12,
+        15,
+        22,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882093"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Useless - Page 2",
+      "summary": "Page 2 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882113"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Useless - Page 3",
+      "summary": "Page 3 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882127"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "Stryker Orthopaedics",
+      "summary": "Page 4 content",
+      "keywords": [
+        "Stryker Orthopaedics",
+        "dual articulation system",
+        "Total Hip Arthroplasty",
+        "Low Friction Arthroplasty",
+        "Large Head Concept"
+      ],
+      "tables": [],
+      "raw_content": "The dual articulation system was based on the foundation of two orthopaedic concepts relating to Total Hip Arthroplasty. The following concepts are well-known and studied in the field.\n\n1. Low Friction Arthroplasty (LFA) \n2. Large Head Concept\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882148"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "Gilles Bousquet and the Dual Articulation System",
+      "summary": "Page 5 content",
+      "keywords": [
+        "Gilles Bousquet",
+        "dual articulation system",
+        "Low Friction Arthroplasty",
+        "Large Head Concept",
+        "University Hospital of St Etinenne"
+      ],
+      "tables": [],
+      "raw_content": "\n\nThe initial dual articulation system was invented by Professor Bousquet at University Hospital of St Etinenne, France, in 1976.\nHis design was a marriage of the two well-known principles of:\n\n1. Low Friction Arthroplasty \n2. Large Head Concept\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882162"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "The Charnley Low Friction Arthroplasty (LFA)",
+      "summary": "Page 6 content",
+      "keywords": [
+        "Charnley Low Friction Arthroplasty",
+        "prosthesis",
+        "smaller diameter heads",
+        "lower torque forces",
+        "less wear"
+      ],
+      "tables": [],
+      "raw_content": "Low Friction Arthroplasty\n\n# The Charnley Low Friction Arthroplasty (LFA)\n\nThe Charnley Low Friction Arthroplasty (LFA) prosthesis has demonstrated both clinically and radiologically, that smaller diameter heads produce lower torque forces in the shell and consequently less wear.\n\n# Small Heads:\n\nLess sliding distance typically leads to less wear.\n\nInner head = femoral head",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882176"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Large Head Concept",
+      "summary": "Page 7 content",
+      "keywords": [
+        "Large Head Concept",
+        "Mckee-Farrar",
+        "Big Heads",
+        "Diameter",
+        "Stability"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 7",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n# Large Head Concept\n\nSecond, the large head concept from Mckee-Farrar recognizes that a large diameter bearing is inherently more stable than a smaller diameter head.\n\n# Big Heads: (greater than 36mm)\n- Range of motion\n- Stability\n- Surgeon Security\n       - Cup position\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882191"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "2014 Australian Joint Registry",
+      "summary": "Page 8 content",
+      "keywords": [
+        "hip replacement",
+        "head size",
+        "revision rate",
+        "cementless fixation",
+        "osteoporosis"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# 2014 Australian Joint Registry Significance of Larger Heads\n\nFigure D1I: Cumulative Percent Revision for Dislocation of Primary Total Conventional Hip Replacement with Cementless Fixation by Head Size (Primary Diagnosis OA)\n\nHR – adjusted for age and gender\n\nCementless 22 mm vs Cementless 32 mm\n 0 – 1.5 Yr: HR = 1.12 (0.16, 8.00), p = 0.908\n 1.5 Yr+: HR = 14.32 (7.30, 28.07), p < 0.001\n\nCementless 26 mm vs Cementless 32 mm\n 0 – 3 Mth: HR = 2.07 (1.26, 3.39), p = 0.004\n 3 Mth+: HR = 4.30 (3.23, 5.74), p < 0.001\n\nCementless 28 mm vs Cementless 32 mm\n Entire Period: HR = 1.87 (1.61, 2.18), p < 0.001\n\nCementless 36 mm vs Cementless 32 mm\n 0 – 2 Wk: HR = 0.66 (0.43, 1.02), p = 0.062\n 2 Wk+: HR = 0.89 (0.73, 1.08), p = 0.233\n\nCementless ≥ 38 mm vs Cementless 32 mm\n Entire Period: HR = 0.52 (0.30, 0.90), p = 0.020",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882217"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Useless - Page 9",
+      "summary": "Page 9 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882233"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "AAOS 2013: Worldwide Perspective on Hip Instability After Total Hip Arthroplasty (THA)",
+      "summary": "Page 10 content",
+      "keywords": [
+        "Hip Instability",
+        "Total Hip Arthroplasty",
+        "Dislocation Rates",
+        "Recurrent Dislocation",
+        "Risk Factors"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "AAOS 2013: WORLDWIDE PERSPECTIVE ON HIP INSTABILITY AFTER THA\n\n# CURRENT INCIDENCE AND NATURAL HISTORY\n\n# 15 Incidence of THA Instability\n\n# Dislocation rates after primary THA\n\nVaried rates reported, 0.3-10%\n\nWoo and Morrey (1982), 3.2%\n\nIncidence is highest in the first year with % increase/5 years for an approximate 7% risk by 25 years.\n\n# Recurrent dislocation (2 or more episodes of dislocation)\n\nOccurs in 10-60% of patients with first time dislocation.\n\n# Risk factors for dislocation\n\n- Patient-specific\n- Surgical technique\n- Surgeon\n- Implant design\n- Soft tissue integrity\n\n“Specifically, hip instability continues to be problematic in a small subgroup of patients, and efforts are ongoing to further reduce the risk of THA dislocation.”\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882249"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "The Epidemiology of Revision Total Hip Arthroplasty in the United States",
+      "summary": "Page 11 content",
+      "keywords": [
+        "Revision Total Hip Arthroplasty",
+        "instability/dislocation",
+        "mechanical loosening",
+        "infection",
+        "hospital stay",
+        "billed charges"
+      ],
+      "tables": [],
+      "raw_content": "The Epidemiology of Revision Total Hip Arthroplasty in the United States\n\n\n# The Epidemiology of Revision Total Hip Arthroplasty in the United States\n\n\nMost common cause of revision THA was instability/dislocation (22.5%) followed by mechanical loosening (19.7%), and infection (14.8%).\n\nAverage length of hospital stay: 6.2 days (5.0-11.8 days)\n\nAverage billed charges for revision THA procedures: $54,553",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882274"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "Useless - Page 12",
+      "summary": "Page 12 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882288"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "Stryker’s Dual Mobility Products",
+      "summary": "Page 13 content",
+      "keywords": [
+        "Stryker",
+        "Dual Mobility",
+        "ADMX3",
+        "MDMX",
+        "Stability",
+        "Longevity",
+        "Anatomic Rim",
+        "Advanced Fixation"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Comparison of ADMX3 and MDMX Features",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "ADMX3 Features": "Stability",
+              "MDMX Features": "Stability"
+            },
+            {
+              "ADMX3 Features": "Longevity",
+              "MDMX Features": "Longevity"
+            },
+            {
+              "ADMX3 Features": "Anatomic Rim",
+              "MDMX Features": "Advanced Fixation"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "ADMX3 Features",
+              "MDMX Features"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "ADMX3 Features",
+            "MDMX Features"
+          ]
+        }
+      ],
+      "raw_content": "Stryker’s Dual Mobility product Features\n\nADM X3:\n1. Stability\n2. Longevity\n3. Anatomic Rim\n\nMDM X3:\n1. Stability\n2. Longevity\n3. Advanced Fixation",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882305"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "Two Points of Articulations",
+      "summary": "Page 14 content",
+      "keywords": [
+        "ADM",
+        "MDM",
+        "dual mobility bearings",
+        "articulation",
+        "Effective Head"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Description of Internal and External Bearings",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "External Bearing (Large) Description": "The External Bearing Articulation: refers to the inside of the acetabular cup and the polyethylene insert, also known as the “Effective Head.”",
+              "Internal Bearing (Small) Description": "The Internal Bearing Articulation: refers to the Effective Head, inner surface of the acetabular liner, and the outer surface of the inner bearing, otherwise known as the femoral head component."
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "External Bearing (Large) Description",
+              "Internal Bearing (Small) Description"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "External Bearing (Large) Description",
+            "name",
+            "title",
+            "product name",
+            "Internal Bearing (Small) Description"
+          ]
+        }
+      ],
+      "raw_content": "\nThe ADM and MDM designs are dual mobility bearings with two points of articulation.\n\n# Two Points of Articulations\n\nThe External Bearing Articulation: refers to the inside of the acetabular cup and the polyethylene insert, also known as the “Effective Head.” Helpful Hint: Bench top testing of dual mobility system demonstrated that the torque force required to move the Effective Head only occurred in certain degrees of motion. For example getting out of a chair, waking up stairs, getting off the toilet (Test Report 06-078 reference).\n\nThe Internal Bearing Articulation: refers to the Effective Head, inner surface of the acetabular liner, and the outer surface of the inner bearing, otherwise known as the femoral head component.\n\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882325"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "Useless - Page 15",
+      "summary": "Page 15 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882345"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "Anatomic Dual Mobility",
+      "summary": "Page 16 content",
+      "keywords": [
+        "Anatomic Dual Mobility",
+        "ADM",
+        "cobalt chrome alloy cup",
+        "plasma sprayed titanium",
+        "hydroxyapatite",
+        "peripheral self-locking",
+        "psoas cutouts"
+      ],
+      "tables": [],
+      "raw_content": "ADM X3\n\n# Anatomic Dual Mobility\n\nWorld Wide Launch in 2010\n\nThe ADM cup is a monoblock cobalt chrome alloy cup with plasma sprayed titanium surface overlaid with hydroxyapatite. This cup has a peripheral self-locking (PSL) 1.5mm press-fit.\n\nThe left and right ADM cups incorporate psoas cutouts designed to allow for relief between the acetabular shell rim and iliopsoas tendon.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882360"
+      }
+    },
+    {
+      "page_id": "page_17",
+      "title": "Anatomic Design and Large Head Technology Features and Benefits",
+      "summary": "Page 17 content",
+      "keywords": [
+        "Anatomic Design",
+        "Large Head Technology",
+        "jump distance",
+        "hemispherical designs",
+        "anatomic purposes"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 17",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# ADM\n\nFeature:\n- Anatomic Design: is more than a hemisphere, providing more than 180 degrees of coverage (in some areas)\n- Large Head Technology\n\n\nBenefit:\n- STABILITY- Offers more than 2 times greater jump distance than competitive hemispherical designs with large head bearings which may allow for improved stability.\n\n\n\nHelpful Hint: There are left and right cup shapes. The anatomic rim is greater than a hemisphere in some areas, and smaller in areas where noted by “valleys” for specific anatomic purposes.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882376"
+      }
+    },
+    {
+      "page_id": "page_18",
+      "title": "Review: Understanding Jump Distance",
+      "summary": "Page 18 content",
+      "keywords": [
+        "jump distance",
+        "3D posterior horizontal dislocation distance",
+        "PHDD",
+        "45-degree inclination",
+        "femoral head dislocation"
+      ],
+      "tables": [],
+      "raw_content": "\n# Review: What is Jump Distance?\n\nThe vertical distance the femoral head must travel before dislocating.\n\n# 2D Jump Distance with the 3D Posterior Horizontal Dislocation Distance\n\ncup at 458 inclination (PHDD) at 45* of inclination\n\nReference: iZine Charts\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882394"
+      }
+    },
+    {
+      "page_id": "page_19",
+      "title": "❌ Missing Data - Page 19",
+      "summary": "Page 19 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# ADM\n\nFEATURE: \n- X3 precisely engineered polyethylene\n\nBENEFIT: \n- Longevity-Designed to help minimize the risk of wear and consequently help prolong the life of the implant",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882413"
+      }
+    },
+    {
+      "page_id": "page_20",
+      "title": "Anatomical Design Matrix (ADM) Features and Benefits",
+      "summary": "Page 20 content",
+      "keywords": [
+        "Anatomical Design Matrix",
+        "ADM",
+        "psoas cutout",
+        "acetabular shell rim",
+        "iliopsoas tendon"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 20",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# ADM\n\nFeature: Iliopsoas & Transverse Ligament Notch\n\nBenefit:\n ANATOMIC - \n- ADM was designed with left and right anatomical cup shapes incorporating a psoas cutout to allow for relief between the acetabular shell rim and iliopsoas tendon.\n - Transverse Notch - where the cup is less than a hemisphere may allow for enhanced range of motion</td>\n\n\n\n40% of patients are at risk for psoas conflict",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882428"
+      }
+    },
+    {
+      "page_id": "page_21",
+      "title": "ADM Size Charts",
+      "summary": "Page 21 content",
+      "keywords": [
+        "ADM Cup",
+        "ADM Insert",
+        "outer diameter",
+        "insert thickness",
+        "head diameter"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "ADM Cup and Insert Size Chart",
+          "description": "Table from page 21",
+          "rows": [
+            {
+              "ADM Cup Outer Diameter (mm)": "46",
+              "ADM Insert Outer Diameter (mm)": "40",
+              "Insert Thickness (mm)": "5.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "48",
+              "ADM Insert Outer Diameter (mm)": "42",
+              "Insert Thickness (mm)": "6.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "50",
+              "ADM Insert Outer Diameter (mm)": "44",
+              "Insert Thickness (mm)": "7.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "52",
+              "ADM Insert Outer Diameter (mm)": "46",
+              "Insert Thickness (mm)": "8.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "54",
+              "ADM Insert Outer Diameter (mm)": "48",
+              "Insert Thickness (mm)": "9.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "56",
+              "ADM Insert Outer Diameter (mm)": "50",
+              "Insert Thickness (mm)": "10.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "58",
+              "ADM Insert Outer Diameter (mm)": "52",
+              "Insert Thickness (mm)": "11.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "60",
+              "ADM Insert Outer Diameter (mm)": "54",
+              "Insert Thickness (mm)": "12.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "62",
+              "ADM Insert Outer Diameter (mm)": "56",
+              "Insert Thickness (mm)": "13.9",
+              "Head Diameter (mm)": "28"
+            },
+            {
+              "ADM Cup Outer Diameter (mm)": "64",
+              "ADM Insert Outer Diameter (mm)": "58",
+              "Insert Thickness (mm)": "14.9",
+              "Head Diameter (mm)": "28"
+            }
+          ],
+          "metadata": {
+            "row_count": 10,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "ADM Cup Outer Diameter (mm)",
+              "ADM Insert Outer Diameter (mm)",
+              "Insert Thickness (mm)",
+              "Head Diameter (mm)"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "ADM Cup Outer Diameter (mm)",
+            "size",
+            "dimensions",
+            "ADM Insert Outer Diameter (mm)",
+            "Insert Thickness (mm)",
+            "Head Diameter (mm)"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882450"
+      }
+    },
+    {
+      "page_id": "page_22",
+      "title": "Useless - Page 22",
+      "summary": "Page 22 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882470"
+      }
+    },
+    {
+      "page_id": "page_23",
+      "title": "World Wide Launch in 2011 - Modular Dual Mobility (MDM)",
+      "summary": "Page 23 content",
+      "keywords": [
+        "Modular Dual Mobility",
+        "MDM",
+        "Stryker’s Innerchange locking mechanism",
+        "Trident",
+        "Tritanium acetabular shell"
+      ],
+      "tables": [],
+      "raw_content": "MDM X3\n\n# World Wide Launch in 2011\n\n# Modular Dual Mobility\n\n- MDM is designed for fractures, primary, or revision cases to allow your surgeons to achieve their operative goals of Stability1, Longevity2,3, and Advanced Fixation.\n- The MDM liner is a smooth cobalt chrome liner utilizing Stryker’s Innerchange locking mechanism.\n- The MDM liner is compatible with all Trident and Tritanium acetabular shell, giving your surgeons their choice of fixation surfaces and screw hole configuration.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882486"
+      }
+    },
+    {
+      "page_id": "page_24",
+      "title": "The MDM Construct Contains Four Parts",
+      "summary": "Page 24 content",
+      "keywords": [
+        "MDM",
+        "Modular Dual Mobility",
+        "Acetabular Shell",
+        "CoCr Liner",
+        "Polyethylene Insert",
+        "Femoral Head"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 24",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n\n# The MDM construct contains 4 parts: Acetabular Shell, MDM CoCr Liner, Poly Insert, Femoral Head",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882502"
+      }
+    },
+    {
+      "page_id": "page_25",
+      "title": "Acetabular Shell, MDM CoCr Liner, Poly Insert, and Femoral Head Specifications",
+      "summary": "Page 25 content",
+      "keywords": [
+        "Acetabular Shell",
+        "MDM CoCr Liner",
+        "Poly Insert",
+        "Femoral Head",
+        "Trident",
+        "Tritanium",
+        "Stryker",
+        "Innerchange",
+        "locking mechanism",
+        "X3 effective heads",
+        "Poly Insert Diameter",
+        "Corresponding Shell Size"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 25",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n\n# Acetabular Shell:\n\n- Trident and Tritanium acetabular systems provide surgeons with versatile options to address a broad range of patient populations.\n\n# MDM CoCr Liner\n\n- Utilizes Stryker’s Trident Innerchange locking mechanism that is designed to minimize motion at the taper interface.\n\n# Poly Insert\n\n- Large diameter X3 effective heads which may allow for improved stability 13. A 46mm insert OD head is achievable starting in a 54mm shell. *See Table 1 on Slide ₂₉\n\n# Femoral Head\n\n- Compatibility with Stryker 22.2mm (LFIT) and 28mm LFIT and BIOLOX delta heads.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882519"
+      }
+    },
+    {
+      "page_id": "page_26",
+      "title": "MDM Technology Features and Benefits",
+      "summary": "Page 26 content",
+      "keywords": [
+        "MDM Technology",
+        "Large Head Technology",
+        "Jump Distance",
+        "Shell Types",
+        "Range of Motion"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 26",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 26",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "MDM\n\nFeature: Large Head Technology Design\nBenefit:\n\nSTABILITY- 59% greater jump height with MDM compared to a conventional THA with a 36mm head\n\n\nJump Distance (mm) measured with a 54mm shell at 450 of inclination and 209 of anteversion\n\nAlthough resurfacing type shells have lower jump heights, they have the greatest ROM which is needed when the native femoral neck is retained.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882534"
+      }
+    },
+    {
+      "page_id": "page_27",
+      "title": "❌ Missing Data - Page 27",
+      "summary": "Page 27 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# MDM\n\nFEATURE: \n- X3 precisely engineered polyethylene\n\nBENEFIT: \n- Longevity-Designed to help minimize the risk of wear and consequently help prolong the life of the implant",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882551"
+      }
+    },
+    {
+      "page_id": "page_28",
+      "title": "❌ Missing Data - Page 28",
+      "summary": "Page 28 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "#MDM\n\nFeature:\n• Versatility of using any\nTrident or Tritanium Shell\nwith the MDM liner.\n\nBenefit:\n• ADVANCED FIXATION-\nCompatibility with the Trident Acetabular shell devices offers the\noption to use cancellous bones\nscrews. Unlike other three\ndimensional fixation offerings\ncomposed of metal alloys,\nTritanium is manufactured from\nCPTi matrix. 16\n• Screw configurations remain the\nsame on the shells",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882571"
+      }
+    },
+    {
+      "page_id": "page_29",
+      "title": "OR Notes",
+      "summary": "Page 29 content",
+      "keywords": [
+        "MDM Liner",
+        "Iridert Shell",
+        "Tritanium Shell",
+        "Compatibility",
+        "Specifications"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Compatibility of MDM Liner and Insert with Iridert and Tritanium Shells",
+          "description": "Table from page 29",
+          "rows": [
+            {
+              "shell_type": "Trident PSL Shell",
+              "44": "44",
+              "46-48": "46, 48",
+              "50-52": "50, 52",
+              "54-56": "54, 56",
+              "58-60": "58, 60",
+              "62-64": "62, 64",
+              "66-68": "66, 68",
+              "70-72": "70, 72"
+            },
+            {
+              "shell_type": "Trident Hemispherical Shell",
+              "44": "46",
+              "46-48": "48, 50",
+              "50-52": "52, 54",
+              "54-56": "56, 58",
+              "58-60": "60, 62",
+              "62-64": "64, 66",
+              "66-68": "68, 70",
+              "70-72": "72, 74"
+            },
+            {
+              "shell_type": "Tritanium Hemispherical Shell",
+              "44": "48",
+              "46-48": "50, 52",
+              "50-52": "54, 56",
+              "54-56": "58, 60",
+              "58-60": "62, 64",
+              "62-64": "66, 68",
+              "66-68": "70, 72",
+              "70-72": "74-80"
+            },
+            {
+              "shell_type": "Liner Alpha Code",
+              "44": "C",
+              "46-48": "D",
+              "50-52": "E",
+              "54-56": "F",
+              "58-60": "G",
+              "62-64": "H",
+              "66-68": "I",
+              "70-72": "J"
+            },
+            {
+              "shell_type": "MDM CoCr Liner",
+              "44": "30C",
+              "46-48": "38D",
+              "50-52": "42E",
+              "54-56": "46F",
+              "58-60": "48G",
+              "62-64": "52H",
+              "66-68": "54I",
+              "70-72": "58J"
+            },
+            {
+              "shell_type": "Poly Insert OD (mm)",
+              "44": "36",
+              "46-48": "38",
+              "50-52": "42",
+              "54-56": "46",
+              "58-60": "48",
+              "62-64": "52",
+              "66-68": "54",
+              "70-72": "58"
+            },
+            {
+              "shell_type": "Poly Insert ID (mm)",
+              "44": "22.2",
+              "46-48": "22.2",
+              "50-52": "28",
+              "54-56": "28",
+              "58-60": "28",
+              "62-64": "26",
+              "66-68": "26",
+              "70-72": "28"
+            },
+            {
+              "shell_type": "Nominal Poly Thickness (mm)",
+              "44": "6.7",
+              "46-48": "7.7",
+              "50-52": "6.3",
+              "54-56": "8.8",
+              "58-60": "9.8",
+              "62-64": "11.8",
+              "66-68": "12.8",
+              "70-72": "14.8"
+            }
+          ],
+          "metadata": {
+            "row_count": 8,
+            "column_count": 9,
+            "data_types": [],
+            "searchable_columns": [
+              "shell_type",
+              "44",
+              "46-48",
+              "50-52",
+              "54-56",
+              "58-60",
+              "62-64",
+              "66-68",
+              "70-72"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "shell_type",
+            "shell type",
+            "44",
+            "46-48",
+            "50-52",
+            "54-56",
+            "58-60",
+            "62-64",
+            "66-68",
+            "70-72"
+          ]
+        }
+      ],
+      "raw_content": "\n# OR Notes\n\n# TABLE 1: MDM Liner and Insert Compatibility With Iridert and Tritanium Shells\n\n<table><tr><td>Shell Size (Mm)</td><td>Liner Alpha Code</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tncert PS Shell</td><td>28, 48</td><td>50, 52</td><td>54, 56</td><td>58, 62</td><td>62</td><td>64</td><td>26, 68</td><td>70, 72</td></tr><tr><td>Trident Hemispherical Shell</td><td>48, 50</td><td>52, 54</td><td>58, 60</td><td>62</td><td>14, C8</td><td>C8, 70</td><td>72, 74</td><td></td></tr><tr><td>Tritarium Hemispherical Shell</td><td>50, 52</td><td>54, 56</td><td>58, 60</td><td>62, 64</td><td>26, 68</td><td>70, 72</td><td>74-80</td><td></td></tr><tr><td>Liner Alpha Code</td><td>MDI CCCr Liner</td><td>3EC</td><td>380</td><td>42E</td><td>4cF</td><td>486</td><td>52-</td><td>SBJ</td></tr><tr><td>Poly Insert OD (mm)</td><td>22.2</td><td>22.2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nominal Poly Thickness (mm)</td><td>6.7</td><td>7.7</td><td>6.8</td><td>8.8</td><td>9.8</td><td>11.8</td><td>12.8</td><td>14.8</td></tr></table>\nNOTE: The MDM effective head size offerings range from 36mm-58mm to accommodate primary and revision cases. You can get to a size 36mm head with just a 44, 46, or 48 cup-and still maintain 6mm of poly!\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882585"
+      }
+    },
+    {
+      "page_id": "page_30",
+      "title": "Useless - Page 30",
+      "summary": "Page 30 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882600"
+      }
+    },
+    {
+      "page_id": "page_31",
+      "title": "Useless - Page 31",
+      "summary": "Page 31 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882624"
+      }
+    },
+    {
+      "page_id": "page_32",
+      "title": "Articulation Dual Mobility (ADM) and Multi-Directional Mobility (MDM) Products",
+      "summary": "Page 32 content",
+      "keywords": [
+        "ADM",
+        "MDM",
+        "dual mobility bearings",
+        "low friction arthroplasty",
+        "large head technology",
+        "stability",
+        "longevity",
+        "iliopsoas cut-out",
+        "advanced fixation"
+      ],
+      "tables": [],
+      "raw_content": "ADM and MDM products contain dual mobility bearings with two points of articulation. They are based on the foundation of marrying the two well-known orthopaedic concepts of low friction arthroplasty and large head technology. They were each designed to maximize stability and longevity. With the ADM design, you get the iliopsoas cut-out to allow for relief for the iliopsoas tendon. With the MDM liner, you have the option to use screws to achieve advanced fixation.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882642"
+      }
+    },
+    {
+      "page_id": "page_33",
+      "title": "Useless - Page 33",
+      "summary": "Page 33 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882655"
+      }
+    },
+    {
+      "page_id": "page_34",
+      "title": "Useless - Page 34",
+      "summary": "Page 34 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 34",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882669"
+      }
+    },
+    {
+      "page_id": "page_35",
+      "title": "Useless - Page 35",
+      "summary": "Page 35 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882685"
+      }
+    },
+    {
+      "page_id": "page_36",
+      "title": "Useless - Page 36",
+      "summary": "Page 36 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-06-30T15:05:12.882698"
+      }
+    }
+  ]
+}

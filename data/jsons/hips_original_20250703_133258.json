@@ -1,0 +1,2813 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-07-03T13:32:58.887588",
+    "total_pages": 60,
+    "total_tables": 61,
+    "portfolio": "hips",
+    "review_status": {
+      "approved_pages": 52,
+      "flagged_pages": 0,
+      "missing_pages": [
+        2,
+        12
+      ],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        2,
+        3,
+        4,
+        59,
+        60
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887710"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Useless - Page 2",
+      "summary": "Page 2 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887727"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Useless - Page 3",
+      "summary": "Page 3 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887737"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "Useless - Page 4",
+      "summary": "Page 4 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887746"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "User Manual for Mako Surgical Corp. Robotic Arm Assisted System (Mako/RIO)",
+      "summary": "Page 5 content",
+      "keywords": [
+        "Mako Surgical Corp.",
+        "Robotic Arm Assisted System",
+        "MAKOplasty Total Hip procedure",
+        "RIO",
+        "orthopedic procedures"
+      ],
+      "tables": [],
+      "raw_content": "# 1. INTRODUCTION\n\n## User Manual Terms of Use\n\nThis manual is provided by Mako Surgical Corp. (Stryker) and should be used for informational purposes only. Terms and Conditions related to the use of the Stryker Robotic Arm Assisted System (Mako/RIO) can be found in the placement agreement with the system user.\n\n## About This Manual\n\nThe content of this manual is the original instructions for clinical implementation of the MAKOplasty Total Hip procedure using the RIO.\n\n## Indications for Use\n\nThe RIO is intended to assist the surgeon in providing software defined spatial boundaries for orientation and reference information to anatomical structures during orthopedic procedures.\n\nThe RIO is indicated for use in surgical knee and hip procedures, in which the use of stereotactic surgery may be appropriate, and where reference to rigid anatomical bony structures can be identified relative to a CT based model of the anatomy. These procedures include: unicondylar knee replacement and/or patellofemoral knee replacement and Total Hip Arthoplasty (THA).\n\n## Warning\n\nThe MAKOplasty Total Hip Application is compatible only with the following implants that have been verified and validated for use with the MAKOplasty Total Hip Application: Corin Trinity Acetabular System, Corin Trinity Acetabular System with HXLP, Corin Metafix Femoral Stem, RESTORIS PST Cup – RESTORIS Tapered Femoral Stem, Trident PST, Trident PSL, Trident Hemispherical, Accolade II, Secur-Fit Advanced, Anato, and Exeter.\n\nImplants or implant systems from different manufacturers should not be used with the MAKOplasty Total Hip Application as articular and dimensional compatibility cannot be guaranteed. In addition, specific values within the MAKOplasty Total Hip Application cannot be assured if a non-Stryker component is used.\n\nThe MAKOplasty Total Hip Application is not to be used for partial or total hip resurfacing. MAKOplasty Total Hip Application is compatible only with hip implant systems that have received regulatory clearance.\n\n\n## Patents\n\nReference: U.S.Patents http://patents.makosurgical.com/15.\n\n## Medical and Product Information\n\nThis manual is informational only and is not intended as medical advice or a substitute for medical advice. As a manufacturer of medical devices in the field of orthopedics, Stryker does not practice medicine and does not recommend the surgical techniques referenced or discussed in this manual or any other surgical techniques for use on a particular patient. Stryker is not responsible for selection of the appropriate surgical technique to be utilized for an individual patient.\n\n## Copyrights and Trademarks\n\nThe content of this manual is protected under applicable copyright and trademark laws. You agree that you will not copy, distribute, republish, display, post, transmit or modify any content in this manual without Stryker's prior permission. Any images displayed in this manual are the property of their respective copyright owners. Any reproduction, replication, modification or distribution of any art images in this manual is prohibited. The third-party trademarks in this manual are proprietary to their",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887755"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 6 content",
+      "keywords": [
+        "MAKO THA Surgical Guide",
+        "Manufacturer Support",
+        "Software Version",
+        "Warning",
+        "Stryker"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 6",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\nrespective owners. These companies or their agents have granted Stryker the right to use their\ntrademarks.\n\n## Governing Law\n\nAny legal action or proceeding related to this manual or the information contained in it shall be brought\nexclusively in a court in Bergen County, New Jersey, and shall be governed by the laws of the State of\nNew Jersey, without regard to conflicts of laws principles.\n\nSoftware Version THA 3.1\n\n## Manufacturer Support / Feedback\n\nMako Surgical Corp.\n2555 Davie Rd.\nFt. Lauderdale, FL 33317\nCustomer Service Phone (855) 303-6256\nmakosurgical.com\n\nThere are no user serviceable parts in the RIO®, refer to your Stryker authorized personnel for service.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887772"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 7 content",
+      "keywords": [
+        "MAKOplasty",
+        "Total Hip Application",
+        "RIO Robotic Arm",
+        "Total Hip Arthroplasty",
+        "acetabular component orientation",
+        "acetabular cup inclination",
+        "acetabular center of rotation"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 7",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n## 2. DESIGN OVERVIEW\n\n### A. Stryker Robotic Arm Assisted System (RIO)\n\nThe MAKOplasty Total Hip Application uses the RIO Robotic Arm to consistently and reproducibly plan and execute primary Total Hip Arthroplasty (THA). Using patient specific information gathered from a pre-operative CT scan, the surgeon has the flexibility to pre-operatively and intra-operatively adjust the plan to achieve proper biomechanical reconstruction of the hip for every patient with correct acetabular component orientation, center of rotation, combined anteversion, hip length, and combined offset.\n\nThe MAKOplasty Total Hip Application procedure provides acetabular cup inclination and version within ±5 degrees and the new acetabular center of rotation within ±2 mm of the pre-operative plan.\n\nThe RIO Robotic Arm System is comprised of the Robotic Arm, the Camera Stand, and the Guidance Module. The MAKOplasty Total Hip Application is the software loaded on the RIO System and all the implants, instruments and disposables required to complete the procedure. The different components of the RIO Robotic Arm System are labeled below.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887787"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "MAKOplasty Total Hip Application Terminology",
+      "summary": "Page 8 content",
+      "keywords": [
+        "MAKOplasty",
+        "Total Hip Application",
+        "Center of Rotation",
+        "End Effector",
+        "Hip Length",
+        "Combined Offset",
+        "Acetabular Cup Inclination",
+        "Acetabular Cup Version"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "MAKOplasty Total Hip Application Terminology",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "Term": "Center of Rotation (COR)",
+              "Definition": "Displayed as a colored circle or sphere throughout the MAKOplasty Total Hip Application. Represents different aspects of the hip rotation center depending on the color and mode."
+            },
+            {
+              "Term": "End Effector",
+              "Definition": "An instrument that attaches to the end of the Robotic Arm and holds the Reamer Handle and the Impaction Handle during the procedure."
+            },
+            {
+              "Term": "Hip Length",
+              "Definition": "Measurement in the MAKOplasty Total Hip Application similar to Leg Length, but also incorporates any superior or inferior shift in the center of the acetabulum due to reaming."
+            },
+            {
+              "Term": "Combined Offset",
+              "Definition": "Measurement in the MAKOplasty Total Hip Application similar to offset, but also incorporates any medial or lateral shift in the center of the acetabulum due to reaming."
+            },
+            {
+              "Term": "Acetabular Cup Inclination",
+              "Definition": "The angle of the Acetabular Reamer Handle or Impactor relative to the longitudinal axis of the body, adjusted for individual pelvic tilt."
+            },
+            {
+              "Term": "Acetabular Cup Version",
+              "Definition": "The angle of the Acetabular Reamer Handle or Cup Impactor relative to the coronal plane, adjusted for individual patient's pelvic tilt."
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Term",
+              "Definition"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Term",
+            "Definition"
+          ]
+        }
+      ],
+      "raw_content": "## B. MAKOplasty Total Hip Application Terminology\n\n### COR (Center of Rotation)\n\nCOR stands for Center of Rotation. It is displayed as a colored circle or sphere throughout the MAKOplasty Total Hip Application. The Green Sphere represents the planned acetabular cup center of rotation with the selected liner in place. The Magenta Sphere in 'Cup Plan Mode' represents the COR of the native acetabulum, which is defined by a sphere fit of ten points collected on the articular surface of the 3D acetabular model. The Magenta Sphere in 'Stem Plan Mode' represents the native femoral head center, which is defined in the Femoral CT Landmarks page. The Blue Sphere represents the selected stem head center for a given femoral stem and head length selection.\n\nThe three 'Center of Rotation Values' in the 'Cup Plan Mode' on the 'Implant Planning Page' represent the distance from the center of rotation of the native, diseased hip (Magenta Sphere) to the new planned acetabular center of rotation (Green Sphere). The 'Center of Rotation Values' on the 'Cup Reaming' page represent the distance the surgeon must ream to achieve this new, planned center of rotation.\n\n### End Effector\n\nThe End Effector is an instrument that attaches to the end of the Robotic Arm and holds the Reamer Handle and the Impaction Handle during the procedure. It is responsible for ensuring the RIO system knows the exact location of the reamer or cup during acetabular preparation. The end effector is located in the MAKOplasty Hip Array Kit.\n\n### Hip Length\n\nThe Hip Length measurement in the MAKOplasty Total Hip Application is very similar to Leg Length, except it is not just the superior/inferior shift in the length of the femur; the measurement also incorporates any superior or inferior shift in the center of the acetabulum due to reaming. The result is the total change in the length of the hip joint, not just the femur.\n\n### Combined Offset\n\nThe Combined Offset measurement in the MAKOplasty Total Hip Application is very similar to offset, except it is not just the medial/lateral shift in the distance from the midline of the femur to the femoral head center; the measurement also incorporates any medial or lateral shift in the center of the acetabulum due to reaming. The result is the total change in the offset of the hip joint, not just the femur.\n\n### Acetabular Cup Inclination\n\nThe inclination of the acetabular cup, also known as the abduction angle, is the angle of the Acetabular Reamer Handle or Impactor (as projected on the Coronal Plane) relative to the longitudinal axis of the body. The value displayed in the MAKOplasty Total Hip Application is not the true anatomic inclination; it is an adjusted value that takes into account the individual pelvic tilt for each patient (defined as radiographic inclination).\n\n### Acetabular Cup Version\n\nThe version of the Acetabular Cup is the angle of the Acetabular Reamer Handle or Cup Impactor relative to the coronal plane (radiographic version). Unlike anatomic version measured relative to the pelvic frontal plane, the radiographic version value displayed in the MAKOplasty Total Hip Application accounts for the individual patient's pelvic tilt by using the CT table top as its coronal plane reference. Positive numbers represent anteversion and negative numbers represent retroversion.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887800"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 9 content",
+      "keywords": [
+        "MAKOplasty",
+        "Femoral Version",
+        "Checkpoints",
+        "VIZADISC",
+        "MPS",
+        "Registration",
+        "PIP Window"
+      ],
+      "tables": [],
+      "raw_content": "# MAKO THA Surgical Guide\n\n- Femoral Version\n\nDisplayed native Femoral Version on the planning page\nand broach and stem version on their corresponding\npages are measured as the angle between the neck axis\nand epicondylar axis when these two axes are projected\non a plane perpendicular to the anatomic axis of the femur\n(defined by a proximal canal point and the center of the\nepicondyles). A positive value (anteversion) is displayed\nwhen the neck axis is angled anteriorly relative to the\nepicondylar axis. A negative value (retroversion) is\ndisplayed when the neck axis is angled posteriorly.\n\n- Checkpoints\n\nHardware checkpoints are inserted into the femur and pelvis that are used as a fixed point in the\nbone relative to an array. By placing the probe in the checkpoint, the MAKOplasty Total Hip\nApplication can determine if an array has moved and possibly compromised the registration\naccuracy. If an array has moved more than 1 mm in relation to the checkpoint, the registration is no\nlonger acceptable and the final cup orientation can be off by more than 2 mm and 5 degrees.\n\nThe purpose of checkpoints within the application for reaming and impaction are used to confirm\nthat the base array on the RIO has not moved. If the base array has moved more than 2.0 mm, the\ncheckpoint will not pass and the RIO must be re-registered.\n\n- VIZADISC\n\nVIZADISC are the optical trackers that attach to the MAKOplasty Hip Arrays. These allow the\ncamera to view the position of the arrays in the OR.\n\n- MPS (Mako Product Specialist)\n\nMPS stands for Mako Product Specialist (MPS), or the Stryker representative responsible for\nrunning the MAKOplasty Total Hip Application during surgery.\n\n- Registration\n\nRegistration is the process of correlating the 3D model of the patient created from the pre-operative\nCT scan to the patient's anatomy on the OR table by taking points in selected locations on the\npatient's anatomy.\n\n- PIP Window\n\nPIP stands for 'picture in picture' and is used on the 'Implant Planning' page to display the\n'Transverse' and 'Sagittal' views.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887811"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 10 content",
+      "keywords": [
+        "MAKOplasty",
+        "Total Hip Arthroplasty",
+        "THA",
+        "surgical guide",
+        "patient selection"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n## 3. INDICATIONS FOR USE\n\nFor indications and contraindications specific to the selected implant components, please reference the implant specific Instructions for Use.\n\n## 4. PATIENT SELECTION\n\nPatient selection for a total hip replacement depends on the judgment of the surgeon with regard to the requirements of the patient. Prior to MAKOplasty THA, the surgeon should consider the following:\n\n- The surgeon should become thoroughly familiar with the technique of implantation for total hip surgery:\n  - by appropriate reading of the literature, and\n  - by training in the operative skills and techniques required for total hip replacement surgery.\n- Metal in the operative or non-operative leg can lead to the creation of accuracy-reducing artifacts in the CT scan, which can adversely affect the operative plan.\n- The presence of infection (including history of infection), acute or chronic, local or systemic must be considered.\n\nThe operative surgeon has the final decision in choosing recipients of the MAKOplasty Total Hip procedure. The effectiveness of all hip implants can be reduced by improper patient selection.\n\n## 5. WARNINGS AND PRECAUTIONS\n\nFamiliarity with and attention to appropriate surgical technique for Total Hip Arthroplasty is essential for success of the procedure.\n\nOnly surgeons who have reviewed the literature regarding Total Hip Arthroplasty and have had training in the technique using RIO should perform the procedure.\n\nThe surgeon or his/her designee should instruct the patients in the limitations of Total Hip Arthroplasty, and patients should be taught to govern their activities accordingly.\n\nImplants and trial components from different manufacturers or different implant systems should not be used together since articular and dimensional compatibility cannot be assured.\n\nThe use of the MAKOplasty Total Hip Application in any configuration requires the use of the RIO. For more details on using the RIO, see the RIO System User Guide (PN 210711) and the MAKOplasty THA Application User Guide (PN 210555).\n\nFor warnings and precautions specific to the selected implant components, please reference the implant specific Instructions for Use.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887819"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "MAKOplasty Total Hip Arthroplasty (THA) Instrumentation and Pre-Operative Requirements",
+      "summary": "Page 11 content",
+      "keywords": [
+        "MAKOplasty",
+        "Total Hip Arthroplasty",
+        "Instrumentation",
+        "Pre-Operative Requirements",
+        "CT Scan",
+        "Patient-Specific Bone Model",
+        "Pre-Operative Plan"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 11",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 11",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "## 6. MAKOplasty THA INSTRUMENTATION\n\nThe MAKOplasty Total Hip Instrumentation and Disposables:\n\n- MAKOplasty Hip Array Kit\n- MAKOplasty Hip Power Equipment Kit\n- MAKOplasty Hip Acetabular Reamer Basket Kit\n- Sterile Disposables:\n  - RIO Drape Kit\n  - VIZADISC Hip Kit\n  - Checkpoints\n  - Bone Pins\n\n## 7. PRE-OPERATIVE REQUIREMENTS\n\n### A. CT Scan\n\nEach patient requires a pre-operative CT scan for the MAKOplasty Total Hip procedure. This scan must follow the protocol in the Mako THA CT Scanning Protocol (PN 204890).\n\n### B. Patient Specific Bone Model and Pre-Plan\n\nOnce the CT scan has been completed, the Segmentation Team at Stryker creates a patient specific virtual 3D model of the pelvis and femur. Using the surgeon's preferences, the Segmentation Team will also create an initial pre-plan and select the CT landmarks.\n\nPrior to the procedure, the MPS reviews the plan with the surgeon to ensure the location of the CT landmarks are optimal and the plan is correct. During the Patient Time Out, the surgeon validates and accepts all pre-operative planning that was recorded for the procedure and agrees to have read and understood the MAKOplasty Total Hip Application Surgical Technique.\n\n> It is possible to create and export a patient plan using a different software version than the application which opens the plan. In this situation, a message appears on screen informing the user of the version mismatch. The application will modify the plan by converting to the current software version with the option to 'Continue' or 'Abort'.\n\n> If the planned implant system is not available, the application will display the 'Implant Selection' dialog for a list of available implant systems. The newly selected implant system will require re-planning.\n\n> Refer to the application release notes to ensure version compatibility.\n\n> Bone Model images change depending upon the implant system selected. Images shown in this Surgical Technique may differ from images displayed during an actual procedure.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887829"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "❌ Missing Data - Page 12",
+      "summary": "Page 12 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 12\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887841"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 13 content",
+      "keywords": [
+        "MAKO",
+        "Total Hip Arthroplasty",
+        "THA 3.1 Application",
+        "implant systems",
+        "pre-operative planning"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Implant Planning Tools and Views",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Tool/View": "Bump arrows",
+              "Description": "Used to incrementally change position of the implant components"
+            },
+            {
+              "Tool/View": "PIP Window",
+              "Description": "Describes 'picture in picture' and is used on the 'Implant Planning' page to display the CT data for 'Transverse' or 'Sagittal' views. The 'Coronal' view is displayed in the Main Window"
+            },
+            {
+              "Tool/View": "Reset View",
+              "Description": "Reverts the current view to the default display"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Tool/View",
+              "Description"
+            ],
+            "data_category": "instruments",
+            "enhanced": true
+          },
+          "keywords": [
+            "Tool/View",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "MAKO THA Surgical Guide\n\nNotes:\n* These implant systems are available for selection and display in the THA 3.1 Application (depending on the specific site and country). Please refer to implant compatibility charts as not all implant systems are compatible with each other. The application will only allow selection of compatible implant systems.\n\n** Only the ranges of supported sizes are shown. Please refer to implant compatibility charts for further details regarding intermediate sizes. The application will only allow selection of compatible components and sizes.\n\n*** Compatible variations are implant systems that are not displayed in the software but supported with acceptable accuracy through selection of the corresponding displayed system (e.g., Elevated Rim liners may be used with the system via selection of their corresponding Trident X3 0° liners; however, the X3 0° liner will be displayed in the application).\n\n> For information regarding a specific implant, please refer to the implant specific surgical technique.\n\nUse of implant systems, components, or sizes that are not compatible with or supported by the THA 3.1 MAKOplasty system is considered off-label use and may result in improper implant fit or alignment.\n\n## A. Pre-Operative Planning / Intra-Operative Planning\n\nThe sequence of steps required to pre-operatively plan a MAKOplasty Total Hip replacement is listed below:\n\n### Introduction: Implant Planning Tools and Views\n\n- Use bump arrows to incrementally change position of the implant components.\n\n- PIP Window describes 'picture in picture' and is used on the 'Implant Planning' page to display the CT data for 'Transverse' or 'Sagittal' views. The 'Coronal' view is displayed in the Main Window.\n\n- 'Reset View' reverts the current view to the default display.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887867"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 14 content",
+      "keywords": [
+        "MAKO THA Surgical Guide",
+        "Surgical Guide Modes",
+        "Surgical Guide Views",
+        "Hip Length",
+        "Combined Offset"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Surgical Guide Modes",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "Surgical Guide Modes": "Pre-Operative Mode",
+              "Description": "This mode displays the pre-operative Hip Length and Combined Offset discrepancy with a view of the full pelvis, operative, and contralateral femurs."
+            },
+            {
+              "Surgical Guide Modes": "Cup Plan Mode",
+              "Description": "This mode displays the pelvis with planned acetabular implant component."
+            },
+            {
+              "Surgical Guide Modes": "Stem Plan Mode",
+              "Description": "This mode displays the operative and contralateral femurs with planned stem implant component."
+            },
+            {
+              "Surgical Guide Modes": "Reduced Mode",
+              "Description": "This mode displays the full pelvis, operative and contralateral femurs with the operative side femur reduced into the cup according to the planned implant component positions."
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Surgical Guide Modes",
+              "Description"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Surgical Guide Modes",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Surgical Guide Views",
+          "description": "Table from page 14",
+          "rows": [
+            {
+              "Surgical Guide Views": "Reaming View",
+              "Description": "This view displays the pelvis 3D model with a green region indicating intersection of the planned cup implant and the bone."
+            },
+            {
+              "Surgical Guide Views": "CT View",
+              "Description": "This view displays the single slice view of the anatomy."
+            },
+            {
+              "Surgical Guide Views": "3D Slicer View",
+              "Description": "This view displays the single slice view of the anatomy with the 3D bone model and/or implant in the background."
+            },
+            {
+              "Surgical Guide Views": "X-Ray View",
+              "Description": "This view displays a view similar to that of an x-ray constructed from the patient's CT data."
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Surgical Guide Views",
+              "Description"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Surgical Guide Views",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## Modes\n'Pre-Op Mode' displays the pre-operative Hip Length and Combined Offset discrepancy with a view of the full pelvis, operative, and contralateral femurs.\n\n'Cup Plan Mode' displays the pelvis with planned acetabular implant component.\n\n'Stem Plan Mode' displays the operative and contralateral femurs with planned stem implant component.\n\n'Reduced Mode' displays the full pelvis, operative and contralateral femurs with the operative side femur reduced into the cup according to the planned implant component positions.\n\n\n## Views\n'Reaming View' displays the pelvis 3D model with a green region indicating intersection of the planned cup implant and the bone.\n\n'CT View' displays the single slice view of the anatomy.\n\n'3D Slicer View' displays the single slice view of the anatomy with the 3D bone model and/or implant in the background.\n\n'X-Ray View' displays a view similar to that of an x-ray constructed from the patient's CT data.\n\n## Hip Length/Combined Offset Landmarks\n\n- Landmarks selected in the 'CT Landmarks' pages are used when calculating Hip Length and Combined Offset.\n\n- The Hip Length is the distance (mm) from the ASIS Axis to the lesser trochanter landmarks with the femurs in mechanical axis alignment.\n\n- Combined Offset is the distance (mm) from the Midline Axis to the femoral canal axes with the femoral canal axes aligned vertically.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887885"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 15 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "hip length",
+        "combined offset",
+        "cup inclination",
+        "cup version"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Pre-Operative Hip Length and Combined Offset Assessment",
+          "description": "Table from page 15",
+          "rows": [
+            {
+              "Measurement": "Hip Length (mm)",
+              "Opposite Hip": "3",
+              "Pre-operative Hip": "N/A"
+            },
+            {
+              "Measurement": "Combined Offset (mm)",
+              "Opposite Hip": "3",
+              "Pre-operative Hip": "N/A"
+            },
+            {
+              "Measurement": "Hip Length Comparison",
+              "Opposite Hip": "Longer",
+              "Pre-operative Hip": "N/A"
+            },
+            {
+              "Measurement": "Combined Offset Comparison",
+              "Opposite Hip": "Decreased",
+              "Pre-operative Hip": "N/A"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Measurement",
+              "Opposite Hip",
+              "Pre-operative Hip"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Measurement",
+            "Opposite Hip",
+            "Pre-operative Hip"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Cup Planning - Inclination & Version",
+          "description": "Table from page 15",
+          "rows": [
+            {
+              "Measurement": "Cup Inclination (degrees)",
+              "Value": "40°"
+            },
+            {
+              "Measurement": "Cup Version (degrees)",
+              "Value": "20°"
+            },
+            {
+              "Measurement": "Version Angle (mm)",
+              "Value": "1"
+            },
+            {
+              "Measurement": "Medial Fit (mm)",
+              "Value": "2"
+            },
+            {
+              "Measurement": "Posterior Fit (mm)",
+              "Value": "0"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Measurement",
+              "Value"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Measurement",
+            "Value"
+          ]
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n## Step 1: Pre-Operative Hip Length and Combined Offset Assessment\n\n• The goal of the 'Pre-Op Mode' is to review the hip length and combined offset discrepancy versus the opposite hip.\n\n• A change in Hip Length is defined as the change in the Lesser Trochanter superior/inferior position when the pelvis is virtually corrected such that the ASIS points are parallel to the medial/lateral (horizontal) direction, and the femurs are corrected such that the mechanical femoral axis is vertical and the maximum femoral offset is parallel to the coronal plane (comparable to internally rotating the leg for a pre-op or post-op radiograph). Comparisons between the opposite and pre-operative Hip Length are all made in this virtually aligned position.\n\n• A change in Combined Offset is defined as the change in the medial/lateral position of the femoral canal axis relative to the pelvic midline when the pelvis is virtually corrected such that the ASIS points are parallel to the medial/lateral (horizontal) direction, and the femur positions are corrected such that the canal axis is vertical and the maximum femoral offset is parallel to the coronal plane (comparable to internally rotating the leg for a pre-op or post-op radiograph). Comparisons between the opposite and pre-operative Combined Offset are all made in this virtually aligned position.\n\n• This mode displays the patient 3D bone model, 'X-ray View', or 'CT View'.\n\n\n## Step 2: Cup Planning - Inclination & Version\n\n• The goal of the 'Cup Plan Mode' is to plan the acetabular cup in the desired inclination and version while ensuring the cup has the necessary bony coverage for good fixation.\n\n• This page displays the inclination and version of the planned acetabular cup.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887902"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 16 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Surgical Guide",
+        "Cup Planning",
+        "Center of Rotation",
+        "Implant Adjustment"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Step 2: Cup Planning - Options",
+          "description": "Table from page 16",
+          "rows": [
+            {
+              "Options": "Use the Bump Arrows to move the implant."
+            },
+            {
+              "Options": "Click on the box and manually enter a number to adjust the implant's position."
+            },
+            {
+              "Options": "Adjust the cup size, head size, and liner type using the drop-down menu."
+            },
+            {
+              "Options": "View the cup plan in the 'X-ray View' by clicking on the 'X-Ray View' icon."
+            },
+            {
+              "Options": "View the bone to be removed by reaming by clicking on the 'Reaming View' icon."
+            },
+            {
+              "Options": "Use the slicer to see the cup coverage and contact with the bone at various levels."
+            },
+            {
+              "Options": "Rotate the 3D model to see the cup coverage and position in the anatomy."
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 1,
+            "data_types": [],
+            "searchable_columns": [
+              "Options"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Options"
+          ]
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n## Step 2: Cup Planning - Center of Rotation\n\n• This page also displays the\n  Native Acetabular Center of\n  Rotation (COR) and the new\n  Planned Cup COR.The Native\n  COR is based on a sphere fit\n  of 10 points gathered on the\n  articular surface of the\n  acetabulum on the CT scan.\n\n• Since osteophytes are part of\n  the patient's diseased bony\n  morphology captured by the\n  CT scan, they are included in\n  the segmented model and are\n  necessary to accurately\n  register the bone. However,\n  registration points should not\n  be collected on osteophytes\n  or other bony defects. The 10\n  points taken to best\n  approximate the native hip's\n  center of rotation should be\n  taken on the non-diseased\n  surface of the acetabulum.\n\n\n\n## Step 2: Cup Planning - Options\nThis page will allow you to move\nthe implant by:\n\n1. Using the Bump Arrows.\n2. Clicking on the box and\n   manually entering a number.\n3. Adjust cup size, head size,\n   and liner type by using the\n   drop down menu.\n4. View the cup plan in the 'X-ray\n   View' by clicking on the 'X-\n   Ray View' icon.\n5. View the bone to be removed\n   by reaming by clicking on\n   'Reaming View' icon.\n6. Use the slicer to see the cup\n   coverage and contact with the\n   bone at various levels.\n7. Rotate the 3D model to see\n   the cup coverage and position\n   in the anatomy.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887916"
+      }
+    },
+    {
+      "page_id": "page_17",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 17 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "surgical guide",
+        "cup planning",
+        "implant size",
+        "medialization",
+        "superior-inferior fit"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Step 2: Cup Planning - Determining Size & Medialization",
+          "description": "Table from page 17",
+          "rows": [
+            {
+              "Procedure Steps": "Utilize the 'Transverse View' or 'Coronal View' in the 'Cup Plan Mode' window to determine the size of the implant."
+            },
+            {
+              "Procedure Steps": "The ideal component size is the component that best fits between the anterior and posterior aspects of the acetabulum."
+            },
+            {
+              "Procedure Steps": "Identify the appropriate 'Transverse' or 'Coronal' slice that displays the bottom of the acetabulum or the thinnest part of the medial wall."
+            },
+            {
+              "Procedure Steps": "Medialize the cup so that it is positioned just lateral to the medial wall (magenta outline) of the acetabulum. The cup should be centered Anterior/Posterior (A/P) in the 'Transverse' or 'Sagittal' slices while avoiding reaming of the anterior or posterior rims."
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 1,
+            "data_types": [],
+            "searchable_columns": [
+              "Procedure Steps"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Procedure Steps"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Step 2: Cup Planning - Determining Superior-Inferior Fit",
+          "description": "Table from page 17",
+          "rows": [
+            {
+              "Procedure Steps": "The 'Coronal' and 'X-Ray' views of the acetabulum can be used to plan the superior-inferior fit of the acetabular cup."
+            },
+            {
+              "Procedure Steps": "In the 'Coronal View', the acetabular cup should be positioned just inside the subchondral bone (bright white bone) – not through it or above it."
+            },
+            {
+              "Procedure Steps": "In the 'X-Ray View', the inferior edge of the cup should be at or just above the line between the teardrop and the ischial tuberosity."
+            },
+            {
+              "Procedure Steps": "The 'X-Ray View' is a projection and can sometimes be rotated so the judgment of the medial wall penetration should be used for reference only. Medialization should be planned using the 'Transverse' or 'Sagittal' views."
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 1,
+            "data_types": [],
+            "searchable_columns": [
+              "Procedure Steps"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Procedure Steps"
+          ]
+        }
+      ],
+      "raw_content": "\n\n# MAKO THA Surgical Guide\n\n## Step 2: Cup Planning - Determining Size & Medialization\n\n- Use the 'Transverse View' or 'Coronal View' in Cup Plan Mode' window to determine the size of the implant.\n\n- Ideal component size is the component that best fits between the anterior and posterior aspects of the acetabulum.\n  - Anterior Column\n  - Posterior Column\n\n- Find the appropriate 'Transverse' or 'Coronal' slice that shows the bottom of the acetabulum or the thinnest part of the medial wall.\n\n- Medialize the cup such that it is positioned just lateral to the medial wall (magenta outline) of the acetabulum. The cup should be centered A/P in the 'Transverse' or 'Sagittal' slices while avoiding reaming of the anterior or posterior rims.\n\nIn most cases, an A/P centered planned cup COR will be within 1 mm posterior or anterior of the native COR. These planning recommendations may not apply for more severe pathologies including, but not limited to: protusio, dysplasia, etc.\n\n## Step 2: Cup Planning - Determining Superior-Inferior Fit\n\n- The 'Coronal' and 'X-Ray' views of the acetabulum can be used to plan the superior-inferior fit of the acetabular cup.\n\n- In the 'Coronal View', the acetabular cup should be positioned just inside the subchondral bone (bright white bone) – not through it or above it.\n\n- In the 'X-Ray View', the inferior edge of the cup should be at or just above the line between the teardrop and the ischial tuberosity.\n\n- The 'X-Ray View' is a projection and can sometimes be rotated so the judgment of the medial wall penetration should be used for reference only. Medialization should be planned using the 'Transverse' or 'Sagittal' views.\n\nWarning When planning the acetabular cup, care should be taken not to violate the medial wall of the acetabulum.\n\nWarning Ensure the center of rotation of the cup is positioned such that the desired ROM is not limited by bony impingement.\n\nWarning Although the planned implant center will not be affected by changes in planned cup size, there will be a greater (when increasing cup size) and lesser (when decreasing cup size) planned depth of reaming and cup placement.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887927"
+      }
+    },
+    {
+      "page_id": "page_18",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide - Step 3: Femoral Stem Planning",
+      "summary": "Page 18 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Femoral Stem Planning",
+        "Stem Plan Mode",
+        "Femoral Version Parameters",
+        "Cementless Stem Planning"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 18",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n## Step 3: Femoral Stem Planning - Stem Size\n\n- The goal of 'Stem Plan Mode' is to plan the femoral stem.\n- Green Sphere (O) represents the planned Cup Center of Rotation.\n- Blue Sphere (O) represents the selected Femoral Head Length.\n- Magenta Sphere (O) represents the native Femur Head Center.\n- Blue Model: Femoral Stem.\n- Yellow Model (cemented stems only): Femoral Broach Outline.\n- Size the femoral stem in the distal canal using the 'Coronal' and 'X-Ray' views. The implant should be centered in the femoral canal and should fit just inside the cortices of the bone, except when planning cemented stems, in which case the broach model (yellow) should be used to assess canal fit (see image on next page).\n\n\n- The Stem Size, Stem Offset, and Head Lengths can be adjusted using the drop down menus on the right side of the screen.\n- In the 'Transverse View', use the bump arrows to adjust the position of the stem inside the canal, avoid contact with the cortices.\n\n> For implant specific Stem Planning and Sizing guidelines, refer to the selected implant surgical technique.\n\n> Pre-operative femoral planning is only a guide; the final implant sizing should be made intra-operatively.\n\n> The template should NOT be superimposed onto cortical bone. It is NOT necessary for the stem to have cortical contact. Impingement on cortical bone can increase the risk of femoral fracture.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887939"
+      }
+    },
+    {
+      "page_id": "page_19",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 19 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Femoral Stem Planning",
+        "Cemented Stem Planning",
+        "Hip Length",
+        "Combined Offset"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 19",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 19",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n## Step 3: Femoral Stem Planning\n\n- The stem can be adjusted superior or inferior in the 'Coronal View' to determine the neck cut which most closely allows restoration of the Femoral COR.\n- The 'Hip Length' and 'Combined Offset' values inform the surgeon how to adjust the planned implant components to achieve desired hip length and combined offset.\n- When 'Hip Length' and 'Combined Offset' versus 'Opposite Hip' values are both zero, the planned operative hip length has equal hip length and combined offset as the opposite hip.\n- When the 'Hip Length' and 'Combined Offset' versus 'Pre-op Hip' values are both zero, the planned operative hip length and offset has not changed and is equal to the pre-operative hip length and combined offset.\n\n\n- For implant specific Stem Planning and Sizing guidelines, refer to the selected implant surgical technique.\n\n- The values for Hip Length and Offset are valid only for the currently planned stem/broach size, cup size/position, and head length. If any of these values are changed during the procedure, the planned value will not be predictive of the final results.\n\n- The 2D Measurement Tool may be helpful in the 'CT View' of the 'Stem Plan Mode' to confirm the neck resection line relative to the Lesser Trochanter, particularly with the Express Femoral Workflow in which the neck resection is not navigated.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887949"
+      }
+    },
+    {
+      "page_id": "page_20",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 20 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "surgical guide",
+        "reduced implant plan",
+        "hip length",
+        "combined offset"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Assessment of Reduced Implant Plan",
+          "description": "Table from page 20",
+          "rows": [
+            {
+              "Planned Parameters": "Hip Length (in mm)",
+              "Operative Hip": "5 (Longer)",
+              "Pre-Operative Hip": "2 (Longer)"
+            },
+            {
+              "Planned Parameters": "Combined Offset (in mm)",
+              "Operative Hip": "0 (Increased)",
+              "Pre-Operative Hip": "1 (Increased)"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Planned Parameters",
+              "Operative Hip",
+              "Pre-Operative Hip"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Planned Parameters",
+            "Operative Hip",
+            "Pre-Operative Hip"
+          ]
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n## Step 4: Reduced Implant Plan Assessment\n\n- The goal of the 'Reduced Mode' is to review the hip length and combined offset and make adjustments to selected implant components.\n\n- This page displays the reduced view with the planned stem reduced into the planned cup center.\n\n- View the \"Reduced Mode' in 'X-ray View' by selecting the 'X-ray View' icon to see the expected post-operative x-ray based on the planned implants.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887960"
+      }
+    },
+    {
+      "page_id": "page_21",
+      "title": "9. MAKOPLASTY TOTAL HIP SURGICAL TECHNIQUE",
+      "summary": "Page 21 content",
+      "keywords": [
+        "MAKOplasty",
+        "Total Hip",
+        "surgical technique",
+        "femoral workflow",
+        "patient positioning"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Comparison of Required Features for Express and Enhanced Femoral Workflows",
+          "description": "Table from page 21",
+          "rows": [
+            {
+              "Required Features for Workflow": "Proximal Checkpoint",
+              "Express Workflow": "TRUE",
+              "Enhanced Workflow": "TRUE"
+            },
+            {
+              "Required Features for Workflow": "Distal Checkpoint",
+              "Express Workflow": "TRUE",
+              "Enhanced Workflow": "FALSE"
+            },
+            {
+              "Required Features for Workflow": "Cortical Array Screw",
+              "Express Workflow": "FALSE",
+              "Enhanced Workflow": "TRUE"
+            },
+            {
+              "Required Features for Workflow": "Femoral Array",
+              "Express Workflow": "FALSE",
+              "Enhanced Workflow": "TRUE"
+            },
+            {
+              "Required Features for Workflow": "Femoral Registration",
+              "Express Workflow": "FALSE",
+              "Enhanced Workflow": "TRUE"
+            },
+            {
+              "Required Features for Workflow": "Reduced Hip Center Capture",
+              "Express Workflow": "FALSE",
+              "Enhanced Workflow": "TRUE"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Required Features for Workflow",
+              "Express Workflow",
+              "Enhanced Workflow"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Required Features for Workflow",
+            "Express Workflow",
+            "Enhanced Workflow"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Comparison of Available Features for Express and Enhanced Femoral Workflows",
+          "description": "Table from page 21",
+          "rows": [
+            {
+              "Available Features for Workflow": "Guided Neck Resection",
+              "Express Workflow": "FALSE",
+              "Enhanced Workflow": "TRUE"
+            },
+            {
+              "Available Features for Workflow": "Broach and/or Stem Version and Center of Rotation (COR)",
+              "Express Workflow": "FALSE",
+              "Enhanced Workflow": "TRUE"
+            },
+            {
+              "Available Features for Workflow": "Combined Anteversion Display",
+              "Express Workflow": "FALSE",
+              "Enhanced Workflow": "TRUE"
+            },
+            {
+              "Available Features for Workflow": "Reduced Hip Length (HL) and Offset (OS)",
+              "Express Workflow": "TRUE",
+              "Enhanced Workflow": "TRUE"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Available Features for Workflow",
+              "Express Workflow",
+              "Enhanced Workflow"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Available Features for Workflow",
+            "Express Workflow",
+            "Enhanced Workflow"
+          ]
+        }
+      ],
+      "raw_content": "# 9. MAKOPLASTY TOTAL HIP SURGICAL TECHNIQUE\n\n## A. Patient Positioning and Surgical Approach\n\nThe goal of the surgical approach is to establish adequate visualization of the anatomy so that the entire surgical area is exposed. The MAKOplasty Total Hip Application is designed to accommodate the Posterolateral, Anterolateral and Direct Anterior surgical approaches with Enhanced or Express Femoral Workflow. The operative surgeon is responsible for the location, type and size of the incision appropriate for a MAKOplasty Total Hip procedure.\n\nFor the lateral approaches, the patient should be placed in a full lateral position and secured with positioning devices anterior and posterior against the pelvis and anterior and posterior against the chest. Patient stability is critical to facilitate acetabular reaming and cup implantation.\n\n### Femoral Workflow\n\nTwo different femoral workflows can be chosen depending on surgeons preference:\n\n**Enhanced Femoral Workflow:** Gives the user access to all available features of the MAKOplasty Total Hip Application including accurate neck resection placement, broach and stem tracking (version measurements), combined anteversion display, and real-time reduced hip length and combined offset display, but requires placement of the cortical array screw, the femoral array, and femoral registration.\n\n**Express Femoral Workflow:** Allows the user to capture Hip Length (HL) and Combined Offset (OS) of the reduced hip relative to pre-operative and the opposite hip without the need for a cortical array screw, femoral array, the femoral registration process, or reduced hip center capture. Through careful selection of a proximal landmark on the Greater Trochanter and a distal landmark on the patellar surface prior to dislocation and at trial and/or final reduction, the Express Femoral workflow can accurately display reduced hip length and offset.\n\n*Stem Tracking is not available with the Direct Anterior Surgical Approach.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887971"
+      }
+    },
+    {
+      "page_id": "page_22",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 22 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "distal landmark placement",
+        "EKG tab",
+        "sterile prep"
+      ],
+      "tables": [],
+      "raw_content": "## Procedure\n\n### B. Distal Landmark Placement\n\nThe Distal Landmark is required for Express Femoral Workflow only.\n\n\nThe operative setup for placing the distal landmark for all surgical approaches is as follows:\n\n1. Prior to washing and prep, flex the knee of the operative side 90 degrees and locate the patient's patella. Depending on the setup (i.e., for the Direct Anterior approach), 90 degrees of knee flexion may not be possible. Flex the knee as much as possible until the patella is stable.\n\n2. Place an EKG tab centered on the patella or slightly inferior to the center. The EKG tab location should be in line with the anatomic axis of the femur.\n\n3. Place sterile Tegaderm, OpSite bandage or alternative atop EKG tab to retain stability.\n\n4. Sterile prep and drape in normal fashion (Stockinette, Coban, etc.), ensuring that the EKG tab can still be palpated for landmark capture during the procedure. It is recommended that the knee be wrapped in Coban either underneath or above the Stockinette to further improve stability of the EKG tab.\n\n5. Manage all sterility concerns keeping in mind the probe used to capture this landmark will also be placed in the wound during the procedure.\n\nAlternative Method:\n\n2. After washing and with the patient in the appropriate position (lateral decubitus position for anterolateral/posterolateral and supine for Direct Anterior), flex the knee of the operative side 90 degrees and locate the patient's patella. Depending on the setup (i.e., for the Direct Anterior approach), 90 degrees of knee flexion may not be possible. Flex the knee as much as possible until the patella is somewhat stable.\n\n3. Prepare operative leg extending the accessible sterile field to below the knee.\n\n4. With sterile surgical marker, mark a small dot on the skin at the center to slightly inferior portion of the patella. For added protection, a sterile bandage, telfa pad or wound dressing can be placed atop the patella and marked instead.\n\n5. Place Tegaderm or Ioban atop the marked point or bandage to reduce the likelihood of the landmark location moving during the procedure. Ensure the marked dot is still visible for probing during the procedure. Do not extend the stockinette or drape above the knee to keep the marked point visible throughout the surgery.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887983"
+      }
+    },
+    {
+      "page_id": "page_23",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 23 content",
+      "keywords": [
+        "MAKOplasty",
+        "Total Hip Instrument Kit",
+        "sterility",
+        "pelvic array",
+        "bone pin insertion",
+        "iliac crest tracking"
+      ],
+      "tables": [],
+      "raw_content": "6. Manage all sterility concerns keeping in mind the probe used to capture this landmark will also be\nplaced in the wound during the procedure.\n\nAs long as the Distal Landmark can be placed on the patella and be repeatedly and accurately\ncaptured prior to and after hip implantation without landmark movement, there are a number of\nmethods that could be employed depending on the preference of the surgeon and OR staff. It is the\nresponsibility of the surgeon and OR staff to manage any sterility concerns knowing that the sterile\nprobe used to capture the distal landmark will also be placed within the incision at several steps of\nthe procedure.\n\n## C. Pelvic Array Placement\n\n\nTo ensure proper fixation of the Pelvic Array, it is recommended that dry gloves be used when\nassembling the Pelvic Clamps to the bone pins.\n\nThe Express Femoral Workflow requires that the Pelvic Array be placed prior to Femoral Landmark\ncapture and dislocation of the native hip. Once the initial femoral landmarks are captured, the Pelvic\nArray cannot be moved or reoriented until after final reduction results. It is recommended that the\nsurgeon place and capture the Pelvic Checkpoint prior to Femoral Landmark capture. If it is believed\nthat the Pelvic Array has moved or if the Pelvic Checkpoint fails verification between Femoral\nLandmark and Reduction Results capture, hip length and offset values may not be accurate.\n\n\n### Bone Pin Insertion\n\nThe MAKOplasty Total Hip Instrument Kit includes a drill adapter for inserting bone pins. However, a\npower drill can be fitted with either a Jacobs chuck or a cannulated 4 mm bone pin driver, if desired.\n\n### Iliac Crest (out of wound placement):\n\nPrior to the start of a case, the OR staff should consider the\nplacement (Intra-Incision Tracking or Iliac Crest Tracking)\nand method in which they will be inserting bone pins.\n\nContralateral iliac crest tracking is required for Direct\nAnterior surgical approach.\n\n1. Make a stab incision along the lateral aspect of the iliac\ncrest based on the surgical approach (Figure 3).\n\n\n\n2. Load a bone pin into the Drill Adapter to drive the pin from the lateral to medial aspect of the bone.\n\nConfirm the stability of the inserted bone pin before proceeding.\n\n3. Use the 3-Pin Pelvic Clamp to align the second pin or as a guide for proper spacing. Make a second\nstab incision at the proper site and insert the second bone pin.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887991"
+      }
+    },
+    {
+      "page_id": "page_24",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 24 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "surgical guide",
+        "bone pin placement",
+        "surgical approach",
+        "pelvic tracking"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 24",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 24",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_3",
+          "title": "Useless",
+          "description": "Table from page 24",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_4",
+          "title": "Useless",
+          "description": "Table from page 24",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n4. Use the 3-Pin Pelvic Clamp to align the third pin or as a guide for proper spacing. Insert the third bone pin.\n\n## Intra-Incision (in-wound placement):\n\nTo avoid patient tissue damage, do not over-drill bone pins.\n\nIntra-Incision Pelvic Tracking is available for Posterolateral and Anterolateral surgical approaches only.\n\n1. The axis of the bone pins should be directed away from the articular surface to help prevent accidental reaming of the bone pins. Insert the bone pins such that they remain outside the acetabular cavity even after reaming. This is done by angling the bone pins 60 degrees from the surface.\n\n2. The bone pins should be 1 cm superior from the acetabular rim (excluding superior osteophytes if the labrum is ossified) (Figure 4).\n\n\nConfirm the stability of the inserted bone pin before proceeding.\n\nFor the Posterolateral surgical approach, place bone pins as far anterior as possible. For the Anterolateral surgical approach, place bone pins as far posterior as possible",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.887999"
+      }
+    },
+    {
+      "page_id": "page_25",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 25 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Array Components Assembly",
+        "Pelvic Array",
+        "Array Adapter",
+        "VIZADISC"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 25",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "## Array Assembly\n\nWarning While assembling the Pelvic Array and the Pelvic Array Adaptor, ensure there is no gap between components before tightening.\n\nWarning The connections within the Array Assembly must be aligned properly to prevent loss of bone registration during the case. The image to the left in Figure 5 shows proper assembly, the image to the right in Figure 5 shows improper assembly.\n\n\n3. Attach the Array Adapter to the Pelvic Array Clamp. Lightly tighten the knob of the Array Adapter such that the two components remain attached.\n\n4. Position the clamp (3-Pin Pelvic Clamp for Iliac Crest Tracking or 2-Pin Clamp for Intra-Incision Tracking) on the bone pins approximately 5 mm above the skin surface and lightly tighten the thumbscrew.\n\n5. Ensure the VIZADISC are properly seated on the Pelvic Array. VIZADISC arrays are to be assembled onto the Pelvic Array according to instructions for the Pelvic Array (refer to the RIO System User Guide).\n\n6. Insert the assembled Pelvic Array into the Array Adapter. Orient the array towards the camera. Using the ratcheting handle and square driver attachment, sufficiently tighten the screws in this order: the Array Screw, the Array Adaptor Screw, and the Clamp Screw.\n\n7. Verify assembly is rigid.\n\nNote If the Pelvic Array is placed after broaching, ensure it does not block the Femoral Array when the hip is in the reduced position.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888015"
+      }
+    },
+    {
+      "page_id": "page_26",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 26 content",
+      "keywords": [
+        "MAKO THA Surgical Guide",
+        "Pelvic Array Tracking Assemblies",
+        "Femoral Cortical Screw",
+        "Checkpoint Placement",
+        "Posterolateral",
+        "Anterolateral"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 26",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 26",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# MAKO THA Surgical Guide\n\n## Table 3. Pelvic Array Tracking Assemblies\n\nIliac Crest Tracking, Intra-Incision Posterolateral, Intra-Incision Anterolateral\n\n\n> Intra-Incision tracking is not recommended for excessively large patients.\n\n## D. Femoral Cortical Screw and Checkpoint Placement\n\n### D.1 Enhanced Femoral Workflow\n\n1. Locate the correct area of the proximal femur for the Femoral Cortical Screw placement based on\n   the screen image; bone model images differ for Posterolateral or Anterolateral approaches.\n\n## Table 4. Femoral Cortical Screw and Checkpoint Placement\n\nPosterolateral, Anterolateral, Direct Anterior",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888026"
+      }
+    },
+    {
+      "page_id": "page_27",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 27 content",
+      "keywords": [
+        "MAKO THA Surgical Guide",
+        "screw placement",
+        "drilling",
+        "warnings",
+        "surgical procedure"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 27",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "2. Prepare the surface of the cortex for screw placement by clearing soft tissues.\n\n3. Visualize range of motion in the dislocated and reduced position with the Femoral Array held in the planned screw location in order to ensure minimal soft tissue impingement.\n\n4. Use a drill with a diameter of less than 3 mm but no smaller than 2.5 mm to create a pilot hole. A 4.0 mm bone pin is also acceptable\n\n5. Thread in the screw until snug, being careful not to over-tighten and strip the screw.\n\n6. Ensure all soft tissue has been cleared around the screw flange where it intersects the cortex. Screw should be seated so that no soft tissue interferes with screw placement (Figure 6).\n\n7. Confirm that some of the teeth located on the flange have anchored into the cortex (Figure 7). This will ensure that the screw doesn't toggle. If the Femoral Cortical Screw's flange teeth are not anchored in the cortex, the screw could toggle and compromise femoral registration (Figure 8).\n## Warning\n\nWhen using the Variable Angle Fixation Screw, an audible \"creak\" is not heard. Tactile feedback of the ratcheting teeth will indicate screw stability.\n\nThe Variable Angle Fixation Screw requires a pre-drill with a diameter of 3 mm or less. Failure to use a pre-drill, or use of a pre-drill with a diameter greater than 3 mm will reduce screw purchase in the bone and may result in array movement throughout the procedure leading to compromised registration.\n\nEnsure that the Femoral Cortical Screw does not protrude into the femoral canal and will not interfere with broaching of the femur.\n\nWhen using bone wax on the threads, ensure the wax is not applied to the screw head when inserting the Femoral Cortical Screw into the femur. The wax may prevent the Femoral Array from seating properly.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888150"
+      }
+    },
+    {
+      "page_id": "page_28",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 28 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Femoral Array",
+        "Femoral Checkpoint",
+        "surgical guide",
+        "Stryker"
+      ],
+      "tables": [],
+      "raw_content": "8. Insert the Femoral Array into the Femoral Cortical Screw. Gently toggle the array while paying close attention to the junction between the flange and the bone. If any motion is noticed, the screw is sitting proud and needs to be retightened.\n\n9. With the Femoral Array in the Femoral Cortical Screw, orient the array to the camera so that it is visible in the dislocated and reduced positions. Hand tighten the array in the final position.\n\n> Femoral Array is not visible in the dislocated position for Direct Anterior approach.\n\n10. Remove the array and fully tighten using the square driver.\n\n11. Insert the Femoral Checkpoint into the proximal femur where it is easily accessible with the probe.\n\n12. With the Femoral Array in place, touch the probe to the divot in the femoral checkpoint. The MPS will capture the checkpoint location. Pick up the probe and touch the checkpoint a second time to verify the accuracy.\n\n## Femoral Checkpoint\n\nThe Femoral Checkpoint placement (either using Impaction or Tibial Checkpoint) should be placed and verified prior to beginning Femoral Bone Registration.\n\n> The use of a fracture fixation screw as an alternative to the checkpoint provided by Stryker is not recommended. Verification of the integrity of the bone arrays may not be reliable when using any other device other than the Stryker Checkpoint.\n\n1. Locate an accessible area of the proximal femur and insert the Hip Femoral Checkpoint.\n\n2. Place the tip of the probe into the Hip Femoral Checkpoint divot.\n\n3. Collect the point by selecting 'Capture'.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888171"
+      }
+    },
+    {
+      "page_id": "page_29",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 29 content",
+      "keywords": [
+        "MAKOplasty",
+        "Total Hip Application",
+        "Express Femoral Workflow",
+        "Femoral Registration",
+        "Proximal Femoral Checkpoint"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Express Femoral Workflow",
+          "description": "Table from page 29",
+          "rows": [
+            {
+              "Step": "1",
+              "Procedure": "Perform incision and exposure."
+            },
+            {
+              "Step": "2",
+              "Procedure": "Prior to dislocation, locate the recommended Proximal Femoral Checkpoint position on the lateral portion of the Greater Trochanter as shown in (Figure 10)."
+            },
+            {
+              "Step": "3",
+              "Procedure": "Impact or push the Femoral Checkpoint into place ensuring that it is secure and accessible."
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Step",
+              "Procedure"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Step",
+            "Procedure"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Enhanced Femoral Workflow",
+          "description": "Table from page 29",
+          "rows": [
+            {
+              "Step": "1",
+              "Procedure": "Patient Landmarks: Collect all femoral landmarks identified in the software within 5 mm using the probe (Figure 11). The placement of landmarks vary by surgical approach. These landmarks are identified pre-operatively in the 'Femoral CT Landmarks' page and are required to properly orient the femur."
+            },
+            {
+              "Step": "2",
+              "Procedure": "Fine Registration: Using the Probe, touch the surface of the bone in the required areas of the proximal femur identified in the software (Figure 12, Figure 13, and Figure 14)."
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Step",
+              "Procedure"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Step",
+            "Procedure"
+          ]
+        }
+      ],
+      "raw_content": "## D.2 Express Femoral Workflow\n\nThe surgical incision and Proximal Femoral Checkpoint placement are performed at this point of the procedure and prior to dislocation of the hip. The operating surgeon is responsible for the location, type, and size of the incision appropriate for a MAKOplasty Total Hip Application procedure.\n\n1. Perform incision and exposure.\n\n2. Prior to dislocation, locate the recommended Proximal Femoral Checkpoint position on the lateral portion of the Greater Trochanter as shown in (Figure 10).\n\n> Exact placement of the Proximal Femoral Checkpoint in the location shown is not required, but the location should be in line with the anatomic axis (lateral on the Greater Trochanter), yet more importantly, in a location easily accessible with the femur reduced and positioned in line with the patient's superior/inferior direction.\n\n3. Impact or push the Femoral Checkpoint into place ensuring that it is secure and accessible.\n\n## E. Femoral Registration\n\n### Enhanced Femoral Workflow\n\nBone registration has three distinct steps:\n1) Patient Landmarks, 2) Fine Registration, and 3) Registration Verification.\n\n1. Patient Landmarks: Collect all femoral landmarks identified in the software within 5 mm using the probe (Figure 11). The placement of landmarks vary by surgical approach. These landmarks are identified pre-operatively in the 'Femoral CT Landmarks' page and are required to properly orient the femur.\n\n\n> Landmark positions taken on the patient's bone must match what is selected within the application.\n\n2. Fine Registration: Using the Probe, touch the surface of the bone in the required areas of the proximal femur identified in the software (Figure 12, Figure 13, and Figure 14).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888181"
+      }
+    },
+    {
+      "page_id": "page_30",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 30 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "surgical guide",
+        "Femoral Registration Pattern",
+        "surgical approaches",
+        "registration verification"
+      ],
+      "tables": [],
+      "raw_content": "3. Registration Verification: Verify the registration by placing the probe on the surface of the bone in the critical areas of the proximal femur identified in the software by the large blue spheres (Figure 15). If the distance to bone is less than 1 mm, the sphere will turn white. If the distance to bone within the verification sphere is more than 1 mm, the sphere will turn red. If more than one sphere is red, the registration should be repeated.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888193"
+      }
+    },
+    {
+      "page_id": "page_31",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 31 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "registration spheres",
+        "verification points",
+        "calculated distance"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Registration Sphere Types and Their Meanings",
+          "description": "Table from page 31",
+          "rows": [
+            {
+              "Large Registration Spheres (Bone Verification Points)": "Large blue spheres represent points on the bone where the registration must be verified.  - (Large blue sphere)",
+              "Small Registration Spheres (Next Group of Points)": "The next group of points to be taken. - (Small blue sphere)"
+            },
+            {
+              "Large Registration Spheres (Bone Verification Points)": "Calculated distance to bone is closer than 1.0 mm.   - (Large white sphere)",
+              "Small Registration Spheres (Next Group of Points)": "The calculated distance from the bone is less than 0.5 mm.  - (Small green sphere)"
+            },
+            {
+              "Large Registration Spheres (Bone Verification Points)": "Calculated distance to bone is greater than 1.0 mm.  - (Large red sphere)",
+              "Small Registration Spheres (Next Group of Points)": "The calculated distance from the bone is between 0.5 mm and 1.5 mm. - (Small yellow sphere)"
+            },
+            {
+              "Large Registration Spheres (Bone Verification Points)": "",
+              "Small Registration Spheres (Next Group of Points)": "The calculated distance from the bone is greater than 1.5 mm.  - (Small pink sphere)"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Large Registration Spheres (Bone Verification Points)",
+              "Small Registration Spheres (Next Group of Points)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Large Registration Spheres (Bone Verification Points)",
+            "Small Registration Spheres (Next Group of Points)"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888202"
+      }
+    },
+    {
+      "page_id": "page_32",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 32 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "THA",
+        "Surgical Guide",
+        "Proximal Femoral Checkpoints",
+        "Distal Femoral Checkpoints",
+        "Express Femoral Workflow"
+      ],
+      "tables": [],
+      "raw_content": "## F. Proximal and Distal Femoral Checkpoints\n\n### Express Femoral Workflow\n\nWarning: Pelvic Array placement is necessary prior to Proximal and Distal Femoral Checkpoint capture during the Express Femoral Workflow. Once the initial femoral checkpoints are captured, the Pelvic Array cannot be moved or reoriented until after final reduction results. If it is believed that the pelvic array may have moved between Femoral Checkpoints and Reduction Results capture, check the Pelvic Checkpoint. If the Pelvic Checkpoint fails verification, hip length and offset values may not be accurate.\n\n\nProximal and Distal Femoral Checkpoint captures are required prior to initial dislocation for the Express Femoral Workflow.\n\n1. If not previously inserted, place the Pelvic Checkpoint, capture, and verify its location.\n\n2. Allow the reduced femur to rest without traction in a position with the mechanical axis of the femur approximately parallel to the long axis of the pelvis and patient with the knee flexed approximately 90 degrees. (Figure 16 represents the image display for AL or PL approaches on a right hip; images on the screen will differ slightly for a left hip or for the DA approach.)\n\nDepending on patient setup for the Direct Anterior approach, it may not be possible to obtain 90 degrees of knee flexion. Keeping the femur parallel to the table, flex the knee as much as possible to keep the patella stable and align the Distal Checkpoint with the anatomic axis of the femur.\n\n\n\nWarning: During Femoral Checkpoint acquisition, the femur cannot move between the Proximal and Distal Checkpoint captures. Ensure the femur is stable and both checkpoints are accessible before proceeding. If it is perceived that the femur may have moved between captures, select 'Clear All' and repeat both landmark captures.\n\n\n3. With the 'Proximal Checkpoint' radio button selected, collect the Proximal Femoral landmark point by placing the probe in the Proximal Femoral Checkpoint, facing the Probe Array toward the camera, and selecting 'Capture'.\n\n4. Without moving the femur, place the probe on the Distal Femoral Checkpoint with a light touch and at a slight angle to avoid pushing through the sterile dressings. Ensure the Probe Array is facing the camera, and select 'Capture'.\n\nWarning: The application defaults to the Proximal Checkpoint capture first. The Distal Checkpoint can be captured first; however, the user MUST manually select the Distal Checkpoint radio button prior to capture.\n\n\n\nThe Foot Switch may be used to collect the Femoral Checkpoints. With the probe on the proper checkpoint, press and release the Foot Switch once. To 'Clear All', the button must be selected manually with the mouse.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888212"
+      }
+    },
+    {
+      "page_id": "page_33",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 33 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Femoral Neck Resection",
+        "Manual Femoral Preparation",
+        "surgical guide",
+        "implant systems"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 33",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 33",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "Note: There are two checks in the application to avoid incorrect Femoral Checkpoint capture. If the Proximal and Distal checkpoints are not captured far enough apart or are reversed relative to the selected radio button, a yellow warning will appear in the information box and the user will be asked to recapture both checkpoints.\n\n\n## G. Femoral Neck Resection (Optional)\n\n\nGuided Neck Resection applies only to Enhanced Femoral Workflow. For the Express Femoral Workflow, see 'Manual Femoral Preparation' section below using the Neck Resection Guide and the 2D measurement tool in 'Stem Plan Mode'.\n\n\n1. Based on the planned position of the femoral stem, the proximal level of the coating will be displayed as a green line on a 3D model of the femur.\n\n\nThe displayed green line for cemented stems (e.g., Exeter) indicates a generic level that may or may not be used based on the specific surgical technique.\n\n\n2. With the Femoral Array inserted in the Femoral Cortical Screw, bring the probe into view. The location of the probe tip will appear on screen.\n\n\n\n3. Mark the neck resection line on the bone with an electrocautery tool or a surgical marker according to the implant specific surgical technique. Orientation of the green line may not match the preferred surgical technique and should be used only as a guide. Use of the medial resection may be helpful in finding the appropriate height of the cut.\n\n4. Remove the Femoral Array and resect the femoral neck with a bone saw along the marked line, taking care to maintain the correct angle. In the 'Neck Resection' page, a 3D model of the registered bone will be displayed along with the illustrated neck resection line (green).\n\n\n\nAfter resecting the femoral head, reattach the Femoral Array and use the probe to verify the neck cut was made in the correct location.\n\n\nA corkscrew is provided in the Direct Anterior instrument kit to facilitate the removal of the femoral head after resection.\n\n\n## H. Manual Femoral Preparation\n\nPrepare the femur with the appropriate instrumentation for the selected implant system. Refer to the implant specific surgical technique for detailed instructions.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888220"
+      }
+    },
+    {
+      "page_id": "page_34",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 34 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "broach tracking",
+        "stem tracking",
+        "surgical approaches"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Broach Tracking and Stem Tracking Availability and Method",
+          "description": "Table from page 34",
+          "rows": [
+            {
+              "stem_type": "Accolade II",
+              "approach": "AL and PL",
+              "broach_tracking_method": "Either",
+              "stem_tracking_method": "Array"
+            },
+            {
+              "stem_type": "Accolade II",
+              "approach": "DA",
+              "broach_tracking_method": "Divots",
+              "stem_tracking_method": "Not supported"
+            },
+            {
+              "stem_type": "Anato",
+              "approach": "AL and PL",
+              "broach_tracking_method": "Either",
+              "stem_tracking_method": "Array"
+            },
+            {
+              "stem_type": "Anato",
+              "approach": "DA",
+              "broach_tracking_method": "Divots",
+              "stem_tracking_method": "Not supported"
+            },
+            {
+              "stem_type": "Secur-Fit Advanced",
+              "approach": "AL and PL",
+              "broach_tracking_method": "Array",
+              "stem_tracking_method": "Array"
+            },
+            {
+              "stem_type": "Secur-Fit Advanced",
+              "approach": "DA",
+              "broach_tracking_method": "Not supported",
+              "stem_tracking_method": "Not supported"
+            },
+            {
+              "stem_type": "Exeter",
+              "approach": "AL and PL",
+              "broach_tracking_method": "Array",
+              "stem_tracking_method": "Array"
+            },
+            {
+              "stem_type": "Exeter",
+              "approach": "DA",
+              "broach_tracking_method": "Not supported",
+              "stem_tracking_method": "Not supported"
+            },
+            {
+              "stem_type": "RESTORIS Tapered",
+              "approach": "AL and PL",
+              "broach_tracking_method": "Array",
+              "stem_tracking_method": "Array"
+            },
+            {
+              "stem_type": "RESTORIS Tapered",
+              "approach": "DA",
+              "broach_tracking_method": "Divots",
+              "stem_tracking_method": "Not supported"
+            },
+            {
+              "stem_type": "RESTORIS MetaFix",
+              "approach": "AL and PL",
+              "broach_tracking_method": "Array",
+              "stem_tracking_method": "Array"
+            },
+            {
+              "stem_type": "RESTORIS MetaFix",
+              "approach": "DA",
+              "broach_tracking_method": "Divots",
+              "stem_tracking_method": "Not supported"
+            }
+          ],
+          "metadata": {
+            "row_count": 12,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "stem_type",
+              "approach",
+              "broach_tracking_method",
+              "stem_tracking_method"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "stem_type",
+            "stem type",
+            "approach",
+            "broach_tracking_method",
+            "broach tracking method",
+            "stem_tracking_method",
+            "stem tracking method"
+          ]
+        }
+      ],
+      "raw_content": "## I. Broach and Stem Tracking\n\n> This section applies to Enhanced Femoral Workflow only. Broach and Stem Tracking are not available with the Express Femoral Workflow.\n\n> Stem Tracking is not available for the direct anterior surgical approach.\n\nAfter broaching, the 'Broach Tracking' page allows the user to capture the broach position and orientation as well as the calculation of predicted values for patient hip length and offset change. There are two methods of broach tracking available depending upon the implant system and approach: array tracking and trial neck divot selection. The user can choose to specify array or divot tracking for the Accolade II and Anato stem systems for antero-lateral and postero-lateral approaches.\n\n\n> There are different broach arrays available for Posterolateral and Anterolateral procedures. Ensure that the appropriate broach array is available for the procedure that is being performed.\n\n1. Reattach the Femoral Array to the Femoral Cortical Screw. Ensure both the Broach Array and Femoral Array are visible to the camera by looking at the top right camera view status bar. If the arrays are both visible, a green box will be seen around the Femur Array and the Broach Array icons. If the box is red, the array is not visible.\n\n2. With all arrays visible, the MPS will press 'Capture' and the screen will display the anteversion of the broach and the expected change in hip length and offset with the current stem position. The acetabular center is already planned and will not change. If the surgeon changes the acetabular center, the hip length and offset numbers will also change.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888232"
+      }
+    },
+    {
+      "page_id": "page_35",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 35 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "leg length",
+        "offset",
+        "broaching results",
+        "combined anteversion",
+        "broach tracking",
+        "neck divots",
+        "femoral array",
+        "femoral cortical screw",
+        "probe",
+        "camera view",
+        "capture",
+        "center of rotation",
+        "head length",
+        "express femoral workflow",
+        "hip length",
+        "combined offset",
+        "cup center of rotation",
+        "femoral stem"
+      ],
+      "tables": [],
+      "raw_content": "3. With the leg length and offset values displayed, the surgeon can make a surgical decision on the desired leg length and offset. Similarly, the surgeon can change the planned anteversion of the cup to achieve the desired combined anteversion based on the displayed broach anteversion.\n\n4. When the surgeon accepts the broaching results, the 'Combined Anteversion' page will be displayed to confirm the combined anteversion selected.\n\n5. Broach Tracking with Neck Divots:\n\n   a. Reattach the Femoral Array to the Femoral Cortical Screw.\n\n   > Ensure the modular neck is fully seated on the broach when capturing data.\n\n   b. Ensure the Probe and Femoral Array are visible to the camera. This can be confirmed by looking at the top right camera view status bar and witnessing a green box around the Femur and Broach. If a red box is displayed, it indicates that the array is not visible.\n\n   c. Touch the tip of the probe to the divot on the modular neck corresponding to the large blue sphere on the screen, and select 'Capture'. This step must be repeated two additional times for the remaining points.\n\n   > The displayed images for this feature are generic images that are only used to indicate divot selection order and may not necessarily represent the broach or trial neck location relative to the operative femur.\n\n   d. Review the displayed values and position relative to the planned Center of Rotation. Small corrections can be made by selecting a new head length in the drop down menu to the right. If the broach position is to be adjusted, remove the Femur Array prior to additional broaching. Recapturing of the broach position after adjustment is recommended.\n\n   e. When the surgeon accepts the broaching results, the 'Combined Anteversion' page will be displayed to confirm the combined anteversion selected.\n\n   > Broach and Stem Tracking are not available with Express Femoral Workflow.\n\n   > The values for Hip Length and Combined Offset are valid only for the currently measured broach position and planned cup center of rotation. If the cup center of rotation is changed after this initial capture, the saved values for Hip Length and Combined Offset will not be valid. The measured anteversion of the femoral stem will still be valid.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888242"
+      }
+    },
+    {
+      "page_id": "page_36",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 36 content",
+      "keywords": [
+        "MAKO THA Surgical Guide",
+        "implant systems",
+        "accuracy",
+        "measurements",
+        "Combined Anteversion"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Implant System Accuracy",
+          "description": "Table from page 36",
+          "rows": [
+            {
+              "Measurement Description": "Length of Hip",
+              "Accuracy (± mm or °)": "±4 mm"
+            },
+            {
+              "Measurement Description": "Combined Offset",
+              "Accuracy (± mm or °)": "±4 mm"
+            },
+            {
+              "Measurement Description": "Broach Version (Angle)",
+              "Accuracy (± mm or °)": "±5°"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Measurement Description",
+              "Accuracy (± mm or °)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Measurement Description",
+            "name",
+            "title",
+            "product name",
+            "Accuracy (± mm or °)"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 36",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "The measurements provided in the Broaching page are estimates. The accuracy values for the available implant systems are:\n\n| Measurement     | Accuracy |\n|-----------------|----------|\n| Hip Length      | ±4 mm    |\n| Combined Offset | ±4 mm    |\n| Broach Version  | ±5°      |\n\nThe surgeon should avoid planning with the shortest or longest head length at this step and keep some additional head length options.\n\n\n## J. Combined Anteversion\n\nThis section does not apply to the Express Femoral Workflow.\n\nOnce the version of the femoral broach has been captured, the data can be used to adjust the planned version of the acetabular cup component. In the 'Combined Anteversion' page, the user is shown the additive values for femoral version and planned cup version. The result of this value is Combined Anteversion.\n\nA reference table is displayed on this page with values corresponding to clinically relevant ranges for combined anteversion with ranges different for each gender. Acetabular version can be adjusted to achieve an appropriate combined anteversion for the patient.\n\nTo Change Acetabular Version:\n\n1. Use the + and - buttons to change acetabular version. 'Planned Combined Anteversion' and planned version will change accordingly. If the value set for acetabular version exceeds that of the clinically acceptable range, a message is displayed.\n\nThe 'Combined Anteversion' page displays combined version as a reference only. It is the responsibility of the operative surgeon to approve a clinically relevant operative plan.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888255"
+      }
+    },
+    {
+      "page_id": "page_37",
+      "title": "K. Pelvic Checkpoint",
+      "summary": "Page 37 content",
+      "keywords": [
+        "Pelvic Checkpoint",
+        "warnings",
+        "precautions",
+        "overtighten",
+        "acetabulum",
+        "Stryker",
+        "bone Checkpoint",
+        "cortical fixation",
+        "screw",
+        "rongeur"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Warnings and Precautions for Pelvic Checkpoint",
+          "description": "Table from page 37",
+          "rows": [
+            {
+              "Warnings and Precautions": "Do not overtighten. Overtightening may cause the threads to lose their purchase in the bone and registration accuracy to be compromised."
+            },
+            {
+              "Warnings and Precautions": "Ensure the checkpoint will not interfere with the reaming of the acetabulum before continuing."
+            },
+            {
+              "Warnings and Precautions": "Insertion and re-insertion of the checkpoint may weaken the acetabulum sufficiently to lead to fracture during reaming of the acetabulum or impaction of the cup implant."
+            },
+            {
+              "Warnings and Precautions": "The use of a cortical fixation or screw as an alternative to the bone Checkpoint provided by Stryker is not recommended. Verification of the integrity of the bone arrays may not be reliable when using any other device other than the Stryker checkpoint."
+            },
+            {
+              "Warnings and Precautions": "When inserting the checkpoint into the bone, care should be taken not to over-tighten. The thread should be inserted in the bone until the head of the checkpoint is in contact with the bone."
+            },
+            {
+              "Warnings and Precautions": "The Pelvic Checkpoint is self-tapping and does not require any impaction. Impacting the checkpoint into the bone prior to threading the checkpoint may enlarge the hole, which can cause the checkpoint to not engage properly and compromise accuracy."
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 1,
+            "data_types": [],
+            "searchable_columns": [
+              "Warnings and Precautions"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Warnings and Precautions"
+          ]
+        }
+      ],
+      "raw_content": "## K. Pelvic Checkpoint\nThe axis of the checkpoint should be directed away from the articular surface to help prevent\naccidental reaming of the checkpoint.\n\n1. Clear the area for the screw with a rongeur until bone is visible.\n\nDo not overtighten. Overtightening may cause the threads to lose their purchase in the bone and\nregistration accuracy to be compromised.\n\nEnsure the checkpoint will not interfere with the reaming of the acetabulum before continuing.\n\nInsertion and re-insertion of the checkpoint may weaken the acetabulum sufficiently to lead to\nfracture during reaming of the acetabulum or impaction of the cup implant.\nThe use of a cortical fixation or screw as an alternative to the bone Checkpoint provided by Stryker is\nnot recommended. Verification of the integrity of the bone arrays may not be reliable when using any\nother device other than the Stryker checkpoint.\nWhen inserting the checkpoint into the bone, care should be taken not to over-tighten. The thread\nshould be inserted in the bone until the head of the checkpoint is in contact with the bone.\nThe Pelvic Checkpoint is self-tapping and does not require any impaction. Impacting the checkpoint\ninto the bone prior to threading the checkpoint may enlarge the hole, which can cause the\ncheckpoint to not engage properly and compromise accuracy.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888269"
+      }
+    },
+    {
+      "page_id": "page_38",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 38 content",
+      "keywords": [
+        "Pelvic Checkpoint Screw",
+        "acetabular cavity",
+        "surgical guide",
+        "drill",
+        "verification"
+      ],
+      "tables": [],
+      "raw_content": "2. Insert the Pelvic Checkpoint Screw such that it remains outside the acetabular cavity even after reaming. This is done by angling the screw 60 degrees from the surface. The hex head of the screw should be 1 cm superior from the acetabular rim (exclude superior osteophytes if the labrum is ossified) (Figure 21).\n\n3. Use a 3.0 mm drill to penetrate the cortex. If the tissue is thick in the area, the surgeon can use a marking pen to mark the drill hole. The screw is then inserted at 60 degrees to the acetabular surface.\n\n4. The screw has a double head extension such that it is easy to find and touch with the probe in the hex head to collect the checkpoints for accuracy of acetabular preparation. The initial verification requires that the probe be touched twice into the screw; one time for capture and the second for verification. (Figure 21).\n\n> Screw forceps are available to hold screw during insertion.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888279"
+      }
+    },
+    {
+      "page_id": "page_39",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide - Procedure for Pelvic Registration",
+      "summary": "Page 39 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "pelvic registration",
+        "CT landmarks",
+        "acetabular rim",
+        "registration verification"
+      ],
+      "tables": [],
+      "raw_content": "## L. Pelvic Registration\n\n1. Collect the pelvic landmarks on the bone within 5 mm of the designated position in the software using the Probe (Figure 21). These landmarks are required to properly orient the pelvis prior to registration and are the locations collected pre-operatively in the CT Pelvic Landmarks.\n\n\n\n> Registration accuracy is dependent on probing landmarks intra-operatively as close as possible to their locations selected in the 'CT Landmarks' page. Choosing a point on the CT that can be easily reproduced on the actual pelvis (bumps, valleys, etc.) in the approximate area described is recommended. Choosing points on the CT at both the inferior tips of the articular surface (horseshoe) beyond the cartilage is also recommended.\n\n> Best Practice: Excise the labrum before acetabular registration such that the rim points are collected on the bone. If the labrum is ossified, register behind this osteophyte.\n\n2. Using the probe, touch the surface of the bone in the required areas of the acetabulum and outside the superior acetabular rim identified in the software (Figure 23).\n\n   The larger the amount of area covered by the points, the better the registration (pelvic registration error should be less than or equal to 0.5 mm).\n\n   The surgeon must verify the registration by placing the probe on the surface of the bone in the critical areas of the acetabulum identified in the software (Figure 24).\n\n\n\n3. Capture a point in the area of each large blue verification sphere – if the registration error is less than 1 mm, the sphere will become white indicating an accurate registration. If the registration error for the region is greater than 1 mm, the sphere will turn red.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888287"
+      }
+    },
+    {
+      "page_id": "page_40",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 40 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "RIO registration",
+        "large registration spheres",
+        "small registration spheres"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Registration Spheres Description and Distance to Bone",
+          "description": "Table from page 40",
+          "rows": [
+            {
+              "Large Registration Spheres (Description and Distance to Bone)": "Large blue spheres represent points on the bone where the registration must be verified. - (Large Blue Sphere)",
+              "Small Registration Spheres (Description and Distance to Bone)": "The next group of points to be taken. - (Small Blue Sphere)"
+            },
+            {
+              "Large Registration Spheres (Description and Distance to Bone)": "Calculated distance to bone is closer than 1.0 mm. - (Large White Sphere)",
+              "Small Registration Spheres (Description and Distance to Bone)": "The calculated distance from the bone is less than 0.5 mm. - (Small Green Sphere)"
+            },
+            {
+              "Large Registration Spheres (Description and Distance to Bone)": "Calculated distance to bone is greater than 1.0 mm. - (Large Red Sphere)",
+              "Small Registration Spheres (Description and Distance to Bone)": "The calculated distance from the bone is between 0.5 mm and 1.5 mm. - (Small Yellow Sphere)"
+            },
+            {
+              "Large Registration Spheres (Description and Distance to Bone)": "",
+              "Small Registration Spheres (Description and Distance to Bone)": "The calculated distance from the bone is greater than 1.5 mm. - (Small Pink Sphere)"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Large Registration Spheres (Description and Distance to Bone)",
+              "Small Registration Spheres (Description and Distance to Bone)"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Large Registration Spheres (Description and Distance to Bone)",
+            "name",
+            "title",
+            "product name",
+            "Small Registration Spheres (Description and Distance to Bone)"
+          ]
+        }
+      ],
+      "raw_content": "If more than one region is red, the surgeon should re-register the acetabulum.\n\n## M. RIO Registration\n\nThe RIO Registration step confirms the accuracy of the Robotic Arm and the location of the cutting tool tip.\n\n> If desired, registration can be performed before the incision or by following the standard application work flow prior to cup reaming.\n\n### To Register the RIO\n\n1. On the 'RIO Registration' page, select the appropriate End Effector Serial Number from the drop down menu.\n2. Attach the End Effector Array to the End Effector as shown on screen.\n3. Insert either the straight or offset reamer handle into the End Effector, and select the appropriate reamer handle from the pull down menu.\n\n> The RIO can be registered using either the straight or offset reamer handles in any available offset slot. The selected handle used for registration will be the default for cup reaming and impaction. Either the straight or offset reaming handle can be changed intra-operatively by using the drop down menu on the reaming and impaction pages without repeating RIO Registration.\n\n> When using the offset reamer with the variable angle hip end effector, take care to note which slot you are in (45, 90, 135); select the same slot in the drop down menu.\n\n> Ensure the RIO lift mechanism has been lowered and the RIO is down on its casters. An icon will appear in the Main Window if the RIO has not been lowered onto the casters.\n\n4. Orient the Robotic Arm so that the End Effector is pointed toward the floor, angled slightly toward the feet of the patient (away from the camera), 5-10 cm above the center of the patient's hip, and the Robotic Arm is parallel to the floor.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888295"
+      }
+    },
+    {
+      "page_id": "page_41",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 41 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Robotic Interactive Orthopedic",
+        "End Effector Array",
+        "Robotic Arm",
+        "RIO Registration Verification"
+      ],
+      "tables": [],
+      "raw_content": "\nGrasp the End Effector just above the End Effector Array for optimal control.\n\n5. Select 'Start'. If the array is visible, the tip of the Robotic Arm will be constrained in a stereotactic 'cube', allowing movement in only one direction.\n\n6. Follow software prompts by gently moving the tool tip toward the indicated corner of the cube represented by a blue sphere. When the tip reaches the cube corner, release the pressure on the arm and wait for an audible beep. This will confirm collection of that point.\n\n\n7. Repeat until all eight points have been captured. The progress bar will indicate the percentage of positions that have been captured. The application will automatically calculate the arm error. If the error tolerance is within threshold (0.5 mm), the software will auto-proceed to the verification step.\n\n> **Warning:** Starting position of the End Effector Array is critical. By starting in an improper orientation, it may not be possible to complete registration. If at any point verification cannot be completed because the arm is constrained and the array cannot be seen by the camera, the verification step may be restarted by selecting 'Restart' in the control panel.\n\n## Verifying Registration of the RIO\n\nWhen the cube step is complete, the software automatically proceeds to the verify step and provides guidance through a series of rotation and hold steps to verify registration. These steps are outlined below.\n\n> **Note:** Do not move the camera during the RIO Registration Verification step as this will generated a failed verification.\n\n1. When prompted, pull the End Effector Array backward (away from the camera). This step is not complete until the green arrow is filled as illustrated on the screen. The Robotic Arm will constrain rotation to only that direction.\n\n2. When the first arm motion is complete, move the End Effector Array from the RIO until the green arrow is filled as illustrated on screen.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888306"
+      }
+    },
+    {
+      "page_id": "page_42",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 42 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "THA",
+        "surgical guide",
+        "Robotic Interactive Orthopedic",
+        "RIO",
+        "End Effector Array"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 42",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "3. When the second arm motion is complete, hold the arm still and ensure the End Effector Array is facing the camera.\n\n4. When prompted, arm motion the End Effector Array toward the RIO until the green arrow is filled as illustrated on screen.\n\n5. When prompted, push the End Effector Array forward (toward the patient's head) slowly until the green arrow is filled as illustrated on screen.\n\n6. When the fourth arm motion is complete, hold the arm still and ensure the End Effector Array is facing the camera (provided the other preconditions for the following pages are met).\n\n7. The Registration will be verified and autoproceed to the next page in the workflow, if successful. The accuracy of the RIO registration verification will be displayed in millimeters.\n\n\nIf a second registration is required after passing first registration, select 'Restart', to correctly reorient the Robotic Arm, then select 'Confirm'.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888315"
+      }
+    },
+    {
+      "page_id": "page_43",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 43 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Reaming the Acetabulum",
+        "Acetabular Cup Surgical Plan",
+        "Interface Icons",
+        "RIO lift mechanism"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Interface Icons and Their Descriptions",
+          "description": "Table from page 43",
+          "rows": [
+            {
+              "Icon": "Green Check",
+              "Description": "**MICS ON:** In Reaming Mode, this icon will appear indicating that the reamer is powered."
+            },
+            {
+              "Icon": "Red X",
+              "Description": "**MICS OFF:** In Reaming Mode, when reaming is unavailable this icon will appear indicating that the reamer is not powered."
+            },
+            {
+              "Icon": "Yellow Reverse",
+              "Description": "**REVERSE:** In Reaming Mode, this icon will appear indicating that the reamer is powered and will spin in reverse."
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Icon",
+              "Description"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Icon",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## N. Reaming the Acetabulum\n\nThe pre-operative surgical Cup Plan should be reviewed and confirmed before reaming (Figure 28).\n\n\n\n## ICONS\n\nMICS ON (Green Check)\nIn Reaming Mode, this icon will appear indicating that the reamer is powered.\n\nMICS OFF (Red X)\nIn Reaming Mode, when reaming is unavailable this icon will appear indicating that the\nreamer is not powered.\n\nREVERSE (Yellow Reverse):\nIn Reaming Mode, this icon will appear indicating that the reamer is powered and will spin\nin reverse.\n\nEnsure the RIO lift mechanism has been lowered and the RIO is down on its casters. An icon will appear in the Main Window if the RIO has not been lowered onto the casters.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888325"
+      }
+    },
+    {
+      "page_id": "page_44",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 44 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "reaming size",
+        "implant cup type",
+        "surgical equipment"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Recommended Reaming Sizes for Implant Cup Types",
+          "description": "Table from page 44",
+          "rows": [
+            {
+              "Implant Cup Type": "Trident PST",
+              "Recommended Reaming Size (mm)": "-1"
+            },
+            {
+              "Implant Cup Type": "Trident PSL",
+              "Recommended Reaming Size (mm)": "0"
+            },
+            {
+              "Implant Cup Type": "Trident Hemispherical",
+              "Recommended Reaming Size (mm)": "-1"
+            },
+            {
+              "Implant Cup Type": "Trident Tritanium",
+              "Recommended Reaming Size (mm)": "-1"
+            },
+            {
+              "Implant Cup Type": "RESTORIS PST",
+              "Recommended Reaming Size (mm)": "-1"
+            },
+            {
+              "Implant Cup Type": "RESTORIS Trinity",
+              "Recommended Reaming Size (mm)": "0"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Implant Cup Type",
+              "Recommended Reaming Size (mm)"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Implant Cup Type",
+            "Recommended Reaming Size (mm)",
+            "dimensions",
+            "sizing"
+          ]
+        }
+      ],
+      "raw_content": "\n1. Assemble the reamer by inserting the Reamer Handle into the End Effector on the RIO and attaching the MICS with the MICS adaptor (Figure 29). With small posterior incisions or when performing a Direct Anterior approach, use the offset reamer handle.\n\n2. Reaming can be accomplished with either a single reamer or multiple reamers.\n\n\n## Multiple Ream Option\n\nIf multiple reamers are used, begin with a reamer 4 mm or smaller than the planned cup size. A reamer size 4 mm or smaller will allow the surgeon to orient the Robotic Arm in any desired position (no orientation constraints, but center of rotation is still constrained). A reamer size within 3 mm of the desired final reamer will prohibit the Robotic Arm from moving more than 15 degrees from the desired cup plan for inclination or anteversion. Therefore, if the surgeon wants to initially ream away the ridge of the acetabulum (lunate bone) or ream transversely to remove osteophytes, a reamer size 4 mm or smaller than the planned cup size should initially be attached to the effector arm.\n\n> Avoid reaming too deep with smaller reamer sizes. This could create a pocket and gap on the X-ray.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888334"
+      }
+    },
+    {
+      "page_id": "page_45",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 45 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "reaming",
+        "warnings",
+        "instructions"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 45",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "## Initial Reaming (with smaller reamers)\n- Tip of Reamer Constrained\n- Trajectory Unconstrained\n\n## Final Reaming\n- Tip of Reamer Constrained\n- Trajectory Constrained\n\n\nIf desired, the MICS can be set to spin in reverse. The stereotactic boundaries and the ‘Free Arm’, ‘CT\nView’, and ‘Manual Reaming’ buttons will behave identically to when the MICS is powered forward.\nIf the MICS trigger is engaged outside of the reaming stereotactic boundary, a yellow warning\nmessage will appear in the information box instructing the user to release the trigger. If the trigger\nis not released, the stereotactic boundary will not engage and power will not be supplied to reamer.\nIf while reaming with the trigger held within the stereotactic boundary the base and/or pelvis array is\nblocked for an extended period of time and is then removed from the stereotactic boundary, the no\n“Trigger Pressed” warning will be displayed and the reamer will begin spinning immediately upon\nunblocking of the array(s) and re-entering the stereotactic boundary.\nAn excessive, ‘heavy handed’ approach to stereotactic boundaries may result in a rough surface for\nimplant placement and may damage surrounding soft tissue.\nIf a reamer contacts a retractor or other instrument while spinning, particulate metal may be released\ninto the surgical site and compromise long term implant viability. Lavage the area and replace the\nreamer if such a situation occurs.\nIt is possible to accidentally remove unintended bone and tissue in the resection area with the shaft\nof the spinning reamer. To avoid serious injury, always be aware of the orientation of the Robotic Arm\nand Reamer Handle while resecting.\n\n3. Insert the reamer into the acetabulum and align the inclination and anteversion of the reamer handle such that the preoperatively planned values displayed on the screen turn green (Figure 31). These preoperatively planned values do not have to be matched to activate the power of the reamer. If the reamer exceeds 15 degrees of the planned values, the fail safe stop mechanism is activated. It is not critical that the surgeon exactly match the planned reaming numbers because the goal is to form a hemisphere that will allow the cup to be accurately placed at the planned inclination and version.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888346"
+      }
+    },
+    {
+      "page_id": "page_46",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 46 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "acetabular reaming",
+        "surgical technique",
+        "implant-specific"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 46",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 46",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "The surgeon should ream until the numbers representing the cup center of rotation turn green and read 0 mm Superior/Inferior, 0 mm Medial/Lateral, and 0 mm Anterior/Posterior (Figure 32).\n\nThe 3D model of the bone will also illustrate that the planned bone resection has been achieved when the green has been removed, showing white bone. Both methods confirm the surgeon has reached the planned cup center of rotation.\n\n\n\n> Even with stereotactic boundaries, the reamer can contact nearby tissue. To avoid risk of serious injury, use a retractor to protect soft tissue during acetabular reaming.\n\n> It is important to reach bleeding cancellous bone during reaming. Once bleeding cancellous bone is exposed, evaluate whether additional reaming depth is required.\n\nThe bone model will turn red when the surgeon has reamed more than 1 mm past the plan. When the surgeon has reamed 2.3 mm past the stereotactile boundaries, the power drill will turn off.\n\nOnce the planned center of rotation has been achieved with the final acetabular reamer, the surgeon may elect to clear the bony rim of the acetabulum with the Robotic Arm by toggling the reamer in a small circular motion taking care not to enlarge the acetabulum. Toggling the final sized reamer once seated may also aid in removing overhanging bone. Use of rongeurs to remove excess bone and/or soft tissue is critical for proper cup seating.\n\n\n> Refer to the selected implant-specific surgical technique for additional reaming and interference fit guidelines.\n\nWhen the acetabular reaming is complete, the surgeon should verify that there is no acetabular ridge remaining. The surgeon should always adjust the acetabular reaming strategy or after cup impaction, insert acetabular screws for additional fixation as necessary for each patient.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888356"
+      }
+    },
+    {
+      "page_id": "page_47",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 47 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "acetabular reaming",
+        "reamer size",
+        "cup size",
+        "manual reaming",
+        "Robotic Arm",
+        "over-medialization",
+        "acetabular implant"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 47",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "4. Ensure all osteophytes are removed over the Transverse Acetabular Ligament (TAL) as the osteophytes do not allow the reamer to seat in the acetabular cavity. A yellow arrow may appear if the reamer is headed off plan to inform the surgeon which direction additional force is needed to complete reaming.\n\n5. If an osteophyte is removed and the power will not activate, use the 'Manual Reaming' mode and ream into the acetabulum for 3 or 4 mm to establish the reamer position inside the acetabulum. Then, activate the power to engage the Robotic Arm constraint and complete the reaming with this precision control.\n\n> Warning: Manual Reaming mode will not supply any stereotactic boundaries to the Robotic Arm. The MICS will not be powered nor will the resection depth numbers be supplied unless the Pelvic and Robotic Arm arrays are visible.\n\n> Warning: Performing acetabular resection with the RIO may result in differences in press-fit as compared to a manual procedure. Assess the press-fit between the acetabular implant and the reamed acetabulum before impaction to avoid potential acetabular fracture.\n\nAdditional checks throughout the reaming process are recommended to ensure over-reaming of the medial wall does not occur. The pelvic check and reamer check are always available within the reaming page.\n\n> Warning: Failure to perform these checks may result in an over-medialization of the cup leading to possible acetabular implant instability or fracture.\n\n> Warning: As the surgeon reams and nears their plan it is recommended the surgeon pause when there is 2 mm remaining medially. The surgeon should inspect their progress and determine intra-operatively if further medialization is necessary.\n\n> Warning: If the surgeon feels the visuals displayed on the surgeon monitor do not accurately reflect the current state of the reamed acetabulum, evaluate the situation by confirming the accuracy of both the reamer and pelvic checkpoints. If in doubt, continue with a manual procedure.\n\n> Warning: If the surgeon places the reamer on the rim of the acetabulum and does not receive power to the MICS when the orientation is properly aligned, the surgeon should consider downsizing to a smaller reamer that fits within the acetabular opening.\n\n> Warning: The power tool provided by Stryker for acetabular reaming is a high torque instrument. When the reamer is seated in the acetabulum, hold the tool firmly before activating the power trigger.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888367"
+      }
+    },
+    {
+      "page_id": "page_48",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 48 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "surgical guide",
+        "acetabular trialing procedure",
+        "acetabular cup insertion",
+        "impaction"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 48",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "## O. Acetabular Trialing\n\nOnce reaming is complete, make sure the acetabulum is free of debris before seating the Trial Cup. Refer to the implant specific surgical technique for trialing instructions.\n\n## P. Acetabular Cup Insertion and Impaction\n\nThe precision of Robotic Arm assistance allows the reamer to replace the traditional use of a Trial Cup.\n\n### Implant Placement\n\n- Cup Position Constrained\n- Trajectory Constrained\n\n1. Thread the appropriate size cup onto the Impactor and insert the Impactor into the End Effector. When using the Straight Impactor, tighten using the attached cup Impaction Platform to ensure the cup is secure.\n\n   When using the Offset or Inline Offset Impactor, tighten the knob at the end of the Impactor to ensure the cup is secure. Regardless of Impactor version, the cup must be tight on the Impactor. If the cup is not threaded tightly on the Impactor, damage to the cup can occur.\n\n   Confirm that the cup impactor matches the selected impactor from the application drop down list.\n\n\n\n> Ensure the RIO lift mechanism has been lowered and the RIO is down on its casters. An icon will appear in the Main Window if the RIO has not been lowered onto the casters.\n\n2. Place the RIO into 'Free Mode' to allow unconstrained movement of the Robotic Arm while placing the cup into the prepared acetabulum. Ensure the cup is placed under any bony acetabular rim that may be remaining so that the cup can be properly seated.\n\n3. Disable 'Free Mode' after the cup is in the acetabulum to enable stereotactic boundaries.\n\n> Failure to disable 'Free Mode' and engage stereotactic boundaries will result in unconstrained movement of the Robotic Arm during impaction.\n\n4. Confirm that the anteversion and inclination of the cup match the plan. Impact the cup with one hand pushing down on the End Effector to firmly engage the cup against the acetabulum. Firm impactions are required to seat the cup because of its precision fit.\n\n> Using bone graft in the acetabulum may provide inaccurate impaction depth values (Distance Remaining).\n\n> Failing to select the appropriate impacted cup size may result in incorrect values being displayed for 'Distance Remaining'.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888378"
+      }
+    },
+    {
+      "page_id": "page_49",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 49 content",
+      "keywords": [
+        "MAKO THA Surgical Guide",
+        "Impaction Depth",
+        "acetabular implants",
+        "Pelvic Array",
+        "Cup Inclination",
+        "Cup Version",
+        "Distance Remaining"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Cup Impaction Page",
+          "description": "Table from page 49",
+          "rows": [
+            {
+              "Measurement": "Cup Inclination (°)",
+              "Actual Value": "40°",
+              "Planned Value": "40°"
+            },
+            {
+              "Measurement": "Cup Version (°)",
+              "Actual Value": "20°",
+              "Planned Value": "20°"
+            },
+            {
+              "Measurement": "Distance Remaining (mm)",
+              "Actual Value": "N/A",
+              "Planned Value": "N/A"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Measurement",
+              "Actual Value",
+              "Planned Value"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Measurement",
+            "Actual Value",
+            "Planned Value"
+          ]
+        }
+      ],
+      "raw_content": "\nWarning: The Impaction Depth values are provided for the final acetabular implants. Values may vary if the Impaction Depth measurement tools are used with trials. The user should visually inspect the position of the component during impaction when using the Impaction Depth measurement tool with acetabular trials.\n\nWarning: The knob on the Pelvic Array should be checked after repeated cup impaction to verify it is secured.\n\n5. Ensure the End Effector is pushed all the way down on the impaction handle, and capture the position of the implant (Figure 34). When impaction reaches 0-1 mm, the cup is fully seated. If the cup is 2 mm or more from being seated, this will leave a zone 2 gap on the x-ray.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888388"
+      }
+    },
+    {
+      "page_id": "page_50",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 50 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Surgical Guide",
+        "Icon Descriptions",
+        "Functions",
+        "Stereotactic Boundary",
+        "Distance Remaining Indicator"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Icon Descriptions and Functions",
+          "description": "Table from page 50",
+          "rows": [
+            {
+              "Icon Description": "Icon description: A hammer and cup with a green checkmark",
+              "Function": "Stereotactic Boundary Engaged: In Impaction Mode, this icon will appear indicating that the stereotactic boundary is engaged."
+            },
+            {
+              "Icon Description": "Icon description: A hammer and cup with a red X",
+              "Function": "Stereotactic Boundary Disengaged: In Impaction Mode, this icon will appear indicating that the stereotactic boundary is not engaged."
+            },
+            {
+              "Icon Description": "Icon description: A hammer, cup, and yellow warning triangle",
+              "Function": "Distance Remaining Indicator: During impaction, this icon directs the surgeon to push the End Effector down fully against the stop on the Impactor Handle to avoid unnecessary forces on the Robotic Arm and to capture accurate Distance Remaining values."
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Icon Description",
+              "Function"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Icon Description",
+            "name",
+            "title",
+            "product name",
+            "Function"
+          ]
+        }
+      ],
+      "raw_content": "## ICONS\nSTEREOTACTIC BOUNDARY ON (Green Check)\nIn Impaction Mode, this icon will appear indicating that the stereotactic boundary is\nengaged.\nSTEREOTACTIC BOUNDARY OFF (Red X)\nIn Impaction Mode, this icon will appear indicating that the stereotactic boundary is not\nengaged.\nDISTANCE REMAINING (Yellow Warning)\nDuring impaction this icon directs the surgeon to push the End Effector down fully against\nthe stop on the Impactor Handle to avoid unnecessary forces on the Robotic Arm and to\ncapture accurate Distance Remaining values.\n\nEnsure that the End Effector is fully seated on the Impactor so that the black laser mark is visible\nbefore impacting the cup.\nIf excessive mallet blows do not advance the cup to a value less than 2 mm proud in the distance\nremaining software gauge, the surgeon should assess the cup stability and decide if this placement is\nacceptable. If mallet blows are not advancing the cup, further reaming of the acetabulum may be\nrequired or acetabular fracture may occur.\n\n\n6. Before removing the Impactor, assess the cup stability in the acetabulum by placing the RIO into\n‘Free Mode’. Inspect the acetabular cup and verify it is seated by palpating through one of the three\nscrew holes in the cup with the tip of a tonsil clamp.\n\n\nPerforming acetabular resection with the RIO may result in differences in press-fit as compared to a\nmanual procedure. Assess the press-fit between the acetabular implant and the reamed acetabulum\nbefore impaction by using a trial cup if desired to assess implant press-fit. This maneuver will reduce\nthe potential of an acetabular fracture.\nWhile the ‘Cup Impaction’ page controls inclination and version of the cup component, depth of\nimpaction must be controlled by the operating surgeon.\nUsing the ‘Capture’ feature will collect the current inclination and version of the cup component as a\nfunction of the angle held by the impaction shaft. An alternate final method of calculating the\ninclination and anteversion is available by using the cup plane feature on the ‘Surgical Results’ page.\nThis is obtained by touching the metal rim of the cup five times.\nThe ’Reduction Results’ page uses the cup center obtained from the data of the final acquired\n‘Capture Values’ in calculation of reduced hip length and combined offset. Ensure the correct cup\nsize is selected, the cup is seated, and the End Effector is pushed fully down when acquiring the last\n‘Capture Values’.\nWhen the Robotic Arm transitions from impaction haptic mode into ‘Free’ state, the arm will move\nwhich may cause a change in the arm orientation affecting inclination and version values.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888397"
+      }
+    },
+    {
+      "page_id": "page_51",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 51 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Bone Screw Insertion",
+        "Trial Joint Reduction",
+        "Acetabular Liner Placement",
+        "Femoral Implant Insertion",
+        "Final Joint Reduction"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 51",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "Use caution when removing the End Effector from the Impaction Handle as the cup can move a few\ndegrees resulting in a slightly inaccurate cup placement from the desired cup plan.\nThe use of the Robotic Arm during acetabular cup impaction may diminish sensory feedback. As the\nsurgeon may not hear or see the cup as well, it is recommended that the surgeon frequently confirm\nthe depth of implantation of the cup within the acetabulum by using the depth measure and\nobserving the relationship of the rim of the cup to the rim of the bone.\nPlacing the RIO into ‘Free Mode’ while the user is disconnecting the impaction handle from the cup\ncan cause movement of the acetabular cup.\n\n## Q. Bone Screw Insertion (Optional)\n\nRefer to the implant specific surgical technique for detailed instructions regarding Bone Screw Insertion.\n\n## R. Trial Joint Reduction (Optional)\n\nPlace the trial liner, trial neck and head components, and then reduce the joint. Refer to U. Final Joint Reduction for complete instructions for assessing the reduced Hip Length and Combined Offset.\n\n## S. Acetabular Liner Placement\n\nRefer to the implant specific surgical technique for detailed instructions regarding Liner Placement.\n\n## T. Femoral Implant Insertion (Stem and Femoral Head)\n\nRefer to the implant specific surgical technique for detailed instructions regarding Femoral Implant Insertion.\n\n## U. Final Joint Reduction\n\n### Enhanced Femoral Workflow\n\nThere are two methods for calculating the reduced Hip Length and Offset within the Enhanced Femoral Workflow; using the Impacted Hip Center or the 'Capture Hip Center' button from the 'Reduction Results' page. The Impacted Hip Center determines the center of rotation from last captured position of the cup during impaction and the currently selected liner. Capture Hip Center determines the center of rotation from the kinematic routine of pivoting the femur around reduced head.\n\nUsing bone graft in the acetabulum may provide inaccurate impaction depth values (Distance\nRemaining).\n\n### Using the Impacted Hip Center to Obtain Hip Length and Combined Offset\n\n1. Insert all components, confirm the Control Panel selections match the inserted components, and reduce the hip.\n\n2. Attach the Femoral Array and ensure both the Femoral and Pelvic Arrays are visible to the camera.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888407"
+      }
+    },
+    {
+      "page_id": "page_52",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 52 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Robotic Interactive Orthopedic system",
+        "Hip Length",
+        "Combined Offset",
+        "Femoral Array",
+        "Capture Hip Center"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Procedure Steps for Using 'Capture Hip Center' to Obtain Hip Length and Combined Offset",
+          "description": "Table from page 52",
+          "rows": [
+            {
+              "Step Number": "1",
+              "Procedure Description": "With the broach or final stem in the femoral canal, attach the chosen trial head."
+            },
+            {
+              "Step Number": "2",
+              "Procedure Description": "Reduce the hip and insert the Femoral Array into the Femoral Cortical Screw."
+            },
+            {
+              "Step Number": "3",
+              "Procedure Description": "Ensure both the Pelvic and Femoral Array are visible to the camera."
+            },
+            {
+              "Step Number": "4",
+              "Procedure Description": "Press the 'Capture Hip Center' button. The screen will display an image of a rotating femur and a progress bar."
+            },
+            {
+              "Step Number": "5",
+              "Procedure Description": "Keeping the implant or trial femoral head reduced in the acetabular cup and both arrays visible, pivot the femur until the progress bar on the bottom of the screen reaches 100%."
+            },
+            {
+              "Step Number": "6",
+              "Procedure Description": "A sound will play and the hip length and combined offset values will be displayed in the 'Actual' column when enough data has been captured."
+            },
+            {
+              "Step Number": "7",
+              "Procedure Description": "Review the final hip length and combined offset values expressed in millimeters."
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Step Number",
+              "Procedure Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Step Number",
+            "Procedure Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 52",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "3. Upon entering the 'Reduction Results' page if the cup was impacted using the RIO, the Hip Length and Offset values are calculated using the Impacted Cup Center.\n\n4. Review the final Hip Length and Combined Offset values (millimeters).\n\n5. If the Impacted Cup Center values appear suspect or the cup was manually impacted subsequent to or in place of RIO impaction, proceed by selecting the 'Capture Hip Center' button and following the steps in the next section.\n\n## Using 'Capture Hip Center' to Obtain Hip Length and Combined Offset\n\n1. With the broach or final stem in the femoral canal, attach the chosen trial head.\n\n2. Reduce the hip and insert the Femoral Array into the Femoral Cortical Screw.\n\n3. Ensure both the Pelvic and Femoral Array are visible to the camera.\n\n4. Press the 'Capture Hip Center' button. The screen will display an image of a rotating femur and a progress bar.\n\n5. Keeping the implant or trial femoral head reduced in the acetabular cup and both arrays visible, pivot the femur until the progress bar on the bottom of the screen reaches 100%. If the arrays are blocked during capture, collection will stop but will resume when the arrays are made visible again. Move the leg into 25 degrees flexion, 25 degrees abduction, and full extension while rotating it to record the center into the software being careful to avoid impingement of the femoral array post on the incision edges.\n\n6. A sound will play and the hip length and combined offset values will be displayed in the 'Actual' column when enough data has been captured. If the femoral head does not remain fully seated in the acetabular liner during the capture of the hip center, an error message will display informing the user to recapture the hip center. If this occurs, be sure to apply constant superior pressure to the femoral head during the kinematic to ensure it remains fully seated in the cup for the duration of the kinematic step. Head displacement occurs mostly with flexion and adduction, to avoid adduction angles greater than 25 degrees. If head displacement is persistent, the hip is probably too short. Also, if the value will not record, check stability of femoral cortical screw.\n\n7. Review the final hip length and combined offset values expressed in millimeters. If a new modular head is used or the final head is impacted, it is only necessary to reattach the array to the femoral cortical screw in order to obtain the leg length and offset values (it is NOT necessary to rotate the leg again).\n\n## Manual Assessment and Adjustments\n\n1. Manually, confirm that the proper biomechanical reconstruction (leg length and offset) has been achieved by the surgeon's traditional method. Confirm that the femoral cortical screw is not loose\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888416"
+      }
+    },
+    {
+      "page_id": "page_53",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 53 content",
+      "keywords": [
+        "MAKO THA Surgical",
+        "surgical guide",
+        "implant planning",
+        "acetabular cup",
+        "Hip Length",
+        "Combined Offset",
+        "Cup Reaming",
+        "Cup Impaction"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 53",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "so that the value can be trusted. If the screw is not loose, an excessively low or high value will be an indication for the surgeon to trial the leg with a different femoral head length.\n\n\nWhile displayed hip length and combined offset values after successful capture are accurate, the 3D models shown are for display only. The neck resection, the implant location, and orientation shown on the screen may differ from their actual physical locations.\n\nIt is recommended that the surgeon manually verifies the inclination and version of the final cup placement to meet the planned inclination and combined anteversion values. The patient's offset and leg length should also be verified manually. Returning to the 'Implant Planning' page in order to visualize the 3D planned cup position relative to the acetabular rim may be helpful in assessing the proper orientation of the cup.\n\nFailed pelvic or RIO registration, failed checkpoint verification, or abnormalities of the visualization of the reamer or cup during acetabular preparation requires that on-screen results of inclination, version, and offset and leg length must be ignored and the surgeon should proceed without utilizing the RIO.\n\n2. Adjust to a shorter or longer head length or neck length as needed.\n\nIf the surgeon makes any adjustments to the acetabular cup or liner after capturing the Hip Center, the Hip Center must be recaptured to ensure accurate Hip Length and Combined Offset values.\n\n3. The Hip Length and Combined Offset values from the Impacted Cup Center and/or 'Capture Hip Center' will automatically be saved upon exiting the 'Reduction Results' page and will re-load upon entering the page. However, any additional reaming, cup impaction, or component changes will require recapturing of the Express Femoral Landmarks when returning to the 'Reduction Results' page.\n\nHip Length and Combined Offset values in the 'Reduction Results' page are provided for the final implants. Values displayed for the 'Reduction Results' page may vary when acetabular trials are used to reduce the hip.\n\nThe acetabular component can be re-planned and/or resized (and subsequently reamed again) after the initial preparation using any of the implant planning features. The following issues should be considered before changing a component plan after initial preparation:\n\n- The software will not save the previous plan once a change to the plan is made. The old plan will be overwritten. The 'Undo' button may be used, but only the latest (new) plan will be applied when returning to the 'Cup Reaming' and 'Cup Impaction' pages.\n- Any change which decreases the depth of the implant into the acetabulum will not be represented in the software (i.e., removed bone cannot be restored).\n\nCare must be taken when choosing to adjust the Cup Plan after acetabular reaming has taken place. If the Cup Plan is shifted after reaming, the cup impaction depth could be affected.\n\nA checkpoint error bar is available in the Control Panel to check the femur and pelvic bone checkpoints.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888429"
+      }
+    },
+    {
+      "page_id": "page_54",
+      "title": "MAKO Total Hip Arthroplasty (THA) Surgical Guide",
+      "summary": "Page 54 content",
+      "keywords": [
+        "MAKO Total Hip Arthroplasty",
+        "Express Femoral Workflow",
+        "implant components",
+        "Hip length",
+        "Combined Offset",
+        "Reduction Results",
+        "Cup Inclination",
+        "Cup Version",
+        "Pelvic Checkpoint"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 54",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "## Express Femoral Workflow\n\nThe 'Reduction Results' page is used to select the appropriate implant components such as head size, length, liner type, stem size and stem offset, and to confirm that the patient's planned Hip length and Combined Offset have been reached. If the cup inclination and version is captured on the 'Surgical Results' page, those values will be displayed instead of the data gathered when 'Capture Values' is pressed on the 'Cup Impaction' page.\n\nThis page can be used at any point where it is possible to reduce the joint, for instance when the trial liner is used in conjunction with the broach, trial neck, and trial head. It can be used later after the stem has been impacted and a trial head is being evaluated. Reduction Results should also be captured after the final stem, liner, and head are impacted to confirm the final Hip Length and Combined Offset.\n\n\n\n> If the Cup Inclination and Cup Version are displayed as N/A on the 'Reduction Results' page, the 'Capture' button was not pressed on the Cup Impaction page and it will not be possible to obtain HL and OS values.\n\n> A checkpoint error bar is available in the Control Panel to check the Pelvic Checkpoint.\n\n### Obtaining Hip Length and Combined Offset:\n\n1. Insert all components, confirm the Control Panel selections match the inserted components, and reduce the leg.\n2. Ensure the Pelvic Array is visible to the camera.\n3. Ensure all component selections in the drop-downs are correct.\n\n> Accurate component selection (head size, head length, liner type, stem size, stem offset) is required for accurate calculation of Hip Length and Combined Offset and accurate display of the 3D models on the screen.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888439"
+      }
+    },
+    {
+      "page_id": "page_55",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 55 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "femoral landmarks",
+        "patient setup",
+        "safety checks"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 55",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 55",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_3",
+          "title": "Useless",
+          "description": "Table from page 55",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_4",
+          "title": "Useless",
+          "description": "Table from page 55",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_5",
+          "title": "Useless",
+          "description": "Table from page 55",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "4. Select 'Capture Landmarks' in the Control Panel. The screen will then show proximal and distal landmark images and allow capture of those landmarks (Figure 38).\n\n5. Allow the reduced femur to rest in a position with the mechanical axis of the femur approximately parallel to the superior/inferior direction of the patient with the knee flexed approximately 90 degrees, attempting to match the leg position used during 'Femoral Landmarks' captured previously in the procedure. See image for AL or PL approaches - images differ slightly depending upon the operative side and whether Direct Anterior approach.\n\n\nDepending on patient setup for the Direct Anterior approach, it may not be possible to obtain 90 degrees of knee flexion. Keeping the femur parallel to the table, flex the knee as much as possible attempting to match the leg position used during 'Femoral Landmarks' capture.\n      \nDuring femoral landmark acquisition, the femur cannot move between the proximal and distal landmark captures. Ensure the femur is stable and both landmarks are accessible before proceeding. If it is perceived that the femur may have moved between captures, select 'Clear All' and repeat both landmark captures.\n\n6. Collect the proximal femoral landmark point by placing the probe in the proximal femoral checkpoint, and select 'Capture'.\n\n7. Without moving the femur, place the probe on the distal femoral landmark with a light touch and at a slight angle to avoid pushing through the sterile dressings, and select 'Capture'.\n\nThe application defaults to the proximal landmark capture first. The distal landmark can be captured first, however the user MUST manually select the 'distal landmark' radio button prior to capture.\n      \nThe Foot Switch may be used to collect the femoral landmarks. With the probe on the proper landmark, press and release the Foot Switch once. To 'Clear All', the button must be selected manually with the mouse.\n\nThere are three safety checks in the application to avoid incorrect femoral landmark capture during Reduction Results. If the proximal and distal landmarks are not captured far enough apart or are reversed relative to the selected radio button, a yellow warning will appear in the info box and the user will be asked to recapture both landmarks. If the distance between the proximal and distal checkpoints has changed significantly relative to pre-operative capture indicating femur or checkpoint movement, a pop-up will be displayed and the surgeon will be asked to either 'Recapture' or 'Continue'. Selecting 'Continue' will return the screen to the 'Reduction Results' page, but displayed Hip Length (HL) and Combined Offset (OS) values may not be accurate.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888449"
+      }
+    },
+    {
+      "page_id": "page_56",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 56 content",
+      "keywords": [
+        "MAKO THA",
+        "surgical guide",
+        "Hip Length",
+        "Combined Offset",
+        "procedure"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 56",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "8. After successful capture, the screen will return to the Reduction Results display showing hip length and combined offset values 'vs. Opposite' and 'vs. Pre-Op' hip and a static image of the implanted hip.\n\n> While displayed Hip Length and Combined Offset values after successful capture are accurate, the 3D models shown are for display only. The neck resection and the implant location and orientation shown on the screen may differ from their actual physical locations.\n\n9. Review the final Hip Length and Combined Offset values (millimeters). Repeat the procedure for any changes to trial components and/or after final implantation.\n\n> Any change in component selection, physically or in the drop-downs, after Reduction Results are captured will require recapturing of the proximal and distal landmarks to obtain accurate Hip Length and Combined Offset values.\n\n10. The Hip Length and Combined Offset values from the Impacted Cup Center and/or \"Capture Hip Center\" will automatically be saved upon exiting the \"Reduction Results\" page and will re-load upon entering the page. However, any additional reaming, cup impaction, or component changes will require recapturing of the Express Femoral Landmarks when returning to the \"Reduction Results\" page.\n\n> Detailed instructions on software functionality can be found in the MAKOplasty Total Hip Application User Guide.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888466"
+      }
+    },
+    {
+      "page_id": "page_57",
+      "title": "Maximizing Robotic Arm Efficiency in Surgical Procedures",
+      "summary": "Page 57 content",
+      "keywords": [
+        "Robotic Arm",
+        "Surgical Procedures",
+        "Transverse Acetabular Ligament",
+        "Osteophytes",
+        "Reamer Technique",
+        "Shell Seating"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 57",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n\n## 10. MAXIMIZING ROBOTIC ARM EFFICIENCY\n\n1. After registration of the acetabulum, remove any osteophytes over the Transverse Acetabular Ligament (TAL) or it will force the reamer superiorly and prevent activation of power.\n\n2. With a single reamer technique in hard or sclerotic bone, especially with osteophytes on the acetabular rim or covering the cotyloid notch, it may be necessary to manually ream for the first 3-4 mm if the Robotic Arm power does not activate. Once this completes, continue to ream with the Robotic Arm constraint engaged.\n\n3. If the shell does not fully seat (within 0-2 mm proud), the operative surgeon may consider removing the cup to ensure the acetabular ridge is completely reamed away. Commonly, some of the posterior ridge bone will remain. In this case, medialize the software plan to ream 2 more mm and re-ream the cavity.\n\nIt is important to note that if the \"distance remaining\" during shell impaction is 2 mm proud or greater, the stability of the cup should be verified. A \"distance remaining\" value of 2 mm or more can lead to a zone 2 gap between the acetabular bone and the dome of the acetabular cup that is visible on the post-operative x-ray.\n\nAnother reason for incomplete seating of the shell can be a mismatch between the tolerance of the reamer size and shell size (1 mm difference is possible). In this situation, the cup is difficult to seat beyond 4 mm from the floor of the acetabulum. Re-ream the acetabulum with a reamer size 1 mm bigger and again impact the shell into it. Adjunct screw fixation may be required.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888476"
+      }
+    },
+    {
+      "page_id": "page_58",
+      "title": "MAKO THA Surgical Guide",
+      "summary": "Page 58 content",
+      "keywords": [
+        "Robotic Arm",
+        "acetabular reaming",
+        "impaction",
+        "manual preparation",
+        "surgical procedure"
+      ],
+      "tables": [],
+      "raw_content": "## 11. MANUAL PREPARATION\n\nIn the event the Robotic Arm is unable to be used for acetabular reaming or impaction, the surgical procedure can be completed with manual instrumentation. Refer to the implant specific surgical technique for detailed instructions regarding manual preparation.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888488"
+      }
+    },
+    {
+      "page_id": "page_59",
+      "title": "Useless - Page 59",
+      "summary": "Page 59 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888496"
+      }
+    },
+    {
+      "page_id": "page_60",
+      "title": "Useless - Page 60",
+      "summary": "Page 60 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 60",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-03T13:32:58.888504"
+      }
+    }
+  ]
+}

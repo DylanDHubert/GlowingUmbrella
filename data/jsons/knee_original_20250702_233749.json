@@ -1,0 +1,4665 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-07-02T23:37:49.444843",
+    "total_pages": 66,
+    "total_tables": 58,
+    "portfolio": "knee",
+    "review_status": {
+      "approved_pages": 52,
+      "flagged_pages": 0,
+      "missing_pages": [
+        2,
+        48,
+        51,
+        54,
+        59,
+        60
+      ],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        2,
+        3,
+        5,
+        38,
+        62,
+        63,
+        64,
+        66
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 1",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.444977"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Useless - Page 2",
+      "summary": "Page 2 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.444997"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Useless - Page 3",
+      "summary": "Page 3 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 3",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445008"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "Triathlon Tritanium Surgical Protocol",
+      "summary": "Page 4 content",
+      "keywords": [
+        "Triathlon Tritanium Baseplate",
+        "total knee systems",
+        "femoral components",
+        "tibial components",
+        "patellar components"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Triathlon Tritanium Surgical Protocol",
+          "description": "Table from page 4",
+          "rows": [
+            {
+              "Component": "Femoral Components",
+              "Compatibility": "Compatible with the Triathlon cruciate retaining (CR), and cruciate sacrificing (posteriorly stabilized – PS) designs",
+              "Indications": "N/A",
+              "Contraindications": "N/A"
+            },
+            {
+              "Component": "Tibial Components",
+              "Compatibility": "Compatible with Triathlon tibial inserts in a cruciate retaining (CR), posterior stabilized (PS), and condylar stabilizing (CS) designs",
+              "Indications": "N/A",
+              "Contraindications": "N/A"
+            },
+            {
+              "Component": "Patellar Components",
+              "Compatibility": "Compatible with all Triathlon patellar components",
+              "Indications": "N/A",
+              "Contraindications": "N/A"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Component",
+              "Compatibility",
+              "Indications",
+              "Contraindications"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Component",
+            "Compatibility",
+            "Indications",
+            "Contraindications"
+          ]
+        }
+      ],
+      "raw_content": "\n\n# Triathlon Tritanium Surgical Protocol\nwith Triathlon Cementless Beaded PA Femoral Component\n\n## Description\n\nHowmedica Osteonics Corp.'s total knee systems include the Triathlon Tritanium Baseplate which is designed to be used with the Triathlon Primary Knee system femoral components, tibial inserts, and patellar components for total reconstructive replacement of the knee joint. The characteristics specific to each device are detailed on the product label. The Triathlon Tritanium Baseplate is indicated for both cementless and cemented applications.\n\n**Femoral Components:** The Triathlon Tritanium Baseplate is compatible with the Triathlon cruciate retaining (CR), and cruciate sacrificing (posteriorly stabilized – PS) designs.\n\n**Tibial Components:** The Triathlon Tritanium Baseplate is compatible with Triathlon tibial inserts in a cruciate retaining (CR), posterior stabilized (PS), and condylar stabilizing (CS) designs. Tibial inserts are available in a range of thicknesses and in various degrees of constraint.\n\n**Note:** The Triathlon Tritanium Baseplate is packaged together with an Impactor Pad. The Impactor Pad is to be used during the tibial baseplate impaction step only and is to be discarded once impaction has completed. The Impactor Pad is not for implantation.\n\n**Patellar Components:** Patellar resurfacing components are available in symmetric and asymmetric options in both all-plastic and metal-backed⁺ designs. Use of a patellar component is optional. The Triathlon Tritanium Baseplate is compatible with all Triathlon patellar components.\n\n*Additional Revision-ONLY Compatibility Note for Triathlon Tritanium Metal-Backed Patella⁺:*\n- The Triathlon Tritanium Metal-Backed Patella is indicated for use with the Total Stabilizer (TS) components including the metal bone augmentation components, the modular stem extensions and offsets. Only the Tritanium Metal-Backed Patella is compatible with the revision components.\n- The Tritanium Tibial Baseplate is not compatible with the revision components.\n\n⁺The Triathlon Tritanium Metal-Backed Patella is not available for supply in Australia as it has not yet been included on the Australian Registry of Therapeutic Goods (ARTG).\n\n## Contraindications\n\n- Any active or suspected latent infection in or about the knee joint.\n- Distant foci of infection which may cause hematogenous spread to the implant site.\n- Any mental or neuromuscular disorder which would create an unacceptable risk of prosthesis instability, prosthesis fixation failure, or complications in postoperative care.\n- Bone stock compromised by disease, infection or prior implantation which cannot provide adequate support and/or fixation to the prosthesis.\n- Skeletal immaturity.\n- Severe instability of the knee joint secondary to the absence of collateral ligament integrity and function.\n\nSee package insert for warnings, precautions, adverse effects and other essential product information.\n\nBefore using Triathlon instrumentation, verify:\n- Instruments have been properly disassembled prior to cleaning and sterilization;\n- Instruments have been properly assembled post-sterilization;\n- Instruments have maintained design integrity; and,\n- Proper size configurations are available.\n\nFor Instructions for Cleaning, Sterilization, Inspection and Maintenance of Orthopaedic Medical Devices, refer to LSTPI-B.\n\n\n## Indications\n\n**General Total Knee Arthroplasty (TKA) Indications:**\n- Painful, disabling joint disease of the knee resulting from: noninflammatory degenerative joint disease (including osteoarthritis, traumatic arthritis, or avascular necrosis), rheumatoid arthritis or post-traumatic arthritis.\n- Post-traumatic loss of knee joint configuration and function.\n- Moderate varus, valgus, or flexion deformity in which the ligamentous structures can be returned to adequate function and stability.\n- Revision of previous unsuccessful knee replacement or other procedure.\n- Fracture of the distal femur and/or proximal tibia that cannot be stabilized by standard fracture-management techniques.\n\n\nThe Triathlon Total Knee System beaded and beaded with Peri-Apatite components are intended for uncemented use only.\n\nThe Triathlon Tritanium Tibial Baseplate and Tritanium Metal-Backed Patella components⁺ are indicated for both uncemented and cemented use.\n\nThe Triathlon All-Polyethylene tibial components are indicated for cemented use only.\n\n**Additional Indications for Posterior Stabilized (PS) components and Total Stabilizer (TS)* components:**\n- Ligamentous instability requiring implant bearing surface geometries with increased constraint.\n- Absent or non-functioning posterior cruciate ligament.\n- Severe anteroposterior instability of the knee joint.\n\n**Additional Indications for Total Stabilizer (TS)* components:**\n- Severe Instability of the knee secondary to compromised collateral ligament integrity or function.\n\n**Indication for Bone Augments:**\n- Painful, disabling joint disease of the knee secondary to: degenerative arthritis, rheumatoid arthritis, or post-traumatic arthritis, complicated by the presence of bone loss.\n- Salvage of previous unsuccessful total knee replacement or other surgical procedure, accompanied by bone loss.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445024"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "Useless - Page 5",
+      "summary": "Page 5 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445036"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "Triathlon Tritanium Knee Construct",
+      "summary": "Page 6 content",
+      "keywords": [
+        "Triathlon Tritanium baseplate",
+        "Triathlon cementless beaded femoral component",
+        "Triathlon Tritanium Metal-Backed Patellar component",
+        "Stryker's Tritanium 3D porous metal technology",
+        "Peri-Apatite (PA) technology"
+      ],
+      "tables": [],
+      "raw_content": "# Triathlon Tritanium Knee Construct\n\n\nThis protocol demonstrates the technique for implanting a Triathlon cementless beaded femoral component with the Triathlon Tritanium baseplate and compatible Triathlon Tritanium Metal-Backed Patellar component*.\n\n## Triathlon Tritanium Baseplate\n\n> The Triathlon Tritanium baseplate is designed to be similar to the Triathlon Primary baseplate. It offers the same profile and insert locking mechanism.\n\n> The Triathlon Tritanium baseplate features four cruciform pegs.\n\n> The Triathlon Tritanium baseplate features Stryker's Tritanium 3D porous metal technology on the underside of the baseplate, the proximal end of the keel and the proximal end of each of the four cruciform pegs.\n\n> It is available in eight sizes and is indicated for both cementless and cemented applications. Surgeons may select an option based on preference and local bone conditions.\n\n> The Triathlon Tritanium baseplate is compatible with all available posterior stabilizing (PS) and cruciate retaining (CR) Triathlon femoral components for both cemented and cementless applications, and accepts available Triathlon cruciate retaining (CR), condylar stabilizing (CS) and posterior stabilizing (PS) inserts.\n\n*The Triathlon Tritanium Metal-Backed Patella is not available for supply in Australia as it has not yet been included on the Australian Registry of Therapeutic Goods (ARTG).\n\n\n## Triathlon Peri-Apatite Cementless Beaded Femur\n\n> The Triathlon cementless beaded femoral components are available in both posterior stabilizing (PS) and cruciate retaining (CR) configurations.\n\n> The Triathlon cementless femoral components are made from cobalt-chrome. They are coated with cobalt-chrome beads and are available with and without Peri-Apatite (PA) technology.\n\n> Peri-Apatite (PA) is Stryker's technology for application of Hydroxyapatite (HA) to three-dimensional beaded constructs.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445046"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Triathlon Primary Tibial Inserts and Triathlon Tritanium Metal-Backed Patella",
+      "summary": "Page 7 content",
+      "keywords": [
+        "Triathlon Primary Tibial Inserts",
+        "Triathlon Tritanium Metal-Backed Patella",
+        "configurations",
+        "sizes",
+        "thicknesses",
+        "materials",
+        "compatibility"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Triathlon Primary Tibial Inserts Specifications",
+          "description": "Table from page 7",
+          "rows": [
+            {
+              "Configuration": "CR, CS, PS",
+              "Sizes": "8",
+              "Thicknesses (mm)": "9, 11, 13, 16, 19, 22, 25",
+              "Materials": "Conventional Polyethylene, X3 highly crosslinked polyethylene"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Configuration",
+              "Sizes",
+              "Thicknesses (mm)",
+              "Materials"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Configuration",
+            "Sizes",
+            "dimensions",
+            "sizing",
+            "Thicknesses (mm)",
+            "Materials"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Triathlon Tritanium Metal-Backed Patella Specifications",
+          "description": "Table from page 7",
+          "rows": [
+            {
+              "Configuration": "Symmetric, Asymmetric",
+              "Sizes": "9",
+              "Materials": "Conventional Polyethylene, Tritanium 3D porous metal",
+              "Compatibility": "All Triathlon femoral and tibial components"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Configuration",
+              "Sizes",
+              "Materials",
+              "Compatibility"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Configuration",
+            "Sizes",
+            "dimensions",
+            "sizing",
+            "Materials",
+            "Compatibility"
+          ]
+        }
+      ],
+      "raw_content": "# Triathlon Primary Tibial Inserts\n\n▶ Compatible Triathlon inserts are available in three configurations – cruciate retaining (CR), anterior-lipped/condylar stabilizing (CS) and posterior stabilizing (PS).\n\n▶ Triathlon primary inserts are available in eight sizes with thicknesses of 9, 11, 13, 16 and 19mm, with additional available thicknesses of 22 and 25mm for the PS inserts.\n\n▶ Triathlon primary inserts are available with conventional polyethylene as well as Stryker's X3 highly crosslinked polyethylene.\n\n# Triathlon Tritanium Metal-Backed Patella*\n\n\n▶ The Triathlon Tritanium Metal-Backed Patella* is indicated for both cemented and cementless applications.\n\n▶ The Triathlon Tritanium Metal-Backed patellar components* are available in symmetric and asymmetric configurations. There are a total of 9 sizes which are compatible with all Triathlon femoral and tibial components.\n\n▶ The Triathlon Tritanium Metal-Backed Patella* features Stryker's Tritanium 3D porous metal technology, made from commercially pure titanium, on the metal underside of the patella.\n\n▶ The Triathlon Tritanium Metal-Backed patellar components* are available with conventional polyethylene.\n\n*The Triathlon Tritanium Metal-Backed Patella is not available for supply in Australia as it has not yet been included on the Australian Registry of Therapeutic Goods (ARTG).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445054"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "Femoral Preparation - Step 1: Distal Resection",
+      "summary": "Page 8 content",
+      "keywords": [
+        "Femoral Preparation",
+        "Distal Resection",
+        "Triathlon Total Knee Arthroplasty",
+        "Intramedullary Alignment",
+        "Universal Driver"
+      ],
+      "tables": [],
+      "raw_content": "# Femoral Preparation\n## Step 1 Distal Resection\n\n\n### Exposure\n\n▶ Triathlon Total Knee Arthroplasty can be performed through any standard approach. A standard anterior mid-line incision or other suitable approaches such as mid-vastus, sub-vastus or quadriceps sparing may be used based on surgeon preference.\n\n▶ Any previous incision can be used or incorporated to decrease the risk of skin slough.\n\n▶ The capsule is entered through a medial parapatellar approach.\n\n\n### Femoral Intramedullary (IM) Alignment\n\n▶ The Universal Driver allows for attachment of all drills and pins. It may be attached directly to a reamer, drill, or a Jacob's chuck.\n\n▶ Locate the IM drill hole. It is approximately 1cm anterior to the femoral attachment of the posterior cruciate ligament and slightly medial to the mid-line of the distal femur.\n\n▶ Attach the 3/8\" IM Drill to the Universal Driver and drill into the IM canal. The first diameter will create a tight fit around the IM Rod. If further clearance is desired, continue to drill until the larger step diameter opens the hole.\n\n\n▶ Attach the T-Handle Driver to the 5/16\" IM Rod.\n\n▶ Insert the IM Rod into the Femoral Alignment Guide as far proximal as possible. The Femoral Alignment Guide is designed for use on either the left or right knee and may be set to 5°, 6° or 7° of valgus.\n\n▶ Set the instrument to the desired angle by pulling back on the black knob of the Femoral Alignment Guide and placing it in the appropriate notch.\n\n▶ Advance the rod, with attached guide, slowly up the IM canal until the desired depth is reached.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445066"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Instrument Bar",
+      "summary": "Page 9 content",
+      "keywords": [
+        "Instrument Bar",
+        "Universal Resection Guide",
+        "Adjustment Block",
+        "Femoral Alignment Guide",
+        "part numbers"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Part Numbers and Descriptions",
+          "description": "Table from page 9",
+          "rows": [
+            {
+              "Part Number": "6541-4-801",
+              "Description": "Universal Driver"
+            },
+            {
+              "Part Number": "6541-4-538",
+              "Description": "3/8\" Intramedullary (IM) Drill"
+            },
+            {
+              "Part Number": "6541-4-800",
+              "Description": "T-Handle Driver"
+            },
+            {
+              "Part Number": "6541-4-516",
+              "Description": "5/16\" Intramedullary (IM) Rod"
+            },
+            {
+              "Part Number": "6541-1-657",
+              "Description": "Femoral Alignment Guide"
+            },
+            {
+              "Part Number": "6541-1-721",
+              "Description": "Universal Resection Guide"
+            },
+            {
+              "Part Number": "6541-1-600",
+              "Description": "Adjustment Block"
+            },
+            {
+              "Part Number": "6541-4-003",
+              "Description": "Headless Pins – 3\""
+            }
+          ],
+          "metadata": {
+            "row_count": 8,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "\n\n#Step 1 (Continued)\n\n> Snap the Universal Resection Guide onto the Adjustment Block and insert the posts of the Adjustment Block into the two holes in the Femoral Alignment Guide.\n\n> Place the Femoral Alignment Guide in contact with the more prominent distal femoral condyle and align the guide in neutral position.\n\nTip: Align the Femoral Alignment Guide to the trans-epicondylar axis. The guide should usually have contact with both medial and lateral trochlea for more stability.\n\n> Impact the distal captured pins in the Femoral Alignment Guide to aid in stabilization.\n\nNote: Impacting a distal capture pin that does not make contact with the femoral condyle may result in an undesirable change in the alignment guide position.\n\n> Pin the Distal Resection Guide to the anterior femur.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445075"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "Femoral Preparation - Step 1: Continued Distal Resection",
+      "summary": "Page 10 content",
+      "keywords": [
+        "Femoral Preparation",
+        "Distal Resection",
+        "Adjustment Block",
+        "Resection Level",
+        "Universal Resection Guide"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Femoral Preparation\n## Step 1 Distal Resection (continued)\n\n> The Adjustment Block allows for an 8mm (the distal thickness of the femoral component) and 10mm (used to aid in the correction of a flexion contracture) resection level.\n\n> Tip: The thickness of the resected femoral condyle should be measured. In some cases, a greater resection may be required. This can be accomplished by adjusting the block as described below to achieve a greater resection (+ 2mm or + 4mm).\n\n> Press the black button on the end of the Adjustment Block and pull to set the resection to the desired level.\n\n> Pin the Universal Resection Guide to the anterior femur.\n\n> Note: If the medial \"O\" pin hole is too close to the edge of the bone (on smaller femurs), use the holes marked \"2\" which are closer to the center of the bone. Please note: this will limit the amount of further resection to 2mm.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445085"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "Instrument Bar and Distal Resection",
+      "summary": "Page 11 content",
+      "keywords": [
+        "Distal Resection",
+        "Surgical Instruments",
+        "Femoral Alignment Guide",
+        "Universal Resection Guide",
+        "Modular Capture"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "List of Surgical Instruments Used in Distal Resection",
+          "description": "Table from page 11",
+          "rows": [
+            {
+              "Instrument Part Number": "6541-1-600",
+              "Instrument Description": "Adjustment Block"
+            },
+            {
+              "Instrument Part Number": "6541-1-657",
+              "Instrument Description": "Femoral Alignment Guide"
+            },
+            {
+              "Instrument Part Number": "6541-1-721",
+              "Instrument Description": "Universal Resection Guide"
+            },
+            {
+              "Instrument Part Number": "6541-4-806",
+              "Instrument Description": "Universal Alignment Handle"
+            },
+            {
+              "Instrument Part Number": "6541-4-602",
+              "Instrument Description": "Universal Alignment Rods"
+            },
+            {
+              "Instrument Part Number": "6541-1-723",
+              "Instrument Description": "Modular Capture – Distal Resection"
+            },
+            {
+              "Instrument Part Number": "6541-4-003",
+              "Instrument Description": "Headless Pins – 3\""
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Part Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Part Number",
+            "tool",
+            "device",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## Distal Resection\n\n▶ After the Universal Resection Guide is pinned in place, remove the IM Rod. The Femoral Alignment Guide and the Adjustment Block may be removed by squeezing the black tabs on the Adjustment Block.\n\n▶ The distal femoral resection is made.\n\n> Tip: Use saline irrigation during distal femoral resection.\n\n▶ An optional Modular Capture – may be attached to the Universal Resection Guide. Squeeze the black tabs on the Modular Capture – Distal Resection to insert into the Universal Resection Guide. When using a modular capture, a .050\" (1.25mm) blade is used.\n\n▶ Remove the Modular Capture, measure the resection and check the resection for flatness. Remove the Universal Resection Guide.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445095"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "Femoral Preparation - Step 2: Femoral Sizing",
+      "summary": "Page 12 content",
+      "keywords": [
+        "Femoral Preparation",
+        "Femoral Sizing",
+        "Femoral Sizer",
+        "Femoral Stylus",
+        "Whiteside's Line",
+        "EPI Line Indicator"
+      ],
+      "tables": [],
+      "raw_content": "\n\n# Femoral Preparation\n## Step 2 Femoral Sizing\n\n\n> Assemble the Femoral Sizer with the Femoral Stylus in the lateral hole (for both a left or right knee) and set the stylus length to an approximate size.\n\n> Set the rotation to LEFT for a left knee and RIGHT for a right knee and adjust to the desired amount of external rotation.\n\n> The Femoral Sizer also sets the final rotation of the femoral component. Additional checks for rotation may be made by lining up the epicondyles with the reference lines marked \"EPI\" or assessing Whiteside's line with a pin through the hole in the top of the guide.\n\nNote: In the event of a hypoplastic femoral condyle: Pin the Femoral Sizer through the EPI hole on the unaffected side for stability. Rotate the Femoral Sizer and assess rotation using the rotational checks mentioned above.\n\n\n> Position the assembly flush on the resected distal femur, sliding the feet of the Femoral Sizer under the posterior condyles. The Femoral Stylus point should be placed at the anticipated level of resection, commonly the lateral cortex.\n\n> It is important that the Femoral Stylus point rest on bone and not on soft tissue.\n\n> The size is determined by the position of the scribe mark on the Femoral Stylus shaft within the sizing window.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445106"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "Instrument Bar and Femoral Preparation",
+      "summary": "Page 13 content",
+      "keywords": [
+        "Instrument Bar",
+        "Femoral Preparation",
+        "Femoral Sizer",
+        "Femoral Stylus",
+        "Headless Pins",
+        "Bladerunner",
+        "Part Number"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Part Number": "6541-1-603",
+              "Instrument Description": "Femoral Sizer"
+            },
+            {
+              "Part Number": "6541-1-605",
+              "Instrument Description": "Femoral Stylus"
+            },
+            {
+              "Part Number": "6541-4-003",
+              "Instrument Description": "Headless Pins – 3˝"
+            },
+            {
+              "Part Number": "6541-4-400",
+              "Instrument Description": "Bladerunner"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        }
+      ],
+      "raw_content": "## Step 2 (continued)\n\n► It is recommended that the anterior resection level be checked to further confirm the correct size by sliding a Bladerunner through the sizing guide's size-specific anterior slots and assessing the resection. If it appears that there is a potential for notching, the next larger size component will need to be chosen. Ensure the femoral component chosen is compatible with the size of the tibial component selected during tibial preparation.\n\n► Once size confirmation is complete, attach the 1/8˝ Peg Drill to the Universal Driver and create fixation pin-holes (for the 4:1 Cutting Block) through the holes on the face of the Femoral Sizer marked \"EPI\".\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445116"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "Femoral Preparation - Step 3: Anterior, Posterior and Chamfer Cuts",
+      "summary": "Page 14 content",
+      "keywords": [
+        "Femoral Preparation",
+        "Anterior Cut",
+        "Posterior Cut",
+        "Chamfer Cut",
+        "4:1 Cutting Block",
+        "Bone Resections"
+      ],
+      "tables": [],
+      "raw_content": "# Femoral Preparation\n## Step 3 Anterior, Posterior and Chamfer Cuts\n\n### 4:1 Cutting Block Fixation\n\n> Locate the fixation pegs of the appropriate size Express 4:1 Cutting Block into the pin holes created on the distal femur.\n\nNote: Check run-out of the anterior cut. If not enough anterior bone is resected, consider selecting the next smaller size 4:1 Cutting Block. Ideally, the cut should be flush with the distal femur.\n\n> Pin the 4:1 Cutting Block in place for stability.\n\n\n### Femoral Anterior, Posterior and Chamfer Cuts\n\n> Complete the remaining four femoral bone resections.\n\n> The use of a .050\" (1.25mm) thick sawblade is recommended.\n\n> The order of bone resections is not critical; however, a recommended sequence for improved stability of the 4:1 Cutting Block is:\n1. Anterior cortex.\n2. Posterior condyles.\n3. Posterior chamfer.\n4. Anterior chamfer.\n\n\nNote:\n* Cutting the anterior chamfer last helps stabilize the cutting guide.\n* It is advisable to pay close attention to minimizing the bias on the sawblade during these resections.\n\n> Remove the 4:1 Cutting Block.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445131"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "Femoral Preparation - Step 4 PS Box Preparation",
+      "summary": "Page 15 content",
+      "keywords": [
+        "Femoral Preparation",
+        "PS Box Preparation",
+        "4-in-1 Cutting Block",
+        "CR Femoral Trial",
+        "PS Box Cutting Guide"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar",
+          "description": "Table from page 15",
+          "rows": [
+            {
+              "Part Number": "See Catalog",
+              "Instrument Description": "Express 4:1 Cutting Block"
+            },
+            {
+              "Part Number": "6541-7-806",
+              "Instrument Description": "MIS 4:1 Impactor/Extractor"
+            },
+            {
+              "Part Number": "See Catalog",
+              "Instrument Description": "MIS PS Box Cutting Guide"
+            },
+            {
+              "Part Number": "See Catalog",
+              "Instrument Description": "CR Femoral Trial"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        }
+      ],
+      "raw_content": "# Femoral Preparation\n## Step 4 PS Box Preparation\n\n### PS Box Preparation\n\n► If it is determined that a PS femoral component will be used, the distal femur must be prepared for the PS box. Place the appropriate sized PS Box Cutting Guide on the resected distal femur.\n\n> Note: The appropriate size is the same as the size 4-in-1 cutting block that was used to prepare the distal femur. For example, if a size 3 \"4-in-1 Cutting Block\" was used to prepare the distal femur, select the size 3 PS Box Cutting Guide.\n\n► M/L placement of the guide is based primarily on best coverage of the distal bone and alignment of the box opening with the intercondylar notch.\n\n**Optional surgical tip:** Use a CR Femoral Trial of the same size to identify the preferred M/L position of the PS Box Cutting Guide.\n\n- Place the appropriate sized CR Femoral Trial on to the prepared femur.\n- Adjust the M/L placement of the Femoral Trial to achieve the desired position of the femoral component.\n- Using a surgical marketing pen, mark the location of the distal peg prep holes through the CR Femoral Trial.\n- Remove the CR Femoral Trial and line-up the PS Box Cutting Guide on the distal femur with the previously marked holes.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445140"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "Femoral Preparation - Step 4: Preparation of the Posterior Stabilized (PS) Box",
+      "summary": "Page 16 content",
+      "keywords": [
+        "Femoral Preparation",
+        "Posterior Stabilized Box",
+        "Chisel and Saw",
+        "Surgical Tips",
+        "Box Chisel"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 16",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 16",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Femoral Preparation\n## Step 4 PS Box Preparation (continued)\n\n### PS Box Cutting Guide\n\n▶ Pin the PS Box Cutting Guide in place using Headless Pins.\n\n▶ Optional surgical tip: To provide the appropriate anterior/posterior and medial/lateral stability with a minimal number of pins, place one pin distally and one pin anteriorly.\n\n\nThere are two ways to continue the PS box preparation:\n\n### PS Box Preparation Option: Chisel and Saw\n\n▶ Option A: Chisel and Saw: Cut the cortical rim on both sides of the posterior-most portion of the intercondylar notch using the oscillating saw.\n\n• Assemble the Box Chisel and insert into the slot.\n\n• Impact the Box Chisel with a mallet until seated to the stop. Leave the Box Chisel in place to act as a reference plane. Cut the medial and lateral edges of the box with an oscillating saw to complete the bone resection as shown.\n\n• Avoid biasing the blade during resection for optimal bone conservation.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445151"
+      }
+    },
+    {
+      "page_id": "page_17",
+      "title": "PS Box Preparation Option: Saw Only",
+      "summary": "Page 17 content",
+      "keywords": [
+        "PS Box Preparation",
+        "Saw Only",
+        "Femur Resection",
+        "Instrument Catalog",
+        "Triathlon PS Femoral Finishing Punch"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar",
+          "description": "Table from page 17",
+          "rows": [
+            {
+              "Instrument Catalog Number": "See Catalog",
+              "Instrument Description": "MIS PS Box Cutting Guide"
+            },
+            {
+              "Instrument Catalog Number": "6541-4-810",
+              "Instrument Description": "Impaction Handle"
+            },
+            {
+              "Instrument Catalog Number": "6541-4-709",
+              "Instrument Description": "Box Chisel"
+            },
+            {
+              "Instrument Catalog Number": "See Catalog",
+              "Instrument Description": "Triathlon PS Femoral Box Finishing Punch"
+            },
+            {
+              "Instrument Catalog Number": "See Catalog",
+              "Instrument Description": "PS Femoral Trial"
+            },
+            {
+              "Instrument Catalog Number": "6541-4-003",
+              "Instrument Description": "Headless Pins – 3˝"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Catalog Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Catalog Number",
+            "catalog number",
+            "part number",
+            "tool",
+            "device",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## PS Box Preparation Option: Saw Only\n\n> Option B: Saw Only: Use a narrow oscillating saw through the proximal slot to resect the distal portion of the femur. An oscillating or reciprocating saw can be used to resect the medial and lateral borders of the intercondylar notch to the proximal portion of the cutting guide.\n\nNote: After completion of options A or B, the surgeon may choose to use the optional and recommended Triathlon PS Femoral Finishing Punch to complete preparation of the box.\n\n> Prior to trialing with a PS Femoral Trial, assure the box is prepared properly and remove all remaining bone from the prepared box.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445163"
+      }
+    },
+    {
+      "page_id": "page_18",
+      "title": "Femoral Preparation - PS Box Preparation",
+      "summary": "Page 18 content",
+      "keywords": [
+        "Femoral Preparation",
+        "PS Box Preparation",
+        "Triathlon PS Femoral Box Finishing Punch",
+        "PS Box Cutting Guide",
+        "Triathlon Impaction Handle"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 18",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Femoral Preparation\n## Step 4 PS Box Preparation (continued)\n\n### Optional PS Box Preparation Finishing Punch\n\nIf the optional Triathlon PS Femoral Box Finishing Punch is chosen:\n\n> The chisel should be fully removed from the PS Box Cutting Guide prior to using the Triathlon PS Femoral Box Finishing Punch.\n\n> Secure the appropriate size Triathlon PS Femoral Box Finishing Punch to the Triathlon Impaction Handle. There are four Triathlon PS Femoral Box Finishing Punches (Size 1-2, Size 3-4, Size 5-6 and Size 7-8).\n\n> Properly orient the Triathlon PS Femoral Box Finishing Punch, assuring the anterior side is facing upwards.\n\n\n### Seating of the PS Box Finishing Punch\n\nIf the optional Triathlon PS Femoral Box Finishing Punch is chosen:\n\n> Impact the Triathlon PS Femoral Box Finishing Punch through the PS Box Cutting Guide until properly seated.\n\n> The Triathlon PS Femoral Box Finishing Punch is properly seated when the stop of the Finishing Punch is centered over the PS Box Cutting Guide drill holes. See figure on left which depict the Triathlon PS Femoral Box Finishing Punch properly seated on the PS Box Cutting Guide.\n\n> When seated properly, there should be a gap between the anterior nose of the Triathlon PS Femoral Box Finishing Punch and the PS Box Cutting Guide.\n\n> Remove the Triathlon PS Femoral Box Finishing Punch with the Triathlon Slap Hammer.\n\n> Remove pins and the PS Box Cutting Guide from the prepared distal femur.\n\n\n**Note:** The Triathlon PS Femoral Box Finishing Punch is designed to be used with the PS Box Cutting Guide and should not be impacted onto the prepared distal femur without the PS Box Cutting Guide in place.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445181"
+      }
+    },
+    {
+      "page_id": "page_19",
+      "title": "Instrument Bar",
+      "summary": "Page 19 content",
+      "keywords": [
+        "Triathlon PS Femoral Box Trial/Protector",
+        "Instrument Item Number",
+        "Instrument Description",
+        "MIS PS Box Cutting Guide",
+        "Impaction Handle",
+        "Box Chisel",
+        "Triathlon PS Femoral Box Finishing Punch"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument List",
+          "description": "Table from page 19",
+          "rows": [
+            {
+              "Instrument Item Number": "See Catalog",
+              "Instrument Description": "MIS PS Box Cutting Guide"
+            },
+            {
+              "Instrument Item Number": "6541-4-810",
+              "Instrument Description": "Impaction Handle"
+            },
+            {
+              "Instrument Item Number": "6541-4-709",
+              "Instrument Description": "Box Chisel"
+            },
+            {
+              "Instrument Item Number": "See Catalog",
+              "Instrument Description": "Triathlon PS Femoral Box Finishing Punch"
+            },
+            {
+              "Instrument Item Number": "See Catalog",
+              "Instrument Description": "Triathlon PS Femoral Box Trial/Protector"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Item Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Item Number",
+            "tool",
+            "device",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## PS Box Femoral Box Trial/Protector\n\n> If the optional and recommended Triathlon PS Femoral Box Trial/Protector is chosen:\n\n- Remove the PS Box Cutting Guide.\n- Place by hand (not through impaction) the appropriate size Triathlon PS Femoral Box Trial/Protector into the prepared box to assure accuracy of the box preparation. There are two Triathlon PS Femoral Box Trial/Protectors (Size 1-4 and Size 5-8).\n- The box trial/protector is fully seated when both the distal and posterior \"wings\" are flush with the bone.\n\nNote: Triathlon PS Femoral Box Trial/Protector assesses the accuracy of M/L box width and box depth.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445191"
+      }
+    },
+    {
+      "page_id": "page_20",
+      "title": "Femoral Preparation - Step 4: Preparation of the Posterior Stabilized (PS) Femoral Box",
+      "summary": "Page 20 content",
+      "keywords": [
+        "Femoral Box",
+        "Posterior Stabilized",
+        "Triathlon PS Femoral Box Trial/Protector",
+        "tibial subluxation",
+        "osteophytes"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 20",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Femoral Preparation\n## Step 4 PS Box Preparation (continued)\n\n\n### Femoral Box Protection During Tibia Subluxation\n\n> To protect the prepared femoral box prior to trialing with a femoral component, place the Triathlon PS Femoral Box Trial/Protector into the prepared box by hand (not through impaction).\n\n> Ensure the box trial is fully seated on the distal and posterior resections as described above in the box trialing step.\n\n- The Triathlon PS Femoral Box Trial/Protector features a slot in which a retractor can be placed to lever against the distal femur during tibial subluxation.\n\n- If preferred, select an extraction tool that fits into the retractor hole for ease of removal.\n\n- Remove the PS Femoral Box Trial/Protector prior to assembling and implanting the Triathlon PS femoral component.\n\nTo avoid femoral component impingement and to improve flexion, all osteophytes beyond the posterior condyles as well as those medially and laterally may be removed with an osteotome.\n\nNote: If it is difficult to reach the posterior osteophytes in a tight knee, the tibial resection can be made and then the osteophytes can more easily be removed.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445201"
+      }
+    },
+    {
+      "page_id": "page_21",
+      "title": "Femoral Preparation - Step 5 Femoral Trial Assessment",
+      "summary": "Page 21 content",
+      "keywords": [
+        "Femoral Trial Assessment",
+        "PS Femoral Trial",
+        "CR Femoral Trial",
+        "Femoral Impactor/Extractor",
+        "Posterior Osteophyte Removal Tool"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar",
+          "description": "Table from page 21",
+          "rows": [
+            {
+              "Instrument Name": "MIS PS Box Cutting Guide",
+              "Catalog/Part Number": "See Catalog"
+            },
+            {
+              "Instrument Name": "Triathlon PS Femoral Box Trial/Protector",
+              "Catalog/Part Number": "See Catalog"
+            },
+            {
+              "Instrument Name": "Headless Pins – 3˝",
+              "Catalog/Part Number": "6541-4-003"
+            },
+            {
+              "Instrument Name": "Headless Pin Driver",
+              "Catalog/Part Number": "6541-4-809"
+            },
+            {
+              "Instrument Name": "Impaction Handle",
+              "Catalog/Part Number": "6541-4-810"
+            },
+            {
+              "Instrument Name": "Universal Driver",
+              "Catalog/Part Number": "6541-4-801"
+            },
+            {
+              "Instrument Name": "CR Femoral Trial",
+              "Catalog/Part Number": "See Catalog"
+            },
+            {
+              "Instrument Name": "PS Femoral Trial",
+              "Catalog/Part Number": "See Catalog"
+            },
+            {
+              "Instrument Name": "Femoral Impactor/Extractor",
+              "Catalog/Part Number": "6541-4-807"
+            },
+            {
+              "Instrument Name": "Posterior Osteophyte Removal Tool",
+              "Catalog/Part Number": "6541-4-710"
+            }
+          ],
+          "metadata": {
+            "row_count": 10,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Catalog/Part Number"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Catalog/Part Number",
+            "catalog number",
+            "part number"
+          ]
+        }
+      ],
+      "raw_content": "# Femoral Preparation\n## Step 5 Femoral Trial Assessment\n\n\n> The remaining portion of the technique is for both Posterior Stabilized or Cruciate Retaining.\n\n> Assemble the appropriate size and side (Left/Right) PS or CR Femoral Trial to the Femoral Impactor/ Extractor with the Impaction Handle.\n\n> Impact the PS or CR Femoral Trial onto the prepared distal femur. Use the Impaction Handle to ensure the Femoral Trial is aligned with the distal plane.\n\n> Remove the Femoral Impactor/Extractor and Impaction Handle and assess the fit of the PS or CR Femoral Trial. Care must be taken to ensure that all of the osteophytes beyond the end of the posterior condyles are removed.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445213"
+      }
+    },
+    {
+      "page_id": "page_22",
+      "title": "Femoral Preparation - Step 5: Femoral Trial Assessment (Continued)",
+      "summary": "Page 22 content",
+      "keywords": [
+        "Femoral Trial Assessment",
+        "Universal Driver",
+        "Posterior Osteophyte Removal Tool",
+        "PS Box Cutting Guide",
+        "Modular Femoral Distal Fixation Pegs"
+      ],
+      "tables": [],
+      "raw_content": "# Femoral Preparation\n## Step 5 Femoral Trial Assessment (continued)\n\n\n▶ Cruciate Retaining Knee: Attach the 1/4\" Peg Drill to the Universal Driver and create the Modular Femoral Distal Fixation Peg holes.\n\n▶ Attach the Posterior Osteophyte Removal Tool to the Impaction Handle and remove posterior osteophytes.\n\n▶ Posterior Stabilized Knee: If the Modular Femoral Distal Fixation Pegs are to be used, the location holes may be prepared at this stage using the 1/4\" Peg Drill attached to the Universal Driver.\n\n▶ The peg holes may also be prepared through the PS Box Cutting Guide.\n\n> Note: Surgeon may leave Femoral Trial in place to protect the bone and aid with subluxing the tibia forward.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445230"
+      }
+    },
+    {
+      "page_id": "page_23",
+      "title": "Instrument Bar and Femoral Preparation",
+      "summary": "Page 23 content",
+      "keywords": [
+        "Femoral Trial",
+        "Universal Driver",
+        "CR Femoral Trial",
+        "PS Femoral Trial",
+        "1/4\" Peg Drill",
+        "Slap Hammer",
+        "Posterior Osteophyte Removal Tool"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Details",
+          "description": "Table from page 23",
+          "rows": [
+            {
+              "Part Number": "6541-4-801",
+              "Instrument Name": "Universal Driver"
+            },
+            {
+              "Part Number": "See Catalog",
+              "Instrument Name": "CR Femoral Trial"
+            },
+            {
+              "Part Number": "See Catalog",
+              "Instrument Name": "PS Femoral Trial"
+            },
+            {
+              "Part Number": "6541-4-525",
+              "Instrument Name": "1/4\" Peg Drill"
+            },
+            {
+              "Part Number": "6541-4-803",
+              "Instrument Name": "Slap Hammer"
+            },
+            {
+              "Part Number": "6541-4-710",
+              "Instrument Name": "Posterior Osteophyte Removal Tool"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Instrument Name"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Instrument Name",
+            "tool",
+            "device"
+          ]
+        }
+      ],
+      "raw_content": "\n> To remove the Femoral Trial, attach the Femoral Impactor Extractor to the Slap Hammer and remove the PS or CR Femoral Trial from the femur.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445241"
+      }
+    },
+    {
+      "page_id": "page_24",
+      "title": "Tibial Preparation - Step 1A: Extramedullary (EM) Referencing",
+      "summary": "Page 24 content",
+      "keywords": [
+        "Tibial Preparation",
+        "Extramedullary Referencing",
+        "Tibial Resection Guide",
+        "Ankle Clamp",
+        "Tibial Adjustment Housing",
+        "Varus/Valgus Alignment"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 24",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Tibial Preparation\n## Step 1A Tibial Preparation: Extramedullary (EM) Referencing\n\n\n### Tibial Resection Assembly\n\n▶ The Tibial Resection Guide, available in left and right configurations, and the Universal Resection Guide are designed to avoid soft tissue impingement.\n\n▶ The tibial resection assembly has five parts: the appropriate Tibial Resection Guide, the Ankle Clamp, the Distal Assembly, the Tibial Alignment Proximal Rod and the Tibial Adjustment Housing. These are assembled first.\n\n> Note: The Tibial Adjustment Housing is available in 3° slope and 0° slope (optional).\n\n### Tibial Slope\n\n▶ Place the ankle clamp around the ankle and unlock the locking switch.\n\n▶ Tibial slope can be checked by verifying that the long axis of the assembly is parallel to the tibia.\n\n> Caution:\n> - The center of the ankle is generally in line with the second metatarsal, unless ankle and foot deformity is present. The assembly should be aligned over the center of the ankle.\n> - Because of the shape of the tibia, the distal portion of the guide will be further away from the tibia than the proximal. Failure to recognize this will result in placing the component in extension.\n\n### Varus/Valgus Alignment\n\n▶ Medial/Lateral offset can be adjusted by pushing the bronze button (1) and sliding the assembly medially until the shaft intersects the center of the tibia.\n\n▶ Once triaxial alignment is achieved, release the bronze button.\n\n### Tibial Slope Adjustment\n\n▶ If the Proximal Rod is parallel to the tibia, the slope is 0° or 3° depending on which Tibial Adjustment Housing is used.\n\n▶ Tibial slope can be adjusted by pressing the bronze button (2).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445254"
+      }
+    },
+    {
+      "page_id": "page_25",
+      "title": "Instrument Bar",
+      "summary": "Page 25 content",
+      "keywords": [
+        "Instrument Bar",
+        "Tibial Resection Guide",
+        "Tibial Alignment Distal Assembly EM",
+        "Tibial Alignment Ankle Clamp EM",
+        "Tibial Alignment Proximal Rod EM",
+        "Tibial Adjustment Housing",
+        "Express Proximal Rod EM"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Component and Part Number Table",
+          "description": "Table from page 25",
+          "rows": [
+            {
+              "Component": "Tibial Resection Guide",
+              "Part Number": "Right 6541-2-700, Left 6541-2-701"
+            },
+            {
+              "Component": "Tibial Alignment Distal Assembly EM",
+              "Part Number": "6541-2-610"
+            },
+            {
+              "Component": "Tibial Alignment Ankle Clamp EM",
+              "Part Number": "6541-2-609"
+            },
+            {
+              "Component": "Tibial Alignment Proximal Rod EM",
+              "Part Number": "6541-2-611"
+            },
+            {
+              "Component": "Tibial Adjustment Housing",
+              "Part Number": "0° slope 6541-2-704\n3° slope 6541-2-705"
+            },
+            {
+              "Component": "Express Proximal Rod EM",
+              "Part Number": "6541-2-611E"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Component",
+              "Part Number"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Component",
+            "Part Number"
+          ]
+        }
+      ],
+      "raw_content": "## Rotational Alignment\n\n> Rotate the entire assembly to ensure that the base of\n  the assembly is aligned with the center of the ankle.\n\n> The center of the ankle is generally in line with the\n  second metatarsal.\n\n> Once alignment is confirmed, set the bronze locking\n  switch on the Distal Assembly to the locked position.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445268"
+      }
+    },
+    {
+      "page_id": "page_26",
+      "title": "Tibial Preparation: Intramedullary (IM) Referencing",
+      "summary": "Page 26 content",
+      "keywords": [
+        "Tibial Preparation",
+        "Intramedullary Referencing",
+        "IM Drill",
+        "IM Rod",
+        "Rotational Alignment"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 26",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Tibial Preparation\n## Step 1B: Tibial Preparation: Intramedullary (IM) Referencing\n\n\n▶ Attach the 3/8\" IM Drill to the Universal Driver and create a hole in the location determined by the pre-operative X-rays to align with the IM canal.\n\n\n▶ Attach the T-Handle Driver to the 5/16\" IM Rod and slowly pass into the canal, ensuring clearance. Remove the 5/16\" IM Rod and insert it into the body of the Tibial Alignment Jig IM. The assembly is then inserted into the canal beyond the isthmus to the physeal scar of the ankle if possible.\n\n\n### Rotational Alignment\n\n▶ With the body of the Tibial Alignment Jig IM resting on the proximal tibia, proper rotational alignment is achieved by rotating the instrument about the 5/16\" IM Rod so that the vertical mounting bar is at the junction of the medial and middle 1/3rd of the tibial tubercle. A Headless Pin or the 1/8\" Drill is then inserted into the fixation hole to fix rotation (See Inset).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445389"
+      }
+    },
+    {
+      "page_id": "page_27",
+      "title": "Instrument Bar",
+      "summary": "Page 27 content",
+      "keywords": [
+        "Tibial Resection Guide",
+        "Varus/Valgus Alignment",
+        "Tibial Adjustment Housing",
+        "Universal Alignment Handle",
+        "Intramedullary Drill"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Parts List for Tibial Resection Guide Assembly",
+          "description": "Table from page 27",
+          "rows": [
+            {
+              "Part Number": "6541-4-538",
+              "Description": "3/8\" Intramedullary (IM) Drill"
+            },
+            {
+              "Part Number": "6541-4-801",
+              "Description": "Universal Driver"
+            },
+            {
+              "Part Number": "6541-4-800",
+              "Description": "T-Handle Driver"
+            },
+            {
+              "Part Number": "6541-4-516",
+              "Description": "5/16\" Intramedullary (IM) Rod"
+            },
+            {
+              "Part Number": "6541-2-600",
+              "Description": "Tibial Alignment Jig Intramedullary (IM)"
+            },
+            {
+              "Part Number": "6541-2-704",
+              "Description": "Tibial Adjustment Housing (0° slope)"
+            },
+            {
+              "Part Number": "6541-2-705",
+              "Description": "Tibial Adjustment Housing (3° slope)"
+            },
+            {
+              "Part Number": "6541-2-700",
+              "Description": "Tibial Resection Guide (Right)"
+            },
+            {
+              "Part Number": "6541-2-701",
+              "Description": "Tibial Resection Guide (Left)"
+            },
+            {
+              "Part Number": "6541-4-602",
+              "Description": "Universal Alignment Rods"
+            },
+            {
+              "Part Number": "6541-1-721",
+              "Description": "Universal Resection Guide"
+            },
+            {
+              "Part Number": "6541-4-806",
+              "Description": "Universal Alignment Handle"
+            }
+          ],
+          "metadata": {
+            "row_count": 12,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## Varus/Valgus Alignment\n\n> Assemble the appropriate Tibial Resection Guide (left, right or Universal Resection Guide) on the Tibial Adjustment Housing.\n\nNote: The Tibial Adjustment Housing is available in 3° slope and 0° slope (optional).\n\n> Attach the assembly onto the mounting bar by pressing the bronze wheel on the Tibial Adjustment Housing. Attach the Universal Alignment Handle to the Tibial Resection Guide and slide a Universal Alignment Rod through the handle for sagittal assessment.\n\n> When alignment is confirmed, the Universal Alignment Handle should be centered over the ankle.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445412"
+      }
+    },
+    {
+      "page_id": "page_28",
+      "title": "Tibial Preparation - Step 2: Tibial Resection",
+      "summary": "Page 28 content",
+      "keywords": [
+        "Tibial Resection",
+        "Tibial Stylus",
+        "Tibial Resection Guide",
+        "Universal Resection Guide",
+        "Extramedullary alignment",
+        "Intramedullary alignment"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 28",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Tibial Preparation\n## Step 2 Tibial Resection\n\nThe following applies to both extramedullary and intramedullary alignment.\n\n### Establish Tibial Resection Level\n\n▶ The Tibial Stylus attaches to the Tibial Resection Guide or Universal Resection Guide with the \"9\" end referencing the lowest level of the unaffected compartment.\n\n▶ 9mm of bone will be resected. Alternatively, if the \"2\" end of the Tibial Stylus is used, the amount of bone resected will be 2mm below the tip of the stylus.\n\n▶ The height of the Tibial Resection Guide, Tibial Stylus and Tibial Adjustment Housing can be adjusted using the bronze wheel on the Tibial Adjustment Housing.\n\n▶ For coarse adjustment, press the bronze wheel and slide the assembly up or down. For fine adjustment, turn the bronze wheel to the right to move the assembly up the Proximal Rod or turn left to move the assembly down the Proximal Rod.\n\n▶ Pin the Tibial Resection Guide in place.\n\n▶ Remove all alignment instruments leaving only the Tibial Resection Guide in place.\n\n> **Note:** Rotate bronze wheel one extra turn to ensure stylus is under tension for accurate resection.\n\n\n### Tibial Resection\n\n▶ Resect the proximal tibia. An optional Tibial Resection Guide Modular Capture (Left or Right) may be added.\n\n**Tip:**\n* Prior to removing the Tibial Resection Guide, check for flatness with a straight edge of an instrument such as the Bladerunner.\n* Use saline irrigation during resection.\n\n▶ Remove the Tibial Resection Guide.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445424"
+      }
+    },
+    {
+      "page_id": "page_29",
+      "title": "Instrument Bar",
+      "summary": "Page 29 content",
+      "keywords": [
+        "tibial component",
+        "instrument bar",
+        "part number",
+        "assembly",
+        "sizing"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar – Tibial Preparation",
+          "description": "Table from page 29",
+          "rows": [
+            {
+              "catalog_no": "6541-2-611E",
+              "description": "Express Proximal Rod EM"
+            },
+            {
+              "catalog_no": "6541-2-611",
+              "description": "Tibial Alignment Proximal Rod EM"
+            },
+            {
+              "catalog_no": "6541-2-700",
+              "description": "Tibial Resection Guide – Right"
+            },
+            {
+              "catalog_no": "6541-2-701",
+              "description": "Tibial Resection Guide – Left"
+            },
+            {
+              "catalog_no": "6541-2-704",
+              "description": "Tibial Adjustment Housing – 0° slope"
+            },
+            {
+              "catalog_no": "6541-2-705",
+              "description": "Tibial Adjustment Housing – 3° slope"
+            },
+            {
+              "catalog_no": "6541-4-806",
+              "description": "Universal Alignment Handle"
+            },
+            {
+              "catalog_no": "6541-2-429",
+              "description": "Tibial Stylus"
+            },
+            {
+              "catalog_no": "6541-2-702",
+              "description": "Tibial Resection Guide Modular Capture – Right"
+            },
+            {
+              "catalog_no": "6541-2-703",
+              "description": "Tibial Resection Guide Modular Capture – Left"
+            },
+            {
+              "catalog_no": "6541-4-003",
+              "description": "Headless Pins – 3″"
+            },
+            {
+              "catalog_no": "See Catalog",
+              "description": "CR & PS Femoral Trials"
+            },
+            {
+              "catalog_no": "See Catalog",
+              "description": "Universal Tibial Template"
+            },
+            {
+              "catalog_no": "See Catalog",
+              "description": "CR, CS & PS Tibial Inserts"
+            }
+          ],
+          "metadata": {
+            "row_count": 14,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "catalog_no",
+              "description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "catalog_no",
+            "catalog no",
+            "catalog number",
+            "part number",
+            "catalog",
+            "part",
+            "description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## Tibial Component Sizing\n\n> Place the PS or CR Femoral Trial on the femur. Draw the tibia anteriorly. Assemble a Universal Tibial Template, Alignment Handle and a PS or CR Tibial Insert Trial.\n\n> Place the assembly on the resected tibial plateau and choose the size that best addresses rotation and coverage.\n\n> Perform a trial reduction to assess overall component fit, ligament stability and joint range of motion.\n\nNote: Do not impact the Tibial Insert Trial. In the event that excessive resistance is encountered during insertion of the Tibial Insert Trial, remove, reposition, and reinsert the Tibial Insert Trial. Ensure all excess debris (bone and soft tissue) is cleared from the Universal Tibial Template.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445435"
+      }
+    },
+    {
+      "page_id": "page_30",
+      "title": "Tibial Preparation - Step 2: Tibial Resection (Continued)",
+      "summary": "Page 30 content",
+      "keywords": [
+        "Tibial Preparation",
+        "Tibial Resection",
+        "Universal Tibial Template",
+        "Pinning",
+        "Anterior Holes",
+        "Marking",
+        "Anterior Tibial Cortex"
+      ],
+      "tables": [],
+      "raw_content": "# Tibial Preparation\n## Step 2 Tibial Resection (continued)\n\nThere are two options to secure the Universal Tibial Template to the tibia:\n\n### Securing Tibial Template\n\n#### Option 1:\n\n> Once satisfactory alignment and tibial component orientation are achieved, place pins through the two anterior holes of the Universal Tibial Template to secure its position. Remove the PS or CR Femoral Trial. Remove the Tibial Trial Insert and further secure the Universal Tibial Template by placing additional pins into the proximal tibia through any of the available holes.\n\n#### Option 2:\n\n> Once satisfactory alignment and tibial component orientation are achieved, mark the anterior tibial cortex in line with the reference marks on the anterior border of the Universal Tibial Template. Remove the PS or CR Femoral Trial and disassemble the Tibial Trial Insert from the Universal Tibial Template.\n\n> Check the orientation and coverage of the Universal Tibial Template on the proximal tibia again while referencing the marks on the anterior border of the Universal Tibial Template and the anterior cortex made previously. Reposition the Universal Tibial Template if required while maintaining a flush fit to the anterior tibial cortex.\n\n> Place pins through the two anterior holes of the Universal Tibial Template to secure its position. Further secure the Universal Tibial Template by placing additional pins into the proximal tibia through any of the available holes.\n\n**Tip:** In dense bone, holes for pinning, may be pre-drilled using the 1/8\" drill (3170-0000).\n\n**Note:** The Tibial Insert Trial can be removed by hand or with the aid of a retractor.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445450"
+      }
+    },
+    {
+      "page_id": "page_31",
+      "title": "Tibial Preparation and Instrument Bar",
+      "summary": "Page 31 content",
+      "keywords": [
+        "Tibial Keel Punch",
+        "Universal Tibial Template",
+        "CR & PS Femoral Trials",
+        "Keel Punch Guide",
+        "Headless Pins"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 31",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Instrument Bar – Tibial Preparation (cont.)",
+          "description": "Table from page 31",
+          "rows": [
+            {
+              "catalog_no": "See Catalog",
+              "description": "Universal Tibial Template"
+            },
+            {
+              "catalog_no": "See Catalog",
+              "description": "CR & PS Femoral Trials"
+            },
+            {
+              "catalog_no": "6541-4-003",
+              "description": "Headless Pins – 3″"
+            },
+            {
+              "catalog_no": "6541-2-713",
+              "description": "Keel Punch Guide – sizes 1 – 3"
+            },
+            {
+              "catalog_no": "6541-2-748",
+              "description": "Keel Punch Guide – sizes 4 – 8"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "catalog_no",
+              "description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "catalog_no",
+            "catalog no",
+            "catalog number",
+            "part number",
+            "catalog",
+            "part",
+            "description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "# Tibial Preparation\n## Step 3 Tibial Keel Punch\n\n\n### Securing Tibial Keel Punch Guide\n\n▶ Assemble the Keel Punch Guide to the Universal\n  Tibial Template by inserting at a slight angle to the\n  top of the Universal Tibial Template (into the two\n  locating slots toward the posterior portion of the\n  Universal Tibial Template).\n\n▶ Allow the Keel Punch Guide to sit flat on the\n  Universal Tibial Template and push forward on the\n  handle to lock the Keel Punch Guide to the Universal\n  Tibial Template.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445462"
+      }
+    },
+    {
+      "page_id": "page_32",
+      "title": "Tibial Preparation - Step 3: Continuation of Tibial Keel Punch",
+      "summary": "Page 32 content",
+      "keywords": [
+        "Tibial Preparation",
+        "Tibial Keel Punch",
+        "Cementless Keel Punch",
+        "Keel Punch Guide",
+        "Universal Tibial Template"
+      ],
+      "tables": [],
+      "raw_content": "# Tibial Preparation\n## Step 3 Tibial Keel Punch (continued)\n\n### Tibial Keel Punching\n\n▶ Place the appropriate Cementless Keel Punch into the Keel Punch Guide.\n\n▶ Use a mallet to impact the Keel Punch.\n\n> **Tip:** The presence of variably dense bone in the proximal tibia can influence the advancement of the Keel Punch. Take care to ascertain that the pinned Universal Tibial Template maintains its position during Keel Punch impaction. It may be advisable to remove sclerotic bone in the path of the Keel Punch prior to impaction.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445476"
+      }
+    },
+    {
+      "page_id": "page_33",
+      "title": "Instrument Bar",
+      "summary": "Page 33 content",
+      "keywords": [
+        "Keel Punch",
+        "Universal Tibial Template",
+        "Headless Pins",
+        "Keel Punch Guide",
+        "Cementless Keel Punch",
+        "Headless Pin Extractor"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar – Tibial Preparation (cont.)",
+          "description": "Table from page 33",
+          "rows": [
+            {
+              "catalog_no": "See Catalog",
+              "description": "Universal Tibial Template"
+            },
+            {
+              "catalog_no": "6541-4-003",
+              "description": "Headless Pins – 3″"
+            },
+            {
+              "catalog_no": "6541-2-713",
+              "description": "Keel Punch Guide – sizes 1 – 3"
+            },
+            {
+              "catalog_no": "6541-2-748",
+              "description": "Keel Punch Guide – sizes 4 – 8"
+            },
+            {
+              "catalog_no": "See Catalog",
+              "description": "Cementless Keel Punch"
+            },
+            {
+              "catalog_no": "6541-4-804",
+              "description": "Headless Pin Extractor"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "catalog_no",
+              "description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "catalog_no",
+            "catalog no",
+            "catalog number",
+            "part number",
+            "catalog",
+            "part",
+            "description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## Extracting Keel Punch\n\n> To extract the Keel Punch, lift up on the Keel Punch Guide handle and pull the handle to cantilever the Keel Punch out of the tibia.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445485"
+      }
+    },
+    {
+      "page_id": "page_34",
+      "title": "Patella Preparation",
+      "summary": "Page 34 content",
+      "keywords": [
+        "Patella Preparation",
+        "Patella Resection",
+        "Patella Peg Preparation",
+        "Drill Selection Guide",
+        "Tritanium Metal-Backed Patella"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Drill Selection Guide",
+          "description": "Table from page 34",
+          "rows": [
+            {
+              "Drill Type": "Standard Metal-Backed Patella drill (6541-3-522)",
+              "Drill Diameter": "5.7mm (0.225in)",
+              "Resulting Pressfit": "0.4mm (0.016in) pressfit"
+            },
+            {
+              "Drill Type": "Tritanium Dense Bone Patella Drill (6541-3-526)",
+              "Drill Diameter": "6.0mm (0.235in)",
+              "Resulting Pressfit": "0.15mm (0.006in) pressfit"
+            },
+            {
+              "Drill Type": "All-Poly Patella Drill (6541-3-524)",
+              "Drill Diameter": "N/A",
+              "Resulting Pressfit": "N/A"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Drill Type",
+              "Drill Diameter",
+              "Resulting Pressfit"
+            ],
+            "data_category": "specifications",
+            "enhanced": true
+          },
+          "keywords": [
+            "Drill Type",
+            "Drill Diameter",
+            "size",
+            "dimensions",
+            "Resulting Pressfit"
+          ]
+        }
+      ],
+      "raw_content": "# Patella Preparation\n\n## Patella Resection\n\n> Patella preparation is optional and is based on surgeon preference and surgeon evaluation of the articulating surface.\n\n> Remove all osteophytes and synovial insertions around the patella, and measure thickness using a caliper.\n\n> After determining the depth of the cut, affix the stylus in the appropriate slot of the Patella Resection Guide and capture the patella between the jaws of the guide.\n\nNote: Care should be taken when determining the depth of the cut in an effort to minimize the risk of fracture. The amount of bone to be left after resecting the patella is a clinical decision and is based on surgeon judgment and evaluation of patient characteristics.\n\n> Using a .050\" (1.25mm) non-offset sawblade, resect the patella.\n\n\n## Patella Peg Preparation\n\n> Choose the appropriate size Patella Drill Template and insert into the Patella Clamp.\n\n> Position the chosen patellar drill guide over the patella and secure it to the bone by deploying the clamp mechanism.\n\n### Drill Selection Guide\n\n> For Tritanium Metal-Backed Patella*: Use the standard Metal-Backed Patella drill (6541-3-522); 5.7mm (0.225in) drill diameter = 0.4mm (0.016in) pressfit.\n\n> If the bone is sclerotic in any of the peg locations, the Surgeon may elect to use the Tritanium Dense Bone Patella Drill (6541-3-526), which will create slightly less press fit; 6.0mm (0.235in) drill diameter = 0.15mm (0.006in) pressfit.\n\n> If the surgeon chooses to cement the Tritanium Metal-Backed Patella or prefers to use a cemented All Poly-Patella, then the All-Poly Patella Drill (6541-3-524) must be used.\n\n> Drill three fixation holes with the appropriate drill.\n\n*The Triathlon Tritanium Metal-Backed Patella is not available for supply in Australia as it has not yet been included on the Australian Registry of Therapeutic Goods (ARTG).",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445499"
+      }
+    },
+    {
+      "page_id": "page_35",
+      "title": "Trial Assessment and Instrument Bar",
+      "summary": "Page 35 content",
+      "keywords": [
+        "Trial Assessment",
+        "Instrument Bar",
+        "Patella Preparation",
+        "Part Number",
+        "Instrument Description"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar",
+          "description": "Table from page 35",
+          "rows": [
+            {
+              "Part Number": "6633-7-744",
+              "Instrument Description": "Patella Clamp"
+            },
+            {
+              "Part Number": "6633-7-738",
+              "Instrument Description": "Patella Stylus"
+            },
+            {
+              "Part Number": "6633-7-736",
+              "Instrument Description": "Slotted Patella Resection Guide"
+            },
+            {
+              "Part Number": "See Catalog",
+              "Instrument Description": "Express Symmetric & Asymmetric Patella Drill Templates"
+            },
+            {
+              "Part Number": "6541-3-800E",
+              "Instrument Description": "Express Cement Cap"
+            },
+            {
+              "Part Number": "6541-3-524",
+              "Instrument Description": "All-Poly Patella Drill with Stop"
+            },
+            {
+              "Part Number": "6541-3-522*",
+              "Instrument Description": "Metal-Backed Patella Drill with Stop"
+            },
+            {
+              "Part Number": "6541-3-526",
+              "Instrument Description": "Tritanium Dense Bone Patella Drill"
+            },
+            {
+              "Part Number": "See Catalog",
+              "Instrument Description": "Symmetric & Asymmetric Patella Trials"
+            }
+          ],
+          "metadata": {
+            "row_count": 9,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Instrument Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Instrument Description",
+            "name",
+            "title",
+            "product name",
+            "tool",
+            "device"
+          ]
+        }
+      ],
+      "raw_content": "# Trial Assessment\n\n▶ Remove any residual cartilage and wash away all debris.\n\n▶ Place correct size Patella Trial (Symmetric or Asymmetric) onto the prepared patella.\n\n▶ Replace all Trials and assess patellar tracking by taking the knee through a ROM. The patella should track normally throughout the ROM without tendency for tilting or lateral subluxation.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445512"
+      }
+    },
+    {
+      "page_id": "page_36",
+      "title": "Tibial Preparation - Step 4: Preparation of Tibial Peg",
+      "summary": "Page 36 content",
+      "keywords": [
+        "Tibial Peg Drill Template",
+        "Tibial Baseplate",
+        "Keel Punch Tower",
+        "Keel Punch",
+        "Tibial Preparation"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 36",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Tibial Preparation\n## Step 4 Tibial Peg Preparation\n\n\n### Tibial Peg Drill Template\n\nNote: Universal Tibial Template, Keel Punch Tower, Keel Punch and all pins need to be removed from tibia before tibial peg preparation.\n\n▶ Select the Tibial Peg Drill Template that corresponds to the pre-determined Tibial Baseplate size.\n\n▶ The position of the four holes and the keel on the underside of the Tibial Peg Drill Template correspond to the relative location of the keel and four pegs on the implant.\n\n▶ Insert the keel on the Tibial Peg Drill Template into the prepared keel slot as shown.\n\n▶ Ensure that the Tibial Peg Drill Template sits flush against the resected tibia to ensure accurate peg preparation.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445524"
+      }
+    },
+    {
+      "page_id": "page_37",
+      "title": "Instrument Bar",
+      "summary": "Page 37 content",
+      "keywords": [
+        "Instrument Bar",
+        "Tibial Peg Drill",
+        "Part Number",
+        "Drilling for Pegs",
+        "Drill Template"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Components of the Instrument Bar",
+          "description": "Table from page 37",
+          "rows": [
+            {
+              "Part Number": "6541-4-801",
+              "Description": "Universal Driver"
+            },
+            {
+              "Part Number": "6541-2-64X",
+              "Description": "Tibial Peg Drill Template (Refer to Catalog for more details)"
+            },
+            {
+              "Part Number": "6541-2-625",
+              "Description": "1/8\"  Tibial Peg Drill"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "\n## Drilling for Pegs\n\n### Drill Selection:\n\n> Drilling the tibial peg holes will facilitate seating the implant.\n\n> Select the 1/8\" Tibial Peg Drill (6541-2-625).\n\n> Hold Tibial Peg Drill Template in position by applying finger pressure to the template. Position 1/8\" Tibial Peg Drill through a peg hole perpendicular to the resected tibia.\n\n> Drill through all four template holes using the 1/8\" Tibial Peg Drill taking care to ensure surgical glove and fingers are not in contact with drill prior to drilling.\n\n> Drilling is complete when the drill stop has contacted the template surface.\n\n> Carefully remove the Tibial Peg Drill Template from the bone by lifting straight up and out of keel slot.\n\n**Tip:** The central hole of the Tibial Drill Guide can be used to facilitate removal of the guide straight up and out of the keel slot.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445534"
+      }
+    },
+    {
+      "page_id": "page_38",
+      "title": "Useless - Page 38",
+      "summary": "Page 38 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445550"
+      }
+    },
+    {
+      "page_id": "page_39",
+      "title": "Tibial Preparation and Instrument Bar",
+      "summary": "Page 39 content",
+      "keywords": [
+        "Tibial Peg Drill",
+        "surgical procedure",
+        "instrument bar",
+        "Universal Driver",
+        "drilling"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar",
+          "description": "Table from page 39",
+          "rows": [
+            {
+              "Part Number": "6541-4-801",
+              "Description": "Universal Driver"
+            },
+            {
+              "Part Number": "6541-2-626",
+              "Description": "7/32\" Tibial Peg Drill"
+            }
+          ],
+          "metadata": {
+            "row_count": 2,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "# Tibial Preparation\n## Step 4 Tibial Peg Preparation\n\n\n### Optional: Drilling with the 7/32\" Peg Drill\n\n> If the surgeon feels the bone is too dense at any of the peg locations after preparing with the 1/8\" drill and template, the optional 7/32\" Peg Drill (6541-2-626) may be used to increase the size of the peg holes.\n\n> Drill taking care to ensure surgical glove and fingers are not in contact with drill prior to drilling. Ensure axial alignment before drilling. Drilling is complete after the drill stop has contacted bone. Do not continue to drive the drill after the stop has been reached.\n\n**Note:** Ensure Tibial Peg Drill template is removed prior to drilling with the 7/32\" Tibial Peg Drill.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445560"
+      }
+    },
+    {
+      "page_id": "page_40",
+      "title": "Femoral Implantation Procedure",
+      "summary": "Page 40 content",
+      "keywords": [
+        "Femoral Implantation",
+        "Femoral Impactor Extractor",
+        "Femoral Component",
+        "Modular Femoral Distal Fixation Pegs",
+        "Impaction Handle"
+      ],
+      "tables": [],
+      "raw_content": "# Femoral Implantation\n\n\n▶ Attach the Femoral Impactor Extractor to the Impaction Handle and attach to the appropriate size and side Femoral Component. Place the Femoral Component on the femur and impact it until fully seated.\n\n▶ Posterior Stabilized Knee: If Modular Femoral Distal Fixation Pegs are to be used, assemble the pegs to the Femoral Component using the 1/8\" Hex Drive and the Slip Torque Handle prior to implantation.\n\n▶ The Femoral Impactor can be attached to the Impaction Handle to further seat the Femoral Component onto the prepared femur.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445602"
+      }
+    },
+    {
+      "page_id": "page_41",
+      "title": "Tibial Implantation and Instrument Bar",
+      "summary": "Page 41 content",
+      "keywords": [
+        "Tibial Implantation",
+        "Triathlon Tritanium Tibial Baseplate",
+        "Impactor Pad",
+        "Impaction Handle",
+        "Femoral Impactor/Extractor",
+        "Baseplate Impactor/Extractor"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar – Component Implantation",
+          "description": "Table from page 41",
+          "rows": [
+            {
+              "catalog_no": "6541-4-810",
+              "description": "Impaction Handle"
+            },
+            {
+              "catalog_no": "6541-4-807",
+              "description": "Femoral Impactor/Extractor"
+            },
+            {
+              "catalog_no": "6541-4-805",
+              "description": "Baseplate Impactor/Extractor"
+            },
+            {
+              "catalog_no": "5536-B-X00",
+              "description": "Triathlon Tritanium Tibial Baseplate – See Catalog"
+            },
+            {
+              "catalog_no": "6541-4-901",
+              "description": "Impactor Pad"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "catalog_no",
+              "description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "catalog_no",
+            "catalog no",
+            "catalog number",
+            "part number",
+            "catalog",
+            "part",
+            "description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "# Tibial Implantation\n\n\n> The Triathlon Tritanium Tibial Baseplate is packaged together with an Impactor Pad as shown.\n\n\n## Locking onto the Impactor Pad\n\nNote: It is advisable to confirm at this stage if the surgeon plans to implant the Baseplate with or without cement.\n\n### If Cementless:\n\n> Connect the Tibial Baseplate Impactor/Extractor to the Impaction Handle\n\n> Connect the Tibial Baseplate Impactor/Extractor to the Triathlon Tritanium Baseplate over the Impactor Pad and lock the lever",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445625"
+      }
+    },
+    {
+      "page_id": "page_42",
+      "title": "Tibial Implantation Procedure (Continued)",
+      "summary": "Page 42 content",
+      "keywords": [
+        "Triathlon Tritanium Tibial Baseplate",
+        "impaction",
+        "cementing",
+        "keel slot",
+        "Impactor Pad"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 42",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 42",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "# Tibial Implantation (continued)\n\n## Baseplate Impaction\n\n**Caution:** Pegs on the Triathlon Tritanium Tibial Baseplate are sharp. Take care when handling the baseplate.\n\n**Tip:** At this stage, cysts or voids on the surface of the tibia may be bone grafted with local resected cancellous bone.\n\n> Introduce the Triathlon Tritanium Baseplate onto the prepared tibia taking care to align keel slot and peg holes with the keel and pegs of the baseplate.\n\n> Impact until fully seated. Ensure baseplate is fully seated prior to proceeding.\n\n> Unlock the locking lever on the Baseplate Impactor Extractor and remove the assembly from the baseplate. Discard the Impactor Pad.\n\n**Caution:** It is recommended that the Impacter Pad be left on during impaction. Discard the Impactor Pad following impaction of the baseplate and prior to the Tibial Insert Implantation step. Do not implant the Impactor Pad.\n\n**Note:** Do not rock the baseplate in the bone because it could affect the press-fit.\n\n## If Cementing:\n\n> If a decision is made to cement the Triathlon Tritanium Baseplate, the keel must be re-prepared with the Cemented Keel Punch.\n\n> The appropriate Tibial Template and Keel Punch Tower must be pinned back into place. The Cemented Keel Punch is then impacted into place to open up the keel slot to allow for a cement mantle.\n\n> If necessary, before applying the bone cement, remove bone debris and tissue from the Triathlon Tritanium Baseplate.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445642"
+      }
+    },
+    {
+      "page_id": "page_43",
+      "title": "Tibial Insert Implantation and Instrument Bar",
+      "summary": "Page 43 content",
+      "keywords": [
+        "Tibial Insert",
+        "Triathlon Tritanium Baseplate",
+        "Impaction Handle",
+        "Instrument Bar",
+        "Implantation"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar – Component Implantation",
+          "description": "Table from page 43",
+          "rows": [
+            {
+              "catalog_no": "6541-4-810",
+              "description": "Impaction Handle"
+            },
+            {
+              "catalog_no": "6541-4-825",
+              "description": "Slip Torque Handle"
+            },
+            {
+              "catalog_no": "6541-4-805",
+              "description": "Baseplate Impactor/Extractor"
+            },
+            {
+              "catalog_no": "See Catalog",
+              "description": "CR, CS & PS Tibial Inserts"
+            },
+            {
+              "catalog_no": "6541-4-813",
+              "description": "Tibial Insert Impactor"
+            },
+            {
+              "catalog_no": "6541-2-013",
+              "description": "Cemented Keel Punch – sizes 1 – 3"
+            },
+            {
+              "catalog_no": "6541-2-046",
+              "description": "Cemented Keel Punch – sizes 4 – 6"
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "catalog_no",
+              "description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "catalog_no",
+            "catalog no",
+            "catalog number",
+            "part number",
+            "catalog",
+            "part",
+            "description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "# Tibial Insert Implantation\n\n\n\n▶ Prior to assembly of the Tibial Insert, the Tibial\nTrial Insert may be placed on the Triathlon\nTritanium Baseplate, to once more assess joint\nstability and range of motion.\n\n▶ To assemble the Tibial Insert, distract the joint\nand angle the insert posteriorly into the Triathlon\nTritanium Baseplate. The posterior lip of the\nTibial Insert must fit beneath the lip on the\nposterior Triathlon Tritanium Baseplate wall.\n\n▶ Attach the Tibial Insert Impactor to the\nImpaction Handle and impact to snap the Insert\nin place anteriorly.\n\n▶ The Tibial Insert is fully seated once the locking\nwire locks under the barbs on the anterior/\ninterior surface of the Triathlon Tritanium\nBaseplate wall.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445658"
+      }
+    },
+    {
+      "page_id": "page_44",
+      "title": "Patella Implantation",
+      "summary": "Page 44 content",
+      "keywords": [
+        "Patella Implantation",
+        "Patella Capture",
+        "Native Patella",
+        "Patellar Component",
+        "Patella Inserter"
+      ],
+      "tables": [],
+      "raw_content": "# Patella Implantation\n\n## Assembling the Patella Implant to the Patella Capture\n\n\n> Select the Patella Capture that corresponds to the size of the patella to be implanted and snap the polyethylene side of the patella implant to the capture.\n\n**Note:** If an asymmetric patella and Capture are selected, place the medial side of the patella in first and then snap in the lateral side.\n\n## Orienting the Patella Implant to the Native Patella\n\n\n\n> Ensure all bone debris from patella preparation has been removed so the implant can seat properly.\n\n> Align the pegs of the Patellar Component to the fixation peg holes previously prepared.\n\n**Caution:** When using an asymmetric patellar component, ensure that the lateral extension of the asymmetric patella implant is over the lateral facet of the native patella.\n\n> Lightly press the patellar pegs into the native patella.\n\n## Implanting the patellar component using the Patella Inserter\n\n\n> Hold the native patella, patella implant and Patella Capture in one hand and position the Patella Inserter over the Capture as shown.\n\n> Bring the two arms of the patella inserter together until the native patella rests against the lower patella plate and the top of the capture fits flush against the upper plate of the patella inserter.\n\n**Note:** The Impaction Handle may be attached to the Patella Inserter as an option.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445671"
+      }
+    },
+    {
+      "page_id": "page_45",
+      "title": "Patella Implantation and Instrument Bar",
+      "summary": "Page 45 content",
+      "keywords": [
+        "Patella Implantation",
+        "Instrument Bar",
+        "Tritanium Metal-Backed Patella",
+        "Patella Inserter",
+        "Patella Capture"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Instrument Bar – Component Implantation",
+          "description": "Table from page 45",
+          "rows": [
+            {
+              "catalog_no": "6541-3-530",
+              "description": "Patella Inserter"
+            },
+            {
+              "catalog_no": "See Catalog",
+              "description": "Symmetric Tritanium Patella Capture"
+            },
+            {
+              "catalog_no": "See Catalog",
+              "description": "Asymmetric Tritanium Patella Capture"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "catalog_no",
+              "description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "catalog_no",
+            "catalog no",
+            "catalog number",
+            "part number",
+            "catalog",
+            "part",
+            "description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "## Patella Implantation (continued)\n\n\n\n▶ Turn the T-handle of the Patella Inserter until the metal backing portion of the patella implant is fully seated onto the resected surface of the native patella.\n\nNote: The metal backing portion of the patella implant protrudes slightly from the peripheral polyethylene surface. There may be a slight gap between the peripheral polyethylene and the bone surface when the central metal backing portion is fully seated.\n\nCaution: While carefully turning the T-handle, observe through the windows on the Patella Capture that the patella implant is properly seating onto the native patella. Stop once the metal backing portion of the implant is fully seated. Care should be taken to avoid over-compressing the implant and native patella.\n\n▶ Unscrew the T-handle and remove the Patella Inserter and Capture.\n\n▶ Re-examine to ensure the the implant is properly seated on the native patella.\n\n### If cementing the patella component:\n\n▶ If a decision is made to cement the Tritanium Metal-Backed Patella* or to use an All-Poly Patella, the peg holes must be prepared with the All-Poly Patella Drill (6541-3-524).\n\n▶ If necessary, remove bone and tissue debris from the Tritanium Metal-Backed Patella.\n\n▶ Prepare the bone surface for cementing and apply the cement.\n\n▶ To facilitate removal of excess bone cement, do not use the Patella Capture with the Patella Inserter.\n\n▶ Alternatively, the Triathlon Patella Clamp and Express Cement Cap can be used for cement application insertion.\n\n▶ Maintain clamping pressure while excess cement is cleared and polymerization is complete.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445680"
+      }
+    },
+    {
+      "page_id": "page_46",
+      "title": "Product Dimensions",
+      "summary": "Page 46 content",
+      "keywords": [
+        "Triathlon Tritanium Baseplate",
+        "Metal-Backed Symmetric Patella",
+        "Metal-Backed Asymmetric Patella",
+        "dimensions",
+        "part number"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Triathlon Tritanium Baseplate Dimensions",
+          "description": "Table from page 46",
+          "rows": [
+            {
+              "Part Number": "5536-B-100",
+              "Size": "1",
+              "Anterior/Posterior Length (mm)": "40",
+              "Medial/Lateral Width (mm)": "61",
+              "Keel Depth (mm)": "28",
+              "Keel Width at Proximal End": "40",
+              "Peg Length (mm)": "7",
+              "Peg Diameter (mm)": "7"
+            },
+            {
+              "Part Number": "5536-B-200",
+              "Size": "2",
+              "Anterior/Posterior Length (mm)": "42",
+              "Medial/Lateral Width (mm)": "64",
+              "Keel Depth (mm)": "28",
+              "Keel Width at Proximal End": "40",
+              "Peg Length (mm)": "8",
+              "Peg Diameter (mm)": "7"
+            },
+            {
+              "Part Number": "5536-B-300",
+              "Size": "3",
+              "Anterior/Posterior Length (mm)": "44",
+              "Medial/Lateral Width (mm)": "67",
+              "Keel Depth (mm)": "28",
+              "Keel Width at Proximal End": "40",
+              "Peg Length (mm)": "9",
+              "Peg Diameter (mm)": "7"
+            },
+            {
+              "Part Number": "5536-B-400",
+              "Size": "4",
+              "Anterior/Posterior Length (mm)": "46",
+              "Medial/Lateral Width (mm)": "70",
+              "Keel Depth (mm)": "28",
+              "Keel Width at Proximal End": "52",
+              "Peg Length (mm)": "9",
+              "Peg Diameter (mm)": "7"
+            },
+            {
+              "Part Number": "5536-B-500",
+              "Size": "5",
+              "Anterior/Posterior Length (mm)": "49",
+              "Medial/Lateral Width (mm)": "74",
+              "Keel Depth (mm)": "28",
+              "Keel Width at Proximal End": "52",
+              "Peg Length (mm)": "9",
+              "Peg Diameter (mm)": "7"
+            },
+            {
+              "Part Number": "5536-B-600",
+              "Size": "6",
+              "Anterior/Posterior Length (mm)": "52",
+              "Medial/Lateral Width (mm)": "77",
+              "Keel Depth (mm)": "28",
+              "Keel Width at Proximal End": "52",
+              "Peg Length (mm)": "11",
+              "Peg Diameter (mm)": "7"
+            },
+            {
+              "Part Number": "5536-B-700",
+              "Size": "7",
+              "Anterior/Posterior Length (mm)": "56",
+              "Medial/Lateral Width (mm)": "80",
+              "Keel Depth (mm)": "28",
+              "Keel Width at Proximal End": "58",
+              "Peg Length (mm)": "11",
+              "Peg Diameter (mm)": "7"
+            },
+            {
+              "Part Number": "5536-B-800",
+              "Size": "8",
+              "Anterior/Posterior Length (mm)": "60",
+              "Medial/Lateral Width (mm)": "85",
+              "Keel Depth (mm)": "28",
+              "Keel Width at Proximal End": "58",
+              "Peg Length (mm)": "12",
+              "Peg Diameter (mm)": "7"
+            }
+          ],
+          "metadata": {
+            "row_count": 8,
+            "column_count": 8,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Size",
+              "Anterior/Posterior Length (mm)",
+              "Medial/Lateral Width (mm)",
+              "Keel Depth (mm)",
+              "Keel Width at Proximal End",
+              "Peg Length (mm)",
+              "Peg Diameter (mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Size",
+            "dimensions",
+            "sizing",
+            "Anterior/Posterior Length (mm)",
+            "Medial/Lateral Width (mm)",
+            "Keel Depth (mm)",
+            "Keel Width at Proximal End",
+            "Peg Length (mm)",
+            "Peg Diameter (mm)"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Triathlon Tritanium Metal-Backed Symmetric Patella Dimensions",
+          "description": "Table from page 46",
+          "rows": [
+            {
+              "Part Number": "5556-L-319",
+              "Size": "S31",
+              "Diameter (mm)": "31",
+              "Thickness (mm)": "9"
+            },
+            {
+              "Part Number": "5556-L-339",
+              "Size": "S33",
+              "Diameter (mm)": "33",
+              "Thickness (mm)": "9"
+            },
+            {
+              "Part Number": "5556-L-360",
+              "Size": "S36",
+              "Diameter (mm)": "36",
+              "Thickness (mm)": "10"
+            },
+            {
+              "Part Number": "5556-L-391",
+              "Size": "S39",
+              "Diameter (mm)": "39",
+              "Thickness (mm)": "11"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Size",
+              "Diameter (mm)",
+              "Thickness (mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Size",
+            "dimensions",
+            "sizing",
+            "Diameter (mm)",
+            "Thickness (mm)"
+          ]
+        },
+        {
+          "table_id": "table_3",
+          "title": "Triathlon Tritanium Metal-Backed Asymmetric Patella Dimensions",
+          "description": "Table from page 46",
+          "rows": [
+            {
+              "Part Number": "5552-L-299",
+              "Size": "A29",
+              "Superior/Inferior Diameter (mm)": "29",
+              "Medial/Lateral Width (mm)": "33",
+              "Thickness (mm)": "9"
+            },
+            {
+              "Part Number": "5552-L-320",
+              "Size": "A32",
+              "Superior/Inferior Diameter (mm)": "32",
+              "Medial/Lateral Width (mm)": "36",
+              "Thickness (mm)": "10"
+            },
+            {
+              "Part Number": "5552-L-350",
+              "Size": "A35",
+              "Superior/Inferior Diameter (mm)": "35",
+              "Medial/Lateral Width (mm)": "39",
+              "Thickness (mm)": "10"
+            },
+            {
+              "Part Number": "5552-L-381",
+              "Size": "A38",
+              "Superior/Inferior Diameter (mm)": "38",
+              "Medial/Lateral Width (mm)": "42",
+              "Thickness (mm)": "11"
+            },
+            {
+              "Part Number": "5552-L-401",
+              "Size": "A40",
+              "Superior/Inferior Diameter (mm)": "40",
+              "Medial/Lateral Width (mm)": "44",
+              "Thickness (mm)": "11"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "Part Number",
+              "Size",
+              "Superior/Inferior Diameter (mm)",
+              "Medial/Lateral Width (mm)",
+              "Thickness (mm)"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Part Number",
+            "Size",
+            "dimensions",
+            "sizing",
+            "Superior/Inferior Diameter (mm)",
+            "Medial/Lateral Width (mm)",
+            "Thickness (mm)"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445690"
+      }
+    },
+    {
+      "page_id": "page_47",
+      "title": "Catalog of Miscellaneous Instruments Kit",
+      "summary": "Page 47 content",
+      "keywords": [
+        "Miscellaneous Instruments Kit",
+        "catalog number",
+        "item description",
+        "quantity",
+        "Intramedullary Rod"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Miscellaneous Instruments Kit Contents",
+          "description": "Table from page 47",
+          "rows": [
+            {
+              "Catalog Number": "3170-0000",
+              "Item Description": "1/8˝ Drill",
+              "Quantity in Kit": 2
+            },
+            {
+              "Catalog Number": "6541-4-003",
+              "Item Description": "Headless Pins – 3˝",
+              "Quantity in Kit": 4
+            },
+            {
+              "Catalog Number": "6541-4-300",
+              "Item Description": "Headed Nail Impactor Extractor (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-400",
+              "Item Description": "Bladerunner",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-515",
+              "Item Description": "Headed Nails – 1½˝ (Optional)",
+              "Quantity in Kit": 2
+            },
+            {
+              "Catalog Number": "6541-4-516",
+              "Item Description": "5/16˝ Intramedullary (IM) Rod",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-518",
+              "Item Description": "1/8˝ Peg Drill",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-525",
+              "Item Description": "1/4˝ Peg Drill",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-538",
+              "Item Description": "3/8˝ Intramedullary (IM) Drill",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-575",
+              "Item Description": "Headed Nails – 3/4˝ (Optional)",
+              "Quantity in Kit": 2
+            },
+            {
+              "Catalog Number": "6541-4-602",
+              "Item Description": "Universal Alignment Rods",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-610",
+              "Item Description": "Adjustable Spacer Block (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-700",
+              "Item Description": "Bone File (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-709",
+              "Item Description": "Box Chisel",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-710",
+              "Item Description": "Posterior Osteophyte Removal Tool (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-800",
+              "Item Description": "T-Handle Driver",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-801",
+              "Item Description": "Universal Driver",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-802",
+              "Item Description": "1/8˝ Hex Drive (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-803",
+              "Item Description": "Slap Hammer",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-804",
+              "Item Description": "Headless Pin Extractor",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-805",
+              "Item Description": "Tibial Baseplate Impactor Extractor",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-806",
+              "Item Description": "Universal Alignment Handle",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-807",
+              "Item Description": "Femoral Impactor Extractor",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-809",
+              "Item Description": "Headless Pin Driver",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-810",
+              "Item Description": "Impaction Handle",
+              "Quantity in Kit": 2
+            },
+            {
+              "Catalog Number": "6541-4-811",
+              "Item Description": "Femoral Impactor",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-812",
+              "Item Description": "Tibial Baseplate Impactor",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-813",
+              "Item Description": "Tibial Insert Impactor",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-4-825",
+              "Item Description": "Slip Torque Handle (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-8-004",
+              "Item Description": "Triathlon Miscellaneous Upper Tray",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-8-104",
+              "Item Description": "Triathlon Miscellaneous Lower Tray",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-9-000",
+              "Item Description": "Triathlon Case",
+              "Quantity in Kit": 1
+            }
+          ],
+          "metadata": {
+            "row_count": 32,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Item Description",
+              "Quantity in Kit"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Item Description",
+            "name",
+            "title",
+            "product name",
+            "Quantity in Kit"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445703"
+      }
+    },
+    {
+      "page_id": "page_48",
+      "title": "❌ Missing Data - Page 48",
+      "summary": "Page 48 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 48\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445714"
+      }
+    },
+    {
+      "page_id": "page_49",
+      "title": "Tools for Tibia Preparation and Tibial Peg Preparation",
+      "summary": "Page 49 content",
+      "keywords": [
+        "Tibia Preparation",
+        "Tibial Peg Preparation",
+        "Triathlon Cementless Keel Punch",
+        "Triathlon Tritanium Preparation Tray",
+        "Tritanium Tibial Peg Drill Template"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Tools for Tibia Preparation for Cementless Indication",
+          "description": "Table from page 49",
+          "rows": [
+            {
+              "Catalog Number": "6541-6-013",
+              "Tool Description": "Triathlon Cementless Keel Punch",
+              "Available Sizes": "1-3",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "6541-6-046",
+              "Tool Description": "Triathlon Cementless Keel Punch",
+              "Available Sizes": "4-6",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "6541-6-078",
+              "Tool Description": "Triathlon Cementless Keel Punch",
+              "Available Sizes": "7-8",
+              "Quantity per Size": "1 Each Size"
+            }
+          ],
+          "metadata": {
+            "row_count": 3,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Tool Description",
+              "Available Sizes",
+              "Quantity per Size"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Tool Description",
+            "name",
+            "title",
+            "product name",
+            "Available Sizes",
+            "dimensions",
+            "sizing",
+            "Quantity per Size"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Tools for Tibial Peg Preparation",
+          "description": "Table from page 49",
+          "rows": [
+            {
+              "Catalog Number": "6541-8-100",
+              "Tool Description": "Triathlon Tritanium Preparation Tray",
+              "Available Sizes": "N/A",
+              "Quantity per Size": "1"
+            },
+            {
+              "Catalog Number": "6541-2-64X",
+              "Tool Description": "Tritanium Tibial Peg Drill Template",
+              "Available Sizes": "X= 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "6541-2-625",
+              "Tool Description": "Tritanium Tibial Peg Drill – 1/8˝",
+              "Available Sizes": "N/A",
+              "Quantity per Size": "1"
+            },
+            {
+              "Catalog Number": "6541-2-626",
+              "Tool Description": "Tritanium Tibial Peg Drill – 7/32˝",
+              "Available Sizes": "N/A",
+              "Quantity per Size": "1"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Tool Description",
+              "Available Sizes",
+              "Quantity per Size"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Tool Description",
+            "name",
+            "title",
+            "product name",
+            "Available Sizes",
+            "dimensions",
+            "sizing",
+            "Quantity per Size"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445722"
+      }
+    },
+    {
+      "page_id": "page_50",
+      "title": "Size 3-6 Femoral & Tibial Preparation Kit Catalog",
+      "summary": "Page 50 content",
+      "keywords": [
+        "Femoral & Tibial Preparation Kit",
+        "Catalog Number",
+        "Item Description",
+        "Quantity in Kit"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Size 3-6 Femoral & Tibial Preparation Kit Catalog",
+          "description": "Table from page 50",
+          "rows": [
+            {
+              "Catalog Number": "6541-1-600",
+              "Item Description": "Adjustment Block",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-603",
+              "Item Description": "Femoral Sizer",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-605",
+              "Item Description": "Femoral Stylus",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-657",
+              "Item Description": "Femoral Alignment Guide",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-703E",
+              "Item Description": "#3 Express 4:1 Cutting Block",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-704E",
+              "Item Description": "#4 Express 4:1 Cutting Block",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-705E",
+              "Item Description": "#5 Express 4:1 Cutting Block",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-706E",
+              "Item Description": "#6 Express 4:1 Cutting Block",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-721",
+              "Item Description": "Universal Resection Guide",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-1-723",
+              "Item Description": "Modular Capture – Distal Resection",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-013",
+              "Item Description": "Size 1-3 Keel Punch",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-046",
+              "Item Description": "Size 4-6 Keel Punch",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-429",
+              "Item Description": "Tibial Stylus",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-600",
+              "Item Description": "Tibial Alignment Jig IM (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-603",
+              "Item Description": "#3 Universal Tibial Template",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-604",
+              "Item Description": "#4 Universal Tibial Template",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-605",
+              "Item Description": "#5 Universal Tibial Template",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-606",
+              "Item Description": "#6 Universal Tibial Template",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-609",
+              "Item Description": "Tibial Alignment Ankle Clamp EM",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-610",
+              "Item Description": "Tibial Alignment Distal Assembly EM",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-611E",
+              "Item Description": "Express Proximal Rod EM",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-620",
+              "Item Description": "Tibial Template Converter",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-700",
+              "Item Description": "Tibial Resection Guide Right",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-701",
+              "Item Description": "Tibial Resection Guide Left",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-702",
+              "Item Description": "Tibial Resection Guide Modular Capture Right",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-703",
+              "Item Description": "Tibial Resection Guide Modular Capture Left",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-704",
+              "Item Description": "Tibial Adjustment Housing – 0° slope (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-705",
+              "Item Description": "Tibial Adjustment Housing – 3° slope",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-713",
+              "Item Description": "Size 1-3 Keel Punch Guide",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-748",
+              "Item Description": "Size 4-8 Keel Punch Guide",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-807",
+              "Item Description": "Tibial Alignment Handle",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-8-002",
+              "Item Description": "Triathlon Size 3-6 Upper Tray",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-8-102",
+              "Item Description": "Triathlon Size 3-6 Lower Tray",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-9-000",
+              "Item Description": "Triathlon Case",
+              "Quantity in Kit": 1
+            }
+          ],
+          "metadata": {
+            "row_count": 34,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Item Description",
+              "Quantity in Kit"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Item Description",
+            "name",
+            "title",
+            "product name",
+            "Quantity in Kit"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445733"
+      }
+    },
+    {
+      "page_id": "page_51",
+      "title": "❌ Missing Data - Page 51",
+      "summary": "Page 51 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 51\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445744"
+      }
+    },
+    {
+      "page_id": "page_52",
+      "title": "Size 3-6 CR Femoral & Tibial Trialing Kit Catalog",
+      "summary": "Page 52 content",
+      "keywords": [
+        "CR Femoral Trial",
+        "CR Tibial Insert Trial",
+        "Triathlon",
+        "Catalog Number",
+        "Quantity in Kit"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Size 3-6 CR Femoral & Tibial Trialing Kit Catalog",
+          "description": "Table from page 52",
+          "rows": [
+            {
+              "Catalog Number": "5510-T-301",
+              "Item Description": "CR Femoral Trial #3 Left",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5510-T-302",
+              "Item Description": "CR Femoral Trial #3 Right",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5510-T-401",
+              "Item Description": "CR Femoral Trial #4 Left",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5510-T-402",
+              "Item Description": "CR Femoral Trial #4 Right",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5510-T-501",
+              "Item Description": "CR Femoral Trial #5 Left",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5510-T-502",
+              "Item Description": "CR Femoral Trial #5 Right",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5510-T-601",
+              "Item Description": "CR Femoral Trial #6 Left",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5510-T-602",
+              "Item Description": "CR Femoral Trial #6 Right",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-309A or 5530-T-309B",
+              "Item Description": "CR Tibial Insert Trial #3 – 9mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-311A or 5530-T-311B",
+              "Item Description": "CR Tibial Insert Trial #3 – 11mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-313A or 5530-T-313B",
+              "Item Description": "CR Tibial Insert Trial #3 – 13mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-316A or 5530-T-316B",
+              "Item Description": "CR Tibial Insert Trial #3 – 16mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-319A or 5530-T-319B",
+              "Item Description": "CR Tibial Insert Trial #3 – 19mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-409A or 5530-T-409B",
+              "Item Description": "CR Tibial Insert Trial #4 – 9mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-411A or 5530-T-411B",
+              "Item Description": "CR Tibial Insert Trial #4 – 11mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-413A or 5530-T-413B",
+              "Item Description": "CR Tibial Insert Trial #4 – 13mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-416A or 5530-T-416B",
+              "Item Description": "CR Tibial Insert Trial #4 – 16mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-419A or 5530-T-419B",
+              "Item Description": "CR Tibial Insert Trial #4 – 19mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-509A or 5530-T-509B",
+              "Item Description": "CR Tibial Insert Trial #5 – 9mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-511A or 5530-T-511B",
+              "Item Description": "CR Tibial Insert Trial #5 – 11mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-513A or 5530-T-513B",
+              "Item Description": "CR Tibial Insert Trial #5 – 13mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-516A or 5530-T-516B",
+              "Item Description": "CR Tibial Insert Trial #5 – 16mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-519A or 5530-T-519B",
+              "Item Description": "CR Tibial Insert Trial #5 – 19mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-609A or 5530-T-609B",
+              "Item Description": "CR Tibial Insert Trial #6 – 9mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-611A or 5530-T-611B",
+              "Item Description": "CR Tibial Insert Trial #6 – 11mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-613A or 5530-T-613B",
+              "Item Description": "CR Tibial Insert Trial #6 – 13mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-616A or 5530-T-616B",
+              "Item Description": "CR Tibial Insert Trial #6 – 16mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5530-T-619A or 5530-T-619B",
+              "Item Description": "CR Tibial Insert Trial #6 – 19mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-8-008",
+              "Item Description": "Triathlon 3-6 CR Upper Tray",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-8-108",
+              "Item Description": "Triathlon 3-6 CR Lower Tray",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-9-000",
+              "Item Description": "Triathlon Case",
+              "Quantity in Kit": 1
+            }
+          ],
+          "metadata": {
+            "row_count": 31,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Item Description",
+              "Quantity in Kit"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Item Description",
+            "name",
+            "title",
+            "product name",
+            "Quantity in Kit"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445762"
+      }
+    },
+    {
+      "page_id": "page_53",
+      "title": "Contents of Size 1, 8 PS Preparation & Trialing Kit",
+      "summary": "Page 53 content",
+      "keywords": [
+        "PS Femoral Trial",
+        "PS Tibial Insert Trial",
+        "MIS PS Box Cutting Guide",
+        "Universal Tibial Template",
+        "Triathlon Case"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Contents of Size 1, 8 PS Preparation & Trialing Kit",
+          "description": "Table from page 53",
+          "rows": [
+            {
+              "Catalog Number": "5511-T-101",
+              "Item Description": "PS Femoral Trial #1 Left",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5511-T-102",
+              "Item Description": "PS Femoral Trial #1 Right",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5511-T-801",
+              "Item Description": "PS Femoral Trial #8 Left",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5511-T-802",
+              "Item Description": "PS Femoral Trial #8 Right",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-109A or 5532-T-109B",
+              "Item Description": "PS Tibial Insert Trial #1 – 9mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-111A or 5532-T-111B",
+              "Item Description": "PS Tibial Insert Trial #1 – 11mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-113A or 5532-T-113B",
+              "Item Description": "PS Tibial Insert Trial #1 – 13mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-116A or 5532-T-116B",
+              "Item Description": "PS Tibial Insert Trial #1 – 16mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-119A or 5532-T-119B",
+              "Item Description": "PS Tibial Insert Trial #1 – 19mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-809A or 5532-T-809B",
+              "Item Description": "PS Tibial Insert Trial #8 – 9mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-811A or 5532-T-811B",
+              "Item Description": "PS Tibial Insert Trial #8 – 11mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-813A or 5532-T-813B",
+              "Item Description": "PS Tibial Insert Trial #8 – 13mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-816A or 5532-T-816B",
+              "Item Description": "PS Tibial Insert Trial #8 – 16mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "5532-T-819A or 5532-T-819B",
+              "Item Description": "PS Tibial Insert Trial #8 – 19mm",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-5-711",
+              "Item Description": "#1 MIS PS Box Cutting Guide",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-5-718",
+              "Item Description": "#8 MIS PS Box Cutting Guide",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-078",
+              "Item Description": "Size 7-8 Keel Punch (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-601",
+              "Item Description": "#1 Universal Tibial Template (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-2-608",
+              "Item Description": "#8 Universal Tibial Template (Optional)",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-8-113",
+              "Item Description": "Triathlon 1 & 8 PS Lower Tray",
+              "Quantity in Kit": 1
+            },
+            {
+              "Catalog Number": "6541-9-000",
+              "Item Description": "Triathlon Case",
+              "Quantity in Kit": 1
+            }
+          ],
+          "metadata": {
+            "row_count": 21,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Item Description",
+              "Quantity in Kit"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Item Description",
+            "name",
+            "title",
+            "product name",
+            "Quantity in Kit"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445808"
+      }
+    },
+    {
+      "page_id": "page_54",
+      "title": "❌ Missing Data - Page 54",
+      "summary": "Page 54 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 54\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445826"
+      }
+    },
+    {
+      "page_id": "page_55",
+      "title": "Size 2, 7 CR Preparation & Trialing Kit and Size 1-8 Max PS Tibial Trialing Kit Contents",
+      "summary": "Page 55 content",
+      "keywords": [
+        "CR Femoral Trial",
+        "CR Tibial Insert Trial",
+        "Express Cutting Block",
+        "Universal Tibial Template",
+        "Triathlon Case"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Size 2, 7 CR Preparation & Trialing Kit Contents",
+          "description": "Table from page 55",
+          "rows": [
+            {
+              "Catalog Number": "5510-T-201",
+              "Item Description": "CR Femoral Trial #2 Left",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5510-T-202",
+              "Item Description": "CR Femoral Trial #2 Right",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5510-T-701",
+              "Item Description": "CR Femoral Trial #7 Left",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5510-T-702",
+              "Item Description": "CR Femoral Trial #7 Right",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-209A or 5530-T-209B",
+              "Item Description": "CR Tibial Insert Trial #2 – 9mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-211A or 5530-T-211B",
+              "Item Description": "CR Tibial Insert Trial #2 – 11mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-213A or 5530-T-213B",
+              "Item Description": "CR Tibial Insert Trial #2 – 13mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-216A or 5530-T-216B",
+              "Item Description": "CR Tibial Insert Trial #2 – 16mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-219A or 5530-T-219B",
+              "Item Description": "CR Tibial Insert Trial #2 – 19mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-709A or 5530-T-709B",
+              "Item Description": "CR Tibial Insert Trial #7 – 9mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-711A or 5530-T-711B",
+              "Item Description": "CR Tibial Insert Trial #7 – 11mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-713A or 5530-T-713B",
+              "Item Description": "CR Tibial Insert Trial #7 – 13mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-716A or 5530-T-716B",
+              "Item Description": "CR Tibial Insert Trial #7 – 16mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5530-T-719A or 5530-T-719B",
+              "Item Description": "CR Tibial Insert Trial #7 – 19mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-1-702E",
+              "Item Description": "#2 Express 4:1 Cutting Block",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-1-707E",
+              "Item Description": "#7 Express 4:1 Cutting Block",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-2-078",
+              "Item Description": "Size 7-8 Keel Punch",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-2-602",
+              "Item Description": "#2 Universal Tibial Template",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-2-607",
+              "Item Description": "#7 Universal Tibial Template",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-8-021",
+              "Item Description": "Triathlon 2 & 7 CR Upper Tray",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-9-000",
+              "Item Description": "Triathlon Case",
+              "Quantity in Kit": "1"
+            }
+          ],
+          "metadata": {
+            "row_count": 21,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Item Description",
+              "Quantity in Kit"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Item Description",
+            "name",
+            "title",
+            "product name",
+            "Quantity in Kit"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Size 1-8 Max PS Tibial Trialing Kit Contents",
+          "description": "Table from page 55",
+          "rows": [
+            {
+              "Catalog Number": "5532-T-122A",
+              "Item Description": "PS Tibial Insert Trial #1 – 22mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-125A",
+              "Item Description": "PS Tibial Insert Trial #1 – 25mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-222A",
+              "Item Description": "PS Tibial Insert Trial #2 – 22mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-225A",
+              "Item Description": "PS Tibial Insert Trial #2 – 25mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-322A",
+              "Item Description": "PS Tibial Insert Trial #3 – 22mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-325A",
+              "Item Description": "PS Tibial Insert Trial #3 – 25mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-422A",
+              "Item Description": "PS Tibial Insert Trial #4 – 22mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-425A",
+              "Item Description": "PS Tibial Insert Trial #4 – 25mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-522A",
+              "Item Description": "PS Tibial Insert Trial #5 – 22mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-525A",
+              "Item Description": "PS Tibial Insert Trial #5 – 25mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-622A",
+              "Item Description": "PS Tibial Insert Trial #6 – 22mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-625A",
+              "Item Description": "PS Tibial Insert Trial #6 – 25mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-722A",
+              "Item Description": "PS Tibial Insert Trial #7 – 22mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-725A",
+              "Item Description": "PS Tibial Insert Trial #7 – 25mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-822A",
+              "Item Description": "PS Tibial Insert Trial #8 – 22mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "5532-T-825A",
+              "Item Description": "PS Tibial Insert Trial #8 – 25mm",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-8-120",
+              "Item Description": "Triathlon 1-8 Max PS – Upper Tray",
+              "Quantity in Kit": "1"
+            },
+            {
+              "Catalog Number": "6541-9-000",
+              "Item Description": "Triathlon Case",
+              "Quantity in Kit": "1"
+            }
+          ],
+          "metadata": {
+            "row_count": 18,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Item Description",
+              "Quantity in Kit"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Item Description",
+            "name",
+            "title",
+            "product name",
+            "Quantity in Kit"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445837"
+      }
+    },
+    {
+      "page_id": "page_56",
+      "title": "Triathlon CR and PS Modified Hollow Tibial Insert Trials Catalog",
+      "summary": "Page 56 content",
+      "keywords": [
+        "Triathlon CR",
+        "PS Modified Hollow Tibial Insert Trials",
+        "part numbers",
+        "sizes",
+        "quantity"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Triathlon CR and PS Modified Hollow Tibial Insert Trials Part Numbers",
+          "description": "Table from page 56",
+          "rows": [
+            {
+              "Catalog Number": "5530-T-X09A",
+              "Description": "CR Modified Hollow Tibial Insert Trial 9mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-T-X11A",
+              "Description": "CR Modified Hollow Tibial Insert Trial 11mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-T-X13A",
+              "Description": "CR Modified Hollow Tibial Insert Trial 13mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-T-X16A",
+              "Description": "CR Modified Hollow Tibial Insert Trial 16mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-T-X19A",
+              "Description": "CR Modified Hollow Tibial Insert Trial 19mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5532-T-X09A",
+              "Description": "PS Modified Hollow Tibial Insert Trial 9mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5532-T-X11A",
+              "Description": "PS Modified Hollow Tibial Insert Trial 11mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5532-T-X13A",
+              "Description": "PS Modified Hollow Tibial Insert Trial 13mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5532-T-X16A",
+              "Description": "PS Modified Hollow Tibial Insert Trial 16mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5532-T-X19A",
+              "Description": "PS Modified Hollow Tibial Insert Trial 19mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5532-T-X22A",
+              "Description": "PS Modified Hollow Tibial Insert Trial 22mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5532-T-X25A",
+              "Description": "PS Modified Hollow Tibial Insert Trial 25mm",
+              "Available Sizes": "Sizes: 1,2,3,4,5,6,7,8",
+              "Quantity": "1 Each Size"
+            }
+          ],
+          "metadata": {
+            "row_count": 12,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Description",
+              "Available Sizes",
+              "Quantity"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Description",
+            "name",
+            "title",
+            "product name",
+            "Available Sizes",
+            "dimensions",
+            "sizing",
+            "Quantity"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445853"
+      }
+    },
+    {
+      "page_id": "page_57",
+      "title": "Triathlon Femoral Component and Baseplate Catalog",
+      "summary": "Page 57 content",
+      "keywords": [
+        "Triathlon Femoral Component",
+        "Baseplate",
+        "Catalog Number",
+        "Component Description",
+        "Available Sizes",
+        "Quantity per Size"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Triathlon Femoral Component and Baseplate Catalog",
+          "description": "Table from page 57",
+          "rows": [
+            {
+              "Catalog Number": "5510-F-X01",
+              "Component Description": "Triathlon CR Femoral Component – Left Cemented",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5510-F-X02",
+              "Component Description": "Triathlon CR Femoral Component – Right Cemented",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5513-F-X01",
+              "Component Description": "Triathlon CR Femoral Component – Left Cementless Beaded",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5513-F-X02",
+              "Component Description": "Triathlon CR Femoral Component – Right Cementless Beaded",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5517-F-X01",
+              "Component Description": "Triathlon CR Femoral Component – Left Cementless Beaded w/Peri-Apatite",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5517-F-X02",
+              "Component Description": "Triathlon CR Femoral Component – Right Cementless Beaded w/Peri-Apatite",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5515-F-X01",
+              "Component Description": "Triathlon PS Femoral Component – Left Cemented",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5515-F-X02",
+              "Component Description": "Triathlon PS Femoral Component – Right Cemented",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5514-F-X01",
+              "Component Description": "Triathlon PS Femoral Component – Left Cementless Beaded",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5514-F-X02",
+              "Component Description": "Triathlon PS Femoral Component – Right Cementless Beaded",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5516-F-X01",
+              "Component Description": "Triathlon PS Femoral Component – Left Cementless Beaded w/Peri-Apatite",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5516-F-X02",
+              "Component Description": "Triathlon PS Femoral Component – Right Cementless Beaded w/Peri-Apatite",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5536-B-X00",
+              "Component Description": "Triathlon Tritanium Baseplate",
+              "Available Sizes": "X = 1,2,3,4,5,6,7,8",
+              "Quantity per Size": "1 Each Size"
+            }
+          ],
+          "metadata": {
+            "row_count": 13,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Component Description",
+              "Available Sizes",
+              "Quantity per Size"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Component Description",
+            "name",
+            "title",
+            "product name",
+            "Available Sizes",
+            "dimensions",
+            "sizing",
+            "Quantity per Size"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445864"
+      }
+    },
+    {
+      "page_id": "page_58",
+      "title": "Triathlon CR Tibial Inserts Catalog",
+      "summary": "Page 58 content",
+      "keywords": [
+        "Triathlon CR Tibial Inserts",
+        "Conventional Polyethylene",
+        "X3",
+        "part numbers",
+        "sizes"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Triathlon CR Tibial Inserts – Conventional Polyethylene and X3 Part Numbers",
+          "description": "Table from page 58",
+          "rows": [
+            {
+              "Catalog Number": "5530-P-X09",
+              "Description of Item": "Triathlon CR Tibial Insert – Conventional Polyethylene 9mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-P-X11",
+              "Description of Item": "Triathlon CR Tibial Insert – Conventional Polyethylene 11mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-P-X13",
+              "Description of Item": "Triathlon CR Tibial Insert – Conventional Polyethylene 13mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-P-X16",
+              "Description of Item": "Triathlon CR Tibial Insert – Conventional Polyethylene 16mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-P-X19",
+              "Description of Item": "Triathlon CR Tibial Insert – Conventional Polyethylene 19mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-G-X09",
+              "Description of Item": "Triathlon CR Tibial Insert – X3 9mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-G-X11",
+              "Description of Item": "Triathlon CR Tibial Insert – X3 11mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-G-X13",
+              "Description of Item": "Triathlon CR Tibial Insert – X3 13mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-G-X16",
+              "Description of Item": "Triathlon CR Tibial Insert – X3 16mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            },
+            {
+              "Catalog Number": "5530-G-X19",
+              "Description of Item": "Triathlon CR Tibial Insert – X3 19mm",
+              "Available Sizes": "X = 1,2,3,4,5,6,7 and 8",
+              "Quantity per Size": "1 Each Size"
+            }
+          ],
+          "metadata": {
+            "row_count": 10,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Description of Item",
+              "Available Sizes",
+              "Quantity per Size"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Description of Item",
+            "name",
+            "title",
+            "product name",
+            "Available Sizes",
+            "dimensions",
+            "sizing",
+            "Quantity per Size"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445875"
+      }
+    },
+    {
+      "page_id": "page_59",
+      "title": "❌ Missing Data - Page 59",
+      "summary": "Page 59 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 59\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445885"
+      }
+    },
+    {
+      "page_id": "page_60",
+      "title": "❌ Missing Data - Page 60",
+      "summary": "Page 60 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 60\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445897"
+      }
+    },
+    {
+      "page_id": "page_61",
+      "title": "Asymmetric Patella and Modular Femoral Distal Fixation Peg Specifications",
+      "summary": "Page 61 content",
+      "keywords": [
+        "Asymmetric Patella",
+        "Metal-Backed Beaded",
+        "Peri-Apatite",
+        "Modular Femoral Distal Fixation Peg",
+        "Triathlon PS Box Preparation"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Conventional Polyethylene Patellas",
+          "description": "Table from page 61",
+          "rows": [
+            {
+              "Catalog Number": "5554-L-320",
+              "Product Description": "Asymmetric Patella – Metal-Backed Beaded with Peri-Apatite",
+              "Product Size (Diameter x Thickness)": "A32mm (Superior/Inferior*) x 10mm",
+              "Quantity": "1"
+            },
+            {
+              "Catalog Number": "5554-L-350",
+              "Product Description": "Asymmetric Patella – Metal-Backed Beaded with Peri-Apatite",
+              "Product Size (Diameter x Thickness)": "A35mm (Superior/Inferior*) x 10mm",
+              "Quantity": "1"
+            },
+            {
+              "Catalog Number": "5554-L-381",
+              "Product Description": "Asymmetric Patella – Metal-Backed Beaded with Peri-Apatite",
+              "Product Size (Diameter x Thickness)": "A38mm (Superior/Inferior*) x 11mm",
+              "Quantity": "1"
+            },
+            {
+              "Catalog Number": "5554-L-401",
+              "Product Description": "Asymmetric Patella – Metal-Backed Beaded with Peri-Apatite",
+              "Product Size (Diameter x Thickness)": "A40mm (Superior/Inferior*) x 11mm",
+              "Quantity": "1"
+            }
+          ],
+          "metadata": {
+            "row_count": 4,
+            "column_count": 4,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Product Description",
+              "Product Size (Diameter x Thickness)",
+              "Quantity"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Product Description",
+            "name",
+            "title",
+            "product name",
+            "Product Size (Diameter x Thickness)",
+            "dimensions",
+            "sizing",
+            "size",
+            "Quantity"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Modular Femoral Distal Fixation Peg Part Number",
+          "description": "Table from page 61",
+          "rows": [
+            {
+              "Catalog Number": "5575-X-000",
+              "Product Description": "Modular Femoral Distal Fixation Peg (2 per pack)"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Product Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Product Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        },
+        {
+          "table_id": "table_3",
+          "title": "Triathlon PS Box Preparation (Optional) Part Numbers",
+          "description": "Table from page 61",
+          "rows": [
+            {
+              "Catalog Number": "6541-5-212",
+              "Product Description": "Sizes 1-2 Triathlon PS Femoral Finishing Punch"
+            },
+            {
+              "Catalog Number": "6541-5-234",
+              "Product Description": "Sizes 3-4 Triathlon PS Femoral Finishing Punch"
+            },
+            {
+              "Catalog Number": "6541-5-256",
+              "Product Description": "Sizes 5-6 Triathlon PS Femoral Finishing Punch"
+            },
+            {
+              "Catalog Number": "6541-5-278",
+              "Product Description": "Sizes 7-8 Triathlon PS Femoral Finishing Punch"
+            },
+            {
+              "Catalog Number": "6541-5-814",
+              "Product Description": "Sizes 1-4 Triathlon PS Femoral Box Trial/Protector"
+            },
+            {
+              "Catalog Number": "6541-5-858",
+              "Product Description": "Sizes 5-8 Triathlon PS Femoral Box Trial/Protector"
+            },
+            {
+              "Catalog Number": "6541-8-122",
+              "Product Description": "Triathlon PS Box Preparation Sizes 1-8 Tray"
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Catalog Number",
+              "Product Description"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Catalog Number",
+            "part number",
+            "Product Description",
+            "name",
+            "title",
+            "product name"
+          ]
+        }
+      ],
+      "raw_content": "Useless",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445906"
+      }
+    },
+    {
+      "page_id": "page_62",
+      "title": "Useless - Page 62",
+      "summary": "Page 62 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445919"
+      }
+    },
+    {
+      "page_id": "page_63",
+      "title": "Useless - Page 63",
+      "summary": "Page 63 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445928"
+      }
+    },
+    {
+      "page_id": "page_64",
+      "title": "Useless - Page 64",
+      "summary": "Page 64 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445937"
+      }
+    },
+    {
+      "page_id": "page_65",
+      "title": "Compatibility of Orthopedic Components",
+      "summary": "Page 65 content",
+      "keywords": [
+        "Orthopedic Components",
+        "Femoral Components",
+        "Insert Compatibility",
+        "Patella Compatibility",
+        "Tibial Baseplates",
+        "Triathlon TS Augments"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Compatibility of Femoral Component and Insert",
+          "description": "Table from page 65",
+          "rows": [
+            {
+              "Femoral Components": "CR Cemented",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "FALSE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Femoral Components": "PS Cemented",
+              "CR Insert Compatibility": "FALSE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "TRUE"
+            },
+            {
+              "Femoral Components": "TS Cemented",
+              "CR Insert Compatibility": "FALSE",
+              "CS Insert Compatibility": "FALSE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "TRUE"
+            },
+            {
+              "Femoral Components": "CR Beaded",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "FALSE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Femoral Components": "PS Beaded",
+              "CR Insert Compatibility": "FALSE",
+              "CS Insert Compatibility": "FALSE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Femoral Components": "CR Beaded with PA",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "FALSE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Femoral Components": "PS Beaded with PA",
+              "CR Insert Compatibility": "FALSE",
+              "CS Insert Compatibility": "FALSE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "FALSE"
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "Femoral Components",
+              "CR Insert Compatibility",
+              "CS Insert Compatibility",
+              "PS Insert Compatibility",
+              "TS Insert Compatibility"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Femoral Components",
+            "CR Insert Compatibility",
+            "CS Insert Compatibility",
+            "PS Insert Compatibility",
+            "TS Insert Compatibility"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Compatibility of Femoral Component and Patella",
+          "description": "Table from page 65",
+          "rows": [
+            {
+              "Femoral Components": "CR Cemented",
+              "Asymmetric Patella Compatibility": "TRUE",
+              "Asymmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Patella Compatibility": "TRUE"
+            },
+            {
+              "Femoral Components": "PS Cemented",
+              "Asymmetric Patella Compatibility": "TRUE",
+              "Asymmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Patella Compatibility": "TRUE"
+            },
+            {
+              "Femoral Components": "TS Cemented",
+              "Asymmetric Patella Compatibility": "TRUE",
+              "Asymmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Patella Compatibility": "TRUE"
+            },
+            {
+              "Femoral Components": "CR Beaded",
+              "Asymmetric Patella Compatibility": "TRUE",
+              "Asymmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Patella Compatibility": "TRUE"
+            },
+            {
+              "Femoral Components": "PS Beaded",
+              "Asymmetric Patella Compatibility": "TRUE",
+              "Asymmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Patella Compatibility": "TRUE"
+            },
+            {
+              "Femoral Components": "CR Beaded with PA",
+              "Asymmetric Patella Compatibility": "TRUE",
+              "Asymmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Patella Compatibility": "TRUE"
+            },
+            {
+              "Femoral Components": "PS Beaded with PA",
+              "Asymmetric Patella Compatibility": "TRUE",
+              "Asymmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Metal Backed Patella Compatibility*": "TRUE",
+              "Symmetric Patella Compatibility": "TRUE"
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "Femoral Components",
+              "Asymmetric Patella Compatibility",
+              "Asymmetric Metal Backed Patella Compatibility*",
+              "Symmetric Metal Backed Patella Compatibility*",
+              "Symmetric Patella Compatibility"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Femoral Components",
+            "Asymmetric Patella Compatibility",
+            "Asymmetric Metal Backed Patella Compatibility*",
+            "Symmetric Metal Backed Patella Compatibility*",
+            "Symmetric Patella Compatibility"
+          ]
+        },
+        {
+          "table_id": "table_3",
+          "title": "Compatibility of Tibial Insert and Baseplate",
+          "description": "Table from page 65",
+          "rows": [
+            {
+              "Tibial Baseplates": "Cemented Cruciform",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Tibial Baseplates": "Cemented Universal",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "TRUE"
+            },
+            {
+              "Tibial Baseplates": "Beaded Cruciform",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Tibial Baseplates": "Beaded Screw Fix",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Tibial Baseplates": "Beaded with PA Cruciform",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Tibial Baseplates": "Beaded with PA Screw Fix",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "FALSE"
+            },
+            {
+              "Tibial Baseplates": "Tritanium",
+              "CR Insert Compatibility": "TRUE",
+              "CS Insert Compatibility": "TRUE",
+              "PS Insert Compatibility": "TRUE",
+              "TS Insert Compatibility": "FALSE"
+            }
+          ],
+          "metadata": {
+            "row_count": 7,
+            "column_count": 5,
+            "data_types": [],
+            "searchable_columns": [
+              "Tibial Baseplates",
+              "CR Insert Compatibility",
+              "CS Insert Compatibility",
+              "PS Insert Compatibility",
+              "TS Insert Compatibility"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Tibial Baseplates",
+            "CR Insert Compatibility",
+            "CS Insert Compatibility",
+            "PS Insert Compatibility",
+            "TS Insert Compatibility"
+          ]
+        }
+      ],
+      "raw_content": "## Femoral Component/Insert Compatibility\n\nSize Matching: One up, one down, e.g., size 5 femur with size 4 or 6 insert/baseplate.\n\nNote: Cementless implants are not to be used with cement.\n\n\n## Femoral Component/Patella Compatibility\n\nSize Matching: Every patella articulates with every femur due to a common radius across all sizes.\n\n*The Triathlon Tritanium Metal-Backed Patella is not available for supply in Australia as it has not yet been included on the Australian Registry of Therapeutic Goods (ARTG).\n\n\n\n## Tibial Insert/Baseplate Compatibility\n\nSize Matching: Size Specific, e.g., size 4 insert to be used only with size 4 baseplate.\n\nNote: TS insert can only be used with the cemented universal baseplate.\n\n\n\n### Triathlon TS Augments\n\nDistal Augments are for use with both the medial and lateral portions of the side indicated, e.g. #4 right is used for medial and lateral compartments on a right femur.\n\nPosterior Augments are universal size specific, e.g. size 4 posterior augments are for the size 4 femur.\n\nTibial Augments are size specific and come in left medial/right lateral or right medial/left lateral configurations.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445946"
+      }
+    },
+    {
+      "page_id": "page_66",
+      "title": "Useless - Page 66",
+      "summary": "Page 66 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 66",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-02T23:37:49.445968"
+      }
+    }
+  ]
+}

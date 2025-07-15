@@ -1,0 +1,689 @@
+{
+  "document_info": {
+    "document_name": "original",
+    "export_date": "2025-07-01T16:49:36.242780",
+    "total_pages": 16,
+    "total_tables": 9,
+    "portfolio": "hips",
+    "review_status": {
+      "approved_pages": 9,
+      "flagged_pages": 0,
+      "missing_pages": [
+        2,
+        5,
+        14,
+        15
+      ],
+      "incomplete_pages": [],
+      "useless_pages": [
+        1,
+        2,
+        3,
+        14,
+        15,
+        16
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_id": "page_1",
+      "title": "Useless - Page 1",
+      "summary": "Page 1 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "useless",
+          "description": "Table from page 1",
+          "rows": [
+            {
+              "content": "useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.242915"
+      }
+    },
+    {
+      "page_id": "page_2",
+      "title": "Useless - Page 2",
+      "summary": "Page 2 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.242936"
+      }
+    },
+    {
+      "page_id": "page_3",
+      "title": "Useless - Page 3",
+      "summary": "Page 3 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.242947"
+      }
+    },
+    {
+      "page_id": "page_4",
+      "title": "Trident® Constrained Acetabular Insert Technical Specifications",
+      "summary": "Page 4 content",
+      "keywords": [
+        "Trident® Constrained Acetabular Insert",
+        "hip replacement",
+        "Stryker UHR® bipolar head",
+        "dynamic valgus alignment",
+        "UHMWPE",
+        "CoCr",
+        "Titanium Alloy"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 4",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        },
+        {
+          "table_id": "table_2",
+          "title": "Useless",
+          "description": "Table from page 4",
+          "rows": [
+            {
+              "Content": "Useless"
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "\n# Introduction\n\nThe Trident® Constrained Acetabular Insert is indicated for use in primary and revision total hip patients who exhibit a high risk of hip dislocation. It should be used when more conservative methods of soft tissue management, such as lengthening the femoral neck or lateralizing the joint’s center of rotation, are insufficient for restoring joint stability.\n\nThe Trident® Constrained Acetabular Insert offers less range of motion than standard total hip replacement components but can be a better solution when the likelihood of dislocation is high.\n\nThe Trident® Constrained Acetabular Insert is designed specifically for the Stryker UHR® bipolar head. The bipolar head is preassembled in the insert and securely retained by a titanium alloy retaining ring. \nThe Trident® 0° and 10°\nConstrained Acetabular Inserts can only\nbe used in a Trident® Acetabular Shell.\nThe Trident® 0° All-Poly Constrained\nInsert can be cemented into an existing\nshell or cage device, or directly into the\nacetabulum.\n\nArticulation occurs at both the femoral head-to-bipolar interface and at the bipolar-to-insert interface.\n\nA unique, split-ring locking mechanism\nfacilitates ease of femoral head assembly,\nyet provides the potential for enhanced\nprotection against component\ndisassembly.\nA head removal key allows for easy,\nnon-destructive component disassembly.\n\nA dynamic valgus alignment creates a constant neutral alignment of the bipolar within the insert during weight bearing to provide increased head coverage. This prevents inner bearing articulation from occurring on the locking mechanism, thus sparing the mechanism from extreme loading.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.242960"
+      }
+    },
+    {
+      "page_id": "page_5",
+      "title": "❌ Missing Data - Page 5",
+      "summary": "Page 5 content",
+      "keywords": [
+        "missing",
+        "unprocessed",
+        "needs_attention",
+        "placeholder"
+      ],
+      "tables": [],
+      "raw_content": "# Missing Page Data\n\n⚠️ **This page was not processed by the extraction pipeline.**\n\n**Page Number:** 5\n\n## Possible Reasons:\n- Processing pipeline failed on this page\n- Complex page layout that couldn't be parsed\n- Image-only content with no extractable data\n- PDF corruption or technical issues\n\n## Next Steps:\n1. 🔄 **Reprocess** this page individually\n2. 🔍 **Manual review** of the original PDF\n3. 🚩 **Flag for attention** during quality control\n\n---\n*This is an automatically generated placeholder for missing page data.*\n",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.242974"
+      }
+    },
+    {
+      "page_id": "page_6",
+      "title": "Cementless Options",
+      "summary": "Page 6 content",
+      "keywords": [
+        "Stryker femoral",
+        "Trident® metal shell",
+        "primary surgery",
+        "revision surgery",
+        "component selection"
+      ],
+      "tables": [],
+      "raw_content": "\n# Cementless Options\n\nPrimary Surgery:\n\nWhen used in a primary surgery, the Stryker femoral and Trident® metal shell components should be implanted in accordance with the applicable Surgical Protocols. However, if an uncemented metal shell is being implanted with the Trident® Constrained Acetabular Insert, supplemental fixation, with a minimum of two (2) bone screws, is recommended.\n\nRevision Surgery:\n\nWhen the Trident® Constrained Acetabular Insert is chosen for use in the revision of a Trident® Acetabular Component, the existing Trident® insert should be removed in accordance with the appropriate Stryker Surgical Protocol. Care should be taken not to mar the interior of the existing metal shell when removing the insert. The stability of the metal shell and the locking barbs must be assessed for any damage. Also, remove any tissue that may get wedged between the insert and shell lip.\n\nRevising the Metal Shell:\n\nIf the shell requires replacement due to instability, bone loss, damage to the locking ring groove, or any other condition, the metal shell may be replaced with a Stryker Trident® shell in accordance with the appropriate Surgical Protocol. If an uncemented metal shell is being implanted with the Trident® Constrained Acetabular Insert, supplemental fixation, with a minimum of two (2) bone screws, is recommended.\n\nRetaining the Metal Shell:\n\nOnce the integrity of the existing metal shell is established, remove any membranes from the screw holes and inside the shell. Also remove any tissue that may impinge the polyethylene liner engagement at the periphery of the metal shell.\n\nTrial Evaluation:\n\nThe appropriate size Trident® Constrained Trial Insert is selected to evaluate joint mechanics. Refer to the trial table on page 6 for the appropriate size trial insert. The Trident® Constrained Trial Inserts contain a screw mechanism to secure the trial to the acetabular shell. The trial insert is inserted into the Trident® Acetabular Shell and the screw mechanism must be tightened by using the Stryker Torx Screw Drivers. Once the trial insert is fully seated, the trial\nreduction can be performed. Once the\ntrial reduction is performed, remove\nthe trial insert.\n\n\nComponent Selection\n\nSelect the appropriate sized Trident® Constrained Acetabular Insert by correlating the insert letter designation (alpha code) with that of the shell that corresponds to the head size.\n\n\n# Cementless Options\n\nPrimary Surgery:\n\nWhen used in a primary surgery, the Stryker femoral and Trident® metal shell components should be implanted in accordance with the applicable Surgical Protocols. However, if an uncemented metal shell is being implanted with the Trident® Constrained Acetabular Insert, supplemental fixation, with a minimum of two (2) bone screws, is recommended.\n\nRevision Surgery:\n\nWhen the Trident® Constrained Acetabular Insert is chosen for use in the revision of a Trident® Acetabular Component, the existing Trident® insert should be removed in accordance with the appropriate Stryker Surgical Protocol. Care should be taken not to mar the interior of the existing metal shell when removing the insert. The stability of the metal shell and the locking barbs must be assessed for any damage. Also, remove any tissue that may get wedged between the insert and shell lip.\n\nRevising the Metal Shell:\n\nIf the shell requires replacement due to instability, bone loss, damage to the locking ring groove, or any other condition, the metal shell may be replaced with a Stryker Trident® shell in accordance with the appropriate Surgical Protocol. If an uncemented metal shell is being implanted with the Trident® Constrained Acetabular Insert, supplemental fixation, with a minimum of two (2) bone screws, is recommended.\n\nRetaining the Metal Shell:\n\nOnce the integrity of the existing metal shell is established, remove any membranes from the screw holes and inside the shell. Also remove any tissue that may impinge the polyethylene liner engagement at the periphery of the metal shell.\n\nTrial Evaluation:\n\nThe appropriate size Trident® Constrained Trial Insert is selected to evaluate joint mechanics. Refer to the trial table on page 6 for the appropriate size trial insert. The Trident® Constrained Trial Inserts contain a screw mechanism to secure the trial to the acetabular shell. The trial insert is inserted into the Trident® Acetabular Shell and the screw mechanism must be tightened by using the Stryker Torx Screw Drivers. Once the trial insert is fully seated, the trial\nreduction can be performed. Once the\ntrial reduction is performed, remove\nthe trial insert.\n\n\nComponent Selection\n\nSelect the appropriate sized Trident® Constrained Acetabular Insert by correlating the insert letter designation (alpha code) with that of the shell that corresponds to the head size.\n\nImplantation\nFor proper seating and locking of the\nconstrained insert, the insert must be\nboth rotationally and axially aligned\nto the acetabular shell prior to final\nimpaction. While holding the insert in\nyour fingers, rotationally align the insert\nlocking grooves to the barbs of the shell\nmaking sure the location of the 10° lip\nmatches that of the trial insert.\nOnce the insert is rotationally aligned,\npress the insert into the shell while\nkeeping the axis of the insert parallel\nto the axis of the shell (Figure 2).\nPush the insert into the shell until the\ninsert will not go any further. Care must\nbe taken not to rock, tilt, or misalign\nthe insert prior to final impaction, as\nthis may damage the polyethylene\nlocking bead thus preventing proper\nseating and locking.\nLocking of the Trident® Constrained\nAcetabular Insert into the appropriately\nsized Trident® metal shell is the same as\nstandard Trident®Acetabular Polyethylene\nInserts. The constrained insert, however,\ncannot be impacted into the shell with\nthe Stryker Acetabular Cup Insert\nImpactor (2101-0130).\n\n\nLocking Insert into\nShell\nMethod One\nSelect the Constrained\nLinerInserter/Impactor\nTip (2199-20XX or 2199-\n20XX Rev. C or greater)\nthat corresponds to the\nfemoral head size (Figure 3).\nIf using the 2199-20XX\nImpactor Tip – Thread\nthe tip onto the Trident®\nCup Positioner / Impactor\nhandle (2101-0200,\nFigure 4A). If using the\n2199-20XX Rev. C or\ngreater Impactor Tip –\nThread the metal adapter\nonto the tip. Load the tip\ninto the Insert Positioner /\nImpactor Handle (2111-\n0000B, Figure 4B). Insert\nthe tip into the bipolar\n(Figure 5). Impact the\ninsert to its final seating\nwith the rim of the\nImpactor Tip flush with\nthe face of the insert.\nCheck for proper seating\nby assuring that the\nperiphery of the insert is\nin contact with the shell,\ncircumferentially.\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.242983"
+      }
+    },
+    {
+      "page_id": "page_7",
+      "title": "Methods for Using Femoral Head Impactor",
+      "summary": "Page 7 content",
+      "keywords": [
+        "Femoral Head Impactor",
+        "Howmedica Osteonics Threaded Trial Head",
+        "Impactor/Extractor Handle",
+        "Head Removal Key",
+        "UHR® component"
+      ],
+      "tables": [],
+      "raw_content": "\nMethod Two\n\nUse the Cutting Edge Femoral Head Impactor (1104-1000) to strike against the spherical surface of the inner bipolar metal shell. Alternatively, the Command Femoral Head Impactor (6266-0-140) may be used. Impact the insert to its final seating with the force and instrument perpendicular to the shell face. Check for proper seating by assuring that the periphery of the insert is in contact with the shell, circumferentially.\n\n\nMethod Three\n\nSelect a Threaded Trial Head (1205-0022 / 1205-0028 / 1205-0032) with the same outer diameter as the inner diameter of the chosen constrained insert. Also, select an appropriately sized Head Removal Key (HI-UHRK-3638 / HI-UHRK-28 / HI-UHRK-32).\n\nWARNING: Ensure the Head Removal\nKey is available to remove the\nThreaded Trial Head before proceeding.\n\nAssemble the Howmedica Osteonics\nThreaded Trial Head onto the\nHowmedica Osteonics Threaded\nImpactor/Extractor Handle (2101-0004).\nOnce assembled, insert the Threaded\nTrial Head into the bipolar component\nof the constrained insert. Impact the\ninsert to its final seating with the force\nand instrument perpendicular to the\n\nshell face. Check for proper seating by\nassuring that the periphery of the insert\nis in contact with the shell,\ncircumferentially. Once the insert is\nseated, remove the Threaded Trial Head /\nImpactor / Extractor Handle assembly\nfrom the constrained bearing insert\nwith the selected Head Removal Key.\nUse of the Head Removal Key\nInsert the Head Removal Key into the\ninner bearing area between the bipolar\ncomponent and the Threaded Trial\nHead of the Impactor / Extractor and\npush upward toward the UHR® head\ncenter. This spreads the locking ring\nwithin the UHR® component. With a\ngentle pulling action, remove the\nImpactor / Extractor Handle assembly\nand the key from the constrained insert\nat the same time.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.242992"
+      }
+    },
+    {
+      "page_id": "page_8",
+      "title": "Femoral Bearing Head/Insert Assembly",
+      "summary": "Page 8 content",
+      "keywords": [
+        "Femoral Bearing Head",
+        "Insert Assembly",
+        "Head Removal Key",
+        "Constrained Insert Removal",
+        "Femoral Head Compatibility"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Femoral Head Compatibility with Stryker Trident® Constrained Insert",
+          "description": "Table from page 8",
+          "rows": [
+            {
+              "Femoral Head Component": "CoCr Morse Taper",
+              "Catalog Number Series": "1001-XXXX"
+            },
+            {
+              "Femoral Head Component": "CoCr C-Taper",
+              "Catalog Number Series": "6001-XXXX"
+            },
+            {
+              "Femoral Head Component": "CoCr/LFIT™ Morse Taper",
+              "Catalog Number Series": "01-XXXX and S-1399-HHXX"
+            },
+            {
+              "Femoral Head Component": "CoCr/LFIT™ C-Taper",
+              "Catalog Number Series": "06-XXXX and S-1400-HHXX"
+            },
+            {
+              "Femoral Head Component": "Alumina C-Taper",
+              "Catalog Number Series": "17-XXXXE"
+            },
+            {
+              "Femoral Head Component": "Delta Ceramic C-Taper",
+              "Catalog Number Series": "18-XXXX"
+            },
+            {
+              "Femoral Head Component": "Modified V40™ CoCr",
+              "Catalog Number Series": "6260-4-XXX and 6260-5-XXX"
+            },
+            {
+              "Femoral Head Component": "CoCr/LFIT V40™",
+              "Catalog Number Series": "6260-9-XXX"
+            },
+            {
+              "Femoral Head Component": "Alumina V40™",
+              "Catalog Number Series": "6260-7-XXX and 6565-0-XXX"
+            },
+            {
+              "Femoral Head Component": "Delta Ceramic V40™",
+              "Catalog Number Series": "6570-0-XXX"
+            },
+            {
+              "Femoral Head Component": "PCA® CoCr +15mm",
+              "Catalog Number Series": "2284-0-XXX"
+            },
+            {
+              "Femoral Head Component": "Modified PCA® CoCr",
+              "Catalog Number Series": "6280-0-XXX"
+            }
+          ],
+          "metadata": {
+            "row_count": 12,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Femoral Head Component",
+              "Catalog Number Series"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Femoral Head Component",
+            "Catalog Number Series",
+            "catalog number",
+            "part number"
+          ]
+        }
+      ],
+      "raw_content": "\n# Femoral Bearing Head/Insert Assembly\n\nAfter assembly of the constrained insert into the metal shell, the head of the implanted femoral stem is positioned on the opening of the constrained insert’s bipolar component. If utilizing a femoral stem with a modular femoral head, the modular femoral head must be fully seated onto the femoral stem trunnion prior to assembly with the Trident® Constrained Acetabular Insert (See Table 2 for head compatibility). The bipolar component’s opening must be fully visible before introducing the femoral bearing head into the component. \n\nReduce the stem in the standard\nfashion by elevating the patient’s leg\nand applying a slight downward force\nuntil the head snaps into the bipolar\ncomponent. The bipolar component\nhas a positive locking mechanism which\nenables the bipolar and femoral head to\nbe assembled with less than five pounds\nof force. The locking mechanism\nconsists of a split polyethylene ring\nwhich is captured within the bipolar’s\npolyethylene insert. As the femoral head\nis inserted into the bipolar, the assembly\nload forces the expansion of the split\nring within the bipolar. Upon clearing\nthe maximum diameter of the head, the ring contracts to its normal diameter,\nresulting in the entrapment of the head\nwithin the bipolar.\n\n\nOnce the joint is reduced, the femoral head is retained within the constrained insert and can be removed only through use of a Stryker UHR® Head Removal Key.\n\n# Use of the Head Removal Key\n\nInsert the Head Removal Key into the inner bearing area between the bipolar component and the Threaded Trial Head of the Impactor/Extractor and push upward toward the UHR® head center. This spreads the locking ring within the UHR® component. With a gentle pulling action, remove the Impactor/Extractor Handle assembly and the key from the constrained insert at the same time.\n\n\n# Constrained Insert Removal\n\nRemoval of the constrained acetabular cup insert, if necessary, may be accomplished using a 3.3mm drill bit and a self-tapping bone screw with a 3.4mm or higher major thread diameter and a round bullet tip. Rotate the bipolar component within the cup insert to allow the drill access to the medial wall\nof the insert. Using a 3.3mm drill bit,\ncreate a hole slightly off-center of the\nmedial wall of the insert. Caution should\nbe taken to avoid drilling through the\n\ndome hole of the metal shell. The deep-\nening of this hole should be stopped\n\nbefore contact is made with the inner\nsurface of the metal shell.\nThe appropriately-sized bone screw\nis started into the drill hole (a 35mm\nscrew length or longer is recommended).\nAdvance the screw until the tip contacts\nthe inner surface of the metal shell.\nContinued advancement of the screw\nlevers the cup insert from its seated\nposition. Once the cup insert has been\nlifted from its fully-seated position by\nthe bone screw, additional distractive\nforce may be applied with an elevator\nor osteotome.\n\n\n\nIf access to the medial wall of the insert is unattainable, the titanium alloy retaining ring on the outer rim of the acetabular insert may be removed using an osteotome and/or forceps. Insert removal may proceed as indicated above, only in the area of the outer rim of the insert. The cup insert may also be removed by utilizing an osteotome, elevator and/or forceps at the cup insert/metal shell junction, to pry the insert from its locked position within the cup shell.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243000"
+      }
+    },
+    {
+      "page_id": "page_9",
+      "title": "Cementable Options",
+      "summary": "Page 9 content",
+      "keywords": [
+        "Howmedica Osteonics Cementing",
+        "Implanted Shell",
+        "Cage",
+        "Trident® All-Poly Constrained Insert",
+        "Trident® All-Poly Constrained Trial Insert",
+        "Stryker Torx Screwdrivers",
+        "Simplex™ bone cement",
+        "Head Removal Key"
+      ],
+      "tables": [],
+      "raw_content": "Option 1:\nCementing into an Implanted\nShell or Cage:\nFollowing the fixation of a shell or cage\ndevice, a Trident® All-Poly Constrained\nInsert may be cemented into the device.\nTrialing\nTo assess head center placement, a trial\nreduction may be performed by using\nthe appropriate Trident® All-Poly\nConstrained Trial Insert and head trial\n\nto assess joint mechanics and appropri-\nate head center placement. Refer to the\n\ntrial table on page 6 for the appropriate\nsize trial insert. The Trident® All-Poly\nConstrained Trial Inserts contain a\nscrew mechanism to secure the trial to\na shell or cage with compatible dome\nhole threads. The screw mechanism\nmust be tightened using the Stryker\nTorx Screwdrivers.\nNOTE: The insert trials are the same\nsize as the actual implant, and do not\ntake into account a cement mantle.\n\nCementing and Inserting Implant\nOnce trial reduction is complete, the\ninsert can now be cemented in place\n(see Table 3 on page 2).\n\nMethod One\n\nIf using the 2199-20XX Impactor\nTip – Thread the Constrained Liner\nInserter/ Impactor Tip onto the Trident®\n\nCup Impactor handle. Place the antever-\nsion rod in the correct position.\n\nIf using the 2199-20XX Rev. C or\ngreater Impactor Tip – Thread the\nmetal adapter onto the tip. Load the tip\ninto the Insert Positioner / Impactor\nHandle.\nMount the selected Trident® All-Poly\nConstrained Insert on the inserter tip\n(Figure 5 on page 3). Mix one pack of\nSimplex bone cement according to the\nmanufacturer’s specifications and lavage\n\nthe inside of the cup shell. Dry thor-\noughly prior to the introduction of the\n\nbone cement. The cement is mixed and\nis inserted into the acetabular shell in\nbolusform. Once it has achieved a doughy\nstate, the insert, mounted on the inserter\ntip, is then pressed gently into the cup\nand driven deeply into the bed of cement.\nThe angle guide allows assessment of\nproper cup position, which is typically\n40 to 45 degrees of abduction or lateral\n\nopening and 10 to 20 degrees of antev-\nersion.\n\nNOTE: When determining the proper\nangulation of the insert, it is important to\ncritically evaluate the anatomic landmarks\nand patient anatomy for optimum\nplacement.\n\nIt is essential that the insert be com-\npressed into the cup and the introducer\n\nheld as still as possible until cement has\nhardened. After the cement is cured,\nthe insert introducer is then carefully\nremoved from the insert. Take special\nmeasures to remove all excess bone\ncement from the edges of the cup by\nutilizing curettes and osteotomes.\n\nMethod Two\n\nSelect a Threaded Trial Head (1205-0022\n/ 1205-0028 / 1205-0032) with the same\nouter diameter as the inner diameter of\nthe chosen constrained insert. Also,\nselect an appropriately sized Head\n\nRemoval Key (HI-UHRK-3638 / HI-\nUHRK-28 / HI-UHRK-32).\n\nWARNING: Ensure the Head Removal\nKey is available to remove the\nThreaded Trial Head before proceeding.\n\nAssemble the Howmedica Osteonics\nThreaded Trial Head onto the\nHowmedica Osteonics Threaded\nImpactor/Extractor Handle (2101-0004).\nOnce assembled, insert the Threaded\nTrial Head into the bipolar component\nof the constrained insert. Mix one pack\nof SimplexTM bone cement according to\nthe manufacturer’s specifications and\nlavage the inside of the cup shell. Dry\nthoroughly prior to introduction of the\nbone cement. The cement is mixed and\nis inserted into the acetabular shell in\nbolus form. Once it has achieved a\ndoughy state, the insert, mounted on\nthe introducer (Impactor / Extractor\n\nHandle Assembly), is then pressed gen-\ntly into the cup and driven deeply into\n\nthe bed of cement.\nNOTE: When determining the proper\nangulation of the insert, it is important\n\nto critically evaluate the anatomic land-\nmarks and patient anatomy for opti-\nmum placement.\n\nIt is essential that the insert be com-\npressed into the cup and the introducer\n\n(Impactor / Extractor Handle Assembly)\nheld as still as possible until cement has\nhardened. After the cement is cured, the\ninsert introducer (Impactor / Extractor\nHandle Assembly) is then carefully\nremoved from the insert with the selected\nHead Removal Key. Take special measures\nto remove all excess bone cement from\nthe edges of the cup by utilizing curettes\nand osteotomes.\nUse of the Head Removal Key\nInsert the Head Removal Key into the\ninner bearing area between the bipolar\ncomponent and the Threaded Trial\nHead of the Impactor / Extractor and\npush upward toward the UHR® head\ncenter. This spreads the locking ring\nwithin the UHR® component. With a\ngentle pulling action, remove the\nImpactor / Extractor Handle assembly\nand the key from the constrained insert\nat the same time.\nHead Assembly\nGo back to page 5 and proceed with\nthe instructions for final implant head\nassembly.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243012"
+      }
+    },
+    {
+      "page_id": "page_10",
+      "title": "Preparing the Acetabulum for Cementing and Trident® Constrained Acetabular Insert Trials",
+      "summary": "Page 10 content",
+      "keywords": [
+        "acetabulum",
+        "cementing",
+        "reaming",
+        "Trident® Constrained Acetabular Insert Trials",
+        "drivers"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Trident® Constrained Acetabular Insert Trials",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Trident® 0° Insert Trials": "2270-22D",
+              "Trident® 10° Insert Trials": "2230-22E",
+              "Trident® All-Poly Insert Trials": "1090-2244"
+            },
+            {
+              "Trident® 0° Insert Trials": "2270-22E",
+              "Trident® 10° Insert Trials": "2230-28F",
+              "Trident® All-Poly Insert Trials": "1090-2246"
+            },
+            {
+              "Trident® 0° Insert Trials": "2270-28F",
+              "Trident® 10° Insert Trials": "2230-28G",
+              "Trident® All-Poly Insert Trials": "1090-2248"
+            },
+            {
+              "Trident® 0° Insert Trials": "2270-28G",
+              "Trident® 10° Insert Trials": "2230-28H",
+              "Trident® All-Poly Insert Trials": "1090-2850"
+            },
+            {
+              "Trident® 0° Insert Trials": "2270-32H",
+              "Trident® 10° Insert Trials": "2230-28I",
+              "Trident® All-Poly Insert Trials": "1090-2852"
+            },
+            {
+              "Trident® 0° Insert Trials": "2270-32I",
+              "Trident® 10° Insert Trials": "2230-28J",
+              "Trident® All-Poly Insert Trials": "1090-2854"
+            },
+            {
+              "Trident® 0° Insert Trials": "2270-32J",
+              "Trident® 10° Insert Trials": "",
+              "Trident® All-Poly Insert Trials": "1090-3256"
+            },
+            {
+              "Trident® 0° Insert Trials": "",
+              "Trident® 10° Insert Trials": "",
+              "Trident® All-Poly Insert Trials": "1090-3258"
+            },
+            {
+              "Trident® 0° Insert Trials": "",
+              "Trident® 10° Insert Trials": "",
+              "Trident® All-Poly Insert Trials": "1090-3260"
+            }
+          ],
+          "metadata": {
+            "row_count": 9,
+            "column_count": 3,
+            "data_types": [],
+            "searchable_columns": [
+              "Trident® 0° Insert Trials",
+              "Trident® 10° Insert Trials",
+              "Trident® All-Poly Insert Trials"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Trident® 0° Insert Trials",
+            "Trident® 10° Insert Trials",
+            "Trident® All-Poly Insert Trials"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Drivers Included in Bone Screw Tray ",
+          "description": "Table from page 10",
+          "rows": [
+            {
+              "Driver Type": "Straight Driver Shaft",
+              "Product Code": "2107-1014"
+            },
+            {
+              "Driver Type": "Universal Driver Shaft",
+              "Product Code": "2107-1015"
+            },
+            {
+              "Driver Type": "Flexible Driver Shaft",
+              "Product Code": "2107-1016"
+            },
+            {
+              "Driver Type": "Straight Driver Shaft - 6\"",
+              "Product Code": "2107-1017"
+            },
+            {
+              "Driver Type": "Captive Twist Straight Driver Shaft",
+              "Product Code": "2107-2014"
+            },
+            {
+              "Driver Type": "Ratchet Handle for Drivers",
+              "Product Code": "2107-1000"
+            }
+          ],
+          "metadata": {
+            "row_count": 6,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Driver Type",
+              "Product Code"
+            ],
+            "data_category": "general_data",
+            "enhanced": true
+          },
+          "keywords": [
+            "Driver Type",
+            "Product Code"
+          ]
+        }
+      ],
+      "raw_content": "Option 2: \nCementing into the Acetabulum:\nTo cement the Trident® All-Poly\nConstrained Insert directly into the\nacetabulum, the bone must first be\nproperly prepared. This is done through\nspherical acetabular reaming.\n\nReaming:\nAcetabular reaming is initiated with\na reamer size that fits easily into the\nsocket. This allows reaming based on\nthe anatomic center of the acetabulum.\nInitial reaming should be carried out\nto identify the medial wall. Reaming\nshould medialize the socket to this\npoint but care should be taken not to\ncompromise or violate the medial wall.\nNOTE: If too small a reamer is chosen\nto begin with, the reaming process\nmay begin eccentrically, thus removing\nexcessive anterior or posterior wall bone\nstock with resultant non-anatomic\nplacement of the acetabular component.\nThe low profile design of the Cutting\nEdge Spherical Reamer necessitates the need to ream to the full depth. The\nreamer head should be driven to the\npoint where the rim/cross bar contacts\nthe acetabular wall at the peripheral\nlunate region. Removal of the reamer\nfrom the handle is performed by pulling\nback on the locking sleeve and rotating\nthe reamer head a quarter-turn in a\nclockwise direction.\nNOTE: Care should be taken not to\nenlarge or distort the acetabulum by\neccentric reaming. Final acetabular\nreaming ideally shows the hemispherical\nacetabulum denuded of cartilage, with\nthe subchondral plate preferably intact,\n\nand the anterior acetabular wall pre-\nserved.\n\nIt is believed that the subchondral plate\nfunctions as an important load-sharing\nand support mechanism. Preserving as\nmuch of the subchondral plate as possible\nmay help preserve the qualities of the\nbone/metal composite.\nReaming should be done to the desired\nimplantation size.\nNOTE: It is recommended to have a\n2mm cement mantle, so 4mm should\nbe added to the respective Trident®\nConstrained Insert Outer Bearing OD\nSpherical Diameter (see Table 3 on page\n2) to equal the implantation size (i.e.,\nif you ream to 56mm, add cement and\nimplant the insert with a 52mm OD).\nNOTE: The Cutting Edge Spherical\nReamers are very aggressive and perform\nbest when sharp. Care should be taken\nto protect the reamer from unnecessary\nhandling, as dull or damaged cutting\nteeth may cause improper reaming. Dull\ncutting teeth will resist hard bone and will deflect to cut softer bone. This situation may result in an irregularly shaped or enlarged acetabulum preparation.\n\nCement Fixation Holes:\n\nAfter completion of reaming, fixation\nholes may be made in the subchondral\nplate. These can be made with a flexible\ndrill and drill guide provided in the\ninstrument set, a curette, or a power\nbur. A single primary fixation hole\nshould be created in each of three areas:\nthe acetabular dome, ischial ramus, and\npubic ramus. Additional holes can be\ncreated at the surgeon’s discretion.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243021"
+      }
+    },
+    {
+      "page_id": "page_11",
+      "title": "Cementing and Inserting Implant",
+      "summary": "Page 11 content",
+      "keywords": [
+        "implant",
+        "cementing",
+        "inserting",
+        "Trident® All-Poly Constrained Insert",
+        "Simplex bone cement"
+      ],
+      "tables": [],
+      "raw_content": "Trialing\nTrialing can be accomplished by using\nthe respective Insert Trial. The insert\ntrials are the same size as the actual\nimplant and do not take into account\nthe cement mantle. The trials should also be used to assess the fit and estimate final orientation of the cup prior to implantation.\nNOTE: To maintain a 2mm cement\nmantle, a trial 4mm greater than the\nfinal implant may be used to assess\nreaming depth. Take care to note the\nassociated head size of the larger trial.\n\nCementing and Inserting Implant:\nOnce trial reduction is complete, the\ninsert can now be cemented in place.\n\nMethod One:\nIf using the 2199-20XX Impactor Tip –\nThread the Constrained Liner Inserter/\nImpactor Tip onto the Trident® Cup\nImpactor handle. Place the anteversion\nrod in the correct position.\nIf using the 2199-20XX Rev. C or\ngreater Impactor Tip – Thread the\nmetal adapter onto the tip. Load the tip\ninto the Insert Positioner / Impactor\nHandle.\nMount the selected Trident® All-Poly\nConstrained Insert on the inserter tip.\nMix one pack of Simplex bone cement\n\naccording to the manufacturer’s specifi-\ncations and lavage the inside of the\n\nacetabulum. Dry thoroughly prior to the\nintroduction of the bone cement. The\ncement is mixed and is inserted into the\nacetabulum in bolus form. Once it has\nachieved a doughy state, the insert,\nmounted on the inserter tip, is then\npressed gently into the cup and driven\ndeeply into the bed of cement. The angle\nguide allows assessment of proper cup\nposition, which istypically 40 to 45\ndegrees of abduction or lateral opening\nand 10 to 20 degrees of anteversion.\n\nNOTE: When determining the proper\nangulation of the insert, it is important to\ncritically evaluate the anatomic landmarks\nand patient anatomy for optimum\nplacement.\n\nIt is essential that the insert be com-\npressed into the acetabulum and the\n\ninserter held as still as possible until\ncement has hardened. After the cement\nis cured, the inserter tip is then carefully\nremoved from the insert. Take special\nmeasures to remove all excess bone\ncement from the edges of the cup\nby utilizing curettes and osteotomes.\n\nMethod Two:\nSelect a Threaded Trial Head (1205-0022\n/ 1205-0028 / 1205-0032) with the same\nouter diameter as the inner diameter of\nthe chosen constrained insert. Also,\nselect an appropriately sized Head\n\nRemoval Key (HI-UHRK-3638 / HI-\nUHRK-28 / HI-UHRK-32).\n\nWARNING: Ensure the Head Removal\nKey is available to remove the\nThreaded Trial Head before proceeding.\nAssemble the Howmedica Osteonics\nThreaded Trial Head onto the\nHowmedica Osteonics Threaded\nImpactor/Extractor Handle (2101-0004).\nOnce assembled, insert the Threaded\nTrial Head into the bipolar component\nof the constrained insert. Mix one pack\nof SimplexTM bone cement according to\nthe manufacturer’s specifications and\nlavage the inside of the cup shell. Dry\nthoroughly prior to introduction of the\nbone cement. The cement is mixed and\nis inserted into the acetabular shell in\n\nbolus form. Once it has achieved a\ndoughy state, the insert, mounted on the\nintroducer (Impactor / Extractor\n\nHandle Assembly), is then pressed gen-\ntly into the cup and driven deeply into\n\nthe bed of cement.\nNOTE: When determining the proper\nangulation of the insert, it is important\n\nto critically evaluate the anatomic land-\nmarks and patient anatomy for opti-\nmum placement.\n\nIt is essential that the insert be com-\npressed into the cup and the introducer\n\n(Impactor / Extractor Handle Assembly)\nheld as still as possible until cement has\nhardened. After the cement is cured, the\ninsert introducer (Impactor / Extractor\nHandle Assembly) is then carefully\n\nremoved from the insert with the select-\ned Head Removal Key. Take special\n\nmeasures to remove all excess bone\ncement from the edges of the cup by\nutilizing curettes and osteotomes.\nUse of the Head Removal Key\nInsert the Head Removal Key into the\ninner bearing area between the bipolar\ncomponent and the Threaded Trial\nHead of the Impactor / Extractor and\npush upward toward the UHR® head\ncenter. This spreads the locking ring\nwithin the UHR® component. With a\ngentle pulling action, remove the\nImpactor / Extractor Handle assembly\nand the key from the constrained insert\nat the same time.\n\n\nFemoral Bearing Head/Insert\nAssembly:\n\nSee page 5 for the instructions to per-\nform the final implant head assembly.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243035"
+      }
+    },
+    {
+      "page_id": "page_12",
+      "title": "Additional Required Instruments and Cases and Trays",
+      "summary": "Page 12 content",
+      "keywords": [
+        "Instruments",
+        "Part Number",
+        "Cases",
+        "Trays",
+        "Procedure"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Additional Required Instruments",
+          "description": "Table from page 12",
+          "rows": [
+            {
+              "Instrument Name": "Femoral Stem Head Impactor",
+              "Part Number": "1104-1000"
+            },
+            {
+              "Instrument Name": "Head Removal Key (22MM Inner Diameter)",
+              "Part Number": "HI-UHRK-3638"
+            },
+            {
+              "Instrument Name": "Head Removal Key (28MM Inner Diameter)",
+              "Part Number": "HI-UHRK-28"
+            },
+            {
+              "Instrument Name": "Head Removal Key (32MM Inner Diameter)",
+              "Part Number": "HI-UHRK-32"
+            },
+            {
+              "Instrument Name": "Trident® Cup Impactor",
+              "Part Number": "2101-0200"
+            },
+            {
+              "Instrument Name": "Constrained Liner Inserter/Impactor Tip",
+              "Part Number": "2199-2022"
+            },
+            {
+              "Instrument Name": "Constrained Liner Inserter/Impactor Tip",
+              "Part Number": "2199-2028"
+            },
+            {
+              "Instrument Name": "Constrained Liner Inserter/Impactor Tip",
+              "Part Number": "2199-2032"
+            },
+            {
+              "Instrument Name": "Threaded Trial Head 22mm (Pack of 3)",
+              "Part Number": "1205-0022"
+            },
+            {
+              "Instrument Name": "Threaded Trial Head 28mm (Pack of 3)",
+              "Part Number": "1205-0028"
+            },
+            {
+              "Instrument Name": "Threaded Trial Head 32mm (Pack of 3)",
+              "Part Number": "1205-0032"
+            },
+            {
+              "Instrument Name": "Threaded Impactor / Extractor Handle",
+              "Part Number": "2101-0004"
+            },
+            {
+              "Instrument Name": "Command Femoral Head Impactor",
+              "Part Number": "6266-0-140"
+            },
+            {
+              "Instrument Name": "Insert Positioner / Impactor Handle",
+              "Part Number": "2111-0000B"
+            }
+          ],
+          "metadata": {
+            "row_count": 14,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Instrument Name",
+              "Part Number"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Instrument Name",
+            "tool",
+            "device",
+            "Part Number"
+          ]
+        },
+        {
+          "table_id": "table_2",
+          "title": "Cases and Trays",
+          "description": "Table from page 12",
+          "rows": [
+            {
+              "Case/Tray Name": "Trident® 0° and All-Poly Constrained Insert Trial Tray/Case",
+              "Part Number": "2402-3020"
+            },
+            {
+              "Case/Tray Name": "Trident® 0° and All-Poly Constrained Insert Trial Lid",
+              "Part Number": "2402-3090"
+            },
+            {
+              "Case/Tray Name": "Double Tier Case",
+              "Part Number": "8000-0200"
+            },
+            {
+              "Case/Tray Name": "Single Tier Case",
+              "Part Number": "8000-0100"
+            },
+            {
+              "Case/Tray Name": "Trident® 10° Constrained Insert Trial Tray",
+              "Part Number": "2402-1100"
+            }
+          ],
+          "metadata": {
+            "row_count": 5,
+            "column_count": 2,
+            "data_types": [],
+            "searchable_columns": [
+              "Case/Tray Name",
+              "Part Number"
+            ],
+            "data_category": "product_catalog",
+            "enhanced": true
+          },
+          "keywords": [
+            "Case/Tray Name",
+            "Part Number"
+          ]
+        }
+      ],
+      "raw_content": "The system provides the option of either a Single Tier or Double Tier Case.\n\nThe Double Tier Case accommodates both the 10° Constrained Insert Trial Tray and the Eccentric Insert Trial Tray.\n\n",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243044"
+      }
+    },
+    {
+      "page_id": "page_13",
+      "title": "Indications, Contraindications and Warnings",
+      "summary": "Page 13 content",
+      "keywords": [
+        "Trident® Constrained Acetabular Insert",
+        "total hip prosthesis",
+        "indications",
+        "contraindications",
+        "warnings"
+      ],
+      "tables": [
+        {
+          "table_id": "table_1",
+          "title": "Useless",
+          "description": "Table from page 13",
+          "rows": [
+            {
+              "Content": "Useless "
+            }
+          ],
+          "metadata": {
+            "row_count": 1,
+            "column_count": 1,
+            "data_types": []
+          }
+        }
+      ],
+      "raw_content": "Description\nThe Trident® Constrained Acetabular\nInsert is comprised of two pre-assembled\ncomponents: an outer insert component\nand a captured UHR® (Universal Head)\ncomponent. The UHR® component is\ncomprised of an outer shell into which\na bearing insert has been permanently\nassembled. The UHR® bearing insert\nhas a factory assembled UHMWPE\nretention ring. The outer acetabular\ninsert has a Ti alloy retaining ring\nwhich retains the UHR® head in the\nplastic portion of the insert. With the\nexception of the Trident® All-Poly\nConstrained Inserts, the Trident®\nConstrained Acetabular Inserts are\ndesigned to be assembled with Trident®\nmetal acetabular shells. The Trident®\nAll-Poly Constrained Inserts can be\ncemented directly into a GAP Cup, GAP\nRing, Trident® metal acetabular shell,\nor directly into the acetabulum. The\nassembled acetabular component\nis used in conjunction with any\nappropriately sized Howmedica\nOsteonics stem of compatible head\nsize, to achieve total reconstructive\nreplacement of the hip joint.\n\n\n\nIndications:\n• The Trident® Constrained Acetabular\nInsert is indicated for use as a\ncomponent of a total hip prosthesis in\nprimary and revision patients at high\nrisk of hip dislocation due to a history\nof prior dislocation, bone loss, joint\nor soft tissue laxity, neuromuscular\ndisease, or intraoperative instability.\n\nContraindications:\n• Bone or musculature compromised\nby disease, infection or prior\nimplantation, which cannot provide\nadequate support or fixation for\nthe prosthesis.\n• Infection in or about the hip joint.\n• Skeletal immaturity.\n\nWarnings and Precautions:\nSee package insert for warnings,\nprecautions, adverse effects and other\nessential product information.",
+      "processing_metadata": {
+        "review_status": "approved",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243057"
+      }
+    },
+    {
+      "page_id": "page_14",
+      "title": "Useless - Page 14",
+      "summary": "Page 14 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243067"
+      }
+    },
+    {
+      "page_id": "page_15",
+      "title": "Useless - Page 15",
+      "summary": "Page 15 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243075"
+      }
+    },
+    {
+      "page_id": "page_16",
+      "title": "Useless - Page 16",
+      "summary": "Page 16 content",
+      "keywords": [
+        "useless"
+      ],
+      "tables": [],
+      "raw_content": "useless",
+      "processing_metadata": {
+        "review_status": "pending",
+        "flagged": false,
+        "last_reviewed": "2025-07-01T16:49:36.243083"
+      }
+    }
+  ]
+}
